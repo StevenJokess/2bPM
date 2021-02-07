@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    
+    <title>&lt;no title&gt; &#8212; To be AI PM 0.0.2 documentation</title>
+
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="_static/basic.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="_static/d2l.css" />
+    <link rel="stylesheet" href="_static/material-design-lite-1.3.0/material.blue-deep_orange.min.css" type="text/css" />
+    <link rel="stylesheet" href="_static/sphinx_materialdesign_theme.css" type="text/css" />
+    <link rel="stylesheet" href="_static/fontawesome/all.css" type="text/css" />
+    <link rel="stylesheet" href="_static/fonts.css" type="text/css" />
+    <script id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+    <script src="_static/jquery.js"></script>
+    <script src="_static/underscore.js"></script>
+    <script src="_static/doctools.js"></script>
+    <script src="_static/d2l.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" /> 
+  </head>
+<body>
+    <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header mdl-layout--fixed-drawer"><header class="mdl-layout__header mdl-layout__header--waterfall ">
+    <div class="mdl-layout__header-row">
+        
+        <nav class="mdl-navigation breadcrumb">
+            <a class="mdl-navigation__link is-active">&lt;no title&gt;</a>
+        </nav>
+        <div class="mdl-layout-spacer"></div>
+        <nav class="mdl-navigation">
+        
+<form class="form-inline pull-sm-right" action="search.html" method="get">
+      <div class="mdl-textfield mdl-js-textfield mdl-textfield--expandable mdl-textfield--floating-label mdl-textfield--align-right">
+        <label id="quick-search-icon" class="mdl-button mdl-js-button mdl-button--icon"  for="waterfall-exp">
+          <i class="material-icons">search</i>
+        </label>
+        <div class="mdl-textfield__expandable-holder">
+          <input class="mdl-textfield__input" type="text" name="q"  id="waterfall-exp" placeholder="Search" />
+          <input type="hidden" name="check_keywords" value="yes" />
+          <input type="hidden" name="area" value="default" />
+        </div>
+      </div>
+      <div class="mdl-tooltip" data-mdl-for="quick-search-icon">
+      Quick search
+      </div>
+</form>
+        
+<a id="button-show-source"
+    class="mdl-button mdl-js-button mdl-button--icon"
+    href="_sources/aliyun.rst.txt" rel="nofollow">
+  <i class="material-icons">code</i>
+</a>
+<div class="mdl-tooltip" data-mdl-for="button-show-source">
+Show Source
+</div>
+        </nav>
+    </div>
+    <div class="mdl-layout__header-row header-links">
+      <div class="mdl-layout-spacer"></div>
+      <nav class="mdl-navigation">
+          
+              <a  class="mdl-navigation__link" href="https://github.com/StevenJokess/2bPM">
+                  <i class="fab fa-github"></i>
+                  Github
+              </a>
+      </nav>
+    </div>
+</header><header class="mdl-layout__drawer">
+    
+          <!-- Title -->
+      <span class="mdl-layout-title">
+          <a class="title" href="index.html">
+              <span class="title-text">
+                  To be AI PM
+              </span>
+          </a>
+      </span>
+    
+    
+      <div class="globaltoc">
+        <span class="mdl-layout-title toc">Table Of Contents</span>
+        
+        
+            
+            <nav class="mdl-navigation">
+                <ul>
+<li class="toctree-l1"><a class="reference internal" href="get_started.html">Getting Started</a></li>
+</ul>
+
+            </nav>
+        
+        </div>
+    
+</header>
+        <main class="mdl-layout__content" tabIndex="0">
+
+	<script type="text/javascript" src="_static/sphinx_materialdesign_theme.js "></script>
+    <header class="mdl-layout__drawer">
+    
+          <!-- Title -->
+      <span class="mdl-layout-title">
+          <a class="title" href="index.html">
+              <span class="title-text">
+                  To be AI PM
+              </span>
+          </a>
+      </span>
+    
+    
+      <div class="globaltoc">
+        <span class="mdl-layout-title toc">Table Of Contents</span>
+        
+        
+            
+            <nav class="mdl-navigation">
+                <ul>
+<li class="toctree-l1"><a class="reference internal" href="get_started.html">Getting Started</a></li>
+</ul>
+
+            </nav>
+        
+        </div>
+    
+</header>
+
+    <div class="document">
+        <div class="page-content" role="main">
+        
+  <!--
+ * @version:
+ * @Author:  StevenJokess https://github.com/StevenJokess
+ * @Date: 2020-12-06 22:53:32
+ * @LastEditors:  StevenJokess https://github.com/StevenJokess
+ * @LastEditTime: 2020-12-06 23:23:56
+ * @Description:
+ * @TODO::
+ * @Reference:https://help.aliyun.com/document_detail/143096.html?spm=a2c4g.11186623.6.548.1a4a53cblCY4Zg
+ * https://developer.aliyun.com/article/778839?spm=a2c6h.12873581.0.dArticle778839.5de439932BzTaX&groupCode=viapi
+ * https://help.aliyun.com/document_detail/182962.html?spm=a211p3.14020179.J_7524944390.13.738f4b58g1fD6Y
+--><p>阿里云视觉智能开放平台商业化提供了预付费QPS、后付费、预付费资源包、按量付费四种收费模式。
+预付费QPS能力：人脸比对1:1、人脸检测定位、通用分割、商品分割、人体分割、人体检测、人体高清分割（即将发布）。
+预付费资源包能力：物体检测（即将发布）、人体高清分割（即将发布）。
+按量付费能力：物体检测（即将发布）、人体高清分割（即将发布）。
+后付费能力：新冠病毒肺炎辅助诊断。 平台其他能力处于公测期可免费调用。</p>
+<p>离线SDK介绍
+阿里云视觉智能开放平台的离线SDK可以为终端设备提供AI能力，目前支持提供OCR、美颜、分割等常用AI能力的离线SDK。阿里云视觉智能开放平台通过license授权方式管理离线SDK。</p>
+<p>离线SDK能力需求申请
+如果您有业务场景需要使用阿里云视觉智能开放平台的离线SDK，请提交申请，我们将会尽快与您联系。</p>
+<p>准备工作
+在安装和使用阿里云SDK前，确保您已经注册阿里云账号并生成访问密钥（AccessKey）。详情请参见创建AccessKey。
+安装Python SDK核心库。 说明
+该SDK包为阿里云Java核心库，无论使用哪个产品的SDK，都必须先安装该核心库。
+使用依赖包工具安装（推荐）。 执行如下命令，安装阿里云SDK核心库。 pip
+install aliyun-python-sdk-core 自行下载安装：使用git
+clone或其它方式从GitHub下载aliyun-python-sdk-core并自行添加解决方案。
+安装视觉智能API相关服务Python SDK。 使用依赖包工具安装（推荐）。
+执行以下命令，安装需要的SDK包。 说明 仅安装所需要的SDK包即可。
+人脸人体：pip install aliyun-python-sdk-facebody 文字识别：pip install
+aliyun-python-sdk-ocr 商品理解：pip install aliyun-python-sdk-goodstech
+内容安全：pip install aliyun-python-sdk-imageaudit 图像识别：pip install
+aliyun-python-sdk-imagerecog 图像生产：pip install
+aliyun-python-sdk-imageenhan 分割抠图：pip install
+aliyun-python-sdk-imageseg 目标检测：pip install
+aliyun-python-sdk-objectdet 图像分析处理：pip install
+aliyun-python-sdk-imageprocess 视觉搜索：pip install
+aliyun-python-sdk-imgsearch 视频理解：pip install
+aliyun-python-sdk-videorecog 视频生产：pip install
+aliyun-python-sdk-videoenhan 视频分割：pip install
+aliyun-python-sdk-videoseg 自行下载安装：使用git
+clone或其它方式下载SDK包并自行添加解决方案。详细下载地址如下所示。
+AI类目 SDK链接 pypi链接 人脸人体 aliyun-python-sdk-facebody
+aliyun-python-sdk-facebody 文字识别 aliyun-python-sdk-ocr
+aliyun-python-sdk-ocr 商品理解 aliyun-python-sdk-goodstech
+aliyun-python-sdk-goodstech 内容安全 aliyun-python-sdk-imageaudit
+aliyun-python-sdk-imageaudit 图像识别 aliyun-python-sdk-imagerecog
+aliyun-python-sdk-imagerecog 图像生产 aliyun-python-sdk-imageenhan
+aliyun-python-sdk-imageenhan 分割抠图 aliyun-python-sdk-imageseg
+aliyun-python-sdk-imageseg 目标检测 aliyun-python-sdk-objectdet
+aliyun-python-sdk-objectdet 视觉搜索 aliyun-python-sdk-imgsearch
+aliyun-python-sdk-imgsearch 图像分析处理 aliyun-python-sdk-imageprocess
+aliyun-python-sdk-imageprocess 视频生产 aliyun-python-sdk-videoenhan
+aliyun-python-sdk-videoenhan 视频理解 aliyun-python-sdk-videorecog
+aliyun-python-sdk-videorecog 视频分割 aliyun-python-sdk-videoseg
+aliyun-python-sdk-videoseg</p>
+
+
+        </div>
+        <div class="side-doc-outline">
+            <div class="side-doc-outline--content"> 
+            </div>
+        </div>
+
+      <div class="clearer"></div>
+    </div><div class="pagenation">
+  </div>
+        
+        </main>
+    </div>
+  </body>
+</html>
