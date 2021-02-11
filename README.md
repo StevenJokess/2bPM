@@ -10,6 +10,9 @@ docker run --rm --name 2bPM -e HTTP_PROXY=127.0.0.1:1080 -ditv /d/onedrive/Docum
 d2lbook2 build html
 d2lbook2 deploy html
 
-## TODO
+## 声明
+
+全部只作为自我求职路上的学习成果展示，如果侵权请联系。
 
 
+TODO
