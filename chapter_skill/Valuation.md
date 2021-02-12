@@ -1,5 +1,8 @@
 # 估值
 
+## 尽职调查
+
+上裁判文书网、执行信息网、信用中国扒个涉诉涉执行情况
 
 ## 上市[1]
 
@@ -20,6 +23,13 @@
 
 现在绝大部分技术型的、平台型的公司还是一To B的场景，但投资机构却把它们当作To C的公司来投。这样的公司，后续还需要多轮的融资支持成长。如果天使轮一下子把估值做到1亿，那A轮总得3亿，做到F轮怎么办？
 
-##
+## Labby Inc[2]
+
+Labby Inc, an early-stage startup specializing in AI-enabled optical sensing solutions for raw milk testing, today announced it has raised $480,000 in seed funding. AgriTech Capital, a strategy and investment firm specializing in innovation and technology in the agribusiness sector.
+
+
+
+The global dairy farming industry loses $32 billion annually due to mastitis infections. At a minimum, twenty-five percent of cows each year are impacted regardless of how well managed a farm is. Farmers lack a way to quickly and easily identify mastitis at an early stage so they can take preventative measures to reduce the impact on yields.  With Labby’s solution, farmers and dairy processors finally have a way to quickly and easily test raw milk gaining visibility into animal health, milk quality, and feed efficiency, enabling them to optimize their operations.
 
 [1]: https://www.bilibili.com/video/av21295743/
+[2]: https://www.labbyinc.com/labbys-ai-enabled-optical-sensing-technology-secures-usd-480-000-seed-investment

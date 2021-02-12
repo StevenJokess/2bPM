@@ -32,6 +32,17 @@
 
 所以不论是承担项目研发，技术负责，产品负责还是自己创业，有商业思维的人，总会比没有的人看问题深一层，跟他们聊天往往能感受到犀利，不同于纯技术思维的那种“愣”劲儿。
 
+## 阿里云视觉智能开放平台[4][5][6]
+
+商业化提供了预付费QPS、后付费、预付费资源包、按量付费四种收费模式。
+
+离线SDK介绍：阿里云视觉智能开放平台的离线SDK可以为终端设备提供AI能力，目前支持提供OCR、美颜、分割等常用AI能力的离线SDK。阿里云视觉智能开放平台通过license授权方式管理离线SDK。
+
+准备工作：在安装和使用阿里云SDK前，确保您已经注册阿里云账号并生成访问密钥（AccessKey）。详情请参见创建AccessKey。
+
 [1]: http://www.woshipm.com/pmd/2180363.html
 [2]: https://www.zhihu.com/question/21472586s
 [3]: [学习深度学习如何避免成为程序员？ - 朱里的回答 - 知乎](https://www.zhihu.com/question/348474416/answer/841775222)
+[4]: https://help.aliyun.com/document_detail/143096.html?spm=a2c4g.11186623.6.548.1a4a53cblCY4Zg
+[5]: https://developer.aliyun.com/article/778839?spm=a2c6h.12873581.0.dArticle778839.5de439932BzTaX&groupCode=viapi
+[6]: https://help.aliyun.com/document_detail/182962.html?spm=a211p3.14020179.J_7524944390.13.738f4b58g1fD6Y
