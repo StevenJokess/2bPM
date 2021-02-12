@@ -2,6 +2,8 @@
 
 学习如何成为AI产品经理并总结生成书
 
+https://stevenjokess.github.io/2bPM/
+
 ## Docker里d2lbook2生成书
 
 
