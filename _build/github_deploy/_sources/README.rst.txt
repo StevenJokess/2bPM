@@ -1,15 +1,24 @@
 
-d2cl
+2bPM
 ====
 
-Dive into cheap deep learning.
+学习如何成为AI产品经理并总结生成书
 
-专注于让深度学习更划算更便宜！
+https://stevenjokess.github.io/2bPM/
 
-From your IQ, your devices, and your resource.
+Docker里d2lbook2生成书
+----------------------
 
-从学习智力上、装备上、资源上。
+docker run –rm –name 2bPM -e HTTP_PROXY=127.0.0.1:1080 -ditv
+/d/onedrive/Documents/read/2bPM:/d2lbook2/2bPM
+registry.cn-shanghai.aliyuncs.com/csq-dl/d2l-book2:github
+/bin/bash;docker exec -it 2bPM /bin/bash
 
-Published at https://aieye-top.github.io/d2cl/.
+d2lbook2 build html d2lbook2 deploy html
 
-发布在https://aieye-top.github.io/d2cl/.
+声明
+----
+
+全部只作为自我求职路上的学习成果展示，如果侵权请联系。
+
+TODO
