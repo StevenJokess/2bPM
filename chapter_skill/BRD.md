@@ -6,6 +6,12 @@ BRD指的是商业需求文档（Business Requirement Document）。在这篇的
 
 这篇文档常以PPT等形式，以数据说服领导和同事，帮产品的立项，来获得公司资源支持。
 
+## 产品目的[2]
+
+提出一个清晰、简明的价值主张，让它很容易被接受，要让产品团队、管理人员、用户、市场人员清楚的明白这个产品到底是什么意图。
+
+考虑“velevator pitch ”(电梯间演讲、电梯行销)测试。
+
 ## 一个中心
 
 收益！来生存
@@ -22,3 +28,4 @@ BRD指的是商业需求文档（Business Requirement Document）。在这篇的
 8. 其他。
 
 [1]: http://www.woshipm.com/pmd/178527.html
+[2]: http://www.woshipm.com/pmd/21446.html
