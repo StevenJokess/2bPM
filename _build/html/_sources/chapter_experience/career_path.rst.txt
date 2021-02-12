@@ -40,8 +40,10 @@
 这个层次需要的是资源整合能力、管理能力以及对商业的精准判断。
 
 .. figure:: ../img/path.jpg
+   :width: 400px
 
    path
+
 
 [1]: `产品经理的职业发展路径是怎样的？ - 小鹿的回答 -
 知乎 <https://www.zhihu.com/question/31636227/answer/1672926904>`__
