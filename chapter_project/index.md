@@ -5,6 +5,7 @@
 :maxdepth: 2
 
 AI_industry_analysis
+AI_company
 process
 flow_chart
 inspect

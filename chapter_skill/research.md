@@ -66,6 +66,8 @@ metacademy看作一副机器学习和人工智能的知识图谱，在上面搜�
 
 输入关键词就能找到对应的学者： https://www.aminer.cn/
 
+https://www.aminer.cn/ai2000/country/China
+
 ### 论文
 
 https://openreview.net/
@@ -100,6 +102,10 @@ Browse State-of-the-Art: https://paperswithcode.com/sota
 LaTex如果所有公式都要自己手打还是很痛苦的。（虽然很多时候一篇Deep Learning方向的paper公式数量只有十个左右（这还是在强行加上LSTM等被翻来覆去写烂的公式的情况下））
 
 http://deepdive.nn.157239n.com/
+
+## 报告
+
+http://www.zft-park.com.cn/index.php?m=Article&a=show&id=384
 
 [1]: https://www.jiqizhixin.com/articles/2020-10-09-5
 [2]: https://cloud.tencent.com/developer/article/1473703
