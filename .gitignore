@@ -1,1 +1,2 @@
-/_build/*
+/_build/**
+# git rm -rf --cached .
