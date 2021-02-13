@@ -14,12 +14,11 @@ docker run –rm –name 2bPM -e HTTP_PROXY=127.0.0.1:1080 -ditv
 registry.cn-shanghai.aliyuncs.com/csq-dl/d2l-book2:github
 /bin/bash;docker exec -it 2bPM /bin/bash
 
-cd 2bPM d2lbook2 build html d2lbook2 deploy html
+d2lbook2 build html d2lbook2 deploy html
 
 声明
 ----
 
 全部只作为自我求职路上的学习成果展示，如果侵权请联系。
-不为抄袭而自豪，只是如果不知道历史，我们的原创都是浅薄、无意义的。
 
 TODO
