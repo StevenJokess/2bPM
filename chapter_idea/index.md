@@ -11,6 +11,7 @@ decompose
 convert
 business
 critical
+goal
 
 
 ```
