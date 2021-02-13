@@ -11,8 +11,13 @@ skill
    BRD
    MRD
    PRD
-   users_analsis
+   users_analysis
+   industry_analysis
    compete_analysis
    goods_analysis
+   need_order
    prototype_design
+   TFD
+   resource_manage
    research
+   Valuation

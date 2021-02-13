@@ -15,3 +15,4 @@ Introduction
    AI
    AI_PM
    ability
+   pain_point

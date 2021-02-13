@@ -1,15 +1,4 @@
-
-
-<!--
- * @version:
- * @Author:  StevenJokess https://github.com/StevenJokess
- * @Date: 2020-11-27 22:45:14
- * @LastEditors:  StevenJokess https://github.com/StevenJokess
- * @LastEditTime: 2020-11-27 22:54:56
- * @Description:
- * @TODO::
- * @Reference:https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650760180&idx=1&sn=27398d16c2ea56ef6873499993c6d0c3&chksm=871aa78ab06d2e9c5660df67906607abd325efbeddd638e6664bcb0dbb0964541b4249746300&scene=21#wechat_redirect
--->
+# 工作
 
 多申请了几家：如果手里没有颇具竞争力的 offer，你在薪资谈判中就会处于严重的劣势。面试练习也的确给了我很大的帮助。
 
@@ -60,3 +49,5 @@ Depth方面：
 如果candidate无DL项目经验，我会从一个基础的问题开始和candidate聊，一般这个candidate会有意无意地显示出自己比较擅长的方面，然后我会在这方面问越来越深的问题，判断candidate在最擅长的方面能达到什么水平。假设这个方面与深度学习有关，我一般再深挖的问题无非与方法细节、数学分析、实现细节有关，这些书里都涉及了。
 
 现在工业界用深度学习比较普遍，所以大部分机器学习工作都直接要求深度学习背景了。比如prebrief的时候很多hiring manager会明确告诉我机器学习breadth/depth只需要关注candidate在深度学习方面的水平。但如果一个职位强调传统机器学习方法的话，我觉得在本书基础上可以根据职位需求多准备一些传统机器学习的基础知识。
+
+[1]: https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650760180&idx=1&sn=27398d16c2ea56ef6873499993c6d0c3&chksm=871aa78ab06d2e9c5660df67906607abd325efbeddd638e6664bcb0dbb0964541b4249746300&scene=21#wechat_redirect

@@ -6,6 +6,7 @@
 
 AI_industry_analysis
 AI_company
+AI_Finance
 process
 flow_chart
 inspect

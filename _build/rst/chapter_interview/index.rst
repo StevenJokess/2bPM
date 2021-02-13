@@ -12,3 +12,5 @@ Interview
    HR
    new_like
    question
+   not_go
+   offer

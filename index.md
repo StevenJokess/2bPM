@@ -14,6 +14,7 @@ get_started
 :numbered:
 
 chapter_introduction/index
+chapter_idea/index
 chapter_skill/index
 chapter_experience/index
 chapter_project/index

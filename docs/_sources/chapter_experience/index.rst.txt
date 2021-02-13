@@ -14,6 +14,7 @@ experience
    Jamin
    taobao
    tencent
+   ant_jiebei
    diudiu
    dingding
    4years
