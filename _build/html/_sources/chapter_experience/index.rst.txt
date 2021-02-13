@@ -19,3 +19,4 @@ experience
    dingding
    4years
    jubensha
+   fail

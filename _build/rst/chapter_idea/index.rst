@@ -15,3 +15,4 @@ Idea
    convert
    business
    critical
+   goal
