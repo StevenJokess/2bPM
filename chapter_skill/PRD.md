@@ -79,6 +79,9 @@ Example: http://www.woshipm.com/pd/4167090.html
 记住PRD是一个“活”的文件，在要跟踪记录在产品开发期间的所有功能过程。最后你会发现很多额外的东西，如果你认为是必要的就在PRD中写进。
 
 
+confluence：这个不多说了，非常好用的一款产品PRD在线编辑软件。[4]
+
 [1]: http://www.woshipm.com/pmd/3319375.html
 [2]: http://www.woshipm.com/pmd/3516749.html
 [3]: http://www.woshipm.com/pmd/21446.html
+[4]: http://www.woshipm.com/pmd/913343.html

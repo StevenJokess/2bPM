@@ -1,6 +1,15 @@
 # PM
 
+产品经理是“将不同语言的公司的所有各种功能和角色结合在一起的粘合剂” – Ken Norton，GV[7]
+
+产品经理的价值是创造一款满足产品-市场匹配（Product-market fit，PMF）「在一个好的市场里，能用一个产品去满足这个市场」的产品[9]
+
 传统产品经理泛指传统互联网产品经理，区别于宝洁（产品经理这个职能的开创者）时期的实体工业产品经理，互联网产品经理标准化是在移动互联网的商业模式成型过程中，也就是2010s这个时期，在这个时期随着移动互联网的发展，各个公司特别是BAT为代表的巨头公司细化了产品经理所需要具备的能力模型，并且基于这个能力模型去对产品人员进行量化考核[1]
+
+## 不是人人都是PM
+
+对产品经理有洁癖的腾讯，把12级（原P4-1）以下的产品从业者都改名叫什么产品策划、产品运营，只有综合能力达标的那一小撮人，才配继续叫产品经理。[8]
+
 
 ## 能力要求
 
@@ -167,8 +176,11 @@ UI设计完成后，就开始转入前端工作。对于前端而言，会更加
 https://www.yuque.com/books/share/2325abf6-ed56-4941-bf99-94edeb122076?#%20%E3%80%8A%E4%BA%A7%E5%93%81API:%E8%BF%9B%E9%98%B6%E5%85%A8%E6%A0%88PM%E6%89%8B%E5%86%8C%E3%80%8B
 
 [1]: https://www.jianshu.com/p/fd466ed1bda6
-[2]: [算法岗诸神黄昏，算法初级职位内卷，如何选择适合自己的方向? - 吉恒杉的回答 - 知乎](https://www.zhihu.com/question/343743405/answer/1237754321s)
+[2]: https://www.zhihu.com/question/343743405/answer/1237754321s
 [3]: http://www.woshipm.com/pmd/3945349.html
 [4]: http://www.woshipm.com/pmd/1629952.html
-[5]: [产品经理的职业发展路径是怎样的？ - 起点学院的回答 - 知乎](https://www.zhihu.com/question/31636227/answer/1251352264)
-[6]: [程序员如何应对诸如「给我弄个网站吧」的请求？ - 安晓辉的回答 - 知乎](https://www.zhihu.com/question/36913495/answer/252737063)
+[5]: https://www.zhihu.com/question/31636227/answer/1251352264
+[6]: https://www.zhihu.com/question/36913495/answer/252737063
+[7]: https://easyai.tech/author/xiaoqiang/page/5/
+[8]: https://m.k.sohu.com/d/495625828?channelId=1&page=1
+[9]: http://www.ramywu.com/work/2018/05/31/AI-PM-Interview/
