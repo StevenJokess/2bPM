@@ -8,6 +8,8 @@ need
 Product
 money
 PM
+2B
+2C
 AI
 AI_PM
 ability

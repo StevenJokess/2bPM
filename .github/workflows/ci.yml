@@ -1,0 +1,26 @@
+name: ci
+on:
+  push:
+    branches:
+      - master
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+      - run: docker pull stevenjokes/d2l-book2:latest
+      - run: docker run --rm --name 2bPM -ditv :/d2lbook2/2bPM stevenjokes/d2l-book2:latest  /bin/bash
+      - run: docker exec -it 2bPM /bin/bash
+      - run: cd 2bPM
+      - run: d2lbook2 build html
+      # - name: Git login
+      #   env:
+      #     GITHUB_USER: ${{secrets.GITHUB_USER}}
+      #     GITHUB_EMAIL: ${{secrets.GITHUB_EMAIL}}
+      #   run: |
+      #     git config --global user.name GIT_USER
+      #     git config --global user.email GIT_EMAIL
+      # - run: d2lbook2 deploy html

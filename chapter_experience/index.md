@@ -5,6 +5,7 @@
 :maxdepth: 2
 
 career_path
+1Day
 issue
 hema
 Jamin
