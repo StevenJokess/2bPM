@@ -12,7 +12,7 @@ jobs:
         with:
           python-version: 3.x
       - run: docker pull stevenjokes/d2l-book2:latest
-      - run: docker run --rm --name 2bPM -ditv :/d2lbook2/2bPM stevenjokes/d2l-book2:latest  /bin/bash
+      - run: docker run --rm --name 2bPM -ditv $PWD:/d2lbook2/2bPM stevenjokes/d2l-book2:latest  /bin/bash
       - run: docker exec -it 2bPM /bin/bash
       - run: cd 2bPM
       - run: d2lbook2 build html
