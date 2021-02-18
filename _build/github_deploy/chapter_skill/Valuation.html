@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    
+    <title>3.13. 估值 &#8212; To be AI PM 0.0.2 documentation</title>
+
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/basic.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../_static/d2l.css" />
+    <link rel="stylesheet" href="../_static/material-design-lite-1.3.0/material.blue-deep_orange.min.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/sphinx_materialdesign_theme.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/fontawesome/all.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/fonts.css" type="text/css" />
+    <script id="documentation_options" data-url_root="../" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/d2l.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="4. experience" href="../chapter_experience/index.html" />
+    <link rel="prev" title="3.12. Research" href="research.html" /> 
+  </head>
+<body>
+    <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header mdl-layout--fixed-drawer"><header class="mdl-layout__header mdl-layout__header--waterfall ">
+    <div class="mdl-layout__header-row">
+        
+        <nav class="mdl-navigation breadcrumb">
+            <a class="mdl-navigation__link" href="index.html"><span class="section-number">3. </span>skill</a><i class="material-icons">navigate_next</i>
+            <a class="mdl-navigation__link is-active"><span class="section-number">3.13. </span>估值</a>
+        </nav>
+        <div class="mdl-layout-spacer"></div>
+        <nav class="mdl-navigation">
+        
+<form class="form-inline pull-sm-right" action="../search.html" method="get">
+      <div class="mdl-textfield mdl-js-textfield mdl-textfield--expandable mdl-textfield--floating-label mdl-textfield--align-right">
+        <label id="quick-search-icon" class="mdl-button mdl-js-button mdl-button--icon"  for="waterfall-exp">
+          <i class="material-icons">search</i>
+        </label>
+        <div class="mdl-textfield__expandable-holder">
+          <input class="mdl-textfield__input" type="text" name="q"  id="waterfall-exp" placeholder="Search" />
+          <input type="hidden" name="check_keywords" value="yes" />
+          <input type="hidden" name="area" value="default" />
+        </div>
+      </div>
+      <div class="mdl-tooltip" data-mdl-for="quick-search-icon">
+      Quick search
+      </div>
+</form>
+        
+<a id="button-show-source"
+    class="mdl-button mdl-js-button mdl-button--icon"
+    href="../_sources/chapter_skill/Valuation.rst.txt" rel="nofollow">
+  <i class="material-icons">code</i>
+</a>
+<div class="mdl-tooltip" data-mdl-for="button-show-source">
+Show Source
+</div>
+        </nav>
+    </div>
+    <div class="mdl-layout__header-row header-links">
+      <div class="mdl-layout-spacer"></div>
+      <nav class="mdl-navigation">
+          
+              <a  class="mdl-navigation__link" href="https://github.com/StevenJokess/2bPM">
+                  <i class="fab fa-github"></i>
+                  Github
+              </a>
+      </nav>
+    </div>
+</header><header class="mdl-layout__drawer">
+    
+          <!-- Title -->
+      <span class="mdl-layout-title">
+          <a class="title" href="../index.html">
+              <span class="title-text">
+                  To be AI PM
+              </span>
+          </a>
+      </span>
+    
+    
+      <div class="globaltoc">
+        <span class="mdl-layout-title toc">Table Of Contents</span>
+        
+        
+            
+            <nav class="mdl-navigation">
+                <ul>
+<li class="toctree-l1"><a class="reference internal" href="../get_started.html">Getting Started</a></li>
+</ul>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../chapter_introduction/index.html">1. Introduction</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_introduction/need.html">1.1. 需求</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_introduction/Product.html">1.2. 产品</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_introduction/money.html">1.3. 赚钱</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_introduction/PM.html">1.4. PM</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_introduction/AI.html">1.5. AI</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_introduction/AI_PM.html">1.6. AI产品经理</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_introduction/ability.html">1.7. AI产品经理的完整能力矩阵1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_introduction/pain_point.html">1.8. 痛点</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../chapter_idea/index.html">2. Idea</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_idea/idea.html">2.1. 思维</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_idea/data.html">2.2. 数据分析1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_idea/negotiation.html">2.3. 谈判</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_idea/decompose.html">2.4. 费米推理</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_idea/convert.html">2.5. 转换成本1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_idea/business.html">2.6. 商业思维</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_idea/critical.html">2.7. 批判性思维1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_idea/goal.html">2.8. Goal</a></li>
+</ul>
+</li>
+<li class="toctree-l1 current"><a class="reference internal" href="index.html">3. skill</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="BRD.html">3.1. BRD1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="MRD.html">3.2. MRD1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="PRD.html">3.3. PRD</a></li>
+<li class="toctree-l2"><a class="reference internal" href="users_analysis.html">3.4. 用户洞察实操指南1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="industry_analysis.html">3.5. 行业分析</a></li>
+<li class="toctree-l2"><a class="reference internal" href="compete_analysis.html">3.6. 竞争分析</a></li>
+<li class="toctree-l2"><a class="reference internal" href="goods_analysis.html">3.7. 竞品分析1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="need_order.html">3.8. 需求排序1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="prototype_design.html">3.9. 原型设计</a></li>
+<li class="toctree-l2"><a class="reference internal" href="TFD.html">3.10. TFD</a></li>
+<li class="toctree-l2"><a class="reference internal" href="resource_manage.html">3.11. 资源管理</a></li>
+<li class="toctree-l2"><a class="reference internal" href="research.html">3.12. Research</a></li>
+<li class="toctree-l2 current"><a class="current reference internal" href="#">3.13. 估值</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../chapter_experience/index.html">4. experience</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/career_path.html">4.1. 职业发展路径</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/issue.html">4.2. 行业巨变</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/hema.html">4.3. 盒马鲜生</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/Jamin.html">4.4. Jamin</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/taobao.html">4.5. taobao</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/tencent.html">4.6. tencent</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/ant_jiebei.html">4.7. 蚂蚁借呗的金融产品解析</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/diudiu.html">4.8. diudiu</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/dingding.html">4.9. 钉钉</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/4years.html">4.10. 4年产品工作总结</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/jubensha.html">4.11. 剧本杀</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/fail.html">4.12. 失败</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../chapter_project/index.html">5. project</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/AI_industry_analysis.html">5.1. AI行业分析1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/AI_company.html">5.2. AI公司</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/AI_Finance.html">5.3. AI 金融</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/process.html">5.4. 产品整个流程1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/flow_chart.html">5.5. 流程图1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/inspect.html">5.6. 原型检验1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/product_document.html">5.7. 产品文档</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/Roadmap.html">5.8. Roadmap1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/Scrum.html">5.9. Scrum1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/separate_need.html">5.10. 需求价值的分析方法</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/valuable.html">5.11. 使伪需求变得更值钱[1s]</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/widespread.html">5.12. 推广产品的必由之路：运营思维的运用</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../chapter_interview/index.html">6. Interview</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_interview/CV.html">6.1. CV</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_interview/HR.html">6.2. HR</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_interview/new_like.html">6.3. 令人喜爱的新人1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_interview/question.html">6.4. 常见问题</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_interview/not_go.html">6.5. 不能去</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_interview/offer.html">6.6. 工作</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../chapter_dive/index.html">7. Dive</a></li>
+</ul>
+
+            </nav>
+        
+        </div>
+    
+</header>
+        <main class="mdl-layout__content" tabIndex="0">
+
+	<script type="text/javascript" src="../_static/sphinx_materialdesign_theme.js "></script>
+    <header class="mdl-layout__drawer">
+    
+          <!-- Title -->
+      <span class="mdl-layout-title">
+          <a class="title" href="../index.html">
+              <span class="title-text">
+                  To be AI PM
+              </span>
+          </a>
+      </span>
+    
+    
+      <div class="globaltoc">
+        <span class="mdl-layout-title toc">Table Of Contents</span>
+        
+        
+            
+            <nav class="mdl-navigation">
+                <ul>
+<li class="toctree-l1"><a class="reference internal" href="../get_started.html">Getting Started</a></li>
+</ul>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../chapter_introduction/index.html">1. Introduction</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_introduction/need.html">1.1. 需求</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_introduction/Product.html">1.2. 产品</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_introduction/money.html">1.3. 赚钱</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_introduction/PM.html">1.4. PM</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_introduction/AI.html">1.5. AI</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_introduction/AI_PM.html">1.6. AI产品经理</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_introduction/ability.html">1.7. AI产品经理的完整能力矩阵1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_introduction/pain_point.html">1.8. 痛点</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../chapter_idea/index.html">2. Idea</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_idea/idea.html">2.1. 思维</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_idea/data.html">2.2. 数据分析1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_idea/negotiation.html">2.3. 谈判</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_idea/decompose.html">2.4. 费米推理</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_idea/convert.html">2.5. 转换成本1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_idea/business.html">2.6. 商业思维</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_idea/critical.html">2.7. 批判性思维1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_idea/goal.html">2.8. Goal</a></li>
+</ul>
+</li>
+<li class="toctree-l1 current"><a class="reference internal" href="index.html">3. skill</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="BRD.html">3.1. BRD1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="MRD.html">3.2. MRD1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="PRD.html">3.3. PRD</a></li>
+<li class="toctree-l2"><a class="reference internal" href="users_analysis.html">3.4. 用户洞察实操指南1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="industry_analysis.html">3.5. 行业分析</a></li>
+<li class="toctree-l2"><a class="reference internal" href="compete_analysis.html">3.6. 竞争分析</a></li>
+<li class="toctree-l2"><a class="reference internal" href="goods_analysis.html">3.7. 竞品分析1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="need_order.html">3.8. 需求排序1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="prototype_design.html">3.9. 原型设计</a></li>
+<li class="toctree-l2"><a class="reference internal" href="TFD.html">3.10. TFD</a></li>
+<li class="toctree-l2"><a class="reference internal" href="resource_manage.html">3.11. 资源管理</a></li>
+<li class="toctree-l2"><a class="reference internal" href="research.html">3.12. Research</a></li>
+<li class="toctree-l2 current"><a class="current reference internal" href="#">3.13. 估值</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../chapter_experience/index.html">4. experience</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/career_path.html">4.1. 职业发展路径</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/issue.html">4.2. 行业巨变</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/hema.html">4.3. 盒马鲜生</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/Jamin.html">4.4. Jamin</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/taobao.html">4.5. taobao</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/tencent.html">4.6. tencent</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/ant_jiebei.html">4.7. 蚂蚁借呗的金融产品解析</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/diudiu.html">4.8. diudiu</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/dingding.html">4.9. 钉钉</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/4years.html">4.10. 4年产品工作总结</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/jubensha.html">4.11. 剧本杀</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/fail.html">4.12. 失败</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../chapter_project/index.html">5. project</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/AI_industry_analysis.html">5.1. AI行业分析1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/AI_company.html">5.2. AI公司</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/AI_Finance.html">5.3. AI 金融</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/process.html">5.4. 产品整个流程1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/flow_chart.html">5.5. 流程图1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/inspect.html">5.6. 原型检验1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/product_document.html">5.7. 产品文档</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/Roadmap.html">5.8. Roadmap1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/Scrum.html">5.9. Scrum1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/separate_need.html">5.10. 需求价值的分析方法</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/valuable.html">5.11. 使伪需求变得更值钱[1s]</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/widespread.html">5.12. 推广产品的必由之路：运营思维的运用</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../chapter_interview/index.html">6. Interview</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_interview/CV.html">6.1. CV</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_interview/HR.html">6.2. HR</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_interview/new_like.html">6.3. 令人喜爱的新人1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_interview/question.html">6.4. 常见问题</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_interview/not_go.html">6.5. 不能去</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_interview/offer.html">6.6. 工作</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../chapter_dive/index.html">7. Dive</a></li>
+</ul>
+
+            </nav>
+        
+        </div>
+    
+</header>
+
+    <div class="document">
+        <div class="page-content" role="main">
+        
+  <div class="section" id="id1">
+<h1><span class="section-number">3.13. </span>估值<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="id2">
+<h2><span class="section-number">3.13.1. </span>尽职调查<a class="headerlink" href="#id2" title="Permalink to this headline">¶</a></h2>
+<p>上裁判文书网、执行信息网、信用中国扒个涉诉涉执行情况</p>
+</div>
+<div class="section" id="id3">
+<h2><span class="section-number">3.13.2. </span>上市<a class="reference external" href="https://www.bilibili.com/video/av21295743/">1</a><a class="headerlink" href="#id3" title="Permalink to this headline">¶</a></h2>
+<p>问：中国大型的互联网公司为什么纷纷跑到海外上市呢？下面请中国法学理事会理事李可书博士为大家解答一下境内外上市的区别在哪里。</p>
+<p>　　李可书：我们注意到中国大型的互联网公司，往往选择赴海外上市，而且美国上市是优选的，这是一个目前很常见的现象。
+　　那么，我们再看为什么，比如说阿里，它为什么选择在美国上市，这是一个我们需要去思索的点，首先我想分析一下它为什么选择在美国上市的原因。第一个原因，是因为在A股上市准入门槛比较高，规定的条件比较多，这种条件因为阿里满足不了，首先第一个条件，我国的《证券法》和《公司法》规定的非常明确，在A股上市的公司必须是依照法律规定，在中国境内设立的股份有限公司。而阿里巴巴呢，是注册在海外的，它这种外资的身份，使得它不满足A股上市的要求，这是第一个原因，因为A股要求必须注册在国内的企业。
+　　第二个要求，它也满足不了，是什么呢？关于A股上市的发行对象的要求，对于A股的上市来说，要求将股东的人数控制在200人，大家知道阿里之前大量的通过职工持股，收了自己员工大量的股票，如果需要将股东人数进行压缩的话，那么需要大量清理职工持股，这也是阿里不希望做到的。所以呢，基于这两点法律的要求，阿里很难去完全满足，这是第一个阿里当时考虑在美国上市的原因之一。
+　　第二个原因，是因为审核的时间，因为在国内上市呢，我们国内目前审核制，注册制没有正式实行之前一直是审核制，审核制决定了我们的审核是需要时间的，正常是两到三年，这个时间对于大量的互联网公司，包括阿里在内的大量互联网公司他们觉得时间太长，耗不起这个时间，而在国外呢，比如在美国上市，实际上是非常快的，一般来讲是半年左右就完成上市。所以从时间上考虑，在美国上市，这种境外上市，比在A股上市来说有一定的吸引力。这个是阿里当时选择在美国上市的第二个原因。
+　　第三个原因，是关于A股对于公司的盈利有明确的财务指标的要求，包括阿里在内的京东也一样，大家知道京东前几年一直没有盈利，所以它无法满足A股上市的要求，这是第三个原因。
+　　所以基于这些原因，导致包括阿里、京东这些大量的互联网公司选择在境外上市，当然未来他们是否选择回归，这可能是未来我们需要考虑的点，在我国的这种A股市场的制度进行变更之后。</p>
+</div>
+<div class="section" id="id4">
+<h2><span class="section-number">3.13.3. </span>商汤科技<a class="headerlink" href="#id4" title="Permalink to this headline">¶</a></h2>
+<p>成立于2014年的商汤科技，仅仅3年时间估值就暴涨到20亿美金。2017年7月，商汤科技宣布完成4.1亿美元B轮融资，创下当时全球人工智能领域单轮融资额记录。</p>
+<p>2018年4月，商汤科技完成阿里巴巴集团领投的6亿美元C轮融资，再次创下全球人工智能领域融资记录；一个月后，商汤科技再度获得6.2亿美元C+轮融资；三个多月后，商汤科技再度获得软银10亿美金的融资，估值也飙升至60亿美金。</p>
+<p>现在绝大部分技术型的、平台型的公司还是一To
+B的场景，但投资机构却把它们当作To
+C的公司来投。这样的公司，后续还需要多轮的融资支持成长。如果天使轮一下子把估值做到1亿，那A轮总得3亿，做到F轮怎么办？</p>
+</div>
+<div class="section" id="labby-inc2">
+<h2><span class="section-number">3.13.4. </span>Labby Inc<a class="reference external" href="https://www.labbyinc.com/labbys-ai-enabled-optical-sensing-technology-secures-usd-480-000-seed-investment">2</a><a class="headerlink" href="#labby-inc2" title="Permalink to this headline">¶</a></h2>
+<p>Labby Inc, an early-stage startup specializing in AI-enabled optical
+sensing solutions for raw milk testing, today announced it has raised
+$480,000 in seed funding. AgriTech Capital, a strategy and investment
+firm specializing in innovation and technology in the agribusiness
+sector.</p>
+<p>The global dairy farming industry loses $32 billion annually due to
+mastitis infections. At a minimum, twenty-five percent of cows each year
+are impacted regardless of how well managed a farm is. Farmers lack a
+way to quickly and easily identify mastitis at an early stage so they
+can take preventative measures to reduce the impact on yields. With
+Labby’s solution, farmers and dairy processors finally have a way to
+quickly and easily test raw milk gaining visibility into animal health,
+milk quality, and feed efficiency, enabling them to optimize their
+operations.</p>
+</div>
+</div>
+
+
+        </div>
+        <div class="side-doc-outline">
+            <div class="side-doc-outline--content"> 
+<div class="localtoc">
+    <p class="caption">
+      <span class="caption-text">Table Of Contents</span>
+    </p>
+    <ul>
+<li><a class="reference internal" href="#">3.13. 估值</a><ul>
+<li><a class="reference internal" href="#id2">3.13.1. 尽职调查</a></li>
+<li><a class="reference internal" href="#id3">3.13.2. 上市1</a></li>
+<li><a class="reference internal" href="#id4">3.13.3. 商汤科技</a></li>
+<li><a class="reference internal" href="#labby-inc2">3.13.4. Labby Inc2</a></li>
+</ul>
+</li>
+</ul>
+
+</div>
+            </div>
+        </div>
+
+      <div class="clearer"></div>
+    </div><div class="pagenation">
+     <a id="button-prev" href="research.html" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--colored" role="botton" accesskey="P">
+         <i class="pagenation-arrow-L fas fa-arrow-left fa-lg"></i>
+         <div class="pagenation-text">
+            <span class="pagenation-direction">Previous</span>
+            <div>3.12. Research</div>
+         </div>
+     </a>
+     <a id="button-next" href="../chapter_experience/index.html" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--colored" role="botton" accesskey="N">
+         <i class="pagenation-arrow-R fas fa-arrow-right fa-lg"></i>
+        <div class="pagenation-text">
+            <span class="pagenation-direction">Next</span>
+            <div>4. experience</div>
+        </div>
+     </a>
+  </div>
+        
+        </main>
+    </div>
+  </body>
+</html>
