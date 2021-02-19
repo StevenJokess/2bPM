@@ -8,6 +8,8 @@
 
 了解评价，作品找工作
 
+「快速迭代」：缩短决策与行动之间的周期，先让自己快速动起来。[1]
+
 ## 作品核心
 
 核心的用户需求
@@ -29,3 +31,5 @@ https://izhiqun.com/web/share/experience
 ## 准备
 
 ## 不闭门造车
+
+[1]: https://zhuanlan.zhihu.com/p/146486072

@@ -5,12 +5,14 @@
 :maxdepth: 2
 
 BRD
-MRD
-PRD
 users_analysis
 industry_analysis
 compete_analysis
 goods_analysis
+MRD
+PRD
+flow_chart
+priority
 need_order
 prototype_design
 TFD

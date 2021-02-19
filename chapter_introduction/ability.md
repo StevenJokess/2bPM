@@ -101,7 +101,7 @@
 - 产品流程设计：Visio、Processon、亿图等；
 - 产品原型设计：Axure、Sketch、墨刀等；
 - 数据分析工具：SQL、python、powerBI、SPSS、百度指数、talkingdata、ASO100、艾瑞指数、微博数据中心等；
-- 项目管理工具：Teambition、Trello–任务管理、Demoo-原型展示、石墨文档、禅道–项目管理等；
+- 项目管理工具：Teambition、Trello–任务管理、Demoo-原型展示、石墨文档、禅道–项目管理、leangoo等；
 - AI工具：Python、Tensorflow、PyTorch、MxNet等
 - 主要文档：MRD、BRD、PRD；
 
