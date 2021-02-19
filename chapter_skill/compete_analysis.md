@@ -45,7 +45,7 @@
 
 ## SWOT分析
 
-高估自己、低估对手
+别高估自己、低估对手！
 
 [1]: http://www.woshipm.com/marketing/2121492.html
 [2]: https://www.bilibili.com/video/BV1wz4y1y7sg?p=5
