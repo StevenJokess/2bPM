@@ -12,7 +12,6 @@ project
    AI_company
    AI_Finance
    process
-   flow_chart
    inspect
    product_document
    Roadmap
