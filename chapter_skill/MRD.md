@@ -68,6 +68,7 @@ MRD的汇报对象：未来参与产品的各个层级的同事，包括产品�
 - 重视非功能需求；
 - 解释专业名词。
 
+## 市场调研能力
 
 [1]: http://www.woshipm.com/pmd/131946.html
 [2]: https://www.bilibili.com/video/BV1wz4y1y7sg
