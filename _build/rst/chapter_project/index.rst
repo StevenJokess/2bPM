@@ -11,7 +11,9 @@ project
    AI_industry_analysis
    AI_company
    AI_Finance
+   AI_gym
    process
+   Data Process
    inspect
    product_document
    Roadmap

@@ -17,6 +17,7 @@ need_order
 prototype_design
 TFD
 resource_manage
+data_analysis
 research
 Valuation
 ```

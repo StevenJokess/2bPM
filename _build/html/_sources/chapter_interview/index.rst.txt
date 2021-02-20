@@ -9,6 +9,7 @@ Interview
    :maxdepth: 2
 
    CV
+   interviewer
    HR
    new_like
    question

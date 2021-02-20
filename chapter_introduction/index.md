@@ -6,10 +6,10 @@
 
 need
 Product
-money
-PM
 2B
 2C
+money
+PM
 AI
 AI_PM
 ability

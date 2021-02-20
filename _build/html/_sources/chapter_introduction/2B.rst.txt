@@ -1,17 +1,4 @@
 
-.. raw:: html
-
-   <!--
-    * @version:
-    * @Author:  StevenJokess https://github.com/StevenJokess
-    * @Date: 2021-02-16 21:32:54
-    * @LastEditors:  StevenJokess https://github.com/StevenJokess
-    * @LastEditTime: 2021-02-19 17:55:29
-    * @Description:
-    * @TODO::
-    * @Reference:
-   -->
-
 To B\ `1 <https://tanxianlian.com/2020/03/07/%e6%88%91%e7%9a%84to-b%e4%ba%a7%e5%93%81%e6%96%b9%e6%b3%95%e8%ae%ba/>`__
 =====================================================================================================================
 
