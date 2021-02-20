@@ -15,4 +15,5 @@ Idea
    convert
    business
    critical
+   attention
    goal
