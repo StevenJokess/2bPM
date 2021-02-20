@@ -1,6 +1,10 @@
 
-AI行业分析\ `1 <http://www.woshipm.com/pd/873240.html>`__
-=========================================================
+AI行业分析 `1 <http://www.woshipm.com/pd/873240.html>`__
+========================================================
+
+.. figure:: ../img/2020_AI.png
+
+   2020 AI
 
 优势：极快、极简
 ----------------
@@ -90,3 +94,14 @@ data)C(Cloud)战略，阿里腾讯也有各自云服务，大数据中心，人�
 核心诉求是不犯错，未必有功，但求无过
 
 AIStartups: https://github.com/lipiji/AIStartups
+
+More:
+-----
+
+.. figure:: ../img/data_AI_industry.jpg
+
+   data_AI_industry
+
+https://mattturck.com/data2020/
+
+https://daxueconsulting.com/category/artificial-intelligence-industry-in-china/
