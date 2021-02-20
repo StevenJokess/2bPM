@@ -10,6 +10,13 @@ Beyond
 Deep。\ `6 <https://www.dm-ai.cn/news/%e5%a4%a7%e5%92%96%e4%ba%91%e9%9b%86%e5%9b%be%e7%81%b5%e5%a4%a7%e4%bc%9a%ef%bc%8c%e6%9a%97%e7%89%a9%e6%99%ba%e8%83%bd%e5%a4%a7%e6%94%be%e5%bc%82%e5%bd%a9/>`__
 大数据背后的物体功效、因果链条、行为动机、价值决策、内心认知等人工智能领域的“暗物质”–“小数据、大任务”
 
+历程
+----
+
+https://www.dm-ai.cn/aboutus/
+
+https://www.tianyancha.com/company/3205042145
+
 好评
 ----
 
@@ -159,3 +166,8 @@ AR
 DMAI将通过多模态交互AI芯片、教育多模态分析技术、自适应学习系统、早教学习机等基于强认知AI的教育智能化产品与技术，与新节奏AR体感教育系统等产品融合共享，建设“AI+AR”双重赋能的教育服务体系。
 
 新节奏是中国最早将动作识别技术和AR技术运用在儿童游戏化教学的公司，在AR和VR内容生成与互动方面拥有领先的数字化应用案例。2019年1月，新节奏成为教育部装备中心在人工智能儿童教育装备领域的唯一合作伙伴。
+
+社招
+----
+
+https://sc.hotjob.cn/wt/DMAI/web/index/webPositionN310!getOnePosition?postId=111201&recruitType=2&brandCode=1&importPost=0&columnId=2

@@ -4,6 +4,7 @@
 ```toc
 :maxdepth: 2
 
+7steps
 BRD
 users_analysis
 industry_analysis

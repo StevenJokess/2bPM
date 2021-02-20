@@ -17,3 +17,5 @@ Idea
    critical
    attention
    goal
+   understand_tech
+   yunyingxiao
