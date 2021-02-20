@@ -4,6 +4,12 @@
 
 朱松纯教授认为，人工智能领域存在智能“暗物质”，包括功能、物理、因果、意图、价值等，就是人工智能领域的“Dark”，而Dark Beyond Deep。[6] 大数据背后的物体功效、因果链条、行为动机、价值决策、内心认知等人工智能领域的“暗物质”--“小数据、大任务”
 
+## 历程
+
+https://www.dm-ai.cn/aboutus/
+
+https://www.tianyancha.com/company/3205042145
+
 ## 好评
 
 「AI中国」机器之心2020年度榜单中凭借出色的技术创新能力与优秀的商业落地成果，成功入选“最强人工智能公司TOP30”。要求入选企业具备成熟的商业模式，主营业务在近三年保持较高增长率，并在其主要关注的细分市场领域有成熟的产品服务，且已获得该领域主导型市场地位。 [1]
@@ -119,7 +125,9 @@ DMAI将通过多模态交互AI芯片、教育多模态分析技术、自适应�
 
 新节奏是中国最早将动作识别技术和AR技术运用在儿童游戏化教学的公司，在AR和VR内容生成与互动方面拥有领先的数字化应用案例。2019年1月，新节奏成为教育部装备中心在人工智能儿童教育装备领域的唯一合作伙伴。
 
+## 社招
 
+https://sc.hotjob.cn/wt/DMAI/web/index/webPositionN310!getOnePosition?postId=111201&recruitType=2&brandCode=1&importPost=0&columnId=2
 
 [1]: https://www.dm-ai.cn/news/%e4%ba%a7%e4%b8%9a%e8%90%bd%e5%9c%b0%e6%88%90%e6%9e%9c%e7%aa%81%e5%87%ba%ef%bc%81%e6%9a%97%e7%89%a9%e6%99%ba%e8%83%bd%e5%85%a5%e9%80%89%e6%9c%80%e5%bc%ba%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd/
 [2]: https://www.dm-ai.cn/news/%e6%9c%aa%e6%9d%a5%e5%8f%af%e6%9c%9f%ef%bc%81%e6%9a%97%e7%89%a9%e6%99%ba%e8%83%bd%e5%90%8c%e6%97%b6%e5%85%a5%e9%80%89%e5%b9%bf%e5%b7%9e%e6%9c%aa%e6%9d%a5%e7%8b%ac%e8%a7%92%e5%85%bd/

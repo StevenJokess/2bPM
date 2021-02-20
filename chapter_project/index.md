@@ -7,7 +7,7 @@
 AI_industry_analysis
 AI_company
 AI_Finance
-AI_gym
+AI_fit
 process
 Data Process
 inspect
