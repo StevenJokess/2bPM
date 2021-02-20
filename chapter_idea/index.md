@@ -7,6 +7,7 @@
 idea
 data
 negotiation
+brand
 decompose
 convert
 business
@@ -15,4 +16,5 @@ attention
 goal
 understand_tech
 yunyingxiao
+
 ```

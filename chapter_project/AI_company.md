@@ -1,5 +1,9 @@
 # AI公司
 
+## 中国公司总览 [7]
+
+![AI公司](../img/AI_company.jpg)
+
 ## 阵营 [4]
 
 人工智能公司（主要针对创业公司）主要分为三个阵营：[5]
@@ -69,3 +73,4 @@ https://github.com/apolloauto
 [4]: https://zhuanlan.zhihu.com/p/33524676
 [5]: https://www.sohu.com/a/364264851_114819
 [6]: http://www.mysecretrainbow.com/ai/17083.html
+[7]: https://daxueconsulting.com/ai-landscape-china/

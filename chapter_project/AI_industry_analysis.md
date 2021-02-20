@@ -1,4 +1,6 @@
-# AI行业分析[1]
+# AI行业分析 [1]
+
+![2020 AI](../img/2020_AI.png)
 
 ## 优势：极快、极简
 
@@ -9,6 +11,7 @@
 同样，人工智能的发展依赖于产业生态的共同推进，上游芯片提供算力保障，中游人工智能厂商着力研发算法模型，下游应用领域提供落地场景
 
 ![趋势](../img/qushi.png)
+
 
 ## BAT
 
@@ -70,6 +73,13 @@
 
 AIStartups: https://github.com/lipiji/AIStartups
 
+## More:
+
+![data_AI_industry](../img/data_AI_industry.jpg)
+
+https://mattturck.com/data2020/
+
+https://daxueconsulting.com/category/artificial-intelligence-industry-in-china/
 
 [1]: http://www.woshipm.com/pd/873240.html
 [2]: https://www.zhihu.com/question/57373956/answer/155398900
