@@ -21,4 +21,5 @@ resource_manage
 data_analysis
 research
 Valuation
+price
 ```

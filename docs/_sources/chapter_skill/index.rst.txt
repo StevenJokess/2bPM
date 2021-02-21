@@ -25,3 +25,4 @@ skill
    data_analysis
    research
    Valuation
+   price

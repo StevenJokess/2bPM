@@ -20,3 +20,4 @@ Idea
    goal
    understand_tech
    yunyingxiao
+   design

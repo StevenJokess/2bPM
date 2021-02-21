@@ -51,7 +51,12 @@ ACL 在亚洲的发展也做出了卓越贡献。
 Robotaxi自动驾驶出租车服务也已在长沙全面开放试运营。第一季度，知名研究公司Navigant
 Research将百度Apollo列为全球四大自动驾驶领域领导者之一。\ `6 <http://www.mysecretrainbow.com/ai/17083.html>`__
 
-|Baidu AI| ## Aliyun
+.. figure:: ../img/baidu_AI.png
+
+   Baidu AI
+
+Aliyun
+------
 
 机器学习PAI
 Studio\ `2 <https://www.aliyun.com/product/bigdata/product/learn>`__
@@ -81,5 +86,3 @@ https://www.tusimple.com/ https://github.com/amusi/CV-Company-List
 阿波罗的官网地址是： http://apollo.auto/
 
 源代码，文档与数据下载地址为： https://github.com/apolloauto
-
-.. |Baidu AI| image:: ../img/baidu_AI.png
