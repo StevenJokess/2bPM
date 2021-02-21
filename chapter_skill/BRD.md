@@ -6,6 +6,10 @@ BRD指的是商业需求文档（Business Requirement Document）。在这篇的
 
 这篇文档常以PPT等形式，以数据说服领导和同事，帮产品的立项，来获得公司资源支持。
 
+## 顺势而为 [7]
+
+![点子过滤](../img/point_filter.png)
+
 ## 产品立项流程 [4]
 
 项目概述
@@ -178,3 +182,4 @@ PEST分析与外部总体环境的因素互相结合就可归纳出SWOT分析中
 [4]: https://www.bilibili.com/video/BV1254y1D7Ht?from=search&seid=14167562900175777805
 [5]: https://zh.wikipedia.org/wiki/PEST%E5%88%86%E6%9E%90
 [6]: https://zh.wikipedia.org/wiki/PEST%E5%88%86%E6%9E%90
+[7]: https://www.jianshu.com/p/a4b1fd94b49a

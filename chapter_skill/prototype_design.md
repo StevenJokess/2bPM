@@ -61,6 +61,11 @@
 中期:关注范围广、有一定的灵活性的功能
 远期:顶层设计、宽泛的范围、更加灵活的功能
 
+## 验证（Validate） [4]
+
+验证产品原型
+
 [1]: https://www.zhihu.com/question/55997614/answer/615628989
 [2]: https://www.bilibili.com/video/BV1254y1D7Ht?from=search&seid=14167562900175777805
 [3]: https://zhuanlan.zhihu.com/p/33997501
+[4]: https://www.jianshu.com/p/cb6ae5a3f3fa
