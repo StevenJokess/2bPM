@@ -236,6 +236,13 @@ UI设计完成后，就开始转入前端工作。对于前端而言，会更加
 
 ## 产品思维与技术思维的区别 [4]
 
+![技术VS产品](../img/tech_product0.jpeg)
+
+- **产品经理**思考的是产品的用户价值和使用场景，同时还需要考虑产品所承载的业务闭环及商业价值
+- **工程师**看到产品设计后，在脑海里构建的是拆解后的技术实现要点，好比一栋房子的内部结构。对于一个产品，工程师需要先构建产品的技术架构，然后评估产品功能的技术成本。
+
+![技术VS产品的分工](../img/tech_product.jpeg)
+
 产品经理是发现需求后做产品策略做对的产品，例如：当快手2011年开始上市场运营，而今日头条系从2016年才开始做抖音，那么如果你是技术思维的话，你准备研究比快手更好的AI模型？然后超越快手吗？
 
 那我们看抖音的产品负责人士怎么运用产品思维做产品策略的。
@@ -286,7 +293,9 @@ http://www.pmtalk.club/
 
 ![产品经理能力模型](../img/PM_ability.png)
 
+## 产品经理成熟的标准是什么？ [16]
 
+看他做一款创新型产品时，更依赖竞品调研还是独立判断。站在巨人的肩膀上是没错，但前瞻性的方案更依赖人性洞察和市场嗅觉。
 
 [1]: https://www.jianshu.com/p/fd466ed1bda6
 [2]: https://www.zhihu.com/question/343743405/answer/1237754321s
@@ -303,3 +312,4 @@ http://www.pmtalk.club/
 [13]: https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651021510&idx=1&sn=4bf3f0b14cd59ed9dab53434c596a6ce&chksm=bdbe98958ac91183a4539daa90bfbefeba22496dee6fc6304d7cf73d35362244b018ca860121&scene=27#wechat_redirect
 [14]: https://www.jianshu.com/p/65890f557a5f
 [15]: https://weread.qq.com/web/reader/8d232b60721a488e8d21e54k8f132430178f14e45fce0f7
+[16]: https://zhuanlan.zhihu.com/p/38392075
