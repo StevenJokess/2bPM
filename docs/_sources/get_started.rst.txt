@@ -27,6 +27,18 @@ https://kaifa.baidu.com 的主意!
 
    能找到的最早时间
 
+百度股价预测：
+
+.. figure:: ./img/baidu_gujia.jpg
+
+   百度股价
+
+百度最新股价：
+
+.. figure:: ./img/baidu_gujia_newest.png
+
+   百度最新股价
+
 --------------
 
 **简历**
