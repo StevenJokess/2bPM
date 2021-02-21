@@ -131,7 +131,7 @@ AI产品经理由于细分市场，可能真的成为“需求产品经理”。
 1. 命名实体（NER）技术用来识别里面人名、地名、事物的名称等关键名词
 1. 灵犬反低俗助手产品的产品介绍、产品Q&A、产品用户调研、产品推广、产品策略制定。
 
-AI产品经理在需求评审的阶段，需要与算法共同明确的主要有以下几点：[11]
+AI产品经理在需求评审【由项目经理（有单独项目经理的公司）组织产品经理、研发人员、测试人员、UI 设计人员听产品经理讲解需求的过程[12]】的阶段，需要与算法共同明确的主要有以下几点：[11]
 
 模型目标
 特征选择
@@ -247,3 +247,4 @@ https://www.yuque.com/gdbwhd/mesmph/uuuuu#LsKnF
 [9]: http://www.woshipm.com/pmd/798007.html
 [10]: https://easyai.tech/author/xiaoqiang/page/4/
 [11]: https://m.k.sohu.com/d/495625828?channelId=1&page=1
+[12]: https://weread.qq.com/web/reader/8d232b60721a488e8d21e54kc51323901dc51ce410c121b
