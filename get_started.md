@@ -14,6 +14,10 @@ AI产品经理是直接应用或间接涉及了AI技术，进而完成相关AI�
 
 可以看到2020年10月3日里面就有最近**才beta测试**的 https://kaifa.baidu.com 的主意!
 
+据我能找到的最早时间：
+
+![能找到的最早时间](./img/kaifa_online.png)
+
 ----
 
 ## **简历**
@@ -246,5 +250,7 @@ AI产品经理是直接应用或间接涉及了AI技术，进而完成相关AI�
 3. 撰写普惠深度学习（WIP)、人工智能产品经理相关书（WIP)
 
 ![跳绳证书、六级](./img/rope.png)
+
+![未太更新的简历](https://github.com/StevenJokess/StevenJokess/blob/master/resume.jpg)
 
 [1]: https://www.boxuegu.com/news/4368.html
