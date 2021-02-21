@@ -81,5 +81,7 @@ https://mattturck.com/data2020/
 
 https://daxueconsulting.com/category/artificial-intelligence-industry-in-china/
 
+https://www.ulapia.com/reports/search?query=AI
+
 [1]: http://www.woshipm.com/pd/873240.html
 [2]: https://www.zhihu.com/question/57373956/answer/155398900
