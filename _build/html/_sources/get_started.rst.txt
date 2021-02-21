@@ -285,6 +285,6 @@ https://kaifa.baidu.com 的主意!
 
    跳绳证书、六级
 
-.. figure:: https://github.com/StevenJokess/StevenJokess/blob/master/resume.jpg
+.. figure:: ./img/resume.jpg
 
    未太更新的简历

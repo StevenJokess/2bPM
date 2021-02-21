@@ -259,6 +259,6 @@ AI产品经理是直接应用或间接涉及了AI技术，进而完成相关AI�
 
 ![跳绳证书、六级](./img/rope.png)
 
-![未太更新的简历](https://github.com/StevenJokess/StevenJokess/blob/master/resume.jpg)
+![未太更新的简历](./img/resume.jpg)
 
 [1]: https://www.boxuegu.com/news/4368.html
