@@ -193,3 +193,10 @@ active users）也一直在下降，有成为北美人人网的趋势。
 ◆ 货币市场和非货币市场的交叉补贴：
 
 任何人都可以免费得到其他人赠送的产品或服务，且不需要得到金钱回报，获得的是关注度和声誉。撰写博客，发布微博、微信等，并非出于谋取利益，而是与人分享喜怒哀乐，期待结识朋友；公益捐助，获得慈善相关的名声等等。
+
+ROI
+---
+
+Open source models, data and transfer learning are also enabling
+businesses to more easily move models into production and to achieve an
+ROI.
