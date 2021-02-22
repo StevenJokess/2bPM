@@ -1,7 +1,7 @@
 # CV
 
 ![CV](../img/CV.jpg)
-
+![CV2](../img/CV2.jpg)
 
 ## 5大问题
 
