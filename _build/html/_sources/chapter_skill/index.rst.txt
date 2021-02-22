@@ -16,10 +16,10 @@ skill
    goods_analysis
    MRD
    PRD
-   flow_chart
-   priority
-   need_order
    prototype_design
+   priority
+   upgrade_manage
+   flow_chart
    TFD
    resource_manage
    data_analysis

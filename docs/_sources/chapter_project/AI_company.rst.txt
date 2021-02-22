@@ -2,6 +2,11 @@
 AI公司
 ======
 
+理解企业
+--------
+
+https://www.zhihu.com/market/paid_column/1251475507390050304/section/1251475513652604928
+
 中国公司总览 `7 <https://daxueconsulting.com/ai-landscape-china/>`__
 --------------------------------------------------------------------
 
