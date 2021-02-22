@@ -79,6 +79,8 @@ toB 公司产品要保证的是交付给客户的解决方案的结果和质量�
 自提：
 
 为何前面有快消产品经理所注重的品牌产品经理的内容？
+
+
 [1]: http://www.woshipm.com/zhichang/459131.html
 [2]: http://www.woshipm.com/zhichang/315041.html
 [3]: http://www.woshipm.com/pmd/2891945.html

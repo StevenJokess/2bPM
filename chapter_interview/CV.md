@@ -28,3 +28,4 @@ AI产品经理的基础还是产品经理，更重要的还是为什么做这个
 ### 借用他人的成果
 
 [1]: http://www.woshipm.com/zhichang/4160330.html
+[2]: http://www.woshipm.com/zhichang/4371937.html

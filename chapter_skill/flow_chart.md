@@ -24,7 +24,7 @@
 
 ## 分类
 
-流程图以描述对象分类，包括：业务流程图、页面流程图、功能流程图、数据流程图等。
+流程图以描述对象分类，包括：业务流程图、页面流程图、功能流程图、数据流程图等。作为产品，经常谈的是业务流程图；作为交互设计师，则比较关心页面流程图；而作为系统分析师，数据流程图最关键。 [4]
 
 ### 业务流程图（Transaction Flow Diagram, TFD）
 
@@ -90,7 +90,7 @@
 
 “发起者”角度
 
-![流程图](../img/share_shopping.jpg)
+![流程图](../img/share_shopping.png)
 
 节点分别是： [3]
 
@@ -115,7 +115,22 @@
 
 需求分析→数据采集→数据清洗→数据标注→训练迭代→测试验证→交付模型→生产环境部署
 
+### 常见的绘制流程图的工具
+
+（1）在线工具
+
+- ProcessOn：https://www.processon.com/
+- draw.io：https://www.draw.io/
+
+（2）客户端
+
+- Microsoft Visio
+- edraw亿图
+- xmind
+- omniGraffle（mac）
+- StarUML
+
 [1]: http://www.woshipm.com/pd/818876.html
 [2]: https://www.bilibili.com/video/BV1254y1D7Ht?from=search&seid=14167562900175777805
 [3]: https://coffee.pmcaff.com/article/2714966199749760/pmcaff?utm_source=forum
-[4]:
+[4]: http://www.woshipm.com/pd/675174.html
