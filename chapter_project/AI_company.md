@@ -36,6 +36,8 @@ https://www.zhihu.com/market/paid_column/1251475507390050304/section/12514755136
 
 智能交通方面，百度Apollo依托百度领先的AI能力，接连中标重庆、合肥、阳泉等地车路协同新基建项目，Apollo Robotaxi自动驾驶出租车服务也已在长沙全面开放试运营。第一季度，知名研究公司Navigant Research将百度Apollo列为全球四大自动驾驶领域领导者之一。[6]
 
+在工业互联网领域，百度智能云在四季度分别与贵州省贵阳市政府、山东省济南市工信局签署战略合作，打造地方级AI工业互联网平台，全面推动企业数字化、智能化转型，助力当地经济形成新的经济增长点。[8]
+
 ![Baidu AI](../img/baidu_AI.png)
 
 ## Aliyun
@@ -83,3 +85,4 @@ https://github.com/apolloauto
 [5]: https://www.sohu.com/a/364264851_114819
 [6]: http://www.mysecretrainbow.com/ai/17083.html
 [7]: https://daxueconsulting.com/ai-landscape-china/
+[8]: http://finance.eastmoney.com/a/202102181812494141.html
