@@ -1,6 +1,7 @@
 # AI行业分析 [1]
 
 ![2020 AI](../img/2020_AI.png)
+![iresearch_AI](../img/iresearch_AI.png)
 
 ## 优势：极快、极简
 
@@ -82,6 +83,7 @@ https://mattturck.com/data2020/
 https://daxueconsulting.com/category/artificial-intelligence-industry-in-china/
 
 https://www.ulapia.com/reports/search?query=AI
+https://www.iyiou.com/search?p=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD
 
 [1]: http://www.woshipm.com/pd/873240.html
 [2]: https://www.zhihu.com/question/57373956/answer/155398900
