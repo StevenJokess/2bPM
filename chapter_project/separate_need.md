@@ -20,5 +20,10 @@
 
 一种统计方法,用于将两种或多种技术进行比较,通常是将当前采用的技术与新技术进行比较。A/B测试不仅旨在确定哪种技术的效果更好,而且还有助于了解相应差异是否具有显著的统计意义。AB测试通常是采用一种衡量方式对两种技术进行比较,但也适用于任意有限数量的技术和衡量方式。
 
+A/B测试，在基于web的软件开发中经常使用，对于在生产中评估模型性能非常有用。
+
+[Trustworthy Online Controlled Experiments : A Practical Guide to A/B Testing](https://experimentguide.com/)
+
 [1]: http://www.woshipm.com/pmd/4339402.html
 [2]: https://zhuanlan.zhihu.com/p/34161895
+[3]: https://www.oreilly.com/radar/bringing-an-ai-product-to-market/

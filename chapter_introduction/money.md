@@ -154,6 +154,11 @@ Facebook的“商品”，便是在Facebook的平台上“作弊”。也就是�
 
 任何人都可以免费得到其他人赠送的产品或服务，且不需要得到金钱回报，获得的是关注度和声誉。撰写博客，发布微博、微信等，并非出于谋取利益，而是与人分享喜怒哀乐，期待结识朋友；公益捐助，获得慈善相关的名声等等。
 
+## ROI
+
+Open source models, data and transfer learning are also enabling businesses to more easily move models into production and to achieve an ROI.
+
+
 [1]: https://tech.sina.com.cn/roll/2020-07-12/doc-iivhuipn2598506.shtml
 [2]: https://www.sohu.com/a/409718794_312708
 [3]: https://blogs.nvidia.cn/2017/09/30/ai-how-to-speed-up-the-analysis-of-financial-markets/
@@ -161,3 +166,4 @@ Facebook的“商品”，便是在Facebook的平台上“作弊”。也就是�
 [5]: http://www.woshipm.com/pmd/1792966.html
 [6]: https://www.zhihu.com/question/20304614/answer/1608253955
 [7]: https://weread.qq.com/web/reader/8d232b60721a488e8d21e54kc20321001cc20ad4d76f5ae
+[8]: https://www.oreilly.com/radar/theres-a-path-to-an-ai-roi/
