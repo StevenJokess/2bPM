@@ -261,6 +261,12 @@ Qualitative data collection tools (such as SurveyMonkey, Qualtrics, and Google F
 
 当发现模型结果在出现短期异常值时，排查异常的原因，例如：运营活动或者节假日等因素，当发现模型长期表现不佳时，则要考虑是否是用户和产品的数据构成已经发生了变化。如果是因为数据构成已经发生变化，则需要重新通过CRISP-DM流程构建新的模型。
 
+#### 持续集成和持续部署
+
+- https://martinfowler.com/articles/cd4ml.html
+- https://www.oreilly.com/library/view/continuous-delivery-reliable/9780321670250/
+
+
 #### 生成最终报告
 
 最后，不要忘了向项目的相关干系人发送一份最终的项目总结报告。
