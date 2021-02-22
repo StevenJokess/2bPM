@@ -56,6 +56,8 @@ ACL 在亚洲的发展也做出了卓越贡献。
 Robotaxi自动驾驶出租车服务也已在长沙全面开放试运营。第一季度，知名研究公司Navigant
 Research将百度Apollo列为全球四大自动驾驶领域领导者之一。\ `6 <http://www.mysecretrainbow.com/ai/17083.html>`__
 
+在工业互联网领域，百度智能云在四季度分别与贵州省贵阳市政府、山东省济南市工信局签署战略合作，打造地方级AI工业互联网平台，全面推动企业数字化、智能化转型，助力当地经济形成新的经济增长点。\ `8 <http://finance.eastmoney.com/a/202102181812494141.html>`__
+
 .. figure:: ../img/baidu_AI.png
 
    Baidu AI

@@ -7,13 +7,13 @@
 7steps
 BRD
 users_analysis
+priority
 industry_analysis
 compete_analysis
 goods_analysis
 MRD
 PRD
 prototype_design
-priority
 upgrade_manage
 flow_chart
 TFD
