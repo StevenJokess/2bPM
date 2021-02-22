@@ -12,6 +12,7 @@ project
    AI_company
    AI_Finance
    AI_fit
+   AI_hardware
    process
    Data Process
    inspect
@@ -21,3 +22,4 @@ project
    separate_need
    valuable
    widespread
+   APP_experience

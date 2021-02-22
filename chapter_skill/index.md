@@ -19,7 +19,9 @@ flow_chart
 TFD
 resource_manage
 data_analysis
+project_manage
 research
 Valuation
 price
+
 ```

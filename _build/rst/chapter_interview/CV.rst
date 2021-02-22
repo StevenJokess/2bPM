@@ -35,4 +35,4 @@ AI产品经理的基础还是产品经理，更重要的还是为什么做这个
 ~~~~~~~~~~~~~~
 
 .. |CV| image:: ../img/CV.jpg
-.. |CV2| image:: ../img/CV2.jpg
+.. |CV2| image:: ../img/CV2.png

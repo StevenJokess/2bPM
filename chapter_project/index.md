@@ -8,6 +8,7 @@ AI_industry_analysis
 AI_company
 AI_Finance
 AI_fit
+AI_hardware
 process
 Data Process
 inspect
@@ -17,5 +18,6 @@ Scrum
 separate_need
 valuable
 widespread
+APP_experience
 
 ```
