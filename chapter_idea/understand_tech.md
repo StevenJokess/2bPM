@@ -95,8 +95,13 @@ AI公司的产品里一类是应用AI技术的垂直业务产品，另外一类�
 
 大部分的AI产品的服务对象是to B端的企业用户， B端用户和C端用户的使用行为习惯是截然不同的，所以就有很多C端的产品转向B端出现的水土不服。
 
+## “BUG”一词
+
+“BUG”一词在工程师与产品经理的角度中可能也存在偏差，在工程师的角度看，它是因为代码或者逻辑出错而导致的功能性错误，因为不影响产品功能的优化，所以不是BUG。而产品经理的角度看，认为是影响用户体验的产品BUG，本质上是交互设计问题，在加载过程中需要对用户有所提示使得产品体验更好。两种角度，两种观点，而书中告诉了我们解决方法。
+
 [1]: http://www.woshipm.com/pmd/297952.html
 [2]: https://www.zhihu.com/people/kevingbsjddd/posts
 [3]: https://weread.qq.com/web/reader/8d232b60721a488e8d21e54kc51323901dc51ce410c121b
 [4]: https://www.chinaventure.com.cn/news/114-20191210-350906.html
 [5]: https://www.epubit.com/articleDetails?id=NC7E3EF9498900001431F1CD03E801095
+[6]: https://book.douban.com/subject/27666334/
