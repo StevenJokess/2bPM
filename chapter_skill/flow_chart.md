@@ -102,6 +102,12 @@
 6. 在好友筛选列表中，选中某一个特定的好友；弹出“确认”或“取消”按钮；
 7. 用户点击“确认”后，则把之前选择好的商品商品列表发给Ta;
 
+### 登录注册流程图 [4]
+
+![登录注册流程图](../img/login_flow_chart.png)
+
+一个大的流程就是由许多小流程（一个流程一个小模块）组成，每个小流程（常用的，每个App流程基本改动不太大的）可反复使用，提高工作效率，这就有点像面向对象的封装思想。
+
 
 ### AI落地
 
@@ -112,3 +118,4 @@
 [1]: http://www.woshipm.com/pd/818876.html
 [2]: https://www.bilibili.com/video/BV1254y1D7Ht?from=search&seid=14167562900175777805
 [3]: https://coffee.pmcaff.com/article/2714966199749760/pmcaff?utm_source=forum
+[4]:
