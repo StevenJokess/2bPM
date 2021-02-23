@@ -26,5 +26,9 @@ A/B testing
 
 A/B测试，在基于web的软件开发中经常使用，对于在生产中评估模型性能非常有用。
 
+.. figure:: ../img/A_B_Testing.png
+
+   A/B测试\ `4 <https://time.geekbang.org/column/intro/100065501>`__
+
 `Trustworthy Online Controlled Experiments : A Practical Guide to A/B
 Testing <https://experimentguide.com/>`__

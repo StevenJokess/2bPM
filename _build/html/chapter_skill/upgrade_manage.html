@@ -424,18 +424,28 @@ SNS
 <li><p>相比去做自己已经有信心的项目，去钻研新的想法更令人兴奋。（有些情况也可能反过来）</p></li>
 </ul>
 </div>
+<div class="section" id="id8">
+<h2><span class="section-number">3.11.5. </span>需求属性的评估<a class="headerlink" href="#id8" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="id9">
+<h3><span class="section-number">3.11.5.1. </span>三维度<a class="headerlink" href="#id9" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>需求价值评估：需求的价值分为两个维度，一个维度是创造效益，另一个维度是节省成本，通过对需求背景的影响因子给定假设条件进行评估，就能大致估算出这个需求可以产生的预期效果；例如：当前的妥投率为95%，未妥投原因中收件地址错误的原因占比75%，假设通过增加收件人地址校验，解决85%，那么需求的预期收益就是提升3.18%的妥投率。</p></li>
+<li><p>需求难度评估：难度可以从是否需要设计新模块开发、原有模块改造量、开发实现难度、是否涉及关联系统改造几个方面进行考量；如果一个需求既设计算法选项、参数优化、训练数据标注、模块封装、总控接入、前端改造那么这个需求的实现难度就属于很高的程度了。</p></li>
+<li><p>需求周期评估：需求拆解后本项目组的开发周期加上关联系统排期、开发的周期就能确定需求的实现周期。</p></li>
+</ul>
+</div>
 <div class="section" id="rice">
-<h2><span class="section-number">3.11.5. </span>RICE<a class="headerlink" href="#rice" title="Permalink to this headline">¶</a></h2>
+<h3><span class="section-number">3.11.5.2. </span>RICE<a class="headerlink" href="#rice" title="Permalink to this headline">¶</a></h3>
 <p>RICE SCORE = R<em>I</em>C/E Reach（接触数量） Impact（影响程度）
 Confidence（信心指数） Effort（投入精力）</p>
 </div>
 <div class="section" id="moscow">
-<h2><span class="section-number">3.11.6. </span>MoSCoW<a class="headerlink" href="#moscow" title="Permalink to this headline">¶</a></h2>
+<h3><span class="section-number">3.11.5.3. </span>MoSCoW<a class="headerlink" href="#moscow" title="Permalink to this headline">¶</a></h3>
 <p>美其名曰“全面”，以全面来打入市场。最终却是“样样做，样样差”。must
 have、should have、could have、won’t have模型。</p>
-<div class="figure align-default" id="id9">
+<div class="figure align-default" id="id11">
 <img alt="../_images/MoSCoW.png" src="../_images/MoSCoW.png" />
-<p class="caption"><span class="caption-number">Fig. 3.11.1 </span><span class="caption-text">MoSCoW</span><a class="headerlink" href="#id9" title="Permalink to this image">¶</a></p>
+<p class="caption"><span class="caption-number">Fig. 3.11.1 </span><span class="caption-text">MoSCoW</span><a class="headerlink" href="#id11" title="Permalink to this image">¶</a></p>
 </div>
 <ul class="simple">
 <li><p>位于“1”（Must have）:用户价值高,难度低,优先制作</p></li>
@@ -444,7 +454,7 @@ have、should have、could have、won’t have模型。</p>
 </ul>
 </div>
 <div class="section" id="kano2">
-<h2><span class="section-number">3.11.7. </span>Kano帮你找到用户满意度<a class="reference external" href="https://www.huaweicloud.com/articles/280202e7d83cd36df93e5f027939cbaa.html">2</a><a class="headerlink" href="#kano2" title="Permalink to this headline">¶</a></h2>
+<h3><span class="section-number">3.11.5.4. </span>Kano帮你找到用户满意度<a class="reference external" href="https://www.huaweicloud.com/articles/280202e7d83cd36df93e5f027939cbaa.html">2</a><a class="headerlink" href="#kano2" title="Permalink to this headline">¶</a></h3>
 <p>一种在不同阶段按产品目标倒退需求优先级的思维方式，它将需求分为三类：</p>
 <p>它将需求分为三类：</p>
 <ol class="arabic simple">
@@ -455,10 +465,26 @@ have、should have、could have、won’t have模型。</p>
 <p>属性的成熟程度和情绪反应之间呈线性关系，主要针对于如易用性、成本、娱乐价值和安全性这样的产品特征。</p>
 <p>狩野纪昭(Noriaki
 Kano)将五种情绪反应可视化为图中的曲线，其中，y轴是情绪反应，x轴是特征的成熟程度。情绪反应的强度由特征如何充分呈现和其成熟程度驱动。</p>
+<p>将需求划分为必备型、期望型、魅力型、无差异型、反向型五类，分别以英文字母M、O、A、I、R表示。</p>
+<ul class="simple">
+<li><p>必备型需求(M)：需求满足时，用户不会感到满意。需求不满足时，用户会很不满意。</p></li>
+<li><p>期望型需求(O)：需求满足时，用户会感到很满意。需求不满足时，用户会很不满意。</p></li>
+<li><p>魅力型需求(A)：该需求超过用户对产品本来的期望，使得用户的满意度急剧上升。即使表现的不完善，用户的满意度也不受影响。</p></li>
+<li><p>无差异型需求(I)：需求被满足或未被满足，都不会对用户的满意度造成影响。</p></li>
+<li><p>反向型需求(R)：该需求与用户的满意度呈反向相关，满足该要求，反而会使用户的满意度下降。</p></li>
+</ul>
+<p>better-worse系数：</p>
+<ul class="simple">
+<li><p>Better系数=（期望数+魅力数）/（期望数+魅力数+必备数+无差异数）</p></li>
+<li><p>Worse系数= -1*（期望数+必备数）/（期望数+魅力数+必备数+无差异数）</p></li>
+</ul>
+<p>Better系数越接近1，表示该具备度越高该需求对用户满意度提升的影响效果越大。Worse系数越接近-1，表示具备度越低该需求对用户满意度造成的负面影响越大。</p>
+<p><a class="reference external" href="http://www.woshipm.com/pd/4383131.html">http://www.woshipm.com/pd/4383131.html</a></p>
+</div>
 </div>
 <hr class="docutils" />
-<div class="section" id="id8">
-<h2><span class="section-number">3.11.8. </span>产品迭代管理<a class="headerlink" href="#id8" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="id10">
+<h2><span class="section-number">3.11.6. </span>产品迭代管理<a class="headerlink" href="#id10" title="Permalink to this headline">¶</a></h2>
 <p>软件的持续优化、升级：充分利用研发资源，正确认识技术优化所需的资源，升级研发效率</p>
 <ol class="arabic simple">
 <li><p>研发资源管理：研发人力资源安排图（时间、负责人、项目模块）</p></li>
@@ -495,10 +521,14 @@ Kano)将五种情绪反应可视化为图中的曲线，其中，y轴是情绪�
 </ul>
 </li>
 <li><a class="reference internal" href="#id7">3.11.4. 如此困难</a></li>
-<li><a class="reference internal" href="#rice">3.11.5. RICE</a></li>
-<li><a class="reference internal" href="#moscow">3.11.6. MoSCoW</a></li>
-<li><a class="reference internal" href="#kano2">3.11.7. Kano帮你找到用户满意度2</a></li>
-<li><a class="reference internal" href="#id8">3.11.8. 产品迭代管理</a></li>
+<li><a class="reference internal" href="#id8">3.11.5. 需求属性的评估</a><ul>
+<li><a class="reference internal" href="#id9">3.11.5.1. 三维度</a></li>
+<li><a class="reference internal" href="#rice">3.11.5.2. RICE</a></li>
+<li><a class="reference internal" href="#moscow">3.11.5.3. MoSCoW</a></li>
+<li><a class="reference internal" href="#kano2">3.11.5.4. Kano帮你找到用户满意度2</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#id10">3.11.6. 产品迭代管理</a></li>
 </ul>
 </li>
 </ul>
