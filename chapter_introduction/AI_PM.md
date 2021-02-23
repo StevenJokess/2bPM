@@ -47,6 +47,14 @@ IPM （Internet Product Manager），互联网产品经理是互联网公司中�
 
 ### AI产品经理与之区别 [8]
 
+![产品](../img/Product_center.png)
+
+#### 数据集优先
+
+AI PM首先创建/收集一个代表问题空间的数据集。只有这样，他们才会要求工程师对问题进行迭代，以提供需要解决的问题90%的准确性。而不是画UX。
+
+https://appen.com/ [26]
+
 #### 广泛涉猎 [18]
 
 与互联网产品不同，AI产品经理需要广泛涉猎不同行业不同地域的操作习惯，借鉴硬件、软件行业的优秀的交互，不断总结，思考更为轻松、自然、平顺的产品体验。
@@ -66,6 +74,18 @@ AI行业（产品/市场）变化太快，而且是大调整。最多6个月，�
 #### 技术迭代更为快速
 
 研究人工智能翻译的人写的一段话，大致的含义就是他看了谷歌的一篇关于智能翻译的论文，发现自己之前所有的技术积累都已经落后了。关注前沿的行业技术更新就显得更为重要了，往往去年的某一个需求验证没有通过，但是随着时间推移又能够通过技术手段进行解决了
+
+### 确认自己是AI PM吗？ [25]
+
+-你是否首先查看了你的问题空间并收集了唯一的数据源?然后让开发者努力达到市场所要求的解决问题的准确度?
+
+你了解你的AI性能/基准测试数据吗?
+
+-你的训练数据集是独特的和有区别的吗?
+
+-你的产品是否包含了所有合法的数据?
+
+-你是否一直在寻找额外的数据来源来继续改进你的产品?
 
 ## AI产品经理的工作特点及发展方向：[1]
 
@@ -409,3 +429,5 @@ https://learning.oreilly.com/library/view/ethics-and-data/9781492043898/
 [22]: https://www.oreilly.com/radar/practical-skills-for-the-ai-product-manager/
 [23]: https://neal-lathia.medium.com/machine-learning-for-product-managers-ba9cf8724e57
 [24]: https://www.oreilly.com/radar/practical-skills-for-the-ai-product-manager/
+[25]: https://medium.com/@donnabella/what-does-it-mean-to-be-an-ai-product-manager-d67dc97da2e1
+[26]: https://medium.com/@fabian.kutschera/udacitys-ai-product-manager-a-review-2faba9ba3669

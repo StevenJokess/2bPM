@@ -22,8 +22,11 @@
 
 A/B测试，在基于web的软件开发中经常使用，对于在生产中评估模型性能非常有用。
 
+![A/B测试[4]](../img/A_B_Testing.png)
+
 [Trustworthy Online Controlled Experiments : A Practical Guide to A/B Testing](https://experimentguide.com/)
 
 [1]: http://www.woshipm.com/pmd/4339402.html
 [2]: https://zhuanlan.zhihu.com/p/34161895
 [3]: https://www.oreilly.com/radar/bringing-an-ai-product-to-market/
+[4]: https://time.geekbang.org/column/intro/100065501
