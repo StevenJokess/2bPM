@@ -45,6 +45,10 @@ IPM （Internet Product Manager），互联网产品经理是互联网公司中�
 - 体验设计价值增大
 - 需求 + 体验：以用户为核心，横向组织资源，按需求生产和销售
 
+### 互联网 VS AI
+
+![互联网时代 VS AI时代[27]](../img/Internet_VS_AI.png)
+
 ### AI产品经理与之区别 [8]
 
 ![产品](../img/Product_center.png)
@@ -54,6 +58,12 @@ IPM （Internet Product Manager），互联网产品经理是互联网公司中�
 AI PM首先创建/收集一个代表问题空间的数据集。只有这样，他们才会要求工程师对问题进行迭代，以提供需要解决的问题90%的准确性。而不是画UX。
 
 https://appen.com/ [26]
+
+法律法规和国家政策： [28]
+
+- 数据与隐私保护(egGeneral Data ProtectionRegulation)
+- 各种协议(开源软件、公开数据、公共数据集)
+- 大数据、人工智能战略(eg教育领域)
 
 #### 广泛涉猎 [18]
 
@@ -351,6 +361,14 @@ AI是一个技能型的职业，其主要的机会在于细分领域和交叉领
 
 Serving Infrastructure: This includes tools for model development (such as the Cloudera Data Science Workbench, Domino Data Lab, Data Robot, and Dataiku) and production serving infrastructure (such as Seldon, Sagemaker, and TFX). [24]
 
+## 难题 [29]
+
+- 通用产品vs定制方案
+- 完全没有数据vs没有标注数据
+- 炫酷的技术vs可怜的性能指标
+- 被宣传鼓舞的期待vs低可用性的产品
+- 产品整体指标vs个别 bad case
+- 沟通难题：与技术人员、与客户
 
 ## Awesome
 
@@ -431,3 +449,6 @@ https://learning.oreilly.com/library/view/ethics-and-data/9781492043898/
 [24]: https://www.oreilly.com/radar/practical-skills-for-the-ai-product-manager/
 [25]: https://medium.com/@donnabella/what-does-it-mean-to-be-an-ai-product-manager-d67dc97da2e1
 [26]: https://medium.com/@fabian.kutschera/udacitys-ai-product-manager-a-review-2faba9ba3669
+[27]: https://zhuanlan.zhihu.com/p/43888627
+[28]: https://www.bilibili.com/video/av800293586/
+[29]: https://www.bilibili.com/video/BV1xK4y1j7ep

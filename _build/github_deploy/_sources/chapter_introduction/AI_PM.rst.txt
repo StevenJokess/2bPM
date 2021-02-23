@@ -53,6 +53,13 @@ Manager）的本质是“营销产品经理”。因为需求相对明确、产�
 -  体验设计价值增大
 -  需求 + 体验：以用户为核心，横向组织资源，按需求生产和销售
 
+互联网 VS AI
+~~~~~~~~~~~~
+
+.. figure:: ../img/Internet_VS_AI.png
+
+   互联网时代 VS AI时代\ `27 <https://zhuanlan.zhihu.com/p/43888627>`__
+
 AI产品经理与之区别 `8 <https://easyai.tech/blog/ai-pm-knowledge/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -68,6 +75,13 @@ PM首先创建/收集一个代表问题空间的数据集。只有这样，他�
 
 https://appen.com/
 `26 <https://medium.com/@fabian.kutschera/udacitys-ai-product-manager-a-review-2faba9ba3669>`__
+
+法律法规和国家政策：
+`28 <https://www.bilibili.com/video/av800293586/>`__
+
+-  数据与隐私保护(egGeneral Data ProtectionRegulation)
+-  各种协议(开源软件、公开数据、公共数据集)
+-  大数据、人工智能战略(eg教育领域)
 
 广泛涉猎 `18 <http://www.woshipm.com/pd/2209024.html>`__
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -423,6 +437,16 @@ as the Cloudera Data Science Workbench, Domino Data Lab, Data Robot, and
 Dataiku) and production serving infrastructure (such as Seldon,
 Sagemaker, and TFX).
 `24 <https://www.oreilly.com/radar/practical-skills-for-the-ai-product-manager/>`__
+
+难题 `29 <https://www.bilibili.com/video/BV1xK4y1j7ep>`__
+---------------------------------------------------------
+
+-  通用产品vs定制方案
+-  完全没有数据vs没有标注数据
+-  炫酷的技术vs可怜的性能指标
+-  被宣传鼓舞的期待vs低可用性的产品
+-  产品整体指标vs个别 bad case
+-  沟通难题：与技术人员、与客户
 
 Awesome
 -------
