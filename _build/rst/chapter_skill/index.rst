@@ -18,6 +18,7 @@ skill
    MRD
    PRD
    prototype_design
+   collaborate
    upgrade_manage
    flow_chart
    TFD
