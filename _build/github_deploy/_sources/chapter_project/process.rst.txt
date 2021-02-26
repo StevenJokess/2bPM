@@ -110,7 +110,7 @@ App的开发环境搭配，确定技术框架，以及研发各种基础系统�
 业内较为常见的设计流程是CRISP-DM（Cross-Industry Standard Process for
 Data Mining，跨行业数据挖掘标准流程）
 
-.. figure:: CRISP-DM.png
+.. figure:: ../img/CRISP-DM.png
 
    CRISP-DM
 

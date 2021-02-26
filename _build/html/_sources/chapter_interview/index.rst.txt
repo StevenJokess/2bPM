@@ -15,3 +15,4 @@ Interview
    question
    not_go
    offer
+   hire

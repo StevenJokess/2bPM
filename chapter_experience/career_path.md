@@ -87,11 +87,21 @@
 ![path](../img/path.jpg)
 ![能力](../img/PM_top.jpg)
 
+## 分类
+
+- 执行类产品经理：指只掌握需求生产能力的产品经理；
+- 筹划类产品经理：指开始参与市场工作的产品经理。
+
+![产品经理能力[5]](../img/PM_class.png)
+
 **对比程序员的成长路径**
 
 :width:`400px`
 
 ![coder path](../img/coder_path.png)
+
+
+
 
 ## 了解产品流程 [2]
 
@@ -122,3 +132,4 @@
 [2]: http://www.woshipm.com/zhichang/906380.html
 [3]: https://www.yuque.com/weis/pm/lto95c
 [4]: http://www.woshipm.com/pmd/415296.html
+[5]: http://www.woshipm.com/pmd/2466877.html

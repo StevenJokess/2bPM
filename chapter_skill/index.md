@@ -9,6 +9,7 @@ BRD
 users_analysis
 priority
 industry_analysis
+experience_report
 compete_analysis
 goods_analysis
 MRD

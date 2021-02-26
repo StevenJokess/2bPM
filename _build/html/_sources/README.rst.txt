@@ -27,4 +27,10 @@ d2lbook2 deploy html
 
 感谢世界相逢的一切，不过也不重要了，我们会死在“光明的未来”。
 
+自我介绍
+--------
+
+人类幼儿园中班在读，超想读\ **超人类小学**\ ！
+简历：https://stevenjokess.github.io/2bPM/get_started.html
+
 TODO

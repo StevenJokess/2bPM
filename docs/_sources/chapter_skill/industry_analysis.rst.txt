@@ -88,11 +88,11 @@
 
 如何快速深入一个行业，笔者基于自身经验，罗列了如下6个维度：行业特点、行业运行趋势、商业模式、竞争力因素分析、行业整合、政府管制。以个人/家庭服务机器人为例。
 
-.. figure:: ../img/PM_industry.png
+.. figure:: ../img/PM_industry.jpg
 
    如何快速深入一个行业
 
-.. figure:: ../img/dive_industry.png
+.. figure:: ../img/dive_industry.jpg
 
    深入了解行业：点线面
 

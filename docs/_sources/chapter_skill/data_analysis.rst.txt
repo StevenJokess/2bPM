@@ -51,6 +51,10 @@
 -  ARPU（Average Revenue Per User） ：平均每用户收入
 -  ARPPU （Average Revenue Per Paying User）： 平均每付费用户收入
 
+.. figure:: ../img/AARRR.jpg
+
+   AARRR
+
 渠道数据分析
 ~~~~~~~~~~~~
 
@@ -94,6 +98,10 @@ PV > UV：
    。
 -  UV（独立访客）：即Unique
    Visitor,访问您网站的一台电脑客户端为一个访客。00:00-24:00内相同的客户端只被计算一次。
+
+.. figure:: ../img/UV.png
+
+   UV拆分
 
 -  另外就是APP的埋点数据，这个功能的点击率是多少？这个功能有多少人打开，又有多少人使用了？有多少人在频繁使用这个功能？等等，这些埋点数据要时常关注。结合数据变化来反思功能设计的问题，从而优化产品。
 
