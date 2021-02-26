@@ -20,6 +20,13 @@ IT系统——支付——信贷——大金融——生活
 
 |应用场景| `5 <https://www.donews.com/news/detail/4/3084506.htmls>`__
 
+“AI+金融”产业链
+---------------
+
+.. figure:: ../img/financial_AI.png
+
+   “AI+金融”产业链\ `6 <https://www2.deloitte.com/content/dam/Deloitte/cn/Documents/innovation/deloitte-cn-innovation-ai-whitepaper-zh-181126.pdf>`__
+
 为什么是金融+AI而非AI+金融呢\ `4 <https://tanxianlian.com/2020/05/15/%e9%87%91%e8%9e%8dai%e7%9a%84%e6%9c%aa%e6%9d%a5%e7%95%85%e6%83%b3/>`__
 -------------------------------------------------------------------------------------------------------------------------------------------
 

@@ -10,20 +10,6 @@ https://www.zhihu.com/market/paid_column/1251475507390050304/section/12514755136
 “那些口号喊得响、低估场景挑战、高估技术能力的公司大多会在泡沫中死掉。”GMIS全球机器智能峰会后，刘维在接受网易智能专访时这样评价AI创业现状。
 `9 <https://mp.weixin.qq.com/s?__biz=MzI3NTU3ODk1MQ==&mid=2247484933&idx=1&sn=e7b99f0686f5f4c6f9d41bc22a012881&chksm=eb03ef2ddc74663bc8f0ccca0f64c71a72e9e5583986806f81d86a799beca3d56ac970f461f9&scene=21#wechat_redirect>`__
 
-国际互联网
-----------
-
-.. figure:: ../img/international_AI.png
-
-   国际互联网企业产业布局图谱\ `10 <https://weread.qq.com/web/reader/40632860719ad5bb4060856kc9f326d018c9f0f895fb5e4>`__
-
-中国公司总览 `7 <https://daxueconsulting.com/ai-landscape-china/>`__
---------------------------------------------------------------------
-
-.. figure:: ../img/AI_company.jpg
-
-   AI公司
-
 阵营 `4 <https://zhuanlan.zhihu.com/p/33524676>`__
 --------------------------------------------------
 
@@ -40,6 +26,27 @@ https://www.zhihu.com/market/paid_column/1251475507390050304/section/12514755136
    Companies）：三个阵营中最接近终端用户的公司，提供垂直领域的AI服务，帮助用户解决具体场景中的具体问题。产品对行业的理解力和对行业趋势的洞察力是核心
 
 核心人工智能公司往往对产品经理在技术层面要求最高，应用人工智能其次，行业垂直应用人工智能公司是对产品经理的业务深度或行业理解深度要求最高。
+
+国际互联网
+----------
+
+.. figure:: ../img/international_AI.png
+
+   国际互联网企业产业布局图谱\ `10 <https://weread.qq.com/web/reader/40632860719ad5bb4060856kc9f326d018c9f0f895fb5e4>`__
+
+中国公司总览 `7 <https://daxueconsulting.com/ai-landscape-china/>`__
+--------------------------------------------------------------------
+
+|AI公司|
+|中国人工智能产业链图谱\ |\ `11 <https://www2.deloitte.com/content/dam/Deloitte/cn/Documents/innovation/deloitte-cn-innovation-ai-whitepaper-zh-181126.pdfs>`__
+新基建IT产业图谱: https://www.analysys.cn/article/detail/20019748
+
+报告
+----
+
+《中国人工智能软件及应用市场半年度研究报告》：https://www.idc.com/getdoc.jsp?containerId=prCHC46625720
+《中国AI云服务市场（2020上半年）跟踪》：https://www.idc.com/getdoc.jsp?containerId=prCHC47212020
+预测：https://www.idc.com/getdoc.jsp?containerId=prCHC47222921
 
 Baidu
 -----
@@ -107,3 +114,6 @@ http://search.stcn.com/was5/web/search?token=0.1584090199903.75&channelid=252914
 阿波罗的官网地址是： http://apollo.auto/
 
 源代码，文档与数据下载地址为： https://github.com/apolloauto
+
+.. |AI公司| image:: ../img/AI_company.jpg
+.. |中国人工智能产业链图谱\ | image:: ../img/AI_company_lian.jpg
