@@ -1,4 +1,10 @@
-# 管理项目
+# 项目管理
+
+## 定义 [2]
+
+PM能在产品的整个生命周期中，进行产品迭代的规划、各类资源的整合以及生产进度的把控。
+
+## VS Project Manager
 
 产品和开发的是同样的团队和同样的人，但在驱动产品和驱动项目这两件事情上，最好还是有所差别。至少产品更关注的是产品、功能、方向和反馈；而项目则更关注进度、质量和测试等。
 
@@ -7,5 +13,27 @@
 
 
 
+## 明确分工职责 [4]
+
+1. 明确产品方案
+1. 明确分工职责
+1. 明确项目排期
+1. 明确 Review 周期
+
+## Project
+
+https://www.iamxiarui.com/?paged=3&cat=111
+
+## UML
+
+https://www.iamxiarui.com/?p=1231
+
+## Axure
+
+https://www.iamxiarui.com/?p=1845
+
 
 [1]: https://www.zhihu.com/question/20102432
+[2]: https://www.iamxiarui.com/?p=1782
+[3]: https://www.iamxiarui.com/?p=1782
+[4]: https://www.iamxiarui.com/?p=1369
