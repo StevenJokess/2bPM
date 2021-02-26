@@ -18,16 +18,28 @@
 6. 特斯勒定律
 7. 新乡重夫：防错原则
 
-尼尔森十大原则
---------------
+尼尔森十大原则 `2 <https://weread.qq.com/web/reader/0c032c9071dbddbc0c06459k37632cd021737693cfc7149>`__
+-------------------------------------------------------------------------------------------------------
 
-1.  状态可见原则（Visibility of SystemStatus）。
-2.  环境贴切原则（Match between Systemand the Real World）。
-3.  用户可控原则（User Control andFreedom）。
-4.  一致性原则（Consistency andStandards）。
-5.  防错原则（Error Prevention）。
-6.  易取原则（Recognition Rather thanRecall）。
-7.  灵活高效原则（Flexibility and Efficiencyof Use）。
-8.  易扫原则（Aesthetic and MinimalistDesign）。
-9.  容错原则（Help Users Recognize，Diagnose，and Recover From Errors）
-10. 人性化帮助原则（Help andDocumentation）。
+**尼尔森十大可用性原则**\ 是人机交互学博士尼尔森（Nielsen）在分析了200多个可用性问题后提炼出的十项通用型原则，是产品设计与用户体验设计的重要参考标准，值得深入研究与运用。
+
+1.  **状态可见原则（Visibility of System
+    Status）**\ ：在产品使用过程中应该让用户知道发生了什么，并在合适的时间做出合适的反馈。
+2.  **环境贴切原则（Match between System and the Real
+    World）**\ ：在进行产品设计时应使用用户熟悉的语言体系、操作模式，尽量遵循现实世界中符合逻辑的交互过程。
+3.  **用户可控原则（User Control and
+    Freedom）**\ ：对于用户的一些误操作提供二次确认和错误修正功能，这样可以提高产品的可控性，否则对产品进行一些关键性操作可能带来毁灭性的打击。例如，数据删除操作，如果没有二次确认，可能会造成严重的影响。
+4.  **一致性原则（Consistency and
+    Standards）**\ ：在进行产品设计时采用的语言体系、操作模式、视觉风格、组件样式等应保持统一。
+5.  **防错原则（Error
+    Prevention）**\ ：在进行产品设计时，应提供防止误操作的机制，减少用户犯错的可能。例如，当关键数据没有填写时，保存按钮置灰等。
+6.  **无回忆原则（Recognition Rather
+    thanRecall）**\ ：在产品使用过程中，应尽量减少用户对操作过程的记忆负荷，所有的动作和处理都应该是可见的。用户在一个页面进行操作和处理时，无须记忆上一个页面的内容。
+7.  **灵活高效原则（Flexibility and Efficiency of
+    Use）**\ ：在产品设计过程中，应充分考虑操作的灵活性和信息传递的高效性，简化操作过程，减少信息传递过程，为用户提供更便捷的操作方式。就像在电子商务系统中寻找商品一样，如果商品种类过多，用户需要逐级查找才可以寻找到目标商品，为了避免出现分类过多的问题，电子商务系统提供了虚拟分类、分类导航等多种方式让用户可以便捷地找到目标商品。
+8.  **易扫原则（Aesthetic and Minimalist
+    Design）**\ ：保留主要信息展示，尽量避免无关信息影响主要信息，保证主要信息的简洁和美观。互联网用户浏览界面的动作不是读，也不是看，而是扫。易扫，意味着突出重点，弱化和剔除无关信息。
+9.  **容错原则（Help Users Recognize，Diagnose，and Recover From
+    Errors）**\ ：产品设计时应充分考虑用户可能出现的错误，并设计功能帮助用户从错误中恢复，将损失降到最低。如果无法自动挽回，则应提供详尽的说明文字和指导方向。
+10. **人性化帮助原则（Help
+    andDocumentation）**:优秀的产品不需要帮助文档，如果必须要提供帮助文档，则以流程化、图形化的形式提供。
