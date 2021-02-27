@@ -23,7 +23,11 @@ d2lbook2 deploy html
 
 ## 自我介绍
 
-人类幼儿园中班在读，超想读**超人类小学**！
+人类幼儿园中班在读，超想读**超人类小学**！人类都不过如此罢？
+
+跨级才是人才，在巨变的时代，几年经验都是扯淡！
+
 简历：https://stevenjokess.github.io/2bPM/get_started.html
+
 
 TODO

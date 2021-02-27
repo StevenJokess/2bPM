@@ -445,6 +445,14 @@ https://learning.oreilly.com/library/view/ethics-and-data/9781492043898/
 1. 一个计算一个人怀孕概率的算法，他们用它来发送优惠券和折扣————这个系统向一个十几岁的女孩发送了婴儿服装的优惠券，这让她的父亲非常愤怒:为什么他的女儿会被婴儿服装的优惠券盯上?但不久之后，塔吉特收到了他的道歉:女孩确实怀孕了。
 1. 产品的使用或应用方式与产品设计师的设想不同。无论是基于敏感推断的目标客户，还是人们刺激机器人，还是用于训练人脸检测算法的有偏见的数据集
 
+## 转行
+
+“别拿你的业余去挑战别人的专业”——你只看到了别人成功的一面，却没有看到别人背后的努力付出和专业的积累。[35]
+
+转型AI产品经理的三部曲：**输入、输出、实施。**其核心思路是，先有大量的input（AI相关信息摄入），再有干货文章输出，进而“自己给自己背书”，以此争取一线AI公司的面试和offer机会。
+
+从大学生到AI产品经理：https://mp.weixin.qq.com/s/tvPBiuNeyjZwvL94DWw3Dw
+
 
 
 [1]: https://www.boxuegu.com/news/4368.html
@@ -481,3 +489,4 @@ https://learning.oreilly.com/library/view/ethics-and-data/9781492043898/
 [32]: https://weread.qq.com/web/reader/0c032c9071dbddbc0c06459kb6d32b90216b6d767d2f0dc
 [33]: https://www.shangyexinzhi.com/article/1682418.html
 [34]: http://reader.epubee.com/books/mobile/f4/f4c52db61d39acb835e2709cbed1585e/text00004.html?fromPre=last
+[35]: https://weread.qq.com/web/reader/46532b707210fc4f465d044k6ea321b021d6ea9ab1ba605

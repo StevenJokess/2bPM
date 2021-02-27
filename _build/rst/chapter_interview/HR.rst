@@ -2,6 +2,11 @@
 HR
 ==
 
+HR是如何筛选简历的？\ `9 <https://blog.csdn.net/pA2elX78qaJTADH/article/details/80768104?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-11.control&dist_request_id=6f05adc5-b97c-4da8-ae1f-b2d8c5388ac8&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-11.control>`__
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+简历中突出优势、层次鲜明是必须的，招聘专员每天面对海量简历，往往10秒钟扫下简历中是否有AI、大厂、明星产品背景，统一的筛选标准有助于提升效率。而Boss直聘等个人渠道则不太一样，Boss往往更耐心，视角更专业。
+
 应聘前
 ------
 
