@@ -8,6 +8,7 @@ Interview
 .. toctree::
    :maxdepth: 2
 
+   zitai
    CV
    interviewer
    HR

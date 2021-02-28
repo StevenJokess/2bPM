@@ -135,6 +135,10 @@ Envolve Group Co-founder 刘嘉培Alex详细拆解了查阅报告材料和思考
 
 除了具体的方法与步骤，阿尔法公社投资经理Gang Liu还提醒大家，在做行研的时候不能求快，要以慢为快，在有限的时间段里，花更多的时间在研究上，方式方法重要，但执行同样重要。同时，要敬畏专业性，尽可能的找到这个领域的一线从业者或者专家，多跟他们交流。交叉验证，保持思辨性很重要。
 
+## 行业认知 [9]
+
+产品经理在一个行业待久了，大量的行业研究、竞品分析、用户访谈、数据分析、一轮又一轮的项目试错经验，最后都会沉淀为这个产品经理的行业认知，而这都是公司花大量真金白银买来的经验。比如，特定用户在打车的时候，究竟是对等候时间更敏感，还是对价格更敏感，抑或是对安全更敏感？如果这一敏感要素是等候时间，那么多久是用户的心理底线？如何通过产品策略来提升这个忍受值？这些问题的答案可能是产品经理花了大量时间、不断做实验摸索出来的认知。而如果能把这样的产品经理招到自己的团队，那么我们将瞬间获得这些宝贵的行业认知和经验。
+
 
 [1]: http://www.woshipm.com/zhichang/2124682.html
 [2]: https://www.linkedin.com/news/story/%E6%8A%95%E8%B5%84%E4%BA%BA%E8%AF%A5%E5%A6%82%E4%BD%95%E5%81%9A%E5%A5%BD%E8%A1%8C%E4%B8%9A%E7%A0%94%E7%A9%B6-5372810/
@@ -144,3 +148,4 @@ Envolve Group Co-founder 刘嘉培Alex详细拆解了查阅报告材料和思考
 [6]: https://www.shangyexinzhi.com/article/1924707.html
 [7]: http://reader.epubee.com/books/mobile/f4/f4c52db61d39acb835e2709cbed1585e/text00005.html
 [8]: https://weread.qq.com/web/reader/46532b707210fc4f465d044k37632cd021737693cfc7149
+[9]: https://weread.qq.com/web/reader/8d632bc07208ed1c8d697c4ka5732aa0226a5771bce9dc4

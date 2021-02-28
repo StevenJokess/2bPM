@@ -1,6 +1,6 @@
 # 2bPM
 
-学习如何成为AI产品经理并总结生成书
+学习如何成为AI产品经理并体系化总结生成书
 
 https://stevenjokess.github.io/2bPM/
 
@@ -30,4 +30,4 @@ d2lbook2 deploy html
 简历：https://stevenjokess.github.io/2bPM/get_started.html
 
 
-TODO
+TODO：https://my.oschina.net/u/4584889/blog/4394219

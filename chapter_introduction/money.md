@@ -203,7 +203,7 @@ Open source models, data and transfer learning are also enabling businesses to m
 - C轮：如果此时融资人的项目十分成熟，在行业内基本可以稳坐前三把交椅，正在为上市做准备，那么就适合进行C轮融资，此时除了可以进一步拓展新业务，也可以补全商业闭环，准备上市打好基础。
 - D轮、E轮、F轮：上市后的融资；
 
-
+首次公开募股（Initial Public Offering）是指一家企业第一次将它的股份向公众出售。
 
 [1]: https://tech.sina.com.cn/roll/2020-07-12/doc-iivhuipn2598506.shtml
 [2]: https://www.sohu.com/a/409718794_312708
@@ -215,3 +215,4 @@ Open source models, data and transfer learning are also enabling businesses to m
 [8]: https://www.oreilly.com/radar/theres-a-path-to-an-ai-roi/
 [9]: https://weread.qq.com/web/reader/0c032c9071dbddbc0c06459k65132ca01b6512bd43d90e3
 [10]: https://www.jianshu.com/p/83c7150ccdd8
+[11]: https://weread.qq.com/web/reader/8d632bc07208ed1c8d697c4k34132fc02293416a75f431d

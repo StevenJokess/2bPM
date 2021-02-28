@@ -8,6 +8,7 @@ need
 Product
 2B
 2C
+platform
 money
 PM
 AI
