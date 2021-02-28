@@ -29,3 +29,4 @@ skill
    research
    Valuation
    price
+   more_users
