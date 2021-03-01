@@ -14,10 +14,10 @@ compete_analysis
 goods_analysis
 MRD
 PRD
+flow_chart
 prototype_design
 collaborate
 upgrade_manage
-flow_chart
 TFD
 resource_manage
 data_analysis

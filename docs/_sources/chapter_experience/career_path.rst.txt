@@ -158,7 +158,7 @@
 
    coder path
 
-.. figure:: ../img/all_paths.png
+.. figure:: ../img/all_path.png
 
    职位路径
 

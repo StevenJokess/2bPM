@@ -6,7 +6,7 @@ BRD指的是商业需求文档（Business Requirement Document）。在这篇的
 
 BRD 是给谁看的呢？老板、投资人、股东，目的是让他们知道这款产品如何给公司盈利。BRD 的撰写侧重点是需求描述、盈利模式。产品总监或者产品VP（Vice President，副总监）才需要写BRD，初级产品经理基本接触不到BRD
 
-这篇文档常以PPT等形式，以数据说服他们，帮产品的立项，来获得公司资源支持。
+这篇文档常以PPT等形式，内容涉及市场分析、销售策略、盈利预测等[8]，以数据说服他们，帮产品的立项，来获得公司资源支持。
 
 ## 顺势而为 [7]
 
@@ -183,6 +183,9 @@ PEST分析与外部总体环境的因素互相结合就可归纳出SWOT分析中
 - 大量的广告需求
 - 不同的产品 （product differences）
 
+## 战略定位分析 SPAN
+
+Strategy positioning Analysis[9]
 
 [1]: http://www.woshipm.com/pmd/178527.html
 [2]: http://www.woshipm.com/pmd/21446.html
@@ -191,3 +194,5 @@ PEST分析与外部总体环境的因素互相结合就可归纳出SWOT分析中
 [5]: https://zh.wikipedia.org/wiki/PEST%E5%88%86%E6%9E%90
 [6]: https://zh.wikipedia.org/wiki/PEST%E5%88%86%E6%9E%90
 [7]: https://www.jianshu.com/p/a4b1fd94b49a
+[8]: https://quizlet.com/129588206/%E4%BA%BA%E4%BA%BA%E9%83%BD%E6%98%AF%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86-%E7%AC%94%E8%AE%B0-flash-cards/
+[9]: http://reader.epubee.com/books/mobile/a0/a0bcbc34f65fcce9147c5238fb6d210b/text00021.html

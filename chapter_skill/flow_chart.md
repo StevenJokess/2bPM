@@ -1,4 +1,12 @@
-# 流程图[1]
+# 流程图 [1]
+
+## 编写有效用例 [6]
+
+- 低精度：页面流程图（页面名称、页面内容、判断、触发动作和跳转）
+- 中精度：静态页面（导航信息、组件元素、页面布局-栅格系统、文案信息、重要备注）
+- 高精度：动态高保真原型
+
+## 画流程图
 
 画流程应该是最基本最必要的技能。但往往大多数新产品人却对流程的概念异常模糊。
 
@@ -191,3 +199,4 @@
 [3]: https://coffee.pmcaff.com/article/2714966199749760/pmcaff?utm_source=forum
 [4]: http://www.woshipm.com/pd/675174.html
 [5]: http://www.woshipm.com/pmd/3864.html
+[6]: https://www.yinxiang.com/everhub/note/f9ab87ee-73e6-4241-9428-9507cbfd007f

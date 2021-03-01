@@ -1,5 +1,8 @@
 # 产品体验报告 [1]
 
+目的是锻炼和培养"产品敏感度"和"共情心理". 特别注意需求提炼、场景描述这2个部分. 最重要的是, 要锻炼到一看到产品, 就能很快代入用户角色, 从用户的场景和视角来思考问题。[2]
+
+
 1．需求分析
 1.1 产品定义
 1.2 用户需求
@@ -7,4 +10,9 @@
 
 3．竞品分析
 
+https://www.bilibili.com/video/BV1ng4y1z7tW?from=search&seid=6415503955533295161
+
+
+
 [1]: https://www.jianshu.com/p/9fff898ce6bd
+[2]: https://www.zhihu.com/people/woyaonuliya/postss

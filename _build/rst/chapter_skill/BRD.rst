@@ -13,7 +13,7 @@ BRD
 的撰写侧重点是需求描述、盈利模式。产品总监或者产品VP（Vice
 President，副总监）才需要写BRD，初级产品经理基本接触不到BRD
 
-这篇文档常以PPT等形式，以数据说服他们，帮产品的立项，来获得公司资源支持。
+这篇文档常以PPT等形式，内容涉及市场分析、销售策略、盈利预测等\ `8 <https://quizlet.com/129588206/%E4%BA%BA%E4%BA%BA%E9%83%BD%E6%98%AF%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86-%E7%AC%94%E8%AE%B0-flash-cards/>`__\ ，以数据说服他们，帮产品的立项，来获得公司资源支持。
 
 顺势而为 `7 <https://www.jianshu.com/p/a4b1fd94b49a>`__
 -------------------------------------------------------
@@ -213,3 +213,9 @@ PEST分析与外部总体环境的因素互相结合就可归纳出SWOT分析中
 -  每单位附加价值摊提到的固定资产
 -  大量的广告需求
 -  不同的产品 （product differences）
+
+战略定位分析 SPAN
+-----------------
+
+Strategy positioning
+Analysis\ `9 <http://reader.epubee.com/books/mobile/a0/a0bcbc34f65fcce9147c5238fb6d210b/text00021.html>`__
