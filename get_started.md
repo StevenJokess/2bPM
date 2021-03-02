@@ -2,10 +2,10 @@
 
 AI产品经理是直接应用或间接涉及了AI技术，进而完成相关AI产品的设计、研发、推广、产品生命周期管理等工作的产品经理。由于AI的技术领域太多、且有更多和垂直行业结合的机会，导致细分AI领域的产品经理所需要的背景和能力可能大不相同。[1]
 
+![最新简历](/img/new_resume.jpg)
 
 <embed width=100% height=100% fullscreen=yes
-src="../蔡舒起-AI产品经理-动手学深度学习GAN开发者.pdf" />
-
+src="/蔡舒起-AI产品经理-动手学深度学习GAN开发者.pdf" />
 
 ## [求职AI产品经理，点击下载简历PDF](https://github.com/StevenJokess/StevenJokess.github.io/blob/master/%E8%94%A1%E8%88%92%E8%B5%B7-AI%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86-%E5%8A%A8%E6%89%8B%E5%AD%A6%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0GAN%E5%BC%80%E5%8F%91%E8%80%85.pdf)
 
