@@ -7,7 +7,7 @@ AI产品经理是直接应用或间接涉及了AI技术，进而完成相关AI�
 .. raw:: html
 
    <embed width=100% height=100% fullscreen=yes
-   src="./蔡舒起-AI产品经理-动手学深度学习GAN开发者_nophone.pdf" />
+   src="https://github.com/StevenJokess/2bPM/blob/master/蔡舒起-AI产品经理-动手学深度学习GAN开发者_nophone.pdf" />
 
 `点击下载整页简历PDF <https://github.com/StevenJokess/2bPM/blob/master/蔡舒起-AI产品经理-动手学深度学习GAN开发者_nophone.pdf>`__
 --------------------------------------------------------------------------------------------------------------------------------
