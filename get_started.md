@@ -4,7 +4,7 @@ AI产品经理是直接应用或间接涉及了AI技术，进而完成相关AI�
 
 **电子邮箱: llgg8679@qq.com**
 
-<embed src="http://github.com/StevenJokess/2bPM蔡舒起-AI产品经理-动手学深度学习GAN开发者.pdf"
+<embed src="http://github.com/StevenJokess/2bPM/蔡舒起-AI产品经理-动手学深度学习GAN开发者.pdf"
  type="application/pdf">
 
 
