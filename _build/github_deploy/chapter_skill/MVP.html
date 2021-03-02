@@ -212,6 +212,8 @@ Show Source
 <li class="toctree-l2"><a class="reference internal" href="../chapter_dive/company_research.html">7.4. 公司研究</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../chapter_dive/alipay.html">7.5. 支付宝</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../chapter_dive/dm-ai.html">7.6. 暗物智能</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_dive/DL.html">7.7. 深度学习算法</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_dive/develop.html">7.8. 人才培养</a></li>
 </ul>
 </li>
 </ul>
@@ -361,6 +363,8 @@ Show Source
 <li class="toctree-l2"><a class="reference internal" href="../chapter_dive/company_research.html">7.4. 公司研究</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../chapter_dive/alipay.html">7.5. 支付宝</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../chapter_dive/dm-ai.html">7.6. 暗物智能</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_dive/DL.html">7.7. 深度学习算法</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_dive/develop.html">7.8. 人才培养</a></li>
 </ul>
 </li>
 </ul>
@@ -377,6 +381,10 @@ Show Source
   <div class="section" id="mvp">
 <h1><span class="section-number">3.14. </span>MVP<a class="headerlink" href="#mvp" title="Permalink to this headline">¶</a></h1>
 <p>传统的产品开发流程，先定义最终产品，然后逐步进行开发测试上线，这通常需要花费数月甚至数年的时间。当投入使用后，才知道产品是否和市场契合，用户是否喜爱。如果失败了，则浪费大量的人力物力财力。而MVP呢，倡导先开发一款具有基本功能和吸引力的产品，立即投入运行，视市场的反馈来决定是继续还是转型，有效地降低了风险、而且能及时获取用户反馈。</p>
+<div class="figure align-default" id="id7">
+<img alt="chapter_skill/../img/MVP_build.png" src="chapter_skill/../img/MVP_build.png" />
+<p class="caption"><span class="caption-number">Fig. 3.14.1 </span><span class="caption-text">MVP建造<a class="reference external" href="https://www.yuque.com/wuxinghua/01/uqgdgxs">3</a></span><a class="headerlink" href="#id7" title="Permalink to this image">¶</a></p>
+</div>
 <div class="section" id="mvp-1">
 <h2><span class="section-number">3.14.1. </span>原型与MVP <a class="reference external" href="https://www.jianshu.com/p/5b078398f632">1</a><a class="headerlink" href="#mvp-1" title="Permalink to this headline">¶</a></h2>
 <p>在《Managing Software Requirements:A Use Case
@@ -387,9 +395,9 @@ Blank（Steve Blank和下文的Eric
 Ries均为MVP推广者）的建议是：既然团队目标是想确定农场主是否愿意购买数据，而农场主并不关心数据是来自卫星、无人机或者魔法，那么，只需要租借一个手动控制的飞机模型、安装上普通相机，然后飞跃农场拍摄、手动处理数据，再验证农场主是否愿意为这些信息付费即可。</p>
 <p>因此，在上文的两个例子中，Dropbox的视频是原型，Steve
 Blank建议的遥控飞机是MVP。</p>
-<div class="figure align-default" id="id4">
+<div class="figure align-default" id="id8">
 <img alt="chapter_skill/../img/prototype_VS_MVP.png" src="chapter_skill/../img/prototype_VS_MVP.png" />
-<p class="caption"><span class="caption-number">Fig. 3.14.1 </span><span class="caption-text">原型和MVP比较</span><a class="headerlink" href="#id4" title="Permalink to this image">¶</a></p>
+<p class="caption"><span class="caption-number">Fig. 3.14.2 </span><span class="caption-text">原型和MVP比较</span><a class="headerlink" href="#id8" title="Permalink to this image">¶</a></p>
 </div>
 </div>
 <div class="section" id="id1">
@@ -410,6 +418,45 @@ Blank建议的遥控飞机是MVP。</p>
 <p>应用市场官方将产品选入精品推荐，代表产品得到了某市场官方的认可，或者某市场官方刚好对此类产品有需求。而用户主动分享则代表用户主动下载并使用了这款产品以后，非常满意并认为这款产品远远超出了自己的预期。这也代表产品提供了超出预期的解决方案，为后续进行大规模的人工干预打下了良好的基础。</p>
 <p>无论是自然增长用户的增加还是主动分享用户的增加，都在于产品品质已经过关；而产品品质过关的核心在于产品抓住了用户最核心的需求，从而提供了超出预期的解决方案。</p>
 </div>
+<div class="section" id="mvp-3">
+<h3><span class="section-number">3.14.2.3. </span>MVP必备模块 <a class="reference external" href="https://www.yuque.com/wuxinghua/01/uqgdgxs">3</a><a class="headerlink" href="#mvp-3" title="Permalink to this headline">¶</a></h3>
+<p>MVP产品除了核心流程以外,还有几个必备模块,这里做一下简单的介绍</p>
+<div class="section" id="id4">
+<h4><span class="section-number">3.14.2.3.1. </span>便捷的反馈渠道<a class="headerlink" href="#id4" title="Permalink to this headline">¶</a></h4>
+<p>尽可能为用户在MVP产品内提供便捷的反馈机制，而不仅仅是微信群和QQ群。为什么用户发现问题了，最希望第一时间把自己的疑问或者不满反应出来，微信群和QQ群毕竟有滞后性;其次，微信群和αQ群接触的用户可数量不足，在群里活跃的可能就老是那几个人，一个个去私聊嘛，效率可能低。所以，我们在微信QQ以外还是结合套内部反馈机制比较好</p>
+</div>
+<div class="section" id="id5">
+<h4><span class="section-number">3.14.2.3.2. </span>数据埋点不可少<a class="headerlink" href="#id5" title="Permalink to this headline">¶</a></h4>
+<p>MVP的目的就是要验证。因此相应的数据埋点也不可少(纸面原型和墨刀原型不能埋点)。但是简单开发的还是可以埋点的。但是传统的数据埋点方法耗时比较久，这里我推荐
+growing
+io，只需要把一段SDK代码埋入网页和应用中，产品经理和运营人员就可以快速自己埋点(也有类似产品，比如诸葛IO，神策，但是我没用过，不好评价)</p>
+</div>
+<div class="section" id="id6">
+<h4><span class="section-number">3.14.2.3.3. </span>前期用户调研不可少<a class="headerlink" href="#id6" title="Permalink to this headline">¶</a></h4>
+<p>做MVP虽然从某种意义上可以理解为用户调硏的一种延伸，但是不能因为有了MVP就忽视了正式的用户调研。毕竟MVP也是要依赖于前期用户调研。</p>
+</div>
+</div>
+<div class="section" id="mvpmmp-4">
+<h3><span class="section-number">3.14.2.4. </span>区分MVP与MMP <a class="reference external" href="http://www.shinescrum.com/news_and_events/mvp">4</a><a class="headerlink" href="#mvpmmp-4" title="Permalink to this headline">¶</a></h3>
+<div class="section" id="mmp-minimum-marketable-product">
+<h4><span class="section-number">3.14.2.4.1. </span>MMP(Minimum Marketable Product)是什么？<a class="headerlink" href="#mmp-minimum-marketable-product" title="Permalink to this headline">¶</a></h4>
+<p>MMP是将为客户提供的最小特性集合构成一个产品发布,
+目标是抢占市场窗口，而且在发布后可以及早获取真实用户的反馈，为产品的迭代演进提供输入。MMP
+(Minimum Marketable
+Product)的思想是非常敏捷的，但那是在产品的Idea和商业模式得到验证后，开始启动产品研发的工作方法。</p>
+<p>永远都不要期望一个版本里做尽可能多的需求，而是相反：以最少的特性先发布第一个版本，这个版本要体现产品的独特价值主张。这样的策略有以下几点优势：</p>
+<ol class="arabic simple">
+<li><p>抢占市场先机</p></li>
+<li><p>及早获取真实用户的反馈</p></li>
+<li><p>依据第一版本的市场反馈，决策后续迭代的演进，从而减少不必要的需求开发，减少浪费。</p></li>
+</ol>
+<p>那么如何决定哪些特性在MMP里发布呢？</p>
+<ul class="simple">
+<li><p>首先依据核心价值主张，那些不在核心价值主张的特性，一定不在MMP里；</p></li>
+<li><p>其次，对每个特性，问一个问题：如果没有它会怎么样？如果没有它用户可以完成基本场景的使用，那就可以没有。</p></li>
+</ul>
+</div>
+</div>
 </div>
 </div>
 
@@ -427,6 +474,16 @@ Blank建议的遥控飞机是MVP。</p>
 <li><a class="reference internal" href="#id1">3.14.2. 最小可行性测试 2</a><ul>
 <li><a class="reference internal" href="#id2">3.14.2.1. 自然增长用户</a></li>
 <li><a class="reference internal" href="#id3">3.14.2.2. 主动分享用户</a></li>
+<li><a class="reference internal" href="#mvp-3">3.14.2.3. MVP必备模块 3</a><ul>
+<li><a class="reference internal" href="#id4">3.14.2.3.1. 便捷的反馈渠道</a></li>
+<li><a class="reference internal" href="#id5">3.14.2.3.2. 数据埋点不可少</a></li>
+<li><a class="reference internal" href="#id6">3.14.2.3.3. 前期用户调研不可少</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#mvpmmp-4">3.14.2.4. 区分MVP与MMP 4</a><ul>
+<li><a class="reference internal" href="#mmp-minimum-marketable-product">3.14.2.4.1. MMP(Minimum Marketable Product)是什么？</a></li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>

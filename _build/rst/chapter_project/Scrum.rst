@@ -200,5 +200,12 @@ WIP）的数量会显示出瓶颈。
 需求敏捷
 ~~~~~~~~
 
-所有公司都用专门的问题反馈线：客户->Customer Service->Support
-Engineer->PM->SDM->SDE
+所有公司都用专门的问题反馈线：
+
+客户->Customer Service->Support Engineer->PM->SDM->SDE
+
+更多
+~~~~
+
+2020 Scrum
+Guide（含中英文版）\ `Download <http://www.shinescrum.com/downloads/Scrum%E6%8C%87%E5%8D%972020%E4%B8%AD%E8%8B%B1%E6%96%87%E7%89%88.zip>`__
