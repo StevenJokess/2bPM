@@ -23,17 +23,11 @@ PM能在产品的整个生命周期中，进行产品迭代的规划、各类资
 1. 明确项目排期
 1. 明确 Review 周期
 
-## Project
+## 周报 [6]
 
-https://www.iamxiarui.com/?paged=3&cat=111
+写好周报的重点在于方法论建设，知识传承的核心在于能够真正用到实际工作中且可以快速复制。而周报本身就是基于自身工作的且与团队成员有极强的契合度，因此更容易引起共鸣，产生实际的价值。产品经理切记，从入职的第一天起就要启动周报的知识传承。下面为大家提供一个周报模板。
 
-## UML
-
-https://www.iamxiarui.com/?p=1231
-
-## Axure
-
-https://www.iamxiarui.com/?p=1845
+![周报模板](../img/week_report.jpg)
 
 
 [1]: https://www.zhihu.com/question/20102432
@@ -41,3 +35,4 @@ https://www.iamxiarui.com/?p=1845
 [3]: https://www.iamxiarui.com/?p=1782
 [4]: https://www.iamxiarui.com/?p=1369
 [5]: https://quizlet.com/129588206/%E4%BA%BA%E4%BA%BA%E9%83%BD%E6%98%AF%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86-%E7%AC%94%E8%AE%B0-flash-cards/s
+[6]: https://www.zhihu.com/pub/reader/119980992/chapter/1284104645191839744

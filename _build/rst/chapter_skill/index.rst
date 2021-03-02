@@ -19,6 +19,7 @@ skill
    MRD
    PRD
    flow_chart
+   static_page
    prototype_design
    collaborate
    upgrade_manage
@@ -26,6 +27,7 @@ skill
    resource_manage
    data_analysis
    project_manage
+   tools
    research
    Valuation
    price

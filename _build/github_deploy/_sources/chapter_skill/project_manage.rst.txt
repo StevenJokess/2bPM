@@ -29,17 +29,11 @@ VS Project Manager
 3. 明确项目排期
 4. 明确 Review 周期
 
-Project
--------
+周报 `6 <https://www.zhihu.com/pub/reader/119980992/chapter/1284104645191839744>`__
+-----------------------------------------------------------------------------------
 
-https://www.iamxiarui.com/?paged=3&cat=111
+写好周报的重点在于方法论建设，知识传承的核心在于能够真正用到实际工作中且可以快速复制。而周报本身就是基于自身工作的且与团队成员有极强的契合度，因此更容易引起共鸣，产生实际的价值。产品经理切记，从入职的第一天起就要启动周报的知识传承。下面为大家提供一个周报模板。
 
-UML
----
+.. figure:: ../img/week_report.jpg
 
-https://www.iamxiarui.com/?p=1231
-
-Axure
------
-
-https://www.iamxiarui.com/?p=1845
+   周报模板

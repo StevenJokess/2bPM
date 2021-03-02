@@ -15,6 +15,7 @@ goods_analysis
 MRD
 PRD
 flow_chart
+static_page
 prototype_design
 collaborate
 upgrade_manage
@@ -22,6 +23,7 @@ TFD
 resource_manage
 data_analysis
 project_manage
+tools
 research
 Valuation
 price
