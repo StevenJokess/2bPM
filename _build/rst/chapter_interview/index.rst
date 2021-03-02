@@ -11,6 +11,7 @@ Interview
    zitai
    choose
    CV
+   AI_Finance_CV
    interviewer
    HR
    reward

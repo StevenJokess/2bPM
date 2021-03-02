@@ -173,7 +173,7 @@ NFS、GFS、NTDFS、XFS 等，甚至做过几年 Windows
 
    coder path
 
-.. figure:: ../img/all_path.png
+.. figure:: ../img/all_path.jpg
 
    职位路径
 

@@ -149,7 +149,7 @@
 
 ![coder path](../img/coder_path.png)
 
-![职位路径](../img/all_path.png)
+![职位路径](../img/all_path.jpg)
 
 ## 了解产品流程 [2]
 
