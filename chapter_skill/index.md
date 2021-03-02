@@ -17,6 +17,7 @@ PRD
 flow_chart
 static_page
 prototype_design
+MVP
 collaborate
 upgrade_manage
 TFD
