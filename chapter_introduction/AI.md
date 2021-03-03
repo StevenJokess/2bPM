@@ -1,5 +1,9 @@
 # AI
 
+## 历史
+
+![AI历史[12]](../img/AI_history.png)
+
 ## 细分
 
 ![AI类别](../img/AI_class.jpg)
@@ -114,7 +118,19 @@ AI革命可以看作是生产力的革命，从生产力的角度讲，第一是
 - 例如：新零售，用户需要货来匹配人，这里需要LBS和更多智能传感器的数据来服务人。
 - 例如：线下商铺原来是不知道哪个用户来逛街，哪个潜在消费者在哪个商品前停留的更久，节假日购买热销商铺结账需要排队等等需求正好使得AI产品得以展身手的时刻。
 
+## 物联网、大数据、人工智能的融合 [10]
 
+![融合[11]](../img/AI_mix.jpg)
+
+从整体闭环的角度考虑，从感知层、数据处理和传输层、决策层来看，
+
+物联网是将终端、将感知器接入到网络中，使数据可用，他起到了感知数据的作用，在这个层面上，人工智能的感知能力也可以起到数据结构化的作用，比如语音机器人、图像识别等，能够获取到非结构化数据中的结构化信息。
+
+大数据能够汇总所有的结构化、非结构化数据，做为数据湖泊，将各类数据做整合、做计算、做处理、做层次传输。
+
+最终数据给到人工智能去做最终的数据计算、挖掘、预测、归类等等，给出决策再传递到物联网层面去做具体的执行。
+
+整体形成各层面的闭环：物联网->大数据->人工智能->大数据->物联网
 
 [1]: https://www.jianshu.com/p/2659f66a57b3
 [2]: https://easyai.tech/blog/ai-pm-knowledge/
@@ -125,3 +141,6 @@ AI革命可以看作是生产力的革命，从生产力的角度讲，第一是
 [7]: https://www.zhihu.com/people/hanniman-2/posts?page=4
 [8]: http://www.crazypm.com/zixun/102296.html
 [9]: https://pair.withgoogle.com/chapter/user-needs/
+[10]: https://www.zhihu.com/people/muzimuhua/answers/by_votes
+[11]: http://www.changgpm.com/thread-350-1-1.html
+[12]: http://www.changgpm.com/thread-248-1-1.html

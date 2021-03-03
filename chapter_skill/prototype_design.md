@@ -24,6 +24,14 @@
 
 高保真原型：开发和设计参与，原型可交互，可录入信息，可以实现所有流程，有动画效果，字体、配色和配图与真实产品一致；
 
+### 线框图
+
+![线框图[7]](../img/lineframe_chart.jpg)
+
+
+
+
+
 ## 反馈圈分类
 
 团队成员或朋友：团队成员，公司员工，社交圈朋友。特点：容易找到，易与沟通。使用低保真原型，了解主要流程是否存在问题。
@@ -82,3 +90,4 @@ Axure文件的后缀名RP（Rapid Prototyping）指快速原型
 [4]: https://www.jianshu.com/p/cb6ae5a3f3fa
 [5]: https://blog.nowcoder.net/n/9bd8651faead4a73ae344be0b74128de
 [6]: https://www.jianshu.com/nb/9076183
+[7]: https://www.bilibili.com/video/BV1Yx411f7d6?from=search&seid=9942601070785163162

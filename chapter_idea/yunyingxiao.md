@@ -33,6 +33,14 @@
 
 - https://zhuanlan.zhihu.com/p/93474666
 
+### NEXT方法 [5]
+
+N(NEW)：做出了 （New）新的产品价值（WHY）
+E(Expolsive)：无法脱颖而出的产品，其实是因为做得还不够极致。
+X(XENOGENEIC)：必须走出MRD，多做田野调查，多与用户面对面交流。
+T(TALENT)：越用这些产品用户越觉得这些产品懂自己。
+
+
 ## 营销
 
 ### 营销很好，没有盈利
@@ -58,6 +66,15 @@
 1. 客户流失。过度饥饿营销，就是将客户“送”给竞争对手。
 2. 顾客反感。过度饥饿营销，会让消费者饿到冷静，觉得被愚弄，对品牌产生厌恶。
 
+## 销售
+
+永远把客户的利益放在第一位，尽全力帮助客户成功。
+
+如果你是客户，你想要什么样的方案
+
+
 [1]: https://baike.baidu.com/item/%E4%BA%A7%E5%93%81%E8%BF%90%E8%90%A5/1978562
 [2]: https://www.zhihu.com/pub/reader/119911878/chapter/1283841129226715136
 [3]: https://www.zhihu.com/pub/reader/119980992/chapter/1284104607329615872
+[4]: https://www.zhihu.com/question/33474046/answer/549712759
+[5]: http://www.changgpm.com/

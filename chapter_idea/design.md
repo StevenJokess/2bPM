@@ -106,6 +106,11 @@
 - 用户测试
 - 原型验证
 
+## AI产品设计原则 [10]
+
+1. 数据驱动：用户行为日志是用户需求挖掘的宝地，用日志分析当前提供服务的满足度，以及挖掘潜在用户需求，迭代验证产品方案，闭环跑通。
+1. 容错设计：由于推理的概率性错误，加上不能一蹴而就。就需要有容错设计来解决。
+1. 上新的机制：为了节省研发和设计AI模型的时间成本，要在初期就定义好产品的信息架构，并尽量复用已有的产品样式
 
 [1]: https://weread.qq.com/web/reader/8d232b60721a488e8d21e54kaab325601eaab3238922e53
 [2]: https://weread.qq.com/web/reader/0c032c9071dbddbc0c06459k37632cd021737693cfc7149
@@ -116,3 +121,4 @@
 [7]: https://weread.qq.com/web/reader/77532110721ea34a7751c9ak02e32f0021b02e74f10ece8
 [8]: https://www.bilibili.com/video/BV1tU4y1W7zq?spm_id_from=333.851.b_62696c695f7265706f72745f6469676974616c.18
 [9]: https://www.yinxiang.com/everhub/note/f9ab87ee-73e6-4241-9428-9507cbfd007f
+[10]: https://zhuanlan.zhihu.com/p/80134682
