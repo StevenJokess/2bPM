@@ -35,10 +35,14 @@
 
 ### NEXT方法 [5]
 
-N(NEW)：做出了 （New）新的产品价值（WHY）
-E(Expolsive)：无法脱颖而出的产品，其实是因为做得还不够极致。
-X(XENOGENEIC)：必须走出MRD，多做田野调查，多与用户面对面交流。
-T(TALENT)：越用这些产品用户越觉得这些产品懂自己。
+- N(NEW)：做出了 （New）新的产品价值（WHY）
+- E(Expolsive)：无法脱颖而出的产品，其实是因为做得还不够极致。
+- X(XENOGENEIC)：必须走出MRD，多做田野调查，多与用户面对面交流。
+- T(TALENT)：越用这些产品用户越觉得这些产品懂自己。
+
+### AI产品的运营 [6]
+
+上线、包装、宣传，产品经理尽量评估产品的商业化和产品化效果，动态调整算法模型的研发投入量。
 
 
 ## 营销
@@ -78,3 +82,4 @@ T(TALENT)：越用这些产品用户越觉得这些产品懂自己。
 [3]: https://www.zhihu.com/pub/reader/119980992/chapter/1284104607329615872
 [4]: https://www.zhihu.com/question/33474046/answer/549712759
 [5]: http://www.changgpm.com/
+[6]: http://www.xmamiga.com/3573/

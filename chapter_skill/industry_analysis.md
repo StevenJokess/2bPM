@@ -35,9 +35,13 @@ Hype Cycle, 直译为炒作周期， 又称为技术成熟度曲线。 名为炒
 
 Hype Cycle曲线的横轴表示技术的成熟度， 纵轴表示技术受关注程度。
 
+
 ### 关键阶段 [6]
 
+![Dunning-Kruger Effect](../img/Dunning_Effect.jpg)
+
 ![技术成熟度曲线](../img/hype_cycle.jpg)
+![技术成熟度曲线细节](../img/hype_cycle_detail.jpg)
 
 每个技术成熟度曲线都将技术的生命周期划分为五个关键阶段：
 

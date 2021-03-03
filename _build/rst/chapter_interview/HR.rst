@@ -38,6 +38,10 @@ HR面试是拿Offer前的最后一关 `4 <https://weread.qq.com/web/reader/8d232
 
 正确做法应该是你给出一个你的期望薪资，并补上一句“我可以接受一定程度的薪资浮动”。
 
+.. figure:: ../img/salary.png
+
+   各大厂薪资
+
 考察重点分析
 ------------
 
