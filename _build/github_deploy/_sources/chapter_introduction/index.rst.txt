@@ -16,6 +16,7 @@ Introduction
    money
    PM
    AI
+   AI_Product
    AI_PM
    ability
    opportunity

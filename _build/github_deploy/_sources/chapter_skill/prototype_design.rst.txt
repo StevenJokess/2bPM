@@ -29,6 +29,13 @@
 
 高保真原型：开发和设计参与，原型可交互，可录入信息，可以实现所有流程，有动画效果，字体、配色和配图与真实产品一致；
 
+线框图
+~~~~~~
+
+.. figure:: ../img/lineframe_chart.jpg
+
+   线框图\ `7 <https://www.bilibili.com/video/BV1Yx411f7d6?from=search&seid=9942601070785163162>`__
+
 反馈圈分类
 ----------
 

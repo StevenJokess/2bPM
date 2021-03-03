@@ -2,6 +2,8 @@
 AI 硬件 `1 <https://www.jianshu.com/p/111d9fcc005e?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation>`__
 =============================================================================================================================================
 
+智能硬件比如现在流行的智能音箱和智能手环等
+
 方案+研究+生产
 --------------
 
@@ -28,6 +30,8 @@ AI 硬件 `1 <https://www.jianshu.com/p/111d9fcc005e?utm_campaign=maleskine&utm_
 
 硬件AI PM
 ---------
+
+智能硬件产品经理一种是规划应用AI技术，统筹规划设计生产出智能硬件产品的产品经理角色。
 
 硬能力核心流程如下图：
 
