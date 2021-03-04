@@ -187,6 +187,8 @@ BCG的价值3层面把商业模式分成了价值定位和价值传导2个大的
 - 基于企业服务费的商业路径：参照行业内对手的收费模式，是按单收费，还是按配置收费 （朝头部客户去做，有大订单，投入产出比高，eg：金融领域千万订单）
 - 基于互联网玩法的商业路径：小度音箱的模式，先近于免费抢占市场，后割韭菜。（SAAS服务一视同仁，找代理铺量）
 
+TODO:[14]
+
 ## 阿里云视觉智能开放平台 [4] [5] [6]
 
 商业化提供了预付费QPS、后付费、预付费资源包、按量付费四种收费模式。
@@ -208,3 +210,4 @@ BCG的价值3层面把商业模式分成了价值定位和价值传导2个大的
 [11]: https://weread.qq.com/web/reader/0c032c9071dbddbc0c06459k1c3321802231c383cd30bb3
 [12]: https://weread.qq.com/web/reader/46532b707210fc4f465d044k6ea321b021d6ea9ab1ba605
 [13]: https://www.zhihu.com/pub/reader/119583028/chapter/1057335986127769600s
+[14]: https://radiant-brushlands-42789.herokuapp.com/medium.com/predict/choosing-the-right-ai-business-model-df5d81420d74

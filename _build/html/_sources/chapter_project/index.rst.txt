@@ -10,6 +10,7 @@ project
 
    AI_industry_analysis
    AI_company
+   AI_talents
    AI_Finance
    AI_fit
    AI_hardware

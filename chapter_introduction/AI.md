@@ -1,5 +1,7 @@
 # AI
 
+“软件正在吞噬世界，但AI会吃软件”，Jensen Huang（Nvidia首席执行官）
+
 ## 历史
 
 ![AI历史[12]](../img/AI_history.png)
@@ -7,6 +9,18 @@
 ## 细分
 
 ![AI类别](../img/AI_class.jpg)
+
+## 类型 [13]
+
+- “肌肉T恤”——忽悠
+- “建美男”——AlphaGo作秀
+- “搏击手”——怎么实用怎么来
+
+## HBI原则
+
+- 高频（High frequency）
+- 大数据（Big data）
+- 没有规律（Irregular）
 
 ## AI在其中扮演什么角色 [6]
 
@@ -144,3 +158,4 @@ AI革命可以看作是生产力的革命，从生产力的角度讲，第一是
 [10]: https://www.zhihu.com/people/muzimuhua/answers/by_votes
 [11]: http://www.changgpm.com/thread-350-1-1.html
 [12]: http://www.changgpm.com/thread-248-1-1.html
+[13]: https://easyai.tech/blog/test-ai-with-hbi/

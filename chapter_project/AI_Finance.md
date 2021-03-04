@@ -135,6 +135,16 @@ IDC《中国AI落地白皮书》中也提到，金融产业对于AI的应用最�
 
 “投”与“顾” 不平衡，用户深度互动缺失:目前，金融的智能投顾产品处于探索初级阶段，投资端智能化程度显著不足，顾问端仅仅优 化了操作的便捷性，缺乏与用户的深度互动，智能投顾探索不应局限于金融机构，而应引入更多外部科技力量推动真正智能投顾的实现。
 
+## 金融保险（Finance and insurance） [16]
+
+- 4Paradigm
+- BioCatch
+- DataVisor
+- HyperScience
+- Behavox
+- AppZen
+
+
 ## AI 在金融领域落地面临困难和挑战 [3]
 
 1. 深度学习模型的构建比较困难
@@ -181,3 +191,4 @@ IDC《中国AI落地白皮书》中也提到，金融产业对于AI的应用最�
 [13]: http://www.woshipm.com/ai/3263320.html
 [14]: http://www.changgpm.com/thread-202-1-1.html
 [15]: http://www.woshipm.com/pmd/2356222.html
+[16]: https://easyai.tech/blog/best-ai-company-2019/

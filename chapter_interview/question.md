@@ -118,6 +118,8 @@ toB 公司产品要保证的是交付给客户的解决方案的结果和质量�
 为何前面有快消产品经理所注重的品牌产品经理的内容？
 
 什么时候能够得到反馈？
+如能入职贵司，您希望在三个月，半年内甚至一年内，对我工作成绩有怎么期望？ [14]
+
 
 
 [1]: http://www.woshipm.com/zhichang/459131.html
@@ -133,3 +135,4 @@ toB 公司产品要保证的是交付给客户的解决方案的结果和质量�
 [11]: http://www.woshipm.com/pmd/1977114.html
 [12]: https://weread.qq.com/web/reader/46532b707210fc4f465d044kb6d32b90216b6d767d2f0dc
 [13]: https://www.zhihu.com/question/57815929
+[14]: https://zhuanlan.zhihu.com/p/33395387

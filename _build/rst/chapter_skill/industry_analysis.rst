@@ -50,6 +50,10 @@ Hype Cycle曲线的横轴表示技术的成熟度， 纵轴表示技术受关注
 关键阶段 `6 <https://www.shangyexinzhi.com/article/1924707.html>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+.. figure:: ../img/Dunning_Effect.jpg
+
+   Dunning-Kruger Effect
+
 |技术成熟度曲线| |技术成熟度曲线细节|
 
 每个技术成熟度曲线都将技术的生命周期划分为五个关键阶段：

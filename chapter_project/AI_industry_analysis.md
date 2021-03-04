@@ -2,6 +2,8 @@
 
 ![2020 AI](../img/2020_AI.png)
 ![iresearch_AI](../img/iresearch_AI.png)
+![AI-100-startup-2020[12]](../img/AI-100-startup-2020.png)
+![Most-Valuable-AI-Startups-V3[13]](../img/Most-Valuable-AI-Startups-V3.png)
 
 ## 市场规模 [9]
 
@@ -158,3 +160,5 @@ https://www.iyiou.com/search?p=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD
 [9]: https://www.zhihu.com/pub/reader/119980992/chapter/1284104620428685312
 [10]: http://www.changgpm.com/thread-387-1-1.htmls
 [11]: http://www.xmamiga.com/3573/
+[12]: https://www.cbinsights.com/research/2020-top-100-ai-startups-where-are-they-now/
+[13]: https://www.cbinsights.com/research/most-valuable-private-ai-companies/
