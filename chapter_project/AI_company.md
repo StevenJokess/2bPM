@@ -60,8 +60,12 @@ https://www.zhihu.com/market/paid_column/1251475507390050304/section/12514755136
 在工业互联网领域，百度智能云在四季度分别与贵州省贵阳市政府、山东省济南市工信局签署战略合作，打造地方级AI工业互联网平台，全面推动企业数字化、智能化转型，助力当地经济形成新的经济增长点。[8]
 
 ![Baidu AI](../img/baidu_AI.png)
+![Baidu AI2](../img/baidu_AI2.png)
 
 ## Alibaba
+
+![阿里AI[16]](../img/ali_AI.jpg)
+
 ### Aliyun
 
 机器学习PAI Studio[2][3]
@@ -117,3 +121,4 @@ https://github.com/apolloauto
 [13]: https://www.jiqizhixin.com/articles/2019-05-24-14
 [14]: https://www.jiqizhixin.com/articles/2019-05-16-16
 [15]: https://developer.aliyun.com/article/778214?spm=a2c6h.13262185.0.0.1d0a4ee6o0ncC3
+[16]: https://www.zhihu.com/question/278914587/answer/1246774889

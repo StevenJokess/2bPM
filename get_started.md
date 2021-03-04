@@ -97,14 +97,13 @@ https://www.overleaf.com/project/603dfbba8126ff225dc18564
 
 项目描述:
 
-- 开设d2l-en-read记录自己所有的学习过程.见https://github.com/StevenJokess/d2l-en-read
+- 开设d2l-en-read记录自己所有的学习过程.见https://github.com/StevenJokess/d2l-en-read/tree/moreme
 - 积极参与discuss.d2l.ai,记录自己遇到的坑,被李沐(MXNet开发者)评为最活跃的参与者.
 - 和mxnet的开发者表达对社区的死气沉沉的不满,并提出活跃社区建议,后被采纳开设discussion区.
-- 并学习更多AI内容记录在https://github.com/StevenJokess/d2l-en-read/tree/moreme
 - 项目职责: 运用谷歌、stack overflow等编程搜索引擎,并积极参与GitHub讨论,完成GAN、DCGAN从MXNet到PyTorch的翻译
 - PR.项目可参见(点开pytorch标签的最后的“continue discussion”可见)
-- GAN:http://preview.d2l.ai/d2l-en/master/chapter_generative-adversarial-networks/gan.html
-- DCGAN:http://preview.d2l.ai/d2l-en/master/chapter_generative-adversarial-networks/dcgan.html
+- GAN:http://d2l.ai/chapter_generative-adversarial-networks/gan.html
+- DCGAN:http://d2l.ai/chapter_generative-adversarial-networks/dcgan.html
 
 ---
 

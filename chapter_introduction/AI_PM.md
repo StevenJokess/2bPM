@@ -561,6 +561,8 @@ https://learning.oreilly.com/library/view/ethics-and-data/9781492043898/
 
 从大学生到AI产品经理：https://mp.weixin.qq.com/s/tvPBiuNeyjZwvL94DWw3Dw
 
+TODO:https://medium.com/@liwdai/ai-pm-%E5%92%8C%E5%B8%B8%E8%A7%84-pm-%E7%9A%84%E5%8C%BA%E5%88%AB%E6%98%AF%E4%BB%80%E4%B9%88-ecdcbe25ef40
+
 ## Awesome
 
 http://www.changgpm.com/
