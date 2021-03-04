@@ -1,9 +1,12 @@
 # AI行业分析 [1]
 
+[《新一代人工智能发展规划》](http://www.gov.cn/zhengce/content/2017-07/20/content_5211996.htm)
+
 ![2020 AI](../img/2020_AI.png)
 ![iresearch_AI](../img/iresearch_AI.png)
 ![AI-100-startup-2020[12]](../img/AI-100-startup-2020.png)
 ![Most-Valuable-AI-Startups-V3[13]](../img/Most-Valuable-AI-Startups-V3.png)
+![AI领先企业主要投资领域](../img/AI_invest.jpg)
 
 ## 市场规模 [9]
 

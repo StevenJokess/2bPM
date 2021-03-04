@@ -2,6 +2,8 @@
 AI
 ==
 
+“软件正在吞噬世界，但AI会吃软件”，Jensen Huang（Nvidia首席执行官）
+
 历史
 ----
 
@@ -15,6 +17,20 @@ AI
 .. figure:: ../img/AI_class.jpg
 
    AI类别
+
+类型 `13 <https://easyai.tech/blog/test-ai-with-hbi/>`__
+--------------------------------------------------------
+
+-  “肌肉T恤”——忽悠
+-  “建美男”——AlphaGo作秀
+-  “搏击手”——怎么实用怎么来
+
+HBI原则
+-------
+
+-  高频（High frequency）
+-  大数据（Big data）
+-  没有规律（Irregular）
 
 AI在其中扮演什么角色 `6 <https://www.zhihu.com/people/hanniman-2/posts?page=2>`__
 ---------------------------------------------------------------------------------

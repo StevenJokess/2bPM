@@ -29,6 +29,10 @@ AI产品需要打破传统GUI的局限，AI产品对外提供的产品形态不�
 
 作为产品其实很无奈，原则上应该以用户为中心挖掘用户最自然的用户习惯，但是在AI技术不成熟的情况下，需要牺牲些用户体验。
 
+## AI 技术实际应用情况
+
+![2018年AI 技术实际应用情况[9]](../img/AI_use.jpg)
+
 ## AI产品的趋势
 
 ![AI产品的趋势[7]](../img/AI_product_trend.jpg)
@@ -79,3 +83,4 @@ AI产品价值=（提高的时效*时效成本+GMV提升）-（AI硬件资源成
 [6]: https://www.zhihu.com/question/346379206/answer/1756356249
 [7]: http://www.xmamiga.com/3573/
 [8]: https://zhuanlan.zhihu.com/p/57849384
+[9]: https://zhuanlan.zhihu.com/p/37333774

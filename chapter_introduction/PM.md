@@ -122,6 +122,7 @@
 
 ![PM能力模型](../img/PM.jpg)
 
+
 ## 工作主线
 
 主线是围绕产品从0-1-N全周期的具体推进。
@@ -131,6 +132,7 @@
 Cobit框架： 规划-》设计-》研发-》发布-》监控
 
 ![产品工作框架](../img/product_process.png)
+![产品工作框架细节](../img/PM_process.png)
 
 ### 工作内容 [2]
 
@@ -509,7 +511,25 @@ PM最终拼的是人文素养和灵魂境界，而不是职位名称、从业年
 
 看他做一款创新型产品时，更依赖竞品调研还是独立判断。站在巨人的肩膀上是没错，但前瞻性的方案更依赖人性洞察和市场嗅觉。
 
+## Stay Hungry ,Stay Foolish [36]
 
+### 什么叫 Hungry？
+
+美国人不会用 hungry 来形容对于知识的追求。对知识，他们用的是「好奇」(curious) 这个字。一个求知若渴的人，叫做「intellectually curious」或是「eager to learn」，但绝对不会是「intellectually hungry」，也极少是「hungry to learn」。
+
+用到 hungry 的时候，针对的「成功」，也就是「hungry for success」。所以 Steve Jobs 的「Stay Hungry」，根本不是叫你去求「知」的意思，他真正想说的，是要你去不停的寻找成功，永远不知道满足。为什么？因为创业者最常犯的错误，除了做出没人要的东西之外，就是太快满足于初期的成功，接着开始以为自己是神，再也不会失败。
+
+杨致远就是最好的例子，90 年代末期 Yahoo 叱咤网络圈后，他开始陶醉于成功之中，成天打高尔夫球、旅行，结果呢？快转十年之后，Yahoo 现在的市值等于他们手中持有的阿里巴巴股票，也就是说这家母公司是一毛不值。为什么？因为他失去了 hungry。
+
+回头看 Steve Jobs，过去 14 年来，他像一头肌饿的猛兽，永远不会满足，Mac、iPod、iPhone、iPad 一招接一招，不停直捣对手的心脏，如果不是因为健康状况，他大概永远没有停歇的一天，这，就是hungry，这，就是 Fox 写的「稀有的猪」。
+
+### 什么叫 Foolish？
+
+美国人也不会用 foolish 来形容虚心，虚心叫做「humble」、叫做「be a good listener」、叫做「be open to new ideas」。而 fool，根本不是「虚心的人」，fool 是「笨蛋」的意思。
+
+「You gotta be a fool to believe that will work.」(你一定是个白痴才会相信那东西会成功) 是所有的创业者最常听到的，而 Steve Jobs 想告诉你的，就是别理他们，继续当你的傻瓜。因为要革命，你就注定要在众人的误会中孤独的前进。
+
+所以各位创业者，记住 Steve Jobs 的 Stay Hungry, StayFoolish. 然后一辈子都不要停止战斗。
 
 [1]: https://www.jianshu.com/p/fd466ed1bda6
 [2]: https://www.zhihu.com/question/343743405/answer/1237754321s
@@ -546,3 +566,4 @@ PM最终拼的是人文素养和灵魂境界，而不是职位名称、从业年
 [33]: https://www.zhihu.com/pub/reader/119980992/chapter/1284104613692768256
 [34]: https://www.zhihu.com/question/57815929/answer/981667560
 [35]: https://coffee.pmcaff.com/article/2628979102597248/pmcaff?utm_source=forum
+[36]: https://zhuanlan.zhihu.com/p/268180702

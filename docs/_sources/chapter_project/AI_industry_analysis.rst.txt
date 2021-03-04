@@ -2,7 +2,12 @@
 AI行业分析 `1 <http://www.woshipm.com/pd/873240.html>`__
 ========================================================
 
+`《新一代人工智能发展规划》 <http://www.gov.cn/zhengce/content/2017-07/20/content_5211996.htm>`__
+
 |2020 AI| |iresearch_AI|
+|AI-100-startup-2020\ |\ `12 <https://www.cbinsights.com/research/2020-top-100-ai-startups-where-are-they-now/>`__
+|Most-Valuable-AI-Startups-V3\ |\ `13 <https://www.cbinsights.com/research/most-valuable-private-ai-companies/>`__
+|AI领先企业主要投资领域|
 
 市场规模 `9 <https://www.zhihu.com/pub/reader/119980992/chapter/1284104620428685312>`__
 ---------------------------------------------------------------------------------------
@@ -91,6 +96,15 @@ Gartner的研究表明，只有53%的项目能够从人工智能（AI）原型�
 ~~~~~~~~~~
 
 系统协调者，负责系统的集成、需求的定义、资源的协调、解决方案的封装，以及除研发以外一切可以保障人工智能产品顺利运行和再行业落地所需的工作；系统些调者的主要的目标就是实现AI产品服务的商业化落地，也是保障前三个角色价值落地的根本。
+
+我们从数据流开始说起，人工智能的产品体系是一个动态流程，本质上是围绕数据采集、存储、计算展开的。
+
+1. 数据提供者使用各种手段获得原始数据。
+2. 数据处理者对数据进行加工。
+3. 数据处理者进行模型训练，获得可以使用对模型。
+4. 用模型对新数据进行预测。
+
+“数据–信息–知识–智慧”的过程，再随着动态循环，就是“训练–推断–再训练–再推断”的过程。产品经理需要完成系统集成、需求定义、资源协调、解决方案封装的保障工作。
 
 BAT
 ---
@@ -184,3 +198,6 @@ https://www.iyiou.com/search?p=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD
 
 .. |2020 AI| image:: ../img/2020_AI.png
 .. |iresearch_AI| image:: ../img/iresearch_AI.png
+.. |AI-100-startup-2020\ | image:: ../img/AI-100-startup-2020.png
+.. |Most-Valuable-AI-Startups-V3\ | image:: ../img/Most-Valuable-AI-Startups-V3.png
+.. |AI领先企业主要投资领域| image:: ../img/AI_invest.jpg

@@ -226,5 +226,10 @@ AI作用 `12 <https://weread.qq.com/web/reader/0c032c9071dbddbc0c06459k70e32fb02
 1. 智能家居：智能家庭机器人、智能音箱、智能手表等等，成为智能家居控制中心（小米、360、京东）
 2. 智能语音助手：Siri、Cortana、Google Assistant、度秘、Bixby
 3. 其他：各类Bot、AR/VR、无人机
+4. 贴近厨师的AI软体厨师产品！\ `20 <https://zhuanlan.zhihu.com/p/294947630>`__\ https://bridge.ai/kitchen/
+5. 用户无感身份安全验证！https://unify.id/
+6. 帮用户撰写、修改、提升简历，增加面试机会，提升面试成功率！https://mosaic.ai/
+7. 用AI增强决策能力！https://notion.ai/
+8. 任何时间任何场景找到自己喜欢的活动！https://www.robby.ai/about/
 
 .. |产品生命周期| image:: ../img/product_life.png
