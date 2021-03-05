@@ -159,6 +159,10 @@ PEST分析 `5 <https://zh.wikipedia.org/wiki/PEST%E5%88%86%E6%9E%90>`__
 
 PEST分析与外部总体环境的因素互相结合就可归纳出SWOT分析中的机会与威胁。
 
+.. figure:: ../img/PEST_eg.jpg
+
+   直播行业的PEST\ `11 <https://www.zhihu.com/question/19749199/answer/1497421911>`__
+
 波特五力分析 `6 <https://zh.wikipedia.org/wiki/PEST%E5%88%86%E6%9E%90>`__
 -------------------------------------------------------------------------
 

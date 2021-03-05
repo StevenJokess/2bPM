@@ -22,5 +22,4 @@ project
    Scrum
    separate_need
    valuable
-   widespread
    APP_experience

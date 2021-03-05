@@ -223,6 +223,8 @@ AI作用 `12 <https://weread.qq.com/web/reader/0c032c9071dbddbc0c06459k70e32fb02
 常见AI产品 `19 <https://www.pianshen.com/article/2712685407/>`__
 ----------------------------------------------------------------
 
+依托AI技术为主业务产品的风控、推广、用户运营等常规业务部门赋能，提高企业效率。\ `21 <https://www.zhihu.com/people/zhu-guan-jin-ming/answers/by_votes>`__
+
 1. 智能家居：智能家庭机器人、智能音箱、智能手表等等，成为智能家居控制中心（小米、360、京东）
 2. 智能语音助手：Siri、Cortana、Google Assistant、度秘、Bixby
 3. 其他：各类Bot、AR/VR、无人机

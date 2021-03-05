@@ -19,6 +19,6 @@ Idea
    attention
    goal
    understand_tech
-   yunyingxiao
+   GTM
    design
    time

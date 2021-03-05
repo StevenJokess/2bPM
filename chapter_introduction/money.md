@@ -45,6 +45,14 @@ Triumph 的数据科学家将专用数据库中的新闻传输到深度学习系
 
 https://www.fiverr.com/?source=top_nav
 
+## 成本 [13]
+
+1. 数据，每年需要花大量的钱买标注数据，这个价钱是很贵的，楼主可以去搜索标注公司的价钱，比如语音标注好点的大概200元/小时，买个1万小时就是200万人命币了，而且这种都是需要持续去买，持续给模型喂数据的，不然模型的效果会退化。
+
+2. 算力，训练模型和推理都需要用到硬件，其中最贵的还是CPU和GPU，尤其是GPU，差一点的1、2千一张卡，好一点的1、2万一张卡，租的话便宜的也要1、2千一个月了，一般做SaaS的采用租的模式，数量根据业务规模来，做私有化的都要采购服务器，成本更高。
+
+3. 算法，这块除了训练模型需要采购或者租用的服务器硬件以外，最大的开支还是人力开支，现在的算法人员的薪资水平在互联网绝对也算是拔尖的。去年我曾当面听着一个互联网公司的算法负责人吐槽招聘成本太高，招不起。
+
 ## 盈利模式 [4]
 
 强调如何获取利润
@@ -244,3 +252,4 @@ Open source models, data and transfer learning are also enabling businesses to m
 [10]: https://www.jianshu.com/p/83c7150ccdd8
 [11]: https://weread.qq.com/web/reader/8d632bc07208ed1c8d697c4k34132fc02293416a75f431d
 [12]: https://www.pmcaff.com/discuss/1224707763133504?newwindow=1s
+[13]: https://www.zhihu.com/people/zhu-guan-jin-ming/answers/by_votes

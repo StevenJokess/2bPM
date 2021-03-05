@@ -278,7 +278,9 @@ ID设计指的是工艺产品设计，主要指的是产品外观设计，该部
 
 从传奇级科技网络产品经理乔布斯做过的早期、中期和后期产品可以看到，乔布斯不仅仅是个懂用户创造并引领用户需求的会议型产品经理，更多的时候乔布斯知道用什么技术引领用户需求。
 
+## TODO
 
+更多：http://www.woshipm.com/pmd/2337370.html
 
 
 [1]: https://www.jianshu.com/p/111d9fcc005e?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation

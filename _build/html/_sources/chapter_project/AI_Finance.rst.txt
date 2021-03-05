@@ -56,6 +56,11 @@ IDC《中国AI落地白皮书》中也提到，金融产业对于AI的应用最�
 -  智能风控（多维信用体系、全面风险管理） VS
    普通风控\ `15 <http://www.woshipm.com/pmd/2356222.html>`__
 -  金融产品运营（智能营销、用户/产品运营等）
+-  征信： 个人征信未来在中国的发展和应用 - King James的文章 - 知乎
+   https://zhuanlan.zhihu.com/p/22280599
+   阿里和腾讯这样的互联网公司做第三方征信是不是本身就是不合理的？ - King
+   James的回答 - 知乎
+   https://www.zhihu.com/question/33731819/answer/120081634
 
 端侧
 ~~~~

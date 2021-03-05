@@ -138,6 +138,8 @@ VUCA 的中文含义分别对应着易变性、不确定性、复杂性和模糊
 
 PEST分析与外部总体环境的因素互相结合就可归纳出SWOT分析中的机会与威胁。
 
+![直播行业的PEST[11]](../img/PEST_eg.jpg)
+
 ## 波特五力分析 [6]
 
 波特五力分析来定义出一个市场吸引力高低程度。
@@ -230,3 +232,4 @@ SPAN方法（Strategy positioning Analysis[9]）从分析细分市场的吸引�
 [8]: https://quizlet.com/129588206/%E4%BA%BA%E4%BA%BA%E9%83%BD%E6%98%AF%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86-%E7%AC%94%E8%AE%B0-flash-cards/
 [9]: http://reader.epubee.com/books/mobile/a0/a0bcbc34f65fcce9147c5238fb6d210b/text00021.html
 [10]: https://www.jianshu.com/p/1d733b336f76s
+[11]: https://www.zhihu.com/question/19749199/answer/1497421911

@@ -28,6 +28,7 @@
 
 ![各大厂薪资](../img/salary.png)
 ![各大厂新员工的薪资](../img/salary_new.png)
+![互联网排名前12的公司2020年的薪资水平](../img/salary_graduate_PM.jpg)
 
 ## 考察重点分析
 
