@@ -28,6 +28,7 @@ https://www.zhihu.com/market/paid_column/1251475507390050304/section/12514755136
 ![中国人工智能产业链图谱[11]](../img/AI_company_lian.jpg)
 新基建IT产业图谱: https://www.analysys.cn/article/detail/20019748
 
+![潜力100强[17]](../img/AI_100_company.png)
 
 ## 报告
 
@@ -122,3 +123,4 @@ https://github.com/apolloauto
 [14]: https://www.jiqizhixin.com/articles/2019-05-16-16
 [15]: https://developer.aliyun.com/article/778214?spm=a2c6h.13262185.0.0.1d0a4ee6o0ncC3
 [16]: https://www.zhihu.com/question/278914587/answer/1246774889
+[17]: http://finance.eastmoney.com/a/202007141554661012.html

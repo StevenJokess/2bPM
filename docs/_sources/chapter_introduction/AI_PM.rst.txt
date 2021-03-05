@@ -691,6 +691,8 @@ Fix用户与人工智能产品交互时，他们会与预测和推荐引擎交�
 
 从大学生到AI产品经理：https://mp.weixin.qq.com/s/tvPBiuNeyjZwvL94DWw3Dw
 
+TODO:https://medium.com/@liwdai/ai-pm-%E5%92%8C%E5%B8%B8%E8%A7%84-pm-%E7%9A%84%E5%8C%BA%E5%88%AB%E6%98%AF%E4%BB%80%E4%B9%88-ecdcbe25ef40
+
 
 Awesome
 -------

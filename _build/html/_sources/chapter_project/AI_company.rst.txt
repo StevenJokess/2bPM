@@ -41,6 +41,10 @@ https://www.zhihu.com/market/paid_column/1251475507390050304/section/12514755136
 |中国人工智能产业链图谱\ |\ `11 <https://www2.deloitte.com/content/dam/Deloitte/cn/Documents/innovation/deloitte-cn-innovation-ai-whitepaper-zh-181126.pdfs>`__
 新基建IT产业图谱: https://www.analysys.cn/article/detail/20019748
 
+.. figure:: ../img/AI_100_company.png
+
+   潜力100强\ `17 <http://finance.eastmoney.com/a/202007141554661012.html>`__
+
 报告
 ----
 
@@ -82,12 +86,14 @@ Research将百度Apollo列为全球四大自动驾驶领域领导者之一。\ `
 
 在工业互联网领域，百度智能云在四季度分别与贵州省贵阳市政府、山东省济南市工信局签署战略合作，打造地方级AI工业互联网平台，全面推动企业数字化、智能化转型，助力当地经济形成新的经济增长点。\ `8 <http://finance.eastmoney.com/a/202102181812494141.html>`__
 
-.. figure:: ../img/baidu_AI.png
-
-   Baidu AI
+|Baidu AI| |Baidu AI2|
 
 Alibaba
 -------
+
+.. figure:: ../img/ali_AI.jpg
+
+   阿里AI\ `16 <https://www.zhihu.com/question/278914587/answer/1246774889>`__
 
 Aliyun
 ~~~~~~
@@ -133,3 +139,5 @@ http://search.stcn.com/was5/web/search?token=0.1584090199903.75&channelid=252914
 
 .. |AI公司| image:: ../img/AI_company.jpg
 .. |中国人工智能产业链图谱\ | image:: ../img/AI_company_lian.jpg
+.. |Baidu AI| image:: ../img/baidu_AI.png
+.. |Baidu AI2| image:: ../img/baidu_AI2.png

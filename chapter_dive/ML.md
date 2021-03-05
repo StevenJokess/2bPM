@@ -30,4 +30,8 @@
 - 蒙特卡罗方法
 - 变分法
 
+## 更多
+
+https://mitpress.ublish.com/ereader/7093/?preview=#page/v
+
 [1]: https://www.pianshen.com/article/66921228716/
