@@ -25,7 +25,7 @@ AI 硬件 `1 <https://www.jianshu.com/p/111d9fcc005e?utm_campaign=maleskine&utm_
 
 研发和生产阶段：
 
-.. figure:: ../img/AI_hardware_process.png
+.. figure:: ../img/AI_hardware_process.jpg
 
    AI赋能智能软硬件整体产品设计与开发过程
 
@@ -320,6 +320,15 @@ ID设计指的是工艺产品设计，主要指的是产品外观设计，该部
 
 准产品经理是个学校培养的硬件工程师，但是志在硬件产品经理，首先他处在了产品经理起跑线的前沿，因为高段位的产品经理做到后来都是懂硬件的，哪怕最热门的数据产品经理或者什么什么产品经理，都是要懂硬件的，因为所有的数据都靠硬件采集、运算和存储。
 
+小米智能音箱：https://www.bilibili.com/video/BV1wt411Y7zh
+
+嵌入式AI硬件 `8 <https://www.bilibili.com/video/BV1Zp4y1Q7ub?from=search&seid=1470711389248919578>`__
+-----------------------------------------------------------------------------------------------------
+
+.. figure:: ../img/qianruduan.jpg
+
+   嵌入式AI硬件
+
 乔布斯
 ------
 
@@ -340,4 +349,7 @@ ID设计指的是工艺产品设计，主要指的是产品外观设计，该部
 TODO
 ----
 
-更多：http://www.woshipm.com/pmd/2337370.html
+更多：
+
+http://www.woshipm.com/pmd/2337370.html
+http://www.woshipm.com/pmd/3301527.html

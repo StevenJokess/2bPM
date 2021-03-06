@@ -568,6 +568,10 @@ PM首先创建/收集一个代表问题空间的数据集。只有这样，他�
 <p>一个合格的AI产品经理在具备传统产品经理能力模型的基础上，应该熟悉AI技术的效能与边界，对AI产业的三驾马车算法、算力、数据有一定的理解（对PM来说不要求上手coding，但是要对实现原理要理解），并且对部分垂直场景业务逻辑深耕，甚至达到跨领域协作的产品境界。展开来谈，这部分，我围绕算法、算力、数据、硬件、系统架构、业务六个维度来解释AI产品经理所需要的能力加成。<a class="reference external" href="https://www.jianshu.com/p/fd466ed1bda6">2</a></p>
 <p>1、
 技术能力，AI产品常常要深入算法逻辑，产品经理不要求具备编码能力，但需要理解各团队的工作流程及模式特点，尤其是基础算法的业务模式。为了提需求写MRD和PRD、产品卖点、产品竞争优势、产品销售打法。</p>
+<div class="figure align-default" id="id47">
+<img alt="https://www.bilibili.com/video/BV1m4411W7yh?from=search&amp;seid=8482961800886970351" src="https://www.bilibili.com/video/BV1m4411W7yh?from=search&amp;seid=8482961800886970351" />
+<p class="caption"><span class="caption-number">Fig. 1.10.7 </span><span class="caption-text">PyTorch PM 回忆 1.0 版本诞生记：从科研到落地</span><a class="headerlink" href="#id47" title="Permalink to this image">¶</a></p>
+</div>
 <ul class="simple">
 <li><p>算法:算法就是计算或者解决问题的步骤。想用计算机解决特定的问题，就要遵循相应的算法。</p></li>
 <li><p>算力:算力简单来说就是实现算法功能的资源要求，可以按照云、边、端来分类，云即云计算、边即嵌入式、端泛指服务器类资源，而这三者的背后核心都是集成电路，也就是芯片。嵌入式硬件：包含嵌入式微处理器、存储器（SDRAM、ROM、Flash等）、通用设备接口和I/O接口（A/D、D/A、I/O等）。实现一款产品往往还包含了外围元器件，比如
@@ -605,9 +609,9 @@ GPS、气压计、超声波、PIR
 <p>“数据驱动”的思维和能力也是AI产品经理的特需。为啥？因为AI跟数据是强关联的，所有对AI的训练和迭代都离不开数据，这也导致产品经理日常需要更关注数据这个闭环，不仅要依赖数据功能上线后的评估和优化，还要运用数据进行策略设计。</p>
 <p>将数据视作企业生产经营的原材料，“数据驱动”的过程可理解为DIPOA模型，即Data—Input—Process—Output—Action
 Point，数据作为生产要素，输入到数据应用的程序化链路中，经过一定步骤的加工与处理，形成相应的输出，再将这些输出作用到对应的作用点上产生价值，完成“数据驱动”的一次作业链条。DIPOA模型是参照经典的SIPOC模型来进行设计，能以传输链条的形式生动的解释“数据驱动”的作用过程与机制。</p>
-<div class="figure align-default" id="id47">
+<div class="figure align-default" id="id48">
 <img alt="../_images/DIPOA.png" src="../_images/DIPOA.png" />
-<p class="caption"><span class="caption-number">Fig. 1.10.7 </span><span class="caption-text">DIPOA</span><a class="headerlink" href="#id47" title="Permalink to this image">¶</a></p>
+<p class="caption"><span class="caption-number">Fig. 1.10.8 </span><span class="caption-text">DIPOA</span><a class="headerlink" href="#id48" title="Permalink to this image">¶</a></p>
 </div>
 </div>
 <div class="section" id="id12">
@@ -689,15 +693,15 @@ case，大都只能给出合理的推测：缺特定场景的数据？超参数�
 <p>总之,凡是核心依赖于数据,产岀物是可交互操作的实体,就都可以算成数据产品,而做这些东西的非研发人员,也自然就都是数据产品经理。</p>
 <div class="section" id="ai-vs">
 <h4><span class="section-number">1.10.5.7.1. </span>AI 产品 VS 数据产品<a class="headerlink" href="#ai-vs" title="Permalink to this headline">¶</a></h4>
-<div class="figure align-default" id="id48">
+<div class="figure align-default" id="id49">
 <img alt="../_images/data_vs_AI_product.jpg" src="../_images/data_vs_AI_product.jpg" />
-<p class="caption"><span class="caption-number">Fig. 1.10.8 </span><span class="caption-text">AI 产品 VS
-数据产品<a class="reference external" href="https://www.zhihu.com/question/425088404/answer/1613313769">5</a></span><a class="headerlink" href="#id48" title="Permalink to this image">¶</a></p>
+<p class="caption"><span class="caption-number">Fig. 1.10.9 </span><span class="caption-text">AI 产品 VS
+数据产品<a class="reference external" href="https://www.zhihu.com/question/425088404/answer/1613313769">5</a></span><a class="headerlink" href="#id49" title="Permalink to this image">¶</a></p>
 </div>
 <p>第一层，<strong>数据治理层面</strong>，数据产品经理在数据治理层面会将数据整体做治理，纵向上梳理业务来源、到数据仓库再到数据集市的数据处理方式，横向上梳理数据主题、数据规范和存储模式等数据模型，在这中间再孵化出如数据开发平台、质量监控平台、数据资产管理、任务调度平台等等。</p>
-<div class="figure align-default" id="id49">
+<div class="figure align-default" id="id50">
 <img alt="../_images/AI_data_PM.jpg" src="../_images/AI_data_PM.jpg" />
-<p class="caption"><span class="caption-number">Fig. 1.10.9 </span><span class="caption-text">一体两翼</span><a class="headerlink" href="#id49" title="Permalink to this image">¶</a></p>
+<p class="caption"><span class="caption-number">Fig. 1.10.10 </span><span class="caption-text">一体两翼</span><a class="headerlink" href="#id50" title="Permalink to this image">¶</a></p>
 </div>
 <p>第二层，<strong>数据/算法平台层面</strong>，数据产品经理基于已有的数据情况，建设对接业务方的通用能力，包括建设通用型用户标签和人/货/场的画像体系，建设通用的广告营销平台，建设通用的查询分析平台等。</p>
 <p>AI平台型产品经理，这里的平台可以是数据众包平台、AI能力开放平台、AI训练平台，都是将数据标注能力和算法模块能力做上层延展，对内或者对外形成通用能力的输出。以数据众包平台为例，可以是数据标注的交易撮合平台，也可以是将内部的标注能力直接对外输出，这样一方面可以不但可以获取直接的人力收入，也可以间接获得数据收入。而AI自助训练平台，则是将基础模型（如基础图像分类模型）包装成可流程化、可视化的训练过程，让非算法同学可以参与到训练过程中，自己完成模型的训练和优化。</p>
@@ -762,29 +766,29 @@ case，大都只能给出合理的推测：缺特定场景的数据？超参数�
 <div class="section" id="id20">
 <h3><span class="section-number">1.10.5.12. </span>AI各层次<a class="headerlink" href="#id20" title="Permalink to this headline">¶</a></h3>
 <p>美团外卖：实时智能调度</p>
-<div class="figure align-default" id="id50">
+<div class="figure align-default" id="id51">
 <img alt="../_images/AI_cengci.png" src="../_images/AI_cengci.png" />
-<p class="caption"><span class="caption-number">Fig. 1.10.10 </span><span class="caption-text">层次 <a class="reference external" href="https://www.bilibili.com/video/BV1MK411u7SH?p=8">15</a></span><a class="headerlink" href="#id50" title="Permalink to this image">¶</a></p>
+<p class="caption"><span class="caption-number">Fig. 1.10.11 </span><span class="caption-text">层次 <a class="reference external" href="https://www.bilibili.com/video/BV1MK411u7SH?p=8">15</a></span><a class="headerlink" href="#id51" title="Permalink to this image">¶</a></p>
 </div>
 </div>
 <div class="section" id="id21">
 <h3><span class="section-number">1.10.5.13. </span>流程<a class="headerlink" href="#id21" title="Permalink to this headline">¶</a></h3>
 <p>泳道流程图:</p>
-<div class="figure align-default" id="id51">
+<div class="figure align-default" id="id52">
 <img alt="../_images/all_process.png" src="../_images/all_process.png" />
-<p class="caption"><span class="caption-number">Fig. 1.10.11 </span><span class="caption-text">全流程</span><a class="headerlink" href="#id51" title="Permalink to this image">¶</a></p>
+<p class="caption"><span class="caption-number">Fig. 1.10.12 </span><span class="caption-text">全流程</span><a class="headerlink" href="#id52" title="Permalink to this image">¶</a></p>
 </div>
 <p>下图提供了与这些角色(在纵轴上)的生命周期的每个阶段(在横轴上)相关联的任务(在蓝色中)和工件(在绿色中)的网格视图：</p>
-<div class="figure align-default" id="id52">
+<div class="figure align-default" id="id53">
 <img alt="../_images/ms_flow_chart.png" src="../_images/ms_flow_chart.png" />
-<p class="caption"><span class="caption-number">Fig. 1.10.12 </span><span class="caption-text">微软(TDSP)</span><a class="headerlink" href="#id52" title="Permalink to this image">¶</a></p>
+<p class="caption"><span class="caption-number">Fig. 1.10.13 </span><span class="caption-text">微软(TDSP)</span><a class="headerlink" href="#id53" title="Permalink to this image">¶</a></p>
 </div>
 </div>
 <div class="section" id="id22">
 <h3><span class="section-number">1.10.5.14. </span>成长路径<a class="headerlink" href="#id22" title="Permalink to this headline">¶</a></h3>
-<div class="figure align-default" id="id53">
+<div class="figure align-default" id="id54">
 <img alt="../_images/AIPM_env.png" src="../_images/AIPM_env.png" />
-<p class="caption"><span class="caption-number">Fig. 1.10.13 </span><span class="caption-text">不同企业背景下AI产品经理的成长环境<a class="reference external" href="https://weread.qq.com/web/reader/40632860719ad5bb4060856k9f6326602389f61408e3715">30</a></span><a class="headerlink" href="#id53" title="Permalink to this image">¶</a></p>
+<p class="caption"><span class="caption-number">Fig. 1.10.14 </span><span class="caption-text">不同企业背景下AI产品经理的成长环境<a class="reference external" href="https://weread.qq.com/web/reader/40632860719ad5bb4060856k9f6326602389f61408e3715">30</a></span><a class="headerlink" href="#id54" title="Permalink to this image">¶</a></p>
 </div>
 </div>
 <div class="section" id="id23">

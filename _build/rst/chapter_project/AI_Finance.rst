@@ -146,7 +146,7 @@ IDC《中国AI落地白皮书》中也提到，金融产业对于AI的应用最�
 步骤
 ~~~~
 
-.. figure:: ../img/AI_Customer_service.jpg
+.. figure:: ../img/AI_Customer_service.png
 
    客户服务智能化
 
@@ -212,5 +212,10 @@ AI 在金融领域落地面临困难和挑战 `3 <http://www.ramywu.com/work/201
 
 某互联网金融平台的定位是从事金融服务的公司，创始团队中 70%
 的人员都来自金融行业，主要以银行为主。在这种情况下，团队就与产品形成了有效的融合，因此很容易就看出这个行业现阶段存在的一些问题，也清楚这些问题可以通过哪些路径去解决。团队人员大多来自银行，他们对合规风控极其敏感。因此，他们不仅能够系统化地输出解决方案，还能有效地控制风险，从而达到平衡。
+
+更多
+----
+
+https://istock.ssetech.com.cn/wiki/doku.php?id=start
 
 .. |应用场景| image:: ../img/AI_finance.png

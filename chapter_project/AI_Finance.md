@@ -124,7 +124,7 @@ https://www.zhihu.com/question/33731819/answer/120081634
 
 ### 步骤
 
-![客户服务智能化](../img/AI_Customer_service.jpg)
+![客户服务智能化](../img/AI_Customer_service.png)
 
 智能客服虽然在一定程度上能够，提高服务水平，但对于投资顾问所能提供的专业投资服务还有待智能化落地。智能投顾相对传统投顾的优势如下图所示：
 

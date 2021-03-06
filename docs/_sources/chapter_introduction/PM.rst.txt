@@ -690,4 +690,4 @@ Steve Jobs
 .. |产品策划VS产品运营| image:: ../img/design_GTM.jpg
 .. |腾讯产品经理能力模型| image:: ../img/tencent_PM.png
 .. |产品工作框架| image:: ../img/product_process.png
-.. |产品工作框架细节| image:: ../img/PM_process.png
+.. |产品工作框架细节| image:: ../img/PM_process.jpg

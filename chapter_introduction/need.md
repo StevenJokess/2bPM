@@ -103,6 +103,12 @@
 
 除了excel，还有Mantis、Mercury Interactive公司的Quality Center、IBM的Rational RequisitePro等；
 
+## 需求评审
+
+统一思想,明确需求,确定实现过程的会议
+
+![需求评审参与人员](../img/need_who_judge.jpg)
+
 ## 量化需求 [11]
 
 ### 为什么要量化需求

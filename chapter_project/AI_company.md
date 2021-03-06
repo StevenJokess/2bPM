@@ -70,6 +70,8 @@ https://www.zhihu.com/market/paid_column/1251475507390050304/section/12514755136
 ### Aliyun
 
 机器学习PAI Studio[2][3]
+![tianchi](../img/tianchi.jpg)
+![tianchi发展历程](../img/tianchi_develop.jpg)
 
 ### taobao
 

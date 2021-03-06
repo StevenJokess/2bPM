@@ -100,6 +100,7 @@ Aliyun
 
 机器学习PAI
 Studio\ `2 <https://www.aliyun.com/product/bigdata/product/learn>`__
+|tianchi| |tianchi发展历程|
 
 taobao
 ~~~~~~
@@ -141,3 +142,5 @@ http://search.stcn.com/was5/web/search?token=0.1584090199903.75&channelid=252914
 .. |中国人工智能产业链图谱\ | image:: ../img/AI_company_lian.jpg
 .. |Baidu AI| image:: ../img/baidu_AI.png
 .. |Baidu AI2| image:: ../img/baidu_AI2.png
+.. |tianchi| image:: ../img/tianchi.jpg
+.. |tianchi发展历程| image:: ../img/tianchi_develop.jpg

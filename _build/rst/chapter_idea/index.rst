@@ -9,6 +9,7 @@ Idea
    :maxdepth: 2
 
    idea
+   empathy
    data
    negotiation
    brand

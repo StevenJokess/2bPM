@@ -138,7 +138,7 @@
 Cobit框架： 规划-》设计-》研发-》发布-》监控
 
 ![产品工作框架](../img/product_process.png)
-![产品工作框架细节](../img/PM_process.png)
+![产品工作框架细节](../img/PM_process.jpg)
 
 ### 工作内容 [2]
 
