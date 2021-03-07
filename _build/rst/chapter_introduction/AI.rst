@@ -4,6 +4,10 @@ AI
 
 “软件正在吞噬世界，但AI会吃软件”，Jensen Huang（Nvidia首席执行官）
 
+.. figure:: ../img/AI.jpg
+
+   AI\ `14 <https://www.jiqizhixin.com/articles/2017-12-27-5>`__
+
 历史
 ----
 
