@@ -2,6 +2,8 @@
 
 “软件正在吞噬世界，但AI会吃软件”，Jensen Huang（Nvidia首席执行官）
 
+![AI[14]](../img/AI.jpg)
+
 ## 历史
 
 ![AI历史[12]](../img/AI_history.png)
@@ -159,3 +161,4 @@ AI革命可以看作是生产力的革命，从生产力的角度讲，第一是
 [11]: http://www.changgpm.com/thread-350-1-1.html
 [12]: http://www.changgpm.com/thread-248-1-1.html
 [13]: https://easyai.tech/blog/test-ai-with-hbi/
+[14]: https://www.jiqizhixin.com/articles/2017-12-27-5
