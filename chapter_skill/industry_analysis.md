@@ -121,7 +121,7 @@ Hype Cycle曲线的横轴表示技术的成熟度， 纵轴表示技术受关注
 ## 渠道获取
 
 1. 内部市场、运营部门、管理层等信息收集
-1. 艾瑞咨询、DCCI互联网数据中心、Alexa、Appstore
+1. 艾瑞咨询、DCCI互联网数据中心、Alexa、Appstore、企鹅智库、猎豹智库、易观、比达咨询等平台 [12]
 1. 竞争对手网站、交流互动平台、产品历史更新版本、促销活动、最新调整、招聘信息等
 1. 竞争对手的季度/年度财报
 1. 行业媒体平台新闻、论坛、QQ群等
@@ -209,3 +209,4 @@ Envolve Group Co-founder 刘嘉培Alex详细拆解了查阅报告材料和思考
 [9]: https://weread.qq.com/web/reader/8d632bc07208ed1c8d697c4ka5732aa0226a5771bce9dc4
 [10]: https://www.zhihu.com/pub/reader/119980992/chapter/1284104614602792960
 [11]: https://www.zhihu.com/pub/reader/119980992/chapter/1284104632479215616
+[12]: http://www.woshipm.com/pmd/1792207.html

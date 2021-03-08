@@ -75,6 +75,10 @@ Jeroen Kraaijenbrink的战略示意图适合制定企业的总体战略，有利
 9. 团队氛围：团队文化和结构是什么样的，工作的组织结构和文化环境是制定决策并完美执行的重要因素。
 10. 机会与威胁：市场中有什么因素影响着组织，这些因素是机会还是威胁？对未来的商业模式有着怎样的影响？
 
+## AI的机会
+
+![AI opportunity](../img/AI_opportunity.png)
+
 [1]: https://www.zhihu.com/question/21155472/answer/1580037628
 [2]: https://wiki.mbalib.com/wiki/%E7%97%9B%E7%82%B9%E8%90%A5%E9%94%80
 [3]: https://www.jianshu.com/p/fa5e2c1f3930

@@ -30,6 +30,12 @@
 
 创业活动，不断创新的商业模式、线上线下的商业营销活动、除了教育等几个少数行业，大部分产业成熟的标志是实现商业化等等
 
+光做出好产品是不够的，还要在市场上真的有价值，并且能持续保有竞争力。任何新技术都会随着时间的推移而扩散，一般所拥有的时间窗口最多也就是一年多的时间。
+
+在这一段时间内，如何看待当前所面临的场景？在这个场景中技术到底占据多大的地位? 是非关键性的应用还是关键性的应用？技术上的突破和分配，是否产生根本性的问题？在技术的壁垒期，我们能否利用这一段时间构建起技术以外的壁垒？
+
+只有壁垒构建出来，利用时间窗口期把技术优势转化成其他的竞争性壁垒，这样的行业才值得去做。[15]
+
 ## 商业
 
 商业是一种有组织的提供顾客所需产品与服务的一种行为，它最本质的内容就是通过产品与服务交换实现盈利。
@@ -193,6 +199,10 @@ BCG的价值3层面把商业模式分成了价值定位和价值传导2个大的
 
 TODO:[14]
 
+[软件（算法）专利保护](https://github.com/scutan90/DeepLearning-500-questions/blob/master/ch19_%E8%BD%AF%E4%BB%B6%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E5%8F%8A%E6%9D%83%E5%88%A9%E4%BF%9D%E6%8A%A4/%E7%AC%AC%E5%8D%81%E4%B9%9D%E7%AB%A0_%E8%BD%AF%E4%BB%B6%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E5%8F%8A%E6%9D%83%E5%88%A9%E4%BF%9D%E6%8A%A4.md)
+
+
+
 ## 阿里云视觉智能开放平台 [4] [5] [6]
 
 商业化提供了预付费QPS、后付费、预付费资源包、按量付费四种收费模式。
@@ -200,6 +210,7 @@ TODO:[14]
 离线SDK介绍：阿里云视觉智能开放平台的离线SDK可以为终端设备提供AI能力，目前支持提供OCR、美颜、分割等常用AI能力的离线SDK。阿里云视觉智能开放平台通过license授权方式管理离线SDK。
 
 准备工作：在安装和使用阿里云SDK前，确保您已经注册阿里云账号并生成访问密钥（AccessKey）。详情请参见创建AccessKey。
+
 
 [1]: http://www.woshipm.com/pmd/2180363.html
 [2]: https://www.zhihu.com/question/21472586s
@@ -215,3 +226,4 @@ TODO:[14]
 [12]: https://weread.qq.com/web/reader/46532b707210fc4f465d044k6ea321b021d6ea9ab1ba605
 [13]: https://www.zhihu.com/pub/reader/119583028/chapter/1057335986127769600s
 [14]: https://radiant-brushlands-42789.herokuapp.com/medium.com/predict/choosing-the-right-ai-business-model-df5d81420d74
+[15]: https://www.infoq.cn/article/2017/12/Ground-practice-visual-AI

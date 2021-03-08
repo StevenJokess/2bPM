@@ -10,13 +10,14 @@ https://www.zhihu.com/market/paid_column/1251475507390050304/section/12514755136
 “那些口号喊得响、低估场景挑战、高估技术能力的公司大多会在泡沫中死掉。”GMIS全球机器智能峰会后，刘维在接受网易智能专访时这样评价AI创业现状。
 `9 <https://mp.weixin.qq.com/s?__biz=MzI3NTU3ODk1MQ==&mid=2247484933&idx=1&sn=e7b99f0686f5f4c6f9d41bc22a012881&chksm=eb03ef2ddc74663bc8f0ccca0f64c71a72e9e5583986806f81d86a799beca3d56ac970f461f9&scene=21#wechat_redirect>`__
 
-阵营 `4 <https://zhuanlan.zhihu.com/p/33524676>`__
---------------------------------------------------
+阵营
+----
 
 1. 互联网巨头，包括“超第一梯队”的跨国公司Google和微软亚洲研究院，以及第一梯队的巨头
    — — 大家熟悉的百度、阿里和腾讯；以及第二梯队的今日头条和滴滴等公司。
 2. 人工智能创业公司，以某种人工智能技术为主营业务的创业公司，典型的如自动驾驶领域的Momenta、地平线、驭势科技；视觉识别领域的格灵深瞳、商汤科技和旷视科技等。
 3. 将人工智能融入到自身业务中的其它创业公司，如学霸君、泼辣熊和智齿科技等。
+   `4 <https://zhuanlan.zhihu.com/p/33524676>`__
 
 人工智能公司（主要针对创业公司）主要分为三个阵营：\ `5 <https://www.sohu.com/a/364264851_114819>`__
 
@@ -39,10 +40,10 @@ https://www.zhihu.com/market/paid_column/1251475507390050304/section/12514755136
 
    国际互联网企业产业布局图谱\ `10 <https://weread.qq.com/web/reader/40632860719ad5bb4060856kc9f326d018c9f0f895fb5e4>`__
 
-中国公司总览 `7 <https://daxueconsulting.com/ai-landscape-china/>`__
---------------------------------------------------------------------
+中国公司总览
+------------
 
-|AI公司|
+|AI公司\ |\ `7 <https://daxueconsulting.com/ai-landscape-china/>`__
 |中国人工智能产业链图谱\ |\ `11 <https://www2.deloitte.com/content/dam/Deloitte/cn/Documents/innovation/deloitte-cn-innovation-ai-whitepaper-zh-181126.pdfs>`__
 新基建IT产业图谱: https://www.analysys.cn/article/detail/20019748
 
@@ -87,9 +88,11 @@ ACL 在亚洲的发展也做出了卓越贡献。
 
 智能交通方面，百度Apollo依托百度领先的AI能力，接连中标重庆、合肥、阳泉等地车路协同新基建项目，Apollo
 Robotaxi自动驾驶出租车服务也已在长沙全面开放试运营。第一季度，知名研究公司Navigant
-Research将百度Apollo列为全球四大自动驾驶领域领导者之一。\ `6 <http://www.mysecretrainbow.com/ai/17083.html>`__
+Research将百度Apollo列为全球四大自动驾驶领域领导者之一。
+`6 <http://www.mysecretrainbow.com/ai/17083.html>`__
 
-在工业互联网领域，百度智能云在四季度分别与贵州省贵阳市政府、山东省济南市工信局签署战略合作，打造地方级AI工业互联网平台，全面推动企业数字化、智能化转型，助力当地经济形成新的经济增长点。\ `8 <http://finance.eastmoney.com/a/202102181812494141.html>`__
+在工业互联网领域，百度智能云在四季度分别与贵州省贵阳市政府、山东省济南市工信局签署战略合作，打造地方级AI工业互联网平台，全面推动企业数字化、智能化转型，助力当地经济形成新的经济增长点。
+`8 <http://finance.eastmoney.com/a/202102181812494141.html>`__
 
 |Baidu AI| |Baidu AI2|
 
@@ -105,14 +108,15 @@ Alibaba
 Aliyun
 ~~~~~~
 
-机器学习PAI
-Studio\ `2 <https://www.aliyun.com/product/bigdata/product/learn>`__
-|tianchi| |tianchi发展历程|
+机器学习PAI Studio
+`2 <https://www.aliyun.com/product/bigdata/product/learn>`__ |tianchi|
+|tianchi发展历程|
 
 taobao
 ~~~~~~
 
-AI虚拟主播\ `15 <https://developer.aliyun.com/article/778214?spm=a2c6h.13262185.0.0.1d0a4ee6o0ncC3>`__
+AI虚拟主播
+`15 <https://developer.aliyun.com/article/778214?spm=a2c6h.13262185.0.0.1d0a4ee6o0ncC3>`__
 
 腾讯
 ----
@@ -126,8 +130,14 @@ AI虚拟主播\ `15 <https://developer.aliyun.com/article/778214?spm=a2c6h.13262
 实验室
 ~~~~~~
 
-AI Lab\ `13 <https://www.jiqizhixin.com/articles/2019-05-24-14>`__
-优图实验室AI手语识别\ `14 <https://www.jiqizhixin.com/articles/2019-05-16-16>`__
+AI Lab `13 <https://www.jiqizhixin.com/articles/2019-05-24-14>`__
+优图实验室AI手语识别
+`14 <https://www.jiqizhixin.com/articles/2019-05-16-16>`__
+
+创业公司
+--------
+
+创业公司有很多方法可以并且确实成功地与大公司竞争。即使在一个相对较小的数据集上，你也可以在很多领域取得巨大的成就。
 
 More
 ----
@@ -145,7 +155,7 @@ http://search.stcn.com/was5/web/search?token=0.1584090199903.75&channelid=252914
 
 源代码，文档与数据下载地址为： https://github.com/apolloauto
 
-.. |AI公司| image:: ../img/AI_company.jpg
+.. |AI公司\ | image:: ../img/AI_company.jpg
 .. |中国人工智能产业链图谱\ | image:: ../img/AI_company_lian.jpg
 .. |Baidu AI| image:: ../img/baidu_AI.png
 .. |Baidu AI2| image:: ../img/baidu_AI2.png

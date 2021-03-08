@@ -190,6 +190,13 @@ User，月活跃用户数）；推广：推广渠道数据，筛选出投入产�
 
    产品迭代
 
+创新
+~~~~
+
+.. figure:: ../img/innovation_life_cycle.jpg
+
+   创新\ `22 <https://www.linkedin.com/in/adnanboz?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAFuSMgBFXwiCwojgL9ZKcAXUtKU0gz43I4&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B0WkZWz7WSMSnTAYrp3M2Pw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_feed-actor_container&lici=WZ8FA0AvHxl3fvZi6nTkaw%3D%3D>`__
+
 原型能力 `5 <http://www.woshipm.com/pmd/3755958.html>`__
 --------------------------------------------------------
 

@@ -40,3 +40,5 @@ https://mitpress.ublish.com/ereader/7093/?preview=#page/v
 至少你要知道什么是二分类问题，什么是ground
 truth、熵（entropy）的概念，dynamic
 learning的概念等等。\ `2 <http://www.uml.org.cn/DevProcess/201712283.asp>`__
+
+https://www.reddit.com/r/MachineLearning/

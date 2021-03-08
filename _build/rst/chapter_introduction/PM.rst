@@ -689,6 +689,12 @@ Steve Jobs
 所以各位创业者，记住 Steve Jobs 的 Stay Hungry, StayFoolish.
 然后一辈子都不要停止战斗。
 
+生存报告
+--------
+
+2020年产品经理生存报告:
+https://coffee.pmcaff.com/article/KDLE41yRkx?rts=201105225049_nch
+
 .. |产品策划VS产品运营| image:: ../img/design_GTM.jpg
 .. |腾讯产品经理能力模型| image:: ../img/tencent_PM.png
 .. |产品工作框架| image:: ../img/product_process.png

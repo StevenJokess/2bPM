@@ -4,8 +4,6 @@
 
 ## 全球
 
-
-
 ## 中国
 
 据数据显示，中国的人工智能专利申请数量占全球总量的37.1%，位居全球第一。论文总产出量达到141840篇，位居全球第二。
@@ -49,7 +47,11 @@
 
 ![AI对比其他互联网岗位](../img/talents_compete.png)
 
+## 对比新职业
 
+![对比新职业[5]](../img/talents_new.png)
+
+数据显示，2019年春招旺季人才需求增幅最高的15个职位中，人工智能类占据六席。其中图像识别、语音识别、图像处理等应用层岗位的人才需求增速显著加快，图像识别工程师的人才需求增幅同比高达110.9%。深度学习、机器学习等基础层研究职位人才需求增速低于应用层，但也呈现出了强劲的增长势头。[6]
 
 ## 学历要求 [3]
 
@@ -68,3 +70,5 @@
 [2]: https://www.zhihu.com/question/268511088/answer/1226892127
 [3]: http://finance.southcn.com/f/2021-03/05/content_192173681.htm
 [4]: https://www.talentseer.com/2020-ai-talent-report-chinese-version
+[5]: https://my.oschina.net/u/3861898/blog/4405417
+[6]: http://www.kejilie.com/lanjingtmt/article/rUVjeu.html

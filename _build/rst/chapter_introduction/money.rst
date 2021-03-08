@@ -56,7 +56,8 @@ Triumph
 外包
 ~~~~
 
-https://www.fiverr.com/?source=top_nav
+-  https://www.fiverr.com/?source=top_nav
+-  https://www.duiyou360.com/
 
 成本 `13 <https://www.zhihu.com/people/zhu-guan-jin-ming/answers/by_votes>`__
 -----------------------------------------------------------------------------
@@ -294,3 +295,5 @@ ROI.
 
 首次公开募股（Initial Public
 Offering）是指一家企业第一次将它的股份向公众出售。
+
+人工智能基金创业工作室从零开始创建新的人工智能公司。这些公司将AI技术和应用连接起来，专注于推动世界前进的行业和问题。https://aifund.ai/

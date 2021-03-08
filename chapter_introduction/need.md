@@ -101,6 +101,8 @@
 
 ## 需求管理软件
 
+![产品需求list](../img/need_list.png)
+
 除了excel，还有Mantis、Mercury Interactive公司的Quality Center、IBM的Rational RequisitePro等；
 
 ## 需求评审

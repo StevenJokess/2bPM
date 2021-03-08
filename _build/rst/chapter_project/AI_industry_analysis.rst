@@ -55,6 +55,16 @@ Gartner的研究表明，只有53%的项目能够从人工智能（AI）原型�
 
 人工智能工程化立足于三大核心支柱：\ **数据运维、模型运维和开发运维**\ 。强大的人工智能工程化策略将促进人工智能模型的性能、可扩展性、可解释性和可靠性，完全实现人工智能投资的价值。
 
+渐入冷静期
+~~~~~~~~~~
+
+最近两年 AI
+的发展其实是呈现一个冷静趋势，非常多的明星企业面临了衰落和倒闭。包括
+Anki Vector Robot, 芯片新星 Wave computing 以及吴恩达夫妇投资的
+drive.ai，还有大量自动驾驶，头戴式 VR
+眼镜和聊天机器人公司，都倒在了上市之前的道路上。从 AI
+投资的角度来看，前几年投资人主要关注这个团队有没有明星的科学家，例如有没有图灵奖获得者，有没有大牛存在，然后就更关注算法效果是不是国际领先的，再到这两年，大家更关注的是有没有落地的案例，有没有客户，以及公司的收入如何。\ `14 <https://www.infoq.cn/article/Vw5WdUPVIZd0tVFdgBae>`__
+
 信息途径 `3 <https://blog.csdn.net/Dylan_zhijing/article/details/107548246>`__
 ------------------------------------------------------------------------------
 
@@ -191,6 +201,8 @@ More:
 
 https://mattturck.com/data2020/
 
+中国人工智能产业发展联盟:http://aiiaorg.cn/
+中国人工智能产业知识产权白皮书2020：http://www.ai-research.online/#/whitepaper/detail/51
 https://daxueconsulting.com/category/artificial-intelligence-industry-in-china/
 
 https://www.ulapia.com/reports/search?query=AI

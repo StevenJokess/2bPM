@@ -327,6 +327,11 @@ PMF 讲的是产品与市场的匹配，要验证的是增长，也就是产品�
 
 用户需求 + 产品定义 = 产品定位
 
+## 产品计划 [16]
+
+产品遵循1-3-6-9原则：一个月时间完成项目的可行性研究和市场定位、市场细化；3个月内制订出产品开发的二三级计划和产品包计划；6个月系统试运行，做市场发布准备，产品命名和定价；9个月系统商业运行，市场发布、推广和销售。
+
+产品计划是解决开发周期过长问题的重要手段，对于开发周期短于9个月的产品，也应按照1-3-6-9的时间分配比例来对项目进行控制，从而达到按照暨定目标快速有效推出产品的目的。
 
 [1]: https://wiki.mbalib.com/wiki/%E4%BA%A7%E5%93%81%E8%A7%84%E5%88%92
 [2]: https://www.jianshu.com/p/ed738dac00e5
@@ -343,3 +348,4 @@ PMF 讲的是产品与市场的匹配，要验证的是增长，也就是产品�
 [13]: https://coffee.pmcaff.com/article/1329730610781312/pmcaff?utm_source=forum
 [14]: https://www.zhihu.com/market/paid_column/1312360599620358144/section/1312363033470443520
 [15]: https://www.bilibili.com/video/BV1wt411Y7zh
+[16]: https://blog.csdn.net/liwei16611/article/details/82630078

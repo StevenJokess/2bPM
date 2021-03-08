@@ -565,6 +565,10 @@ PM最终拼的是人文素养和灵魂境界，而不是职位名称、从业年
 
 所以各位创业者，记住 Steve Jobs 的 Stay Hungry, StayFoolish. 然后一辈子都不要停止战斗。
 
+## 生存报告
+
+2020年产品经理生存报告: https://coffee.pmcaff.com/article/KDLE41yRkx?rts=201105225049_nch
+
 [1]: https://www.jianshu.com/p/fd466ed1bda6
 [2]: https://www.zhihu.com/question/343743405/answer/1237754321s
 [3]: http://www.woshipm.com/pmd/3945349.html
