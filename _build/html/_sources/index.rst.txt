@@ -7,7 +7,7 @@ To be AI PM
 成为AI PM
 ---------
 
-.. figure:: ../img/2bPM.png
+.. figure:: /img/2bPM.png
 
    成为AI PM
 

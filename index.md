@@ -4,7 +4,7 @@
 
 ## 成为AI PM
 
-![成为AI PM](../img/2bPM.png)
+![成为AI PM](/img/2bPM.png)
 
 ## 产品经理
 
