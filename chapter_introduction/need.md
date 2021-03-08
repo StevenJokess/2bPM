@@ -129,6 +129,10 @@
 - 开发、测试、上线后：对量化的目标进行精准地验证，进行 A/B 测试时可以比较 A、B 两个方案的效果；
 - 复盘期间：总结量化评估经验，和研发团队沟通，了解团队技术实力和算法能力边界。争取量化更靠谱，减少需求变更和额外申请资源。
 
+## 示例
+
+同花顺问财功能需求分析文档：https://www.jianshu.com/p/130fb4f1036a
+
 [1]: https://www.shujike.com/zixun/101445.html
 [2]: http://www.woshipm.com/pmd/2903334.html
 [3]: http://www.woshipm.com/zhichang/459131.html
