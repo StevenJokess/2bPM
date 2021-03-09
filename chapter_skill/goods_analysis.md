@@ -221,6 +221,10 @@ step5：借鉴与规避竞品分析总结,结合我们自身情况,可以吸收�
 变目的为手段：随着盗版资源在市场上的传播，咨询业务也在无形中扩大了影响力。
 产品本身创新：拉大盗版与正版的价值差距，给正版用户提供更多的增值服务。
 
+## 示例
+
+十三：饿了么、美团外卖、百度外卖竞品分析：https://www.jianshu.com/p/a49663820163
+
 [1]: http://www.woshipm.com/pmd/1842636.html
 [2]: https://www.bilibili.com/video/BV1wz4y1y7sg?p=4
 [3]: https://www.zhihu.com/question/39005837
