@@ -43,9 +43,21 @@
 - 免费：360VS金山瑞星卡巴斯基，互联网思维：培养用户来赚钱VS软件思维：付软件。
 - 好人/坏人：囚徒困境，好人+以牙还牙。
 
-## SWOT分析 [3]
+## MOST 分析模型
 
-别高估自己、低估对手！
+定位自己 [4]
+
+MOST 分析模型中的 4 个字母分别代表了企业的使命（Mission）、目标（Objectives）、战略（Strategies）和战术（Tactics），产品经理在做商业分析时最好能够识别这些元素，它们可以帮助公司进行初步定位，对要实现的商业目标以及如何解决使命、目标、战略和战术的执行问题进行全面分析。
+
+## PESTLE 分析模型
+
+分析外部 [4]
+
+PESTLE 分析模型中的 6 个字母分别为 Political、Economic、Sociological、Technological、Legal 和 Environmental 的首字母，它比 PEST 分析模型多了法律和环境两个维度，使用此模型可以评估各种外部因素对公司的影响，并确定如何解决这些因素可能造成的问题。
+
+## SWOT分析
+
+别高估自己、低估对手！ [3]
 
 SWOT分析，又称态势分析，它是一种常用的战略规划分析模型，主要针对产品研发过程中涉及的一些关键要素进行分析。
 
@@ -61,3 +73,4 @@ OT分析：随着社会、政治、经济、科技等方面的变化和发展，
 [1]: http://www.woshipm.com/marketing/2121492.html
 [2]: https://www.bilibili.com/video/BV1wz4y1y7sg?p=5
 [3]: https://weread.qq.com/web/reader/0c032c9071dbddbc0c06459k37632cd021737693cfc7149
+[4]: https://www.zhihu.com/pub/reader/119919151/chapter/1283860051246137344

@@ -253,3 +253,5 @@ AI 在金融领域落地面临困难和挑战 `3 <http://www.ramywu.com/work/201
 ----
 
 https://istock.ssetech.com.cn/wiki/doku.php?id=start
+
+人工智能与金融AI研究报告精选（286份）：https://www.jrwenku.com/22053.html

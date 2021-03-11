@@ -206,6 +206,8 @@ https://www.zhihu.com/question/33731819/answer/120081634
 
 https://istock.ssetech.com.cn/wiki/doku.php?id=start
 
+人工智能与金融AI研究报告精选（286份）：https://www.jrwenku.com/22053.html
+
 [1]: https://zhuiyi.ai/solution/securities
 [2]: https://www.leiphone.com/news/202012/7ovvkzByXnPQjnlD.html
 [3]: http://www.ramywu.com/work/2018/05/18/AI-in-Finance-Survey/

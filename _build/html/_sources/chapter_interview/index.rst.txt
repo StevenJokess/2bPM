@@ -17,6 +17,7 @@ Interview
    choose
    CV
    AI_Finance_CV
+   exam
    interviewer
    HR
    reward
