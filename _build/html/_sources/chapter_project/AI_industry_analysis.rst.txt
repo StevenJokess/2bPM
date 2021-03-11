@@ -1,21 +1,22 @@
 
-AI行业分析 `1 <http://www.woshipm.com/pd/873240.html>`__
-========================================================
+AI行业分析
+==========
 
 `《新一代人工智能发展规划》 <http://www.gov.cn/zhengce/content/2017-07/20/content_5211996.htm>`__
 
-|2020 AI| |iresearch_AI|
+|2020 AI|\ `1 <http://www.woshipm.com/pd/873240.html>`__ |iresearch_AI|
 |AI-100-startup-2020\ |\ `12 <https://www.cbinsights.com/research/2020-top-100-ai-startups-where-are-they-now/>`__
 |Most-Valuable-AI-Startups-V3\ |\ `13 <https://www.cbinsights.com/research/most-valuable-private-ai-companies/>`__
 |AI领先企业主要投资领域|
 
-市场规模 `9 <https://www.zhihu.com/pub/reader/119980992/chapter/1284104620428685312>`__
----------------------------------------------------------------------------------------
+市场规模
+--------
 
 比如，深圳市人工智能行业协会发布的《2019
 人工智能产业发展白皮书》中提出：预计到 2020 年，我国人工智能市场规模约
 990
 亿元。如果你是人工智能行业的产品经理，就可以通过整体的规模来倒推自己产品的规模了。
+`9 <https://www.zhihu.com/pub/reader/119980992/chapter/1284104620428685312>`__
 
 2020 AI Hype Cycle
 ------------------
@@ -65,10 +66,19 @@ drive.ai，还有大量自动驾驶，头戴式 VR
 眼镜和聊天机器人公司，都倒在了上市之前的道路上。从 AI
 投资的角度来看，前几年投资人主要关注这个团队有没有明星的科学家，例如有没有图灵奖获得者，有没有大牛存在，然后就更关注算法效果是不是国际领先的，再到这两年，大家更关注的是有没有落地的案例，有没有客户，以及公司的收入如何。\ `14 <https://www.infoq.cn/article/Vw5WdUPVIZd0tVFdgBae>`__
 
-信息途径 `3 <https://blog.csdn.net/Dylan_zhijing/article/details/107548246>`__
-------------------------------------------------------------------------------
+发展报告
+--------
 
-机器之心、量子位；然后还有易观智库和 QuestMobile 的一些调研报告
+.. figure:: https://www.aminer.cn/research_report/5de27b53af66005a44822b12
+
+   《2019人工智能发展报告》
+
+信息途径
+--------
+
+机器之心、量子位
+`3 <https://blog.csdn.net/Dylan_zhijing/article/details/107548246>`__\ ；然后还有易观智库和
+QuestMobile 的一些调研报告
 
 优势：极快、极简
 ----------------

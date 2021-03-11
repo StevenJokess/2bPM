@@ -50,6 +50,10 @@
 
 如果你作为产品经理，非常有心计，每次都探索用户的本质需求，并且能够跨领域、跨行业地思考它们之间的共性，探索如何将在一个行业中所获得的能力迁移到另一个全新的领域，那么这也算一种成长。
 
+## 大公司 or 小公司
+
+![大公司\小公司的优缺点](../img/company_vs.png)
+
 [1]: https://weread.qq.com/web/reader/46532b707210fc4f465d044k8f132430178f14e45fce0f7
 [2]: https://weread.qq.com/web/reader/46532b707210fc4f465d044kd3d322001ad3d9446802347
 [3]: https://weread.qq.com/web/reader/46532b707210fc4f465d044kc7432af0210c74d97b01b1c

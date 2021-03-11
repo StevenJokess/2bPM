@@ -133,7 +133,7 @@ AI产品除了收集业务指标数据指导产品是否需要优化，还需要
 工具：
 ------
 
-神策分析、GrowingIO、友盟、TalkingData这种工具平台
+神策分析、GrowingIO、友盟、TalkingData、http://www.51.la/、http://www.google.cn/analytics/这种工具平台
 
 数据问题 `5 <http://www.changgpm.com/thread-350-1-1.html>`__
 ------------------------------------------------------------
