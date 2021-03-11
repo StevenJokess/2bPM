@@ -34,9 +34,10 @@ CNN优缺点：
 
 ## 更多
 
-更多见：https://github.com/StevenJokess/d2l-en-read/tree/moreme
-
-https://www.reddit.com/r/deeplearning/
+- 见我的repo：https://github.com/StevenJokess/d2l-en-read/tree/moreme
+- NLP: http://reader.epubee.com/books/mobile/0a/0a480147f4d747140345a9a3fda529cf/text00017.html?fromPre=last
+- GAN: http://reader.epubee.com/books/mobile/0a/0a480147f4d747140345a9a3fda529cf/text00017.html?fromPre=last
+- Reddit:https://www.reddit.com/r/deeplearning/
 
 [1]: https://www.yinxiang.com/everhub/note/e7f0c50e-dc27-488f-a9f9-35c121e20bb1
 [2]: https://github.com/StevenJokess/d2l-en-read/tree/moreme
