@@ -18,6 +18,7 @@
 ![页面Axure实战(375*667)](../img/page2_axure.png)
 
 ## 高保真 Axure实战
+:label:`page_done_Axure`
 
 https://library.ant.design/
 
