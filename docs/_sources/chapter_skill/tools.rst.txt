@@ -15,6 +15,19 @@ https://www.iamxiarui.com/?p=1231
 Axure `1 <https://www.yinxiang.com/everhub/note/435c8b2c-9127-43f3-a6e3-fc5f8898d893>`__
 ----------------------------------------------------------------------------------------
 
+**Axure实战**\ 见
+https://github.com/StevenJokess/2bPM/blob/master/rsc/meituan_PM_recovered.rp
+
+-  流程图实战:ref:\ ``flow_chart_Axure``
+-  流程图页面化实战:ref:\ ``flow_chart2page_Axure``
+-  低保真页面实战:ref:\ ``page_Axure``
+-  高保真页面实战:ref:\ ``page_done_Axure``
+
+更多： https://www.axure.com.cn/axure/
+
+简介
+~~~~
+
 https://www.iamxiarui.com/?p=1845
 
 在我的实践中，用Axure原型+注释的方式撰写，导出HTML或发布到Axshare或通过蓝湖上传的方式传达；效率最高效果最好。
@@ -41,12 +54,4 @@ Tower、禅道、tapd等团队协同工具，会导致一部分人习惯把产�
 
 在Axure里搭建当前版本/模块最完整的产品结构，并且及时更新。要明确一个认知，协同工具是给UI、开发、测试、运营看的，目的是让他们看起来方便，可以针对单个需求设置执行人员、排期、添加bug记录等，核心价值是项目管理。而不是为了产品经理维护需求文档方便，所以在需求的撰写和管理时，不要依赖协同工具。在追溯需求问题的时候，要能做到在Axure文件里便能找到记录，而不是去翻协同工具里的需求记录。
 
-Axure基础操作总结：
-https://blog.csdn.net/zcl050505/article/details/110439551
-
-Axure实战见
-
--  流程图实战:ref:\ ``flow_chart_Axure``
--  流程图页面化实战:ref:\ ``flow_chart2page_Axure``
--  低保真页面实战:ref:\ ``page_Axure``
--  高保真页面实战:ref:\ ``page_done_Axure``
+Axure基础操作总结：https://blog.csdn.net/zcl050505/article/details/110439551

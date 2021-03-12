@@ -67,3 +67,8 @@
 
 VS 饿了吗
 ---------
+
+AI
+--
+
+GAN：https://tech.meituan.com/2018/12/27/ai-in-banner-design.html
