@@ -161,15 +161,19 @@ https://www.zhihu.com/question/33731819/answer/120081634
 
 “投”与“顾” 不平衡，用户深度互动缺失:目前，金融的智能投顾产品处于探索初级阶段，投资端智能化程度显著不足，顾问端仅仅优 化了操作的便捷性，缺乏与用户的深度互动，智能投顾探索不应局限于金融机构，而应引入更多外部科技力量推动真正智能投顾的实现。
 
-## 金融保险（Finance and insurance） [16]
+## 金融保险（Finance and insurance）
 
 - 4Paradigm
 - BioCatch
 - DataVisor
 - HyperScience
 - Behavox
-- AppZen
+- AppZen  [16]
 
+
+## 人工智能平台中的 AI——实现规模应用的“哆啦 A 梦”
+
+在人工智能平台前，金融行业特别是银行中的建模大都还是 SAS、SPSS 等统计建模软件的天下，虽然它们在评分卡等领域曾经辉煌过，但在大数据时代的长河里，它们渐渐失去了往日的光芒。这时，具有大数据基因，且整合了大数据机器学习框架以及多种计算机语言的人工智能平台应运而生。其不仅利用分布式计算部署能力和容器技术让计算能力和速度进一步提升，而且还降低了建模计算的使用门槛，让前线的业务人员也能体验小白上手大数据建模的快感，同时也能让建模与业务场景结合地更紧密，让建模结果更好地赋能业务。[19]
 
 ## AI 在金融领域落地面临困难和挑战 [3]
 
@@ -226,3 +230,4 @@ https://istock.ssetech.com.cn/wiki/doku.php?id=start
 [16]: https://easyai.tech/blog/best-ai-company-2019/
 [17]: https://weread.qq.com/web/reader/e77325105e4e55e77af47dbk45c322601945c48cce2e120
 [18]: https://weread.qq.com/web/reader/e77325105e4e55e77af47dbkd3d322001ad3d9446802347
+[19]: https://www.infoq.cn/article/1obcmwjkaqyux5xjmy7j
