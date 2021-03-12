@@ -15,7 +15,7 @@
 
 ### STAR
 
-![STAR](../img/STAR.png)
+![STAR](../img/STAR.jpg)
 
 ## 0-1创业
 

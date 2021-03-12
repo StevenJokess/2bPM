@@ -21,7 +21,7 @@ CV VS Resume `5 <https://www.zhihu.com/question/20355548>`__
 STAR
 ~~~~
 
-.. figure:: ../img/STAR.png
+.. figure:: ../img/STAR.jpg
 
    STAR
 

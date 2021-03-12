@@ -14,13 +14,12 @@ compete_analysis
 goods_analysis
 MRD
 PRD
+prototype_design
 flow_chart
 static_page
-prototype_design
 MVP
 collaborate
 upgrade_manage
-TFD
 resource_manage
 data_analysis
 project_manage
