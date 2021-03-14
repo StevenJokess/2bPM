@@ -244,6 +244,10 @@ Google Forms) should be joined with interface prototyping tools (such as
 Invision and Balsamiq), and with data prototyping tools (such as Jupyter
 Notebooks) to form an ecosystem for product development and testing.
 
+.. figure:: ../img/AI_MVP.png
+
+   AI MVP
+
 数据质量和标准化
 ^^^^^^^^^^^^^^^^
 
@@ -324,6 +328,9 @@ pm需要与技术领导者(例如，技术领导者或首席科学家)建立合�
 该框架允许部署的模型不间断地运行，同时根据总体样本培训第二个模型。如果第二种模型的性能优于原来的，它可以简单地被替换掉——通常没有任何停机时间!
 
 当发现模型结果在出现短期异常值时，排查异常的原因，例如：运营活动或者节假日等因素，当发现模型长期表现不佳时，则要考虑是否是用户和产品的数据构成已经发生了变化。如果是因为数据构成已经发生变化，则需要重新通过CRISP-DM流程构建新的模型。
+
+优雅地处理产品故障：为用户提供一种立即重新标记数据以进一步改进模型的方法。举例来说，iPhone
+的语音邮件转录服务对其低信度是透明的，并为用户提供了一个选项来帮助苹果通过提交语音记录来改进转录。\ `8 <http://www.uml.org.cn/devprocess/201910163.asp>`__
 
 持续集成和持续部署
 ^^^^^^^^^^^^^^^^^^

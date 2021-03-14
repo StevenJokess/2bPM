@@ -64,7 +64,11 @@
 
 ## VS 饿了吗
 
+https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%A2vs%E9%A5%BF%E4%BA%86%E5%90%97&from_source=nav_search_new
+
 ## AI
+
+https://tech.meituan.com/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.html
 
 GAN：https://tech.meituan.com/2018/12/27/ai-in-banner-design.html
 

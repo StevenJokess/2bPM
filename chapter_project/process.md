@@ -186,6 +186,8 @@ Entrepreneurial product managers are often associated with the phrase “Move Fa
 
 Qualitative data collection tools (such as SurveyMonkey, Qualtrics, and Google Forms) should be joined with interface prototyping tools (such as Invision and Balsamiq), and with data prototyping tools (such as Jupyter Notebooks) to form an ecosystem for product development and testing.
 
+![AI MVP](../img/AI_MVP.png)
+
 #### 数据质量和标准化
 
 在大多数组织中，数据质量要么是工程问题，要么是IT问题;除非它阻碍了下游流程或项目，否则产品团队很少处理它。这种关系对于开发AI产品的团队来说是不可能的。“垃圾输入，垃圾输出”也适用于人工智能，所以优秀的人工智能pm必须关心数据的健康状况。
@@ -261,6 +263,8 @@ Qualitative data collection tools (such as SurveyMonkey, Qualtrics, and Google F
 
 当发现模型结果在出现短期异常值时，排查异常的原因，例如：运营活动或者节假日等因素，当发现模型长期表现不佳时，则要考虑是否是用户和产品的数据构成已经发生了变化。如果是因为数据构成已经发生变化，则需要重新通过CRISP-DM流程构建新的模型。
 
+优雅地处理产品故障：为用户提供一种立即重新标记数据以进一步改进模型的方法。举例来说，iPhone 的语音邮件转录服务对其低信度是透明的，并为用户提供了一个选项来帮助苹果通过提交语音记录来改进转录。[8]
+
 #### 持续集成和持续部署
 
 - https://martinfowler.com/articles/cd4ml.html
@@ -282,3 +286,4 @@ Qualitative data collection tools (such as SurveyMonkey, Qualtrics, and Google F
 [5]: https://www.oreilly.com/radar/bringing-an-ai-product-to-market/
 [6]: http://www.changgpm.com/thread-253-1-1.html
 [7]: https://radiant-brushlands-42789.herokuapp.com/towardsdatascience.com/my-first-year-as-a-project-manager-for-artificial-intelligence-ai-16127a4a37c2
+[8]: http://www.uml.org.cn/devprocess/201910163.asp

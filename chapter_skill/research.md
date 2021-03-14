@@ -51,7 +51,7 @@ Chrome extension that adds video explanations to research papers on arxiv.org: h
 
 ### arxiv-sanity
 
-http://www.arxiv-sanity.com/
+特斯拉的人工智能高级总监 Andrej Karpathy：http://www.arxiv-sanity.com/
 
 感兴趣相关度排序、个人图书馆、推荐系统、都在看什么[2]
 
@@ -72,6 +72,10 @@ metacademy看作一副机器学习和人工智能的知识图谱，在上面搜�
 输入关键词就能找到对应的学者： https://www.aminer.cn/
 
 https://www.aminer.cn/ai2000/country/China
+
+### 著名学者
+
+AI 领域大多数有影响力的人物（比如谷歌的 Peter Norvig，Facebook AI 研究的 Yann LeCun 以及微软的 Eric Horvitz）
 
 ### 论文
 

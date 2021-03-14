@@ -32,6 +32,10 @@ ML `1 <https://www.pianshen.com/article/66921228716/>`__
 -  蒙特卡罗方法
 -  变分法
 
+.. figure:: ../img/ML.png
+
+   ML\ `3 <http://www.uml.org.cn/devprocess/201910163.asp>`__
+
 更多
 ----
 

@@ -50,3 +50,10 @@ CNN优缺点：
    http://reader.epubee.com/books/mobile/0a/0a480147f4d747140345a9a3fda529cf/text00017.html?fromPre=last
 -  Reddit:https://www.reddit.com/r/deeplearning/
 -  AI算法工程师手册: https://www.bookstack.cn/books/huaxiaozhuan-ai
+-  CV: http://www.uml.org.cn/ai/202012021.asp?artid=23430
+
+学科与应用
+----------
+
+对于深度学习、统计的专家来说，他们更加关注于模型、算法等等，找到可以普适性解决问题的办法。而对于我们应用来说，具体的算法实现不需要我们考虑太多，而是找到适合的场景、合适的模型、匹配的算法，所以应用人工智能实际上是一个计算机、统计、知识工程、行业知识的一个交叉应用。
+`3 <http://www.uml.org.cn/ai/201707041.asp>`__

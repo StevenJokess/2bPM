@@ -30,6 +30,8 @@
 - 蒙特卡罗方法
 - 变分法
 
+![ML[3]](../img/ML.png)
+
 ## 更多
 
 https://mitpress.ublish.com/ereader/7093/?preview=#page/v
@@ -43,3 +45,4 @@ https://www.reddit.com/r/MachineLearning/
 
 [1]: https://www.pianshen.com/article/66921228716/
 [2]: http://www.uml.org.cn/DevProcess/201712283.asp
+[3]: http://www.uml.org.cn/devprocess/201910163.asp

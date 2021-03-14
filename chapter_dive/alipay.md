@@ -77,6 +77,8 @@ BAT三家的发家史都是在做“连接”这件事。百度连接人与信�
 
 在技术层面，支付宝也毫不逊色。蚂蚁集团表示，在去年中国一个购物节的高峰节点，其系统每秒处理了45.9万笔支付。相比之下，Visa称其每秒可处理6.5万笔交易。
 
+支付宝第五代风控引擎AlphaRisk模型： http://www.uml.org.cn/ai/202003251.asp
+
 [1]: https://www.sohu.com/a/405889196_114819
 [2]: https://www.zhihu.com/question/380276570
 [3]: http://www.woshipm.com/it/632590.html

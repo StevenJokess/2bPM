@@ -64,7 +64,7 @@ arxiv.org: https://github.com/amitness/papers-with-video
 arxiv-sanity
 ~~~~~~~~~~~~
 
-http://www.arxiv-sanity.com/
+特斯拉的人工智能高级总监 Andrej Karpathy：http://www.arxiv-sanity.com/
 
 感兴趣相关度排序、个人图书馆、推荐系统、都在看什么\ `2 <https://cloud.tencent.com/developer/article/1473703>`__
 
@@ -82,14 +82,20 @@ https://metacademy.org/
 
 metacademy看作一副机器学习和人工智能的知识图谱，在上面搜索任意机器学习或者人工智能的知识概念，它会告诉你学习这个知识点需要什么前置知识，需要多长时间掌握，并罗列出相关的课程。
 
-.. _论文-1:
-
 AMiner\ `3 <有哪些可以自学机器学习、深度学习、人工智能的网站？%20-%20白小鱼的回答%20-%20知乎%20https://www.zhihu.com/question/375537442/answer/1356785270>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 输入关键词就能找到对应的学者： https://www.aminer.cn/
 
 https://www.aminer.cn/ai2000/country/China
+
+.. _论文-1:
+
+著名学者
+~~~~~~~~
+
+AI 领域大多数有影响力的人物（比如谷歌的 Peter Norvig，Facebook AI 研究的
+Yann LeCun 以及微软的 Eric Horvitz）
 
 
 论文

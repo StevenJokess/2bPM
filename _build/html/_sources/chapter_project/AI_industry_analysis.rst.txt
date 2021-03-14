@@ -4,6 +4,11 @@ AI行业分析
 
 `《新一代人工智能发展规划》 <http://www.gov.cn/zhengce/content/2017-07/20/content_5211996.htm>`__
 
+`CB
+Insights调研出2019年人工智能行业25大趋势 <http://www.stdaily.com/cxzg80/kejizixun/2019-02/19/content_750862.shtml>`__
+
+`全球AI基础设施市场规模，现状和预测2021-2026 <http://www.etimeweekly.com/2021/03/11/ai%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E5%B8%82%E5%9C%BA2021%E5%B9%B4%E5%85%A8%E7%90%83%E6%B4%9E%E5%AF%9F%E5%8A%9B%E5%92%8C%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF-oracle%EF%BC%8Cmicrosoft%EF%BC%8Cintel-c/>`__
+
 |2020 AI|\ `1 <http://www.woshipm.com/pd/873240.html>`__ |iresearch_AI|
 |AI-100-startup-2020\ |\ `12 <https://www.cbinsights.com/research/2020-top-100-ai-startups-where-are-they-now/>`__
 |Most-Valuable-AI-Startups-V3\ |\ `13 <https://www.cbinsights.com/research/most-valuable-private-ai-companies/>`__
