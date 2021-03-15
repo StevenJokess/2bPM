@@ -54,6 +54,8 @@
 
 ![大公司\小公司的优缺点](../img/company_vs.png)
 
+什么公司值得去：https://www.kanzhun.com/
+
 [1]: https://weread.qq.com/web/reader/46532b707210fc4f465d044k8f132430178f14e45fce0f7
 [2]: https://weread.qq.com/web/reader/46532b707210fc4f465d044kd3d322001ad3d9446802347
 [3]: https://weread.qq.com/web/reader/46532b707210fc4f465d044kc7432af0210c74d97b01b1c
