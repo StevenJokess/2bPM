@@ -148,7 +148,7 @@
 
 几乎所有高薪架构师，都懂得多门主流编程语言，如 C++、Java、Python 等，以确保在架构系统时局限性更小，此外，他们还可以使用如 MySQL、SQL Server、sybase、jracle、infomix 等多种数据库，他们还了解文件系统特性，如 NFS、GFS、NTDFS、XFS 等，甚至做过几年 Windows 开发。正是这些经历，才造就了一名优秀的架构师或 CTO。
 
-
+![算法工程师的技能雷达图](../img/engineer_ability.jpg)
 ![coder path](../img/coder_path.png)
 
 ![职位路径](../img/all_path.jpg)

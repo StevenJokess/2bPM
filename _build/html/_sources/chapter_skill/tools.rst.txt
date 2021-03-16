@@ -24,6 +24,7 @@ https://github.com/StevenJokess/2bPM/blob/master/rsc/meituan_PM_recovered.rp
 -  高保真页面实战:ref:\ ``page_done_Axure``
 
 更多： https://www.axure.com.cn/axure/
+AxureShop：https://www.axureshop.com/
 
 简介
 ~~~~

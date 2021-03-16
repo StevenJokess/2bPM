@@ -3,6 +3,10 @@
 ![CV](../img/CV.jpg)
 ![CV2](../img/CV2.png)
 
+## LinkedIn and GitHub
+
+https://career-resource-center.udacity.com/linkedin-github-profiles
+
 ## CV VS Resume [5]
 
 - Resume，**简述**于求职相关的教育背景和工作经历，其目的在于说服用人单位雇用自己；
@@ -12,6 +16,15 @@
 ## 设计一份与众不同的简历 [2]
 
 简历不是写出来的，而是设计出来的，介绍如何设计一份与众不同的简历、如何在众多模板简历中脱颖而出、如何让简历真的成为敲门砖、如何在1分钟内打动面试官、简历都有哪些投递的方式等。
+
+## 简历命名
+
+岗位、职级、行业、工作年限
+
+高级产品经理-隔壁老王-B端金融-6年。
+
+从基本描述的已知信息中，获取到产品经理的个人标签，以便初步判断是否具有核心竞争力。 [6]
+
 
 ### STAR
 
@@ -78,3 +91,4 @@ AI产品经理的基础还是产品经理，更重要的还是为什么做这个
 [3]: https://weread.qq.com/web/reader/46532b707210fc4f465d044k1f032c402131f0e3dad99f3
 [4]: https://www.zhihu.com/pub/reader/119583028/chapter/1057335985750228992
 [5]: https://www.zhihu.com/question/20355548
+[6]: https://www.zhihu.com/search?type=content&q=AI%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86

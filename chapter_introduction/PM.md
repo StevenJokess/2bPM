@@ -147,6 +147,7 @@ Cobit框架： 规划-》设计-》研发-》发布-》监控
 
 ![产品工作框架](../img/product_process.png)
 ![产品工作框架细节](../img/PM_process.jpg)
+![产品工作框架脑图](../img/PM_process_mindmap.png)
 
 ### 工作内容 [2]
 
@@ -447,13 +448,16 @@ https://www.yuque.com/books/share/2325abf6-ed56-4941-bf99-94edeb122076?#%20%E3%8
 - https://dh.woshipm.com/#section-16
 - http://www.crazypm.com/
 - https://pm-ren.com/
+- http://beforweb.com/product
 
 导航：
 http://www.pm265.com/
 
 信息：
-http://www.aihot.net/
-https://www.aiaor.com/
+
+- http://www.aihot.net/
+- https://www.aiaor.com/
+- http://wiki.jikexueyuan.com/list/product
 
 ## 我适合当产品经理吗[10]
 

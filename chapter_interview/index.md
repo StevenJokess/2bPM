@@ -9,7 +9,7 @@
 ```toc
 :maxdepth: 2
 
-zitai
+xintai
 choose
 CV
 AI_Finance_CV

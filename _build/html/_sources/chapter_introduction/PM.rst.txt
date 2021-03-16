@@ -188,7 +188,7 @@ App 的某个角落，无人理睬，最终又悄无声息地下线。
 
 Cobit框架： 规划-》设计-》研发-》发布-》监控
 
-|产品工作框架| |产品工作框架细节|
+|产品工作框架| |产品工作框架细节| |产品工作框架脑图|
 
 工作内容 `2 <https://www.zhihu.com/question/343743405/answer/1237754321s>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -535,10 +535,15 @@ https://www.yuque.com/books/share/2325abf6-ed56-4941-bf99-94edeb122076?#%20%E3%8
 -  https://dh.woshipm.com/#section-16
 -  http://www.crazypm.com/
 -  https://pm-ren.com/
+-  http://beforweb.com/product
 
 导航： http://www.pm265.com/
 
-信息： http://www.aihot.net/ https://www.aiaor.com/
+信息：
+
+-  http://www.aihot.net/
+-  https://www.aiaor.com/
+-  http://wiki.jikexueyuan.com/list/product
 
 我适合当产品经理吗\ `10 <https://www.bilibili.com/video/BV1qv411B7J1>`__
 ------------------------------------------------------------------------
@@ -709,3 +714,4 @@ https://coffee.pmcaff.com/article/KDLE41yRkx?rts=201105225049_nch
 .. |腾讯产品经理能力模型| image:: ../img/tencent_PM.png
 .. |产品工作框架| image:: ../img/product_process.png
 .. |产品工作框架细节| image:: ../img/PM_process.jpg
+.. |产品工作框架脑图| image:: ../img/PM_process_mindmap.png

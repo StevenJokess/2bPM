@@ -15,6 +15,8 @@
 
 1. 形成缜密的逻辑思维：PRD方案的完备要求，如果不完备，可能开发结构大大不同，造成工期延误返工的现象。
    `22 <https://www.zhihu.com/search?type=content&q=%E4%BA%A7%E5%93%81+%E7%AC%94%E8%AF%95>`__
+   也要信任研发经理评估出来的工期
+   `25 <https://www.zhihu.com/question/19554113/answer/308056760>`__
 2. 算法的适用场景：知道要做什么，风险是什么-走哪条路能到。技术给产品带来多少价值\ `19 <https://zhuanlan.zhihu.com/p/33524676>`__\ ；解决方案转化到技术的资源需求（需要更多的数据，更完善的算法模型
    `19 <https://zhuanlan.zhihu.com/p/33524676>`__\ ），缩短研发工程师找到最佳技术方案的时间
    `16 <http://www.changgpm.com/thread-356-1-1.html>`__\ ；考虑风险，不完全依赖AI，而是AI辅助\ `20 <https://medium.com/@liwdai/how-machine-learning-influences-responsibilities-of-product-managers-bf63c3bf57b5>`__\ ，如人脸识别可能被攻击，用“异步审核”策略，用人工检测的方式保证通过率和准确率，保证用户体验，降低业务风险。

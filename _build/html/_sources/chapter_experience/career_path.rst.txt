@@ -173,9 +173,7 @@ Server、sybase、jracle、infomix 等多种数据库，他们还了解文件系
 NFS、GFS、NTDFS、XFS 等，甚至做过几年 Windows
 开发。正是这些经历，才造就了一名优秀的架构师或 CTO。
 
-.. figure:: ../img/coder_path.png
-
-   coder path
+|算法工程师的技能雷达图| |coder path|
 
 .. figure:: ../img/all_path.jpg
 
@@ -240,3 +238,5 @@ PPT
 
 .. |path| image:: ../img/path.jpg
 .. |能力| image:: ../img/PM_top.jpg
+.. |算法工程师的技能雷达图| image:: ../img/engineer_ability.jpg
+.. |coder path| image:: ../img/coder_path.png
