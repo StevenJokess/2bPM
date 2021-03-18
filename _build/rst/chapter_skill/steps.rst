@@ -31,6 +31,10 @@ C产品还是to B产品，或者适合广告产品、会员产品还是其他商
 6. 输出各类商业化产品包装资料、商业化产品官网等。
 7. 输出产品发布管理文档、各类产品培训资料等。
 
+.. figure:: ../img/work_output.png
+
+   工作输出\ `4 <https://shimo.im/docs/vyCrK3rQQ6KC9Ryp/read>`__
+
 工作
 ----
 

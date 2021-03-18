@@ -8,7 +8,7 @@ skill
 .. toctree::
    :maxdepth: 2
 
-   7steps
+   steps
    BRD
    users_analysis
    priority

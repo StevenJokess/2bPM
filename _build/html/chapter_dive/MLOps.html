@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    
+    <title>MLOps &#8212; To be AI PM 0.0.2 documentation</title>
+
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/basic.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../_static/d2l.css" />
+    <link rel="stylesheet" href="../_static/material-design-lite-1.3.0/material.blue-deep_orange.min.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/sphinx_materialdesign_theme.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/fontawesome/all.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/fonts.css" type="text/css" />
+    <script id="documentation_options" data-url_root="../" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/d2l.js"></script>
+    <script async="async" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" /> 
+  </head>
+<body>
+    <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header mdl-layout--fixed-drawer"><header class="mdl-layout__header mdl-layout__header--waterfall ">
+    <div class="mdl-layout__header-row">
+        
+        <nav class="mdl-navigation breadcrumb">
+            <a class="mdl-navigation__link is-active">MLOps</a>
+        </nav>
+        <div class="mdl-layout-spacer"></div>
+        <nav class="mdl-navigation">
+        
+<form class="form-inline pull-sm-right" action="../search.html" method="get">
+      <div class="mdl-textfield mdl-js-textfield mdl-textfield--expandable mdl-textfield--floating-label mdl-textfield--align-right">
+        <label id="quick-search-icon" class="mdl-button mdl-js-button mdl-button--icon"  for="waterfall-exp">
+          <i class="material-icons">search</i>
+        </label>
+        <div class="mdl-textfield__expandable-holder">
+          <input class="mdl-textfield__input" type="text" name="q"  id="waterfall-exp" placeholder="Search" />
+          <input type="hidden" name="check_keywords" value="yes" />
+          <input type="hidden" name="area" value="default" />
+        </div>
+      </div>
+      <div class="mdl-tooltip" data-mdl-for="quick-search-icon">
+      Quick search
+      </div>
+</form>
+        
+<a id="button-show-source"
+    class="mdl-button mdl-js-button mdl-button--icon"
+    href="../_sources/chapter_dive/MLOps.rst.txt" rel="nofollow">
+  <i class="material-icons">code</i>
+</a>
+<div class="mdl-tooltip" data-mdl-for="button-show-source">
+Show Source
+</div>
+        </nav>
+    </div>
+    <div class="mdl-layout__header-row header-links">
+      <div class="mdl-layout-spacer"></div>
+      <nav class="mdl-navigation">
+          
+              <a  class="mdl-navigation__link" href="https://github.com/StevenJokess/2bPM">
+                  <i class="fab fa-github"></i>
+                  Github
+              </a>
+      </nav>
+    </div>
+</header><header class="mdl-layout__drawer">
+    
+          <!-- Title -->
+      <span class="mdl-layout-title">
+          <a class="title" href="../index.html">
+              <span class="title-text">
+                  To be AI PM
+              </span>
+          </a>
+      </span>
+    
+    
+      <div class="globaltoc">
+        <span class="mdl-layout-title toc">Table Of Contents</span>
+        
+        
+            
+            <nav class="mdl-navigation">
+                <ul>
+<li class="toctree-l1"><a class="reference internal" href="../get_started.html">求职AI PM，百度用了我战略idea？</a></li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../chapter_introduction/index.html">1. Introduction</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_introduction/need.html">1.1. 需求</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_introduction/Product.html">1.2. 产品</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_introduction/2B.html">1.3. To Business 1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_introduction/2C.html">1.4. To Customer</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_introduction/platform.html">1.5. 平台型</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_introduction/money.html">1.6. 财务规划</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_introduction/PM.html">1.7. Product Mananger</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_introduction/AI.html">1.8. AI</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_introduction/AI_Product.html">1.9. AI 产品</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_introduction/AI_PM.html">1.10. AI产品经理</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_introduction/ability.html">1.11. AI产品经理的完整能力矩阵 1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_introduction/opportunity.html">1.12. 产品机会</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../chapter_idea/index.html">2. Idea</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_idea/idea.html">2.1. 思维</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_idea/empathy.html">2.2. 同理心</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_idea/data.html">2.3. 数据 1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_idea/negotiation.html">2.4. 谈判</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_idea/brand.html">2.5. 品牌</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_idea/decompose.html">2.6. 费米推理</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_idea/convert.html">2.7. 转换成本1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_idea/business.html">2.8. 商业思维</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_idea/critical.html">2.9. 批判性思维1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_idea/attention.html">2.10. 注意力</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_idea/goal.html">2.11. Goal</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_idea/understand_tech.html">2.12. 技术理解力</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_idea/GTM.html">2.13. GTM（go to marketing）</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_idea/design.html">2.14. 设计思维 1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_idea/time.html">2.15. 时间</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../chapter_skill/index.html">3. skill</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/steps.html">3.1. 商业化产品“七步设计法” 1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/BRD.html">3.2. BRD</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/users_analysis.html">3.3. 用户需求研究 1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/priority.html">3.4. 优先级 1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/industry_analysis.html">3.5. 行业分析</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/experience_report.html">3.6. 产品体验报告</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/compete_analysis.html">3.7. 竞争分析</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/goods_analysis.html">3.8. 竞品分析 1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/MRD.html">3.9. MRD 1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/PRD.html">3.10. PRD</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/prototype_design.html">3.11. 原型设计</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/flow_chart.html">3.12. 流程图 1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/static_page.html">3.13. 静态页面</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/MVP.html">3.14. MVP</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/collaborate.html">3.15. 沟通、协作、项目推动能力</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/upgrade_manage.html">3.16. 迭代优化</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/resource_manage.html">3.17. 资源管理</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/data_analysis.html">3.18. 数据分析</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/project_manage.html">3.19. 项目管理</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/tools.html">3.20. 工具</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/research.html">3.21. Research</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/Valuation.html">3.22. 估值</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/price.html">3.23. 产品定价 1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/more_users.html">3.24. 推广产品</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../chapter_experience/index.html">4. experience</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/career_path.html">4.1. 职业发展路径</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/1Day.html">4.2. 产品经理的一天</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/early_phase.html">4.3. 早期工作</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/issue.html">4.4. 行业巨变</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/hema.html">4.5. 盒马鲜生</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/Jamin.html">4.6. Jamin</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/taobao.html">4.7. taobao</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/tencent.html">4.8. tencent</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/ant_jiebei.html">4.9. 蚂蚁借呗的金融产品解析</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/diudiu.html">4.10. diudiu</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/dingding.html">4.11. 钉钉</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/4years.html">4.12. 4年产品工作总结</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/jubensha.html">4.13. 剧本杀</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/fail.html">4.14. 失败</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/recessive_work.html">4.15. AI PM的隐性工作</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../chapter_project/index.html">5. project</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/AI_industry_analysis.html">5.1. AI行业分析</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/AI_company.html">5.2. AI公司</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/AI_talents.html">5.3. AI 人才</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/AI_Finance.html">5.4. AI 金融</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/AI_fit.html">5.5. AI 健身</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/AI_hardware.html">5.6. AI 硬件 1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/process.html">5.7. 产品整个流程1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/Data%20Process.html">5.8. 数据处理流程拆解</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/inspect.html">5.9. 原型检验1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/product_document.html">5.10. 产品文档</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/Roadmap.html">5.11. Roadmap1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/Scrum.html">5.12. Scrum</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/separate_need.html">5.13. 需求价值的分析方法</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/valuable.html">5.14. 价值 1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/APP_experience.html">5.15. APP体验</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../chapter_interview/index.html">6. Interview</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_interview/xintai.html">6.1. 心态</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_interview/choose.html">6.2. 选择</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_interview/CV.html">6.3. CV</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_interview/AI_Finance_CV.html">6.4. 金融产品经理的简历 1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_interview/exam.html">6.5. 笔试题</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_interview/interviewer.html">6.6. 面试官 1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_interview/HR.html">6.7. HR</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_interview/reward.html">6.8. 回报</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_interview/new_like.html">6.9. 令人喜爱的新人1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_interview/question.html">6.10. 常见问题</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_interview/not_go.html">6.11. 不能去</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_interview/offer.html">6.12. 工作</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_interview/hire.html">6.13. 招不到合适</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="index.html">7. Dive</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="zongshen.html">7.1. 纵向深度挖掘</a></li>
+<li class="toctree-l2"><a class="reference internal" href="expert.html">7.2. 专家</a></li>
+<li class="toctree-l2"><a class="reference internal" href="qi_yuan.html">7.3. 蚂蚁金服AI首席科学家漆远1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="company_research.html">7.4. 公司研究</a></li>
+<li class="toctree-l2"><a class="reference internal" href="antgroup.html">7.5. 蚂蚁集团</a></li>
+<li class="toctree-l2"><a class="reference internal" href="alipay.html">7.6. 支付宝</a></li>
+<li class="toctree-l2"><a class="reference internal" href="dm-ai.html">7.7. 暗物智能</a></li>
+<li class="toctree-l2"><a class="reference internal" href="jd.html">7.8. 京东</a></li>
+<li class="toctree-l2"><a class="reference internal" href="meituan.html">7.9. 美团</a></li>
+<li class="toctree-l2"><a class="reference internal" href="code.html">7.10. code</a></li>
+<li class="toctree-l2"><a class="reference internal" href="feature_engineering.html">7.11. 特征工程</a></li>
+<li class="toctree-l2"><a class="reference internal" href="ML.html">7.12. ML 1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="DL.html">7.13. 深度学习算法</a></li>
+<li class="toctree-l2"><a class="reference internal" href="mobile.html">7.14. 移动端</a></li>
+<li class="toctree-l2"><a class="reference internal" href="real.html">7.15. 现实</a></li>
+<li class="toctree-l2"><a class="reference internal" href="huidu.html">7.16. 灰度发布</a></li>
+<li class="toctree-l2"><a class="reference internal" href="AI_test.html">7.17. AI产品的测试</a></li>
+<li class="toctree-l2"><a class="reference internal" href="AI_deploy.html">7.18. AI部署</a></li>
+<li class="toctree-l2"><a class="reference internal" href="develop.html">7.19. 人才培养</a></li>
+</ul>
+</li>
+</ul>
+
+            </nav>
+        
+        </div>
+    
+</header>
+        <main class="mdl-layout__content" tabIndex="0">
+
+	<script type="text/javascript" src="../_static/sphinx_materialdesign_theme.js "></script>
+    <header class="mdl-layout__drawer">
+    
+          <!-- Title -->
+      <span class="mdl-layout-title">
+          <a class="title" href="../index.html">
+              <span class="title-text">
+                  To be AI PM
+              </span>
+          </a>
+      </span>
+    
+    
+      <div class="globaltoc">
+        <span class="mdl-layout-title toc">Table Of Contents</span>
+        
+        
+            
+            <nav class="mdl-navigation">
+                <ul>
+<li class="toctree-l1"><a class="reference internal" href="../get_started.html">求职AI PM，百度用了我战略idea？</a></li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../chapter_introduction/index.html">1. Introduction</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_introduction/need.html">1.1. 需求</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_introduction/Product.html">1.2. 产品</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_introduction/2B.html">1.3. To Business 1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_introduction/2C.html">1.4. To Customer</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_introduction/platform.html">1.5. 平台型</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_introduction/money.html">1.6. 财务规划</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_introduction/PM.html">1.7. Product Mananger</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_introduction/AI.html">1.8. AI</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_introduction/AI_Product.html">1.9. AI 产品</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_introduction/AI_PM.html">1.10. AI产品经理</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_introduction/ability.html">1.11. AI产品经理的完整能力矩阵 1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_introduction/opportunity.html">1.12. 产品机会</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../chapter_idea/index.html">2. Idea</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_idea/idea.html">2.1. 思维</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_idea/empathy.html">2.2. 同理心</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_idea/data.html">2.3. 数据 1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_idea/negotiation.html">2.4. 谈判</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_idea/brand.html">2.5. 品牌</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_idea/decompose.html">2.6. 费米推理</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_idea/convert.html">2.7. 转换成本1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_idea/business.html">2.8. 商业思维</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_idea/critical.html">2.9. 批判性思维1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_idea/attention.html">2.10. 注意力</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_idea/goal.html">2.11. Goal</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_idea/understand_tech.html">2.12. 技术理解力</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_idea/GTM.html">2.13. GTM（go to marketing）</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_idea/design.html">2.14. 设计思维 1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_idea/time.html">2.15. 时间</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../chapter_skill/index.html">3. skill</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/steps.html">3.1. 商业化产品“七步设计法” 1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/BRD.html">3.2. BRD</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/users_analysis.html">3.3. 用户需求研究 1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/priority.html">3.4. 优先级 1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/industry_analysis.html">3.5. 行业分析</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/experience_report.html">3.6. 产品体验报告</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/compete_analysis.html">3.7. 竞争分析</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/goods_analysis.html">3.8. 竞品分析 1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/MRD.html">3.9. MRD 1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/PRD.html">3.10. PRD</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/prototype_design.html">3.11. 原型设计</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/flow_chart.html">3.12. 流程图 1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/static_page.html">3.13. 静态页面</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/MVP.html">3.14. MVP</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/collaborate.html">3.15. 沟通、协作、项目推动能力</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/upgrade_manage.html">3.16. 迭代优化</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/resource_manage.html">3.17. 资源管理</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/data_analysis.html">3.18. 数据分析</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/project_manage.html">3.19. 项目管理</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/tools.html">3.20. 工具</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/research.html">3.21. Research</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/Valuation.html">3.22. 估值</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/price.html">3.23. 产品定价 1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/more_users.html">3.24. 推广产品</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../chapter_experience/index.html">4. experience</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/career_path.html">4.1. 职业发展路径</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/1Day.html">4.2. 产品经理的一天</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/early_phase.html">4.3. 早期工作</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/issue.html">4.4. 行业巨变</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/hema.html">4.5. 盒马鲜生</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/Jamin.html">4.6. Jamin</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/taobao.html">4.7. taobao</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/tencent.html">4.8. tencent</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/ant_jiebei.html">4.9. 蚂蚁借呗的金融产品解析</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/diudiu.html">4.10. diudiu</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/dingding.html">4.11. 钉钉</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/4years.html">4.12. 4年产品工作总结</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/jubensha.html">4.13. 剧本杀</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/fail.html">4.14. 失败</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_experience/recessive_work.html">4.15. AI PM的隐性工作</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../chapter_project/index.html">5. project</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/AI_industry_analysis.html">5.1. AI行业分析</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/AI_company.html">5.2. AI公司</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/AI_talents.html">5.3. AI 人才</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/AI_Finance.html">5.4. AI 金融</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/AI_fit.html">5.5. AI 健身</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/AI_hardware.html">5.6. AI 硬件 1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/process.html">5.7. 产品整个流程1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/Data%20Process.html">5.8. 数据处理流程拆解</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/inspect.html">5.9. 原型检验1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/product_document.html">5.10. 产品文档</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/Roadmap.html">5.11. Roadmap1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/Scrum.html">5.12. Scrum</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/separate_need.html">5.13. 需求价值的分析方法</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/valuable.html">5.14. 价值 1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/APP_experience.html">5.15. APP体验</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../chapter_interview/index.html">6. Interview</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_interview/xintai.html">6.1. 心态</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_interview/choose.html">6.2. 选择</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_interview/CV.html">6.3. CV</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_interview/AI_Finance_CV.html">6.4. 金融产品经理的简历 1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_interview/exam.html">6.5. 笔试题</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_interview/interviewer.html">6.6. 面试官 1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_interview/HR.html">6.7. HR</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_interview/reward.html">6.8. 回报</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_interview/new_like.html">6.9. 令人喜爱的新人1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_interview/question.html">6.10. 常见问题</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_interview/not_go.html">6.11. 不能去</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_interview/offer.html">6.12. 工作</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_interview/hire.html">6.13. 招不到合适</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="index.html">7. Dive</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="zongshen.html">7.1. 纵向深度挖掘</a></li>
+<li class="toctree-l2"><a class="reference internal" href="expert.html">7.2. 专家</a></li>
+<li class="toctree-l2"><a class="reference internal" href="qi_yuan.html">7.3. 蚂蚁金服AI首席科学家漆远1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="company_research.html">7.4. 公司研究</a></li>
+<li class="toctree-l2"><a class="reference internal" href="antgroup.html">7.5. 蚂蚁集团</a></li>
+<li class="toctree-l2"><a class="reference internal" href="alipay.html">7.6. 支付宝</a></li>
+<li class="toctree-l2"><a class="reference internal" href="dm-ai.html">7.7. 暗物智能</a></li>
+<li class="toctree-l2"><a class="reference internal" href="jd.html">7.8. 京东</a></li>
+<li class="toctree-l2"><a class="reference internal" href="meituan.html">7.9. 美团</a></li>
+<li class="toctree-l2"><a class="reference internal" href="code.html">7.10. code</a></li>
+<li class="toctree-l2"><a class="reference internal" href="feature_engineering.html">7.11. 特征工程</a></li>
+<li class="toctree-l2"><a class="reference internal" href="ML.html">7.12. ML 1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="DL.html">7.13. 深度学习算法</a></li>
+<li class="toctree-l2"><a class="reference internal" href="mobile.html">7.14. 移动端</a></li>
+<li class="toctree-l2"><a class="reference internal" href="real.html">7.15. 现实</a></li>
+<li class="toctree-l2"><a class="reference internal" href="huidu.html">7.16. 灰度发布</a></li>
+<li class="toctree-l2"><a class="reference internal" href="AI_test.html">7.17. AI产品的测试</a></li>
+<li class="toctree-l2"><a class="reference internal" href="AI_deploy.html">7.18. AI部署</a></li>
+<li class="toctree-l2"><a class="reference internal" href="develop.html">7.19. 人才培养</a></li>
+</ul>
+</li>
+</ul>
+
+            </nav>
+        
+        </div>
+    
+</header>
+
+    <div class="document">
+        <div class="page-content" role="main">
+        
+  <div class="section" id="mlops">
+<h1>MLOps<a class="headerlink" href="#mlops" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="id1">
+<h2>什么是MLOps<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h2>
+<p>MLOps就是机器学习时代的DevOps。它的主要作用就是连接模型构建团队和业务，运维团队，建立起一个标准化的模型开发，部署与运维流程，使得企业组织能更好的利用机器学习的能力来促进业务增长。</p>
+<p>最近几年，大家对于机器学习项目落地愈发重视起来，对业务的理解，模型应用流程等都做的越来越好，也有越来越多的模型被部署到真实的业务场景中。但是当业务真实开始使用的时候，就会对模型有各种各样的需求反馈，算法工程师们就开始需要不断迭代开发，频繁部署上线。随着业务的发展，模型应用的场景也越来越多，管理和维护这么多模型系统就成了一个切实的挑战。</p>
+<p>回顾这个发展，是不是感觉似曾相识？20年前软件行业在数字化演进道路上也遇到过类似的挑战。我们从部署一个Web服务到要部署几十甚至上百个不同的应用，在各种规模化交付方面的挑战之下，诞生了DevOps技术。像虚拟化，云计算，持续集成/发布，自动化测试等软件工程领域的各类最佳实践基本都跟这个方向有关。在不远的将来，或许智能模型也会与今天的软件系统一样普遍。一个企业需要使用非常多的业务系统来实现数字化流程，同样也需要非常多的模型来实现数据驱动的智能决策，衍生出更多与模型相关的开发运维，权限，隐私，安全性，审计等企业级需求。</p>
+<p>因此最近几年，MLOps也逐渐成为了一个热门话题。有了好的MLOps实践，算法工程师一方面能更专注于擅长的模型构建过程，减少对模型部署运维等方面的“感知”，另一方面也让模型开发迭代的方向更加清晰明确，切实为业务产生价值。就像今日的软件工程师很少需要关注运行环境，测试集成，发布流程等细节，但却做到了一天数次发布的敏捷高效，未来算法工程师应该也能更专注于数据insights获取方面，让模型发布成为几乎无感又快速的自动化流程。</p>
+</div>
+<div class="section" id="id2">
+<h2>MLOps的原则<a class="headerlink" href="#id2" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="automation">
+<h3>Automation<a class="headerlink" href="#automation" title="Permalink to this headline">¶</a></h3>
+<p>在整个workflow中所有可以自动化的环节，我们都应该进行自动化，从数据的接入到最后的部署上线。Google那篇经典的MLOps指导中就提出了3个层级的自动化，非常值得借鉴，后面我们会详细介绍。</p>
+</div>
+<div class="section" id="continuous">
+<h3>Continuous<a class="headerlink" href="#continuous" title="Permalink to this headline">¶</a></h3>
+<p>一说起DevOps，大家就很容易联想到CI/CD，也从侧面印证这条原则的重要性。MLOps在持续集成，持续部署，持续监控的基础上，还增加了持续训练的概念，即模型在线上运行过程中可以持续得到自动化的训练与更新。我们在设计开发机器学习系统时，要持续思考各个组件对“持续”性的支持，包括流程中用到的各种artifacts，他们的版本管理和编排串联等。</p>
+</div>
+<div class="section" id="versioning">
+<h3>Versioning<a class="headerlink" href="#versioning" title="Permalink to this headline">¶</a></h3>
+<p>版本化管理也是DevOps的重要最佳实践之一，在MLOps领域，除了pipeline代码的版本管理，数据，模型的版本管理属于新涌现的需求点，也对底层infra提出了新的挑战。</p>
+</div>
+<div class="section" id="experiment-tracking">
+<h3>Experiment Tracking<a class="headerlink" href="#experiment-tracking" title="Permalink to this headline">¶</a></h3>
+<p>实验管理可以理解为version control中commit
+message的增强。对于涉及模型构建相关的代码改动，我们都应该能记录当时对应的数据，代码版本，以及对应的模型artifacts存档，作为后续分析模型，选择具体上线的版本的重要依据。</p>
+</div>
+<div class="section" id="testing">
+<h3>Testing<a class="headerlink" href="#testing" title="Permalink to this headline">¶</a></h3>
+<p>机器学习系统中主要涉及到3种不同的pipeline，分别是数据pipeline，模型pipeline和应用pipeline（类似于模型与应用系统的集成）。针对这3个pipeline，需要构建对应的数据特征测试，模型测试以及应用infra测试，确保整体系统的输出与预期的业务目标相符，达到将数据insights转化为业务价值的目的。这方面Google的ML
+test score是一个很好的参考。</p>
+</div>
+<div class="section" id="monitoring">
+<h3>Monitoring<a class="headerlink" href="#monitoring" title="Permalink to this headline">¶</a></h3>
+<p>监控也是一项软件工程的传统最佳实践。上面提到的ML test
+score中也有一部分是与监控相关。除了传统的系统监控，例如日志，系统资源等方面外，机器学习系统还需要对输入数据，模型预测进行监控，确保预测的质量，并在出现异常情况时自动触发一些应对机制，例如数据或模型的降级，模型的重新训练与部署等。</p>
+</div>
+</div>
+<div class="section" id="id3">
+<h2>模型部署<a class="headerlink" href="#id3" title="Permalink to this headline">¶</a></h2>
+<p>通过测试后，我们就可以把模型部署上线啦。这里又根据业务形态的不同分成很多不同的类型，例如：</p>
+<ul class="simple">
+<li><p>Batch预测pipeline</p></li>
+<li><p>实时模型服务</p></li>
+<li><p>Edge device部署，如手机app，浏览器等</p></li>
+</ul>
+<p>这方面涉及到的话题也非常多，包括模型的序列化，推理性能优化，模型压缩等等。</p>
+<p>模型部署的assets除了模型本身外，也需要包含end-to-end测试用例,
+测试数据和相应的结果评估等。可以在模型部署完成后再执行一遍相关测试用例，确保开发和部署环境中得到的结果一致。</p>
+<p>对于输出较为critical的模型，还需要考虑一系列model
+governance的需求满足。例如在模型部署前需要进行各类人工审核，并设计相应的sign-off机制。顺带一提responsible
+AI近年来也是越来越受到重视，在MLOps中的各个环节也需要关注相应功能的支持。</p>
+</div>
+<div class="section" id="id4">
+<h2>模型监控<a class="headerlink" href="#id4" title="Permalink to this headline">¶</a></h2>
+<p>最后，对于线上模型的运行，我们需要持续进行监控，包括：</p>
+<ul class="simple">
+<li><p>模型依赖组件的监控，例如数据版本，上游系统等</p></li>
+<li><p>模型输入数据的监控，确保schema与分布的一致性</p></li>
+<li><p>离线特征构建与线上特征构建输出的一致性监控，例如可以对一些样本进行抽样，比对线上线下结果，或者监控分布统计值</p></li>
+<li><p>模型数值稳定性的监控，对NaN和Inf等情况进行记录</p></li>
+<li><p>模型计算资源开销方面的监控</p></li>
+<li><p>模型metric方面的监控</p></li>
+<li><p>模型更新周期的监控，确保没有长时间未更新的模型</p></li>
+<li><p>下游消费数量的监控，确保没有处于“废弃”状态的模型</p></li>
+<li><p>对于排查问题有用的日志记录</p></li>
+<li><p>对于提升模型有用的信息记录</p></li>
+<li><p>外界攻击预防监控</p></li>
+<li><p>上述的各类监控都要配合相应的自动/人工应对机制。</p></li>
+</ul>
+<p>以模型效果监控为例，当效果出现下降时，我们需要及时介入排查处理，或触发重训练。对于重训练来说，需要综合考虑模型效果变化，数据更新频率，训练开销，部署开销，重新训练的提升度等，选择合适的时间点进行触发。虽然有很多模型也支持在线实时更新，但其稳定性控制，自动化测试等都缺少标准做法的参考，大多数情况下，重新训练往往比在线更新训练的效果和稳定性更好。</p>
+</div>
+</div>
+
+
+        </div>
+        <div class="side-doc-outline">
+            <div class="side-doc-outline--content"> 
+<div class="localtoc">
+    <p class="caption">
+      <span class="caption-text">Table Of Contents</span>
+    </p>
+    <ul>
+<li><a class="reference internal" href="#">MLOps</a><ul>
+<li><a class="reference internal" href="#id1">什么是MLOps</a></li>
+<li><a class="reference internal" href="#id2">MLOps的原则</a><ul>
+<li><a class="reference internal" href="#automation">Automation</a></li>
+<li><a class="reference internal" href="#continuous">Continuous</a></li>
+<li><a class="reference internal" href="#versioning">Versioning</a></li>
+<li><a class="reference internal" href="#experiment-tracking">Experiment Tracking</a></li>
+<li><a class="reference internal" href="#testing">Testing</a></li>
+<li><a class="reference internal" href="#monitoring">Monitoring</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#id3">模型部署</a></li>
+<li><a class="reference internal" href="#id4">模型监控</a></li>
+</ul>
+</li>
+</ul>
+
+</div>
+            </div>
+        </div>
+
+      <div class="clearer"></div>
+    </div><div class="pagenation">
+  </div>
+        
+        </main>
+    </div>
+  </body>
+</html>

@@ -29,6 +29,17 @@ Map
    AI
    map\ `16 <https://medium.com/swlh/the-map-of-artificial-intelligence-2020-2c4f446f4e43>`__
 
+分层
+----
+
+.. figure:: ../img/AI_tech.png
+
+   AI科技\ `22 <https://cloud.tencent.com/edu/learning/live-2877>`__
+
+.. figure:: ../img/AI_business.png
+
+   AI商业\ `22 <https://cloud.tencent.com/edu/learning/live-2877>`__
+
 类型 `13 <https://easyai.tech/blog/test-ai-with-hbi/>`__
 --------------------------------------------------------
 

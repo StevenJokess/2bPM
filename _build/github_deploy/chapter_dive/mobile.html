@@ -131,7 +131,7 @@ Show Source
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="../chapter_skill/index.html">3. skill</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/7steps.html">3.1. 商业化产品“七步设计法” 1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/steps.html">3.1. 商业化产品“七步设计法” 1</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../chapter_skill/BRD.html">3.2. BRD</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../chapter_skill/users_analysis.html">3.3. 用户需求研究 1</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../chapter_skill/priority.html">3.4. 优先级 1</a></li>
@@ -194,7 +194,7 @@ Show Source
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="../chapter_interview/index.html">6. Interview</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="../chapter_interview/zitai.html">6.1. 低姿态不能换来成功 1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_interview/xintai.html">6.1. 心态</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../chapter_interview/choose.html">6.2. 选择</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../chapter_interview/CV.html">6.3. CV</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../chapter_interview/AI_Finance_CV.html">6.4. 金融产品经理的简历 1</a></li>
@@ -297,7 +297,7 @@ Show Source
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="../chapter_skill/index.html">3. skill</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/7steps.html">3.1. 商业化产品“七步设计法” 1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/steps.html">3.1. 商业化产品“七步设计法” 1</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../chapter_skill/BRD.html">3.2. BRD</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../chapter_skill/users_analysis.html">3.3. 用户需求研究 1</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../chapter_skill/priority.html">3.4. 优先级 1</a></li>
@@ -360,7 +360,7 @@ Show Source
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="../chapter_interview/index.html">6. Interview</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="../chapter_interview/zitai.html">6.1. 低姿态不能换来成功 1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_interview/xintai.html">6.1. 心态</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../chapter_interview/choose.html">6.2. 选择</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../chapter_interview/CV.html">6.3. CV</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../chapter_interview/AI_Finance_CV.html">6.4. 金融产品经理的简历 1</a></li>
@@ -424,6 +424,14 @@ Show Source
 <p>安卓的应用是以包名做为唯一ID的。百度的人脸服务也是以包名做为单位进行
 授权的。因为包名是开发者填写的，所以别的开发者也可以写个应用来冒充其他人的应用。百度人脸服务会涉及到用户的信息，使用过程中也有费用产生。所以为了保护APP不会他人冒充，我们对应用的签名进行校验。刚才也提到了，因为MD5算法的不可逆性，可以当做公钥使用。用户在申请时在后台填写签名的MD5值，发布/测试时，使用该签名文件。人脸服务在运行时会对当前应用的签名MD5
 进行校验，如果信息不一致会拒绝服务。</p>
+</div>
+<div class="section" id="mobile">
+<h3><span class="section-number">7.14.2.2. </span>Mobile 部署模型<a class="headerlink" href="#mobile" title="Permalink to this headline">¶</a></h3>
+<p>在mobile上部署模型会遇到计算资源受限的问题，一般解决方法：减小模型大小（类似MobileNet），quantizing
+weights，知识蒸馏（例如DistillBERT）等。</p>
+<p>一些工具框架介绍：TensorFlow Lite，PyTorch
+Mobile，CoreML，MLKit，FritzAI等。ONNX可以作为中间层，再部署到各种硬件平台上。对于嵌入式系统，最好的解决方案是NVIDIA
+for Embeded。</p>
 <p>MindSpore Lite :<a class="reference external" href="https://juejin.cn/post/6939167928822530078">https://juejin.cn/post/6939167928822530078</a></p>
 </div>
 </div>
@@ -442,6 +450,7 @@ Show Source
 <li><a class="reference internal" href="#id2">7.14.1. 小程序 1</a></li>
 <li><a class="reference internal" href="#andriod">7.14.2. Andriod</a><ul>
 <li><a class="reference internal" href="#md5-2">7.14.2.1. 为什么需要签名 MD5？2</a></li>
+<li><a class="reference internal" href="#mobile">7.14.2.2. Mobile 部署模型</a></li>
 </ul>
 </li>
 </ul>

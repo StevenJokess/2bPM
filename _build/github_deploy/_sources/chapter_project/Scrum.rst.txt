@@ -259,6 +259,11 @@ WIP）的数量会显示出瓶颈。
 
 深度学习算法在一定程度上比较难针对badcase（误杀或者漏杀）进行快速的迭代，这样的情况下，一方面可以通过产品功能上进行补充（黑白样本库），一方面目前学界逐步在解决小样本场景，部分业务场景已经在小样本上有可工程化的应用。
 
+敏捷开发不再追求 MVP（Minimum Viable
+Product，即最小化可行产品），而是追求 MDP（Minimum Data
+Product），指训练算法的一个迭代所用的最小化数据集。
+`13 <http://www.qidianlife.com/Singular/index.php?m=Home&c=Discover&a=article&id=2211>`__
+
 更多
 ~~~~
 

@@ -131,7 +131,7 @@ Show Source
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="../chapter_skill/index.html">3. skill</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/7steps.html">3.1. 商业化产品“七步设计法” 1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/steps.html">3.1. 商业化产品“七步设计法” 1</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../chapter_skill/BRD.html">3.2. BRD</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../chapter_skill/users_analysis.html">3.3. 用户需求研究 1</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../chapter_skill/priority.html">3.4. 优先级 1</a></li>
@@ -297,7 +297,7 @@ Show Source
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="../chapter_skill/index.html">3. skill</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/7steps.html">3.1. 商业化产品“七步设计法” 1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_skill/steps.html">3.1. 商业化产品“七步设计法” 1</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../chapter_skill/BRD.html">3.2. BRD</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../chapter_skill/users_analysis.html">3.3. 用户需求研究 1</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../chapter_skill/priority.html">3.4. 优先级 1</a></li>
@@ -440,12 +440,16 @@ Show Source
 <li><p>蒙特卡罗方法</p></li>
 <li><p>变分法</p></li>
 </ul>
-<div class="figure align-default" id="id3">
+<div class="figure align-default" id="id4">
 <img alt="../_images/ML.png" src="../_images/ML.png" />
-<p class="caption"><span class="caption-number">Fig. 7.12.1 </span><span class="caption-text">ML<a class="reference external" href="http://www.uml.org.cn/devprocess/201910163.asp">3</a></span><a class="headerlink" href="#id3" title="Permalink to this image">¶</a></p>
+<p class="caption"><span class="caption-number">Fig. 7.12.1 </span><span class="caption-text">ML<a class="reference external" href="http://www.uml.org.cn/devprocess/201910163.asp">3</a></span><a class="headerlink" href="#id4" title="Permalink to this image">¶</a></p>
+</div>
+<div class="section" id="ml-vs-software-engineering">
+<h2><span class="section-number">7.12.1. </span>ML VS software engineering<a class="headerlink" href="#ml-vs-software-engineering" title="Permalink to this headline">¶</a></h2>
+<p>术语“软件工程”第一次出现是在1965年，也就是编程语言开始出现的15年后。大约20年后，软件工程研究所成立，以管理软件工程过程。今天，我们已经普遍接受了软件工程的最佳实践。另一方面，机器学习直到20世纪90年代才作为一个独立的领域开始蓬勃发展。深度学习是ML的一个子集，它在许多问题上的准确性创造了新纪录，包括图像识别和自然语言处理，直到2012年AlexNet的兴起才被广泛讨论。与软件工程相比，ML仍处于起步阶段，因此缺乏行业标准、度量标准、基础设施和工具。公司仍在探索最佳实践，扼杀应用程序。<a class="reference external" href="https://radiant-brushlands-42789.herokuapp.com/towardsdatascience.com/how-to-manage-machine-learning-products-part-1-386e7011258a">5</a></p>
 </div>
 <div class="section" id="id1">
-<h2><span class="section-number">7.12.1. </span>选择<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h2>
+<h2><span class="section-number">7.12.2. </span>选择<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h2>
 <p>在具体算法选择上，基于Python的scikit-learn机器学习算法库提供一套算法选择方法，参考这一部分（不局限于图中的算法和方法，由于这张图大多考虑了scikit中算法的实现情况）具体介绍一下算法的选择如下：
 <a class="reference external" href="https://zhuanlan.zhihu.com/p/36870462">4</a></p>
 <ol class="arabic simple">
@@ -461,7 +465,25 @@ Show Source
 <p>对于算法的选择，有时不能找到确定的方法，也就是说很难根据数据是使用场景就完全锁定了那一个具体的算法，但是根据却可以缩小到指定的几个常用算法。然后通过测试集和训练集在这几个算法上做一些Demo。根据Demo反应的质量决定最终使用的算法那个。看似比较费力，其实是比较稳妥和精准的方法。</p>
 </div>
 <div class="section" id="id2">
-<h2><span class="section-number">7.12.2. </span>更多<a class="headerlink" href="#id2" title="Permalink to this headline">¶</a></h2>
+<h2><span class="section-number">7.12.3. </span>机器学习框架 <a class="reference external" href="https://zhuanlan.zhihu.com/p/192633890">6</a><a class="headerlink" href="#id2" title="Permalink to this headline">¶</a></h2>
+<p>机器学习方面的新框架层出不穷，一方面我们需要掌握经典框架的使用方式，理解其模块构成，接口规范的设计，一定程度上来说其它新框架也都需要遵循这些业界标准框架的模块与接口定义。另一方面对于新框架或特定领域框架，我们需要掌握快速评估，上手使用，并且做一定改造适配的能力。一些比较经典的框架有：</p>
+<ul class="simple">
+<li><p>通用机器学习：scikit-learn，Spark ML，LightGBM</p></li>
+<li><p>通用深度学习：Keras/TensorFlow，PyTorch</p></li>
+<li><p>特征工程：tsfresh, Featuretools，Feast</p></li>
+<li><p>AutoML：hyperopt，SMAC3，nni，autogluon</p></li>
+<li><p>可解释机器学习：shap，aix360，eli5，interpret</p></li>
+<li><p>异常检测：pyod，egads</p></li>
+<li><p>可视化：pyecharts，seaborn</p></li>
+<li><p>数据质量：cerberus，pandas_profiling，Deequ</p></li>
+<li><p>时间序列：fbprophet，sktime，pyts</p></li>
+<li><p>大规模机器学习：Horovod，BigDL，mmlspark</p></li>
+<li><p>Pipeline：MLflow, metaflow，KubeFlow，Hopsworks</p></li>
+</ul>
+<p>一般的学习路径主要是阅读这些框架的官方文档和tutorial，在自己的项目中进行尝试使用。对于一些核心接口，也可以阅读一下相关的源代码，深入理解其背后的原理。</p>
+</div>
+<div class="section" id="id3">
+<h2><span class="section-number">7.12.4. </span>更多<a class="headerlink" href="#id3" title="Permalink to this headline">¶</a></h2>
 <p><a class="reference external" href="https://mitpress.ublish.com/ereader/7093/?preview=#page/v">https://mitpress.ublish.com/ereader/7093/?preview=#page/v</a></p>
 <ol class="arabic simple">
 <li><p><a class="reference external" href="https://www.jianshu.com/p/ed9ae5385b89">https://www.jianshu.com/p/ed9ae5385b89</a></p></li>
@@ -470,7 +492,8 @@ Show Source
 <p>至少你要知道什么是二分类问题，什么是ground
 truth、熵（entropy）的概念，dynamic
 learning的概念等等。<a class="reference external" href="http://www.uml.org.cn/DevProcess/201712283.asp">2</a></p>
-<p><a class="reference external" href="https://www.reddit.com/r/MachineLearning/">https://www.reddit.com/r/MachineLearning/</a></p>
+<p><a class="reference external" href="https://www.reddit.com/r/MachineLearning/">https://www.reddit.com/r/MachineLearning/</a>
+<a class="reference external" href="http://www.mlebook.com/wiki/doku.php">http://www.mlebook.com/wiki/doku.php</a></p>
 </div>
 </div>
 
@@ -484,8 +507,10 @@ learning的概念等等。<a class="reference external" href="http://www.uml.org
     </p>
     <ul>
 <li><a class="reference internal" href="#">7.12. ML 1</a><ul>
-<li><a class="reference internal" href="#id1">7.12.1. 选择</a></li>
-<li><a class="reference internal" href="#id2">7.12.2. 更多</a></li>
+<li><a class="reference internal" href="#ml-vs-software-engineering">7.12.1. ML VS software engineering</a></li>
+<li><a class="reference internal" href="#id1">7.12.2. 选择</a></li>
+<li><a class="reference internal" href="#id2">7.12.3. 机器学习框架 6</a></li>
+<li><a class="reference internal" href="#id3">7.12.4. 更多</a></li>
 </ul>
 </li>
 </ul>

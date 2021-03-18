@@ -367,6 +367,10 @@ Which 是指选哪一个方案，做哪一个功能，这背后其实是对价�
 - 通过事件营销推广品牌：“水仙花”实验，向观众展示了水仙花在农夫山泉天然水和纯净水中的生长状况；刘翔与可口可乐，销量一度上升了30％。
 - 珍惜消费群体：“飘柔”产品曾领先于洗发行业，为了低档市场的销售量，研发了“飘柔”系列的淋浴液及香皂，降低了品牌的市场价值。
 
+## AI 产品
+
+用户需求来自大数据分析，用户行为关联传感器等新型的交互方式，用户心理依靠深度学习。
+
 [1]: http://www.woshipm.com/operate/3627874.html
 [2]: http://www.woshipm.com/zhichang/459131.html
 [3]: https://blog.csdn.net/eickandy/article/details/80294224
@@ -387,3 +391,4 @@ Which 是指选哪一个方案，做哪一个功能，这背后其实是对价�
 [18]: https://www.zhihu.com/market/paid_column/1312360599620358144/section/1312363033470443520
 [19]: https://mp.weixin.qq.com/s/jK5vQWcUnKdro1kwqT8L8g
 [20]: https://tangjie.me/blog/230.html
+[21]: https://36kr.com/p/1721300926465

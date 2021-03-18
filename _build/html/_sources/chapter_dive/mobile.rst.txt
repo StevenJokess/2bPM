@@ -23,4 +23,14 @@ Baidu SDK:https://ai.baidu.com/sdk
 授权的。因为包名是开发者填写的，所以别的开发者也可以写个应用来冒充其他人的应用。百度人脸服务会涉及到用户的信息，使用过程中也有费用产生。所以为了保护APP不会他人冒充，我们对应用的签名进行校验。刚才也提到了，因为MD5算法的不可逆性，可以当做公钥使用。用户在申请时在后台填写签名的MD5值，发布/测试时，使用该签名文件。人脸服务在运行时会对当前应用的签名MD5
 进行校验，如果信息不一致会拒绝服务。
 
+Mobile 部署模型
+~~~~~~~~~~~~~~~
+
+在mobile上部署模型会遇到计算资源受限的问题，一般解决方法：减小模型大小（类似MobileNet），quantizing
+weights，知识蒸馏（例如DistillBERT）等。
+
+一些工具框架介绍：TensorFlow Lite，PyTorch
+Mobile，CoreML，MLKit，FritzAI等。ONNX可以作为中间层，再部署到各种硬件平台上。对于嵌入式系统，最好的解决方案是NVIDIA
+for Embeded。
+
 MindSpore Lite :https://juejin.cn/post/6939167928822530078
