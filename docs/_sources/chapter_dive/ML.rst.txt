@@ -77,6 +77,11 @@ ML VS software engineering
 
 一般的学习路径主要是阅读这些框架的官方文档和tutorial，在自己的项目中进行尝试使用。对于一些核心接口，也可以阅读一下相关的源代码，深入理解其背后的原理。
 
+.. figure:: ../img/ML_lifecycle.png
+
+   Machine Learning
+   Lifecycle\ `7 <https://databricks.com/solutions/machine-learning>`__
+
 更多
 ----
 

@@ -403,6 +403,13 @@ Buyer和User不同的产品设计理念和营销方向的分析也是ToB产品�
 
    2B思路示例
 
+经典模型
+--------
+
+.. figure:: ../img/classical_model.png
+
+   经典模型\ `29 <http://www.woshipm.com/pmd/3545074.html>`__
+
 2B2C化 `23 <http://www.changgpm.com/thread-153-1-1.html>`__
 -----------------------------------------------------------
 
