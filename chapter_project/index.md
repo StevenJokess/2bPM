@@ -12,6 +12,7 @@ AI_fit
 AI_hardware
 process
 Data Process
+Model Process
 inspect
 product_document
 Roadmap

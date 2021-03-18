@@ -22,7 +22,9 @@ Dive
    code
    feature_engineering
    ML
+   MLOps
    DL
+   Federated Learning
    mobile
    real
    huidu
