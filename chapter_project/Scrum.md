@@ -211,6 +211,8 @@ A：因为要通过站立的形式让大家明确，这是一个需要快速解�
 
 深度学习算法在一定程度上比较难针对badcase（误杀或者漏杀）进行快速的迭代，这样的情况下，一方面可以通过产品功能上进行补充（黑白样本库），一方面目前学界逐步在解决小样本场景，部分业务场景已经在小样本上有可工程化的应用。
 
+敏捷开发不再追求 MVP（Minimum Viable Product，即最小化可行产品），而是追求 MDP（Minimum Data Product），指训练算法的一个迭代所用的最小化数据集。 [13]
+
 ### 更多
 
 2020 Scrum Guide（含中英文版）[Download](http://www.shinescrum.com/downloads/Scrum%E6%8C%87%E5%8D%972020%E4%B8%AD%E8%8B%B1%E6%96%87%E7%89%88.zip)
@@ -227,3 +229,4 @@ A：因为要通过站立的形式让大家明确，这是一个需要快速解�
 [10]: https://agilemanifesto.org/iso/zhcht/manifesto.html
 [11]: https://medium.com/@b98606021/%E6%B7%B1%E5%85%A5%E6%B7%BA%E5%87%BA-%E6%95%8F%E6%8D%B7%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC-scrum-4a9d357ac0a4
 [12]: https://b98606021.medium.com/%E6%B7%B1%E5%85%A5%E6%B7%BA%E5%87%BA-%E6%95%8F%E6%8D%B7%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC-scrum-%E4%B8%8B-acba23f3dca1
+[13]: http://www.qidianlife.com/Singular/index.php?m=Home&c=Discover&a=article&id=2211

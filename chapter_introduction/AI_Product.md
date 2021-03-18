@@ -86,10 +86,16 @@ AI产品价值=（提高的时效*时效成本+GMV提升）-（AI硬件资源成
 
 ## 造成人工智能产品设计失败的常见原因
 
+- 技术可行性：基于数据统计学习构建的模型，在实际使用中有很多限制。
+- 组织变革：在技术和产品层面外，对于流程，组织都有一定要求，执行推进难度较大。[16]
 - 技术驱动产品设计。产品应该从需求出发而非从技术出发。
 - 忽略用户期望管理，华而不实的产品使用户失望。
 - 单点突破带来的价值有限，产品价格与用户付出代价不成正比。
 - 一味追求技术，忽略用户体验。 [12]
+
+## 核心价值
+
+企业的核心价值，特别是工业ML产品，如预测性维护软件，往往来自其预测的功能性能(如准确性)。[15]
 
 [1]: http://www.woshipm.com/ai/3059898.html
 [2]: http://www.woshipm.com/pmd/3657472.html
@@ -105,3 +111,5 @@ AI产品价值=（提高的时效*时效成本+GMV提升）-（AI硬件资源成
 [12]: http://www.xmamiga.com/3573/
 [13]: https://www.slideshare.net/Happy.Prototyper/mix2018ai-ai-vp
 [14]: http://www.uml.org.cn/ai/201912183.asp
+[15]: https://radiant-brushlands-42789.herokuapp.com/towardsdatascience.com/how-to-manage-machine-learning-products-part-1-386e7011258a
+[16]: https://zhuanlan.zhihu.com/p/218468169

@@ -17,6 +17,12 @@
 
 ![AI map[16]](../img/AI_map.jpeg)
 
+## 分层
+
+![AI科技[22]](../img/AI_tech.png)
+
+![AI商业[22]](../img/AI_business.png)
+
 ## 类型 [13]
 
 - “肌肉T恤”——忽悠
@@ -226,3 +232,4 @@ http://aima.cs.berkeley.edu/
 [19]: https://ciraa.zju.edu.cn/report/report20200323.pdf
 [20]: http://ai.itheima.com/news/20191105/143608.html
 [21]: http://www.uml.org.cn/ai/201912183.asp
+[22]: https://cloud.tencent.com/edu/learning/live-2877

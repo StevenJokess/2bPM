@@ -32,6 +32,11 @@
 
 ![ML[3]](../img/ML.png)
 
+
+## ML VS software engineering
+
+术语“软件工程”第一次出现是在1965年，也就是编程语言开始出现的15年后。大约20年后，软件工程研究所成立，以管理软件工程过程。今天，我们已经普遍接受了软件工程的最佳实践。另一方面，机器学习直到20世纪90年代才作为一个独立的领域开始蓬勃发展。深度学习是ML的一个子集，它在许多问题上的准确性创造了新纪录，包括图像识别和自然语言处理，直到2012年AlexNet的兴起才被广泛讨论。与软件工程相比，ML仍处于起步阶段，因此缺乏行业标准、度量标准、基础设施和工具。公司仍在探索最佳实践，扼杀应用程序。[5]
+
 ## 选择
 
 在具体算法选择上，基于Python的scikit-learn机器学习算法库提供一套算法选择方法，参考这一部分（不局限于图中的算法和方法，由于这张图大多考虑了scikit中算法的实现情况）具体介绍一下算法的选择如下： [4]
@@ -47,6 +52,24 @@
 
 对于算法的选择，有时不能找到确定的方法，也就是说很难根据数据是使用场景就完全锁定了那一个具体的算法，但是根据却可以缩小到指定的几个常用算法。然后通过测试集和训练集在这几个算法上做一些Demo。根据Demo反应的质量决定最终使用的算法那个。看似比较费力，其实是比较稳妥和精准的方法。
 
+## 机器学习框架 [6]
+
+机器学习方面的新框架层出不穷，一方面我们需要掌握经典框架的使用方式，理解其模块构成，接口规范的设计，一定程度上来说其它新框架也都需要遵循这些业界标准框架的模块与接口定义。另一方面对于新框架或特定领域框架，我们需要掌握快速评估，上手使用，并且做一定改造适配的能力。一些比较经典的框架有：
+
+- 通用机器学习：scikit-learn，Spark ML，LightGBM
+- 通用深度学习：Keras/TensorFlow，PyTorch
+- 特征工程：tsfresh, Featuretools，Feast
+- AutoML：hyperopt，SMAC3，nni，autogluon
+- 可解释机器学习：shap，aix360，eli5，interpret
+- 异常检测：pyod，egads
+- 可视化：pyecharts，seaborn
+- 数据质量：cerberus，pandas_profiling，Deequ
+- 时间序列：fbprophet，sktime，pyts
+- 大规模机器学习：Horovod，BigDL，mmlspark
+- Pipeline：MLflow, metaflow，KubeFlow，Hopsworks
+
+一般的学习路径主要是阅读这些框架的官方文档和tutorial，在自己的项目中进行尝试使用。对于一些核心接口，也可以阅读一下相关的源代码，深入理解其背后的原理。
+
 ## 更多
 
 https://mitpress.ublish.com/ereader/7093/?preview=#page/v
@@ -57,8 +80,11 @@ https://mitpress.ublish.com/ereader/7093/?preview=#page/v
 至少你要知道什么是二分类问题，什么是ground truth、熵（entropy）的概念，dynamic learning的概念等等。[2]
 
 https://www.reddit.com/r/MachineLearning/
+http://www.mlebook.com/wiki/doku.php
 
 [1]: https://www.pianshen.com/article/66921228716/
 [2]: http://www.uml.org.cn/DevProcess/201712283.asp
 [3]: http://www.uml.org.cn/devprocess/201910163.asp
 [4]: https://zhuanlan.zhihu.com/p/36870462
+[5]: https://radiant-brushlands-42789.herokuapp.com/towardsdatascience.com/how-to-manage-machine-learning-products-part-1-386e7011258a
+[6]: https://zhuanlan.zhihu.com/p/192633890
