@@ -70,6 +70,8 @@
 
 一般的学习路径主要是阅读这些框架的官方文档和tutorial，在自己的项目中进行尝试使用。对于一些核心接口，也可以阅读一下相关的源代码，深入理解其背后的原理。
 
+![Machine Learning Lifecycle[7]](../img/ML_lifecycle.png)
+
 ## 更多
 
 https://mitpress.ublish.com/ereader/7093/?preview=#page/v
@@ -88,3 +90,4 @@ http://www.mlebook.com/wiki/doku.php
 [4]: https://zhuanlan.zhihu.com/p/36870462
 [5]: https://radiant-brushlands-42789.herokuapp.com/towardsdatascience.com/how-to-manage-machine-learning-products-part-1-386e7011258a
 [6]: https://zhuanlan.zhihu.com/p/192633890
+[7]: https://databricks.com/solutions/machine-learning

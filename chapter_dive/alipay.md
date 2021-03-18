@@ -98,6 +98,36 @@ BAT三家的发家史都是在做“连接”这件事。百度连接人与信�
 
 蚂蚁全服金融科技∧TE匚开发者大赛：https://dc.cloud.alipay.com/index#/compet/topics
 
+## 智能中台
+
+![智能中台的简略框架[9]](../img/AI_zhongtai.png)
+
+智能中台从角色上分成：算法研发、数据研发、工程研发。
+
+从架构上分成：模型、研发平台、底层技术。
+
+## 更多金融 [8]
+
+### 互联网金融的布道者，余额宝
+
+余额宝于2013年6月正式推出——其年被称为“中国互联网金融元年”——现如今，寻常百姓都知道货币基金、网络理财、互联网金融等术语，余额宝功不可没。它同样隶属于蚂蚁金服。截至今年6月底，起用户数已超1.24亿，资金规模超5700亿元——与余额宝对接的传统金融机构——天弘增利宝基金——成为我国规模最大的货币基金。
+
+### 更多尝试，招财宝
+
+该平台于2014年4月上线，主打投融资理财。招财宝向金融机构开放，服务中小企业和个人，为后者提供高效、低成本的融资服务。产品包含：中小企业贷、个人贷、万能险、分级基金等。目前，平台累计成交额已超150亿元。
+
+### 升级版的阿里小贷，蚂蚁小贷
+
+蚂蚁小贷前身为阿里小贷，旨在为小微企业、网商个人创业者提供互联网化、批量化、数据化的小贷服务。产品包括：阿里信用贷款、网商贷、淘宝信用贷款、订单贷款等。截至2014年3月底，蚂蚁小贷已为超70万家小微企业解决融资需求，累计投放贷款超1900亿元。
+
+### 首家互联网商业银行，网商银行
+
+蚂蚁金服作为主发起人正在筹备网商银行。2014年9月29日，获银监会批复。蚂蚁对网商银行的定位是“立足互联网，充分利用互联网、大数据等技术，挖掘互联网信用，服务小微企业和普通民众”。
+
+## 金融业务全景图
+
+https://tech.antfin.com/digital-finance
+
 [1]: https://www.sohu.com/a/405889196_114819
 [2]: https://www.zhihu.com/question/380276570
 [3]: http://www.woshipm.com/it/632590.html
@@ -105,3 +135,5 @@ BAT三家的发家史都是在做“连接”这件事。百度连接人与信�
 [5]: https://www.chinaz.com/2020/0312/1116987.shtml
 [6]: https://zhuanlan.zhihu.com/p/269512258
 [7]: https://www.cnblogs.com/edisonchou/p/why_jiang_wei_da_ji_from_internet_industry.html
+[8]: https://blog.csdn.net/huanongjingchao/article/details/46945061
+[9]: https://jsldl.blog.csdn.net/article/details/109759605?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-10.control&dist_request_id=&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-10.control
