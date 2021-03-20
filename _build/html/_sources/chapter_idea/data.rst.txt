@@ -52,6 +52,10 @@ AI 解决方案。\ `12 <http://www.uml.org.cn/devprocess/201910163.asps>`__
 使用你收集的额外信息——比如点击率、页面停留时间、搜索历史和产品偏好——来了解用户在做什么，并帮助他们了解为什么你是最佳选择。
 `9 <https://www.appcues.com/blog/product-managers-and-artificial-intelligence>`__
 
+.. figure:: ../img/index_analysis.png
+
+   指标分析\ `17 <https://www.zhihu.com/question/412642864/answer/1784905476>`__
+
 系统优化
 ~~~~~~~~
 
