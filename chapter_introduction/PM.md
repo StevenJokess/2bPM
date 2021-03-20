@@ -469,14 +469,18 @@ https://www.yuque.com/books/share/2325abf6-ed56-4941-bf99-94edeb122076?#%20%E3%8
 - https://pm-ren.com/
 - http://beforweb.com/product
 
+
 导航：
 http://www.pm265.com/
+
 
 信息：
 
 - http://www.aihot.net/
 - https://www.aiaor.com/
 - http://wiki.jikexueyuan.com/list/product
+- https://www.chanpingo.com/
+- http://www.wordpm.com/
 
 ## 我适合当产品经理吗[10]
 

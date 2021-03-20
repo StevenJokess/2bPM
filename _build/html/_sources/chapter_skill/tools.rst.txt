@@ -25,8 +25,11 @@ https://github.com/StevenJokess/2bPM/blob/master/rsc/meituan_PM_recovered.rp
 -  低保真页面实战:ref:\ ``page_Axure``
 -  高保真页面实战:ref:\ ``page_done_Axure``
 
-更多： https://www.axure.com.cn/axure/
-AxureShop：https://www.axureshop.com/
+更多：
+
+-  https://www.axure.com.cn/axure/
+-  AxureShop：https://www.axureshop.com/
+-  https://axhub.im/
 
 简介
 ~~~~
@@ -43,9 +46,9 @@ Axure之于产品经理就像PhotoShop之于设计师
 -  拓展性：可以获取大量素材，积累提升输出质量
 -  普适性：可以兼容各种系统，提升工作协同效率
 
-有人用墨刀做花里胡哨的交互，文字描述寥寥，结果连异常流程都覆盖不了
-有人用word写长篇大论，结果开发根本不看，还要问你每个页面怎么跳转
-有人用sketch，不配合专属插件的话，很容易画成没有结构性的页面流程图。而且是否具备普适性，取决于周围与你配合的人
+-  有人用墨刀做花里胡哨的交互，文字描述寥寥，结果连异常流程都覆盖不了
+-  有人用word写长篇大论，结果开发根本不看，还要问你每个页面怎么跳转
+-  有人用sketch，不配合专属插件的话，很容易画成没有结构性的页面流程图。而且是否具备普适性，取决于周围与你配合的人
 
 工具本身没有问题，有问题一定是工具人的问题。
 
