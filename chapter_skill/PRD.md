@@ -309,6 +309,10 @@ confluence：这个不多说了，非常好用的一款产品PRD在线编辑软�
 
 对于嵌入式固件的功能和性能的说明，包括业务逻辑方面的处理、远程的配置控制、安全方面的保证机制、设备的OTA升级、设备的状态监控、设备的远程代理及设备出现问题后可以自动恢复的“看门狗”程序等。
 
+## 一体化产品需求文档
+
+[17]
+
 [1]: http://www.woshipm.com/pmd/3319375.html
 [2]: http://www.woshipm.com/pmd/3516749.html
 [3]: http://www.woshipm.com/pmd/21446.html
@@ -325,3 +329,4 @@ confluence：这个不多说了，非常好用的一款产品PRD在线编辑软�
 [14]: https://www.zhihu.com/question/19654911/answer/624768169
 [15]: https://www.zhihu.com/question/19654911/answer/1760290293
 [16]: http://www.woshipm.com/pmd/2860477.html
+[17]: http://www.woshipm.com/rp/379949.html

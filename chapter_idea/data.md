@@ -37,6 +37,8 @@
 
 使用你收集的额外信息——比如点击率、页面停留时间、搜索历史和产品偏好——来了解用户在做什么，并帮助他们了解为什么你是最佳选择。 [9]
 
+![指标分析[17]](../img/index_analysis.png)
+
 ### 系统优化
 
 系统优化指的是帮助用户构建让计算机执行的方案算法，常用的系统优化方法有机器学习。
@@ -208,3 +210,4 @@ https://wao.ai/
 [14]: https://www.zhihu.com/people/terrypm/posts
 [15]: https://zhuanlan.zhihu.com/p/218468169
 [16]: https://www.080910t.com/research/data-preprocessing-and-data-cleaning/
+[17]: https://www.zhihu.com/question/412642864/answer/1784905476
