@@ -36,7 +36,7 @@ AI产品经理是“产品经理”这个职业的一个分支，在成为AI产�
 第2阶段：AI领域的纵向深度挖掘
 ————————————————
 1.模式识别：图像识别、人脸识别、语音识别、视频识别等；
-2.自然语言处理（NLP）：自然语言理解（NLU）、自然语言生成（NLG）、知识图谱等
+2.自然语言处理（NLP）：自然语言理解（NLU）、自然语言生成（NLG）、知识图谱[2]等
 3.智能语音：语音识别、语音合成、声纹识别
 4.智能软硬件：芯片、智能软硬件项目流程；
 5.专家系统：基于专家知识架构的AI综合应用
@@ -45,4 +45,5 @@ AI产品经理是“产品经理”这个职业的一个分支，在成为AI产�
 
 ---
 
-https://coggle.it/diagram/XDvxtYllM9x_N_j9/t/%E6%88%90%E4%B8%BA%E8%85%BE%E8%AE%AF%E4%BA%A7%E5%93%81%E5%9F%B9%E8%AE%AD%E7%94%9F%EF%BC%88ai%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%EF%BC%8C%E7%AD%96%E7%95%A5%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%EF%BC%8C%E4%BA%91%E8%AE%A1%E7%AE%97%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E7%AD%89%EF%BC%8C%E6%9C%80%E5%A5%BD%E6%98%AFtob%E7%9A%84%E4%BA%A7%E5%93%81%EF%BC%89
+[1]: https://coggle.it/diagram/XDvxtYllM9x_N_j9/t/%E6%88%90%E4%B8%BA%E8%85%BE%E8%AE%AF%E4%BA%A7%E5%93%81%E5%9F%B9%E8%AE%AD%E7%94%9F%EF%BC%88ai%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%EF%BC%8C%E7%AD%96%E7%95%A5%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%EF%BC%8C%E4%BA%91%E8%AE%A1%E7%AE%97%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E7%AD%89%EF%BC%8C%E6%9C%80%E5%A5%BD%E6%98%AFtob%E7%9A%84%E4%BA%A7%E5%93%81%EF%BC%89
+[2]: http://www.mysecretrainbow.com/ai/18035.html
