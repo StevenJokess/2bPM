@@ -2,6 +2,16 @@
 ML `1 <https://www.pianshen.com/article/66921228716/>`__
 ========================================================
 
+与AI:raw-latex:`\DL`:raw-latex:`\Data `Mining等的关系
+-----------------------------------------------------
+
+.. figure:: ../img/ML_relate2AI.png
+
+   与AI:raw-latex:`\DL`:raw-latex:`\Data `Mining等的关系\ `10 <http://www.mysecretrainbow.com/ai/17264.html>`__
+
+类别
+----
+
 第一类是构造间隔理论分布：聚类分析和模式识别
 
 -  人工神经网络
@@ -44,6 +54,13 @@ ML VS software engineering
 选择
 ----
 
+.. figure:: ../img/ML_cheat_sheet.png
+
+   Machine Learning Algorithm Cheat
+   Sheet\ `8 <https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-cheat-sheet>`__
+
+如何选择？\ `9 <https://docs.microsoft.com/en-us/azure/machine-learning/how-to-select-algorithms>`__
+
 在具体算法选择上，基于Python的scikit-learn机器学习算法库提供一套算法选择方法，参考这一部分（不局限于图中的算法和方法，由于这张图大多考虑了scikit中算法的实现情况）具体介绍一下算法的选择如下：
 `4 <https://zhuanlan.zhihu.com/p/36870462>`__
 
@@ -74,6 +91,7 @@ ML VS software engineering
 -  时间序列：fbprophet，sktime，pyts
 -  大规模机器学习：Horovod，BigDL，mmlspark
 -  Pipeline：MLflow, metaflow，KubeFlow，Hopsworks
+-  迁移学习：http://www.mysecretrainbow.com/ai/17262.html#1
 
 一般的学习路径主要是阅读这些框架的官方文档和tutorial，在自己的项目中进行尝试使用。对于一些核心接口，也可以阅读一下相关的源代码，深入理解其背后的原理。
 
@@ -94,5 +112,5 @@ https://mitpress.ublish.com/ereader/7093/?preview=#page/v
 truth、熵（entropy）的概念，dynamic
 learning的概念等等。\ `2 <http://www.uml.org.cn/DevProcess/201712283.asp>`__
 
-https://www.reddit.com/r/MachineLearning/
-http://www.mlebook.com/wiki/doku.php
+-  https://www.reddit.com/r/MachineLearning/
+-  http://www.mlebook.com/wiki/doku.php

@@ -10,7 +10,7 @@ Product Mananger
 ----
 
 真正的产品经理懂得搭建产品矩阵，认清行业趋势，发现需求，用数据、专业度和案例事实去协调团队其他成员，保障项目准时完成，并且能让产品盈利的。
-`24 <https://www.zhihu.com/pub/reader/119583028/chapter/1057335985074978816s>`__
+`24 <https://www.zhihu.com/pub/reader/119583028/chapter/1057335985074978816s>`__\ 是《启示录》里说的“发现有价值的、可用的、可行的产品的岗位”。其站在商业、技术和用户体验（BTC原则）三者的交点。商业指的是专注于实现产品的最大商业价值，技术指的是在产品如何被创造出来所涉及的过程，而用户体验指的是以产品去跟用户交流。\ `47 <https://coffee.pmcaff.com/article/2447262389384320/pmcaff?utm_source=forum>`__
 
 心态
 ~~~~
@@ -49,7 +49,7 @@ Norton，GV `7 <https://easyai.tech/author/xiaoqiang/page/5/>`__
 核心能力
 ~~~~~~~~
 
-产品经理的核心能力是最大化的资源整合管理能力，包括资源发现，资源获取，资源管理，资源再生，资源裁剪等。
+产品经理的核心能力是最大化的\ **资源整合管理能力**\ ，包括资源发现，资源获取，资源管理，资源再生，资源裁剪等。
 `34 <https://www.zhihu.com/question/57815929/answer/981667560>`__
 
 能力来源
@@ -118,7 +118,7 @@ Axure 就可以直接上岗了。
 只看表面 `28 <https://www.zhihu.com/pub/reader/119980992/chapter/1284104609385250816>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-产品经理要谨记自己的第一要务是基于目标用户的某个问题，提供优于市场的解决方案，目标用户需要的是解决方案，而不是简单的视觉冲击。视觉能够在某个瞬间刺激用户，但如果没有长期吸引用户的价值点，那么他们终将会离开。
+产品经理要谨记自己的第一要务是基于目标用户的某个问题，提供优于市场的解决方案，目标用户需要的是解决方案，而不是简单的视觉冲击（界面设计那是设计师的活）。视觉能够在某个瞬间刺激用户，但如果没有长期吸引用户的价值点，那么他们终将会离开。
 
 产品经理解决目标用户问题的最好办法不是花费精力去研究视觉，而是要先把视觉的外衣褪去，抓住核心的问题点去寻找更好的解决方案。
 
@@ -507,6 +507,8 @@ KPI
 
 大厂的产品可能是已经成型、上线、有一定数量的客户，但是创业公司的产品需要试错，并不知道产品推向市场以后的反应是怎样的，所以具有相对较大的风险。
 
+模拟AI创业：https://blog.csdn.net/weixin_45036344/article/details/95051856
+
 结果 `3 <http://www.woshipm.com/pmd/3945349.html>`__
 ----------------------------------------------------
 
@@ -576,6 +578,11 @@ https://www.yuque.com/books/share/2325abf6-ed56-4941-bf99-94edeb122076?#%20%E3%8
 -  http://wiki.jikexueyuan.com/list/product
 -  https://www.chanpingo.com/
 -  http://www.wordpm.com/
+-  http://www.pmtoo.com/
+-  http://www.chanpin100.com/
+-  https://www.qidianla.com/
+-  http://www.dengta360.cn/index.html%22%20%5Ct%20%22_blank
+-  https://www.mockplus.cn/
 
 我适合当产品经理吗\ `10 <https://www.bilibili.com/video/BV1qv411B7J1>`__
 ------------------------------------------------------------------------
@@ -686,6 +693,15 @@ PM 十问 `35 <https://coffee.pmcaff.com/article/2628979102597248/pmcaff?utm_sou
 
    产品经理能力模型
 
+Baidu
+~~~~~
+
+.. figure:: ../img/baidu_PM.png
+
+   百度-产品经理能力模型\ `45 <https://g.yuque.com/zhongguodianxinyanjiuyuan/bgso10/xawnsb>`__
+
+百度产品经理的职级从P3开始，至P8+。相比于鹅厂（工作能力、专业知识、专业技能、组织影响力）衡量产品经理的维度，百度衡量产品经理的维度变成了三个：软能力、硬能力、公共基础。看起来比较简洁，更接近我们平时对产品经理的认知。
+
 产品经理成熟的标准是什么？ `16 <https://zhuanlan.zhihu.com/p/38392075>`__
 -------------------------------------------------------------------------
 
@@ -741,6 +757,13 @@ Steve Jobs
 
 2020年产品经理生存报告:
 https://coffee.pmcaff.com/article/KDLE41yRkx?rts=201105225049_nch
+
+知识宇宙
+--------
+
+.. figure:: ../img/PM_knowledge.png
+
+   PM知识宇宙\ `46 <https://g.yuque.com/zhongguodianxinyanjiuyuan/bgso10/ab5ucf>`__
 
 .. |产品策划VS产品运营| image:: ../img/design_GTM.jpg
 .. |腾讯产品经理能力模型| image:: ../img/tencent_PM.png

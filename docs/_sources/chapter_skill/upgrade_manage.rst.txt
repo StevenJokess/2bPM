@@ -114,6 +114,10 @@
 -  前端研发工作量
 -  发版计划
 
+.. figure:: ../img/requirements_pool_mindmap.png
+
+   需求池管理文档基本结构\ `10 <https://g.yuque.com/zhongguodianxinyanjiuyuan/bgso10/dtrl4d>`__
+
 如此困难
 --------
 

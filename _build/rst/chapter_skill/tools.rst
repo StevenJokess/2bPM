@@ -9,10 +9,16 @@ https://tangjie.me/blog/184.html
 Project
 -------
 
+甘特图：https://support.microsoft.com/zh-cn/office/%E4%BD%BF%E7%94%A8%E7%94%98%E7%89%B9%E5%9B%BE%E8%A7%86%E5%9B%BE-0e84efa4-78ce-4cd1-baed-5159a55f78b4
+
 -  https://www.iamxiarui.com/?paged=3&cat=111
 -  https://blog.csdn.net/liwei16611/article/details/100106262## UML
 
 https://www.iamxiarui.com/?p=1231
+
+.. figure:: ../img/github_projects.png
+
+   Github project
 
 Axure `1 <https://www.yinxiang.com/everhub/note/435c8b2c-9127-43f3-a6e3-fc5f8898d893>`__
 ----------------------------------------------------------------------------------------

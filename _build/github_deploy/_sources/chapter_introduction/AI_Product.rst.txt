@@ -43,6 +43,13 @@ AI 技术实际应用情况
    2018年AI
    技术实际应用情况\ `9 <https://zhuanlan.zhihu.com/p/37333774>`__
 
+常见产品
+--------
+
+.. figure:: ../img/AI_product_often.png
+
+   常见产品\ `17 <https://coffee.pmcaff.com/article/2258532879227008/pmcaff?utm_source=forum>`__
+
 AI产品的趋势
 ------------
 

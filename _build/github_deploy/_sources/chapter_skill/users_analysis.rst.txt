@@ -139,6 +139,12 @@ taking的心理学理论，人考虑问题习惯性先从自己出发，而不�
 
    QQ早期用户画像数据
 
+.. figure:: ../img/user_persona.png
+
+   用户画像\ `22 <https://coffee.pmcaff.com/article/1103103818721408/pmcaff?utm_source=forum>`__
+
+TODO:https://zhuanlan.zhihu.com/p/28485415
+
 人的五个层次 `10 <https://www.jianshu.com/p/85ec807c56d3>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -416,6 +422,11 @@ much
 -  可用性测试
 -  数据分析
 -  满意度调查
+
+用户调研
+~~~~~~~~
+
+意义：它是作为验证的手段。但它不能作为需求的来源。\ `23 <https://www.zhihu.com/question/29342383/answer/46616997>`__
 
 结果产出 `5 <https://www.bilibili.com/video/BV1wz4y1y7sg?p=3>`__
 ----------------------------------------------------------------

@@ -201,9 +201,8 @@ User，月活跃用户数）；推广：推广渠道数据，筛选出投入产�
 处于衰退期的产品，其实能够起死回生的几率不大，除非它的产品经理是卓越的领袖。重点观测的数据指标：每日用户流失数、用户流失速度、挽回效果数据。此阶段的规划可以尝试去发掘产品的第二春或颠覆式创新。此时如果要放弃产品，就要做好产品退出市场的相关工作
 `17 <https://www.zhihu.com/pub/reader/119967224/chapter/1284014013069127680>`__\ 。
 
-.. figure:: ../img/product_diedai.png
-
-   产品迭代
+|产品迭代|
+|各阶段应该做的\ |\ `24 <https://www.zhihu.com/question/267914037/answer/741359690>`__
 
 创新
 ~~~~
@@ -257,3 +256,5 @@ AI作用 `12 <https://weread.qq.com/web/reader/0c032c9071dbddbc0c06459k70e32fb02
 8. 任何时间任何场景找到自己喜欢的活动！https://www.robby.ai/about/
 
 .. |产品生命周期| image:: ../img/product_life.png
+.. |产品迭代| image:: ../img/product_diedai.png
+.. |各阶段应该做的\ | image:: ../img/PLC_do.png

@@ -218,6 +218,9 @@ Fix用户与人工智能产品交互时，他们会与预测和推荐引擎交�
 原型及MVP
 ^^^^^^^^^
 
+“不要一开始就试图设计和构建完美的系统。相反，快速建立和训练一个基本的系统——也许只需几天。即使基本系统与你能建立的“最佳”系统相去甚远，检查基本系统是如何运作的也是有价值的:你会很快找到线索，向你展示最有前途的方向，在那里投入你的时间。
+`9 <https://radiant-brushlands-42789.herokuapp.com/towardsdatascience.com/take-your-machine-learning-models-to-production-with-these-5-simple-steps-35aa55e3a43c>`__
+
 Entrepreneurial product managers are often associated with the phrase
 “Move Fast and Break Things.” AI product mangers live and die by
 “Experiment Fast So You Don’t Break Things Later.” Take any social media
