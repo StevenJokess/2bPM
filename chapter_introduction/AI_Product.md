@@ -33,6 +33,10 @@ AI产品需要打破传统GUI的局限，AI产品对外提供的产品形态不�
 
 ![2018年AI 技术实际应用情况[9]](../img/AI_use.jpg)
 
+## 常见产品
+
+![常见产品[17]](../img/AI_product_often.png)
+
 ## AI产品的趋势
 
 ![AI产品的趋势[7]](../img/AI_product_trend.jpg)
@@ -113,3 +117,4 @@ AI产品价值=（提高的时效*时效成本+GMV提升）-（AI硬件资源成
 [14]: http://www.uml.org.cn/ai/201912183.asp
 [15]: https://radiant-brushlands-42789.herokuapp.com/towardsdatascience.com/how-to-manage-machine-learning-products-part-1-386e7011258a
 [16]: https://zhuanlan.zhihu.com/p/218468169
+[17]: https://coffee.pmcaff.com/article/2258532879227008/pmcaff?utm_source=forum

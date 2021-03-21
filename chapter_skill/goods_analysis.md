@@ -239,6 +239,8 @@ step5：借鉴与规避竞品分析总结,结合我们自身情况,可以吸收�
 
 因为在实际的工作中，做的人和看得人都是行业内从业者，对于市场盘子，竞品的体量心里大体都有个数，而时间都很宝贵，在大力倡导MVP(敏捷开发)的移动时代，每个版本的迭代一般也就一两个核心功能，所以一般竞品分析，我们就只做一两个核心功能的竞品分析就可以了。[9]
 
+![竞品分析报告基本结构](../img/good_analysis_mindmap.png)
+
 [1]: http://www.woshipm.com/pmd/1842636.html
 [2]: https://www.bilibili.com/video/BV1wz4y1y7sg?p=4
 [3]: https://www.zhihu.com/question/39005837
@@ -248,3 +250,4 @@ step5：借鉴与规避竞品分析总结,结合我们自身情况,可以吸收�
 [7]: https://www.pianshen.com/article/89602055805/
 [8]: https://zhuanlan.zhihu.com/p/69502665
 [9]: https://www.zhihu.com/question/23601989/answer/317794141
+[10]: https://g.yuque.com/zhongguodianxinyanjiuyuan/bgso10/wcfgzs

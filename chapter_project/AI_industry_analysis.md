@@ -195,6 +195,7 @@ https://daxueconsulting.com/category/artificial-intelligence-industry-in-china/
 
 https://www.ulapia.com/reports/search?query=AI
 https://www.iyiou.com/search?p=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD
+https://emerj.com/ai-executive-guides/
 
 [1]: http://www.woshipm.com/pd/873240.html
 [2]: https://www.zhihu.com/question/57373956/answer/155398900

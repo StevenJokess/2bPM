@@ -115,6 +115,8 @@ Perspective taking的心理学理论，人考虑问题习惯性先从自己出�
 
 ![QQ早期用户画像数据](../img/QQ_users.jpg)
 
+![用户画像[22]](../img/user_persona.png)
+
 ### 人的五个层次 [10]
 
 1. 感知层
@@ -331,6 +333,11 @@ Which 是指选哪一个方案，做哪一个功能，这背后其实是对价�
 - 数据分析
 - 满意度调查
 
+### 用户调研
+
+意义：它是作为验证的手段。但它不能作为需求的来源。[23]
+
+
 ## 结果产出 [5]
 
 - 用户画像
@@ -392,3 +399,5 @@ Which 是指选哪一个方案，做哪一个功能，这背后其实是对价�
 [19]: https://mp.weixin.qq.com/s/jK5vQWcUnKdro1kwqT8L8g
 [20]: https://tangjie.me/blog/230.html
 [21]: https://36kr.com/p/1721300926465
+[22]: https://coffee.pmcaff.com/article/1103103818721408/pmcaff?utm_source=forum
+[23]: https://www.zhihu.com/question/29342383/answer/46616997

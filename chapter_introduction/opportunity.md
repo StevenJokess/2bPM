@@ -4,6 +4,10 @@
 
 ![机会是怎么来的](../img/where_opportunity.png)
 
+1. 抽象出用户需求:情感&逻辑
+1. 需求实例化:搜索框/搜索按钮实现快速匹配
+1. 强化产品需求:搜索框的大小、颜色、风格、位置[6]
+
 ## 创造价值 [5]
 
 聚焦创造价值，而非痛点。
@@ -84,3 +88,4 @@ Jeroen Kraaijenbrink的战略示意图适合制定企业的总体战略，有利
 [3]: https://www.jianshu.com/p/fa5e2c1f3930
 [4]: https://weread.qq.com/web/reader/40632860719ad5bb4060856kc0c320a0232c0c7c76d365a
 [5]: https://weread.qq.com/web/reader/46532b707210fc4f465d044kaab325601eaab3238922e53
+[6]: https://coffee.pmcaff.com/article/2447262389384320/pmcaff?utm_source=forum

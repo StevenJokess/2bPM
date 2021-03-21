@@ -182,6 +182,8 @@ AI产品经理必须从一开始就成为设计团队的一员，以确保产品
 
 #### 原型及MVP
 
+“不要一开始就试图设计和构建完美的系统。相反，快速建立和训练一个基本的系统——也许只需几天。即使基本系统与你能建立的“最佳”系统相去甚远，检查基本系统是如何运作的也是有价值的:你会很快找到线索，向你展示最有前途的方向，在那里投入你的时间。 [9]
+
 Entrepreneurial product managers are often associated with the phrase “Move Fast and Break Things.”  AI product mangers live and die by “Experiment Fast So You Don’t Break Things Later.”  Take any social media company that sells advertisements. The timing, quantity, and type of ads displayed to segments of a company’s user population are overwhelmingly determined by algorithms. Customers contract with the social media company for a certain fixed budget, expecting to achieve certain audience exposure thresholds that can be measured by relevant business metrics. The budget that is actually spent successfully is referred to as fulfillment, and is directly related to the revenue that each customer generates. Any change to the underlying models or data ecosystem, such as how certain **demographic features are weighted**, can have a dramatic impact on the social media company’s revenue. Experimenting with new models is essential–but so is yanking an underperforming model out of production. This is only one example of why rapid prototyping is important for teams building AI products. AI PMs must create an environment in which continuous experimentation and failure are allowed (even celebrated), along with supporting the processes and tools that enable experimentation and learning through failure.
 
 Qualitative data collection tools (such as SurveyMonkey, Qualtrics, and Google Forms) should be joined with interface prototyping tools (such as Invision and Balsamiq), and with data prototyping tools (such as Jupyter Notebooks) to form an ecosystem for product development and testing.
@@ -287,3 +289,4 @@ Qualitative data collection tools (such as SurveyMonkey, Qualtrics, and Google F
 [6]: http://www.changgpm.com/thread-253-1-1.html
 [7]: https://radiant-brushlands-42789.herokuapp.com/towardsdatascience.com/my-first-year-as-a-project-manager-for-artificial-intelligence-ai-16127a4a37c2
 [8]: http://www.uml.org.cn/devprocess/201910163.asp
+[9]: https://radiant-brushlands-42789.herokuapp.com/towardsdatascience.com/take-your-machine-learning-models-to-production-with-these-5-simple-steps-35aa55e3a43c

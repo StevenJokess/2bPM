@@ -24,7 +24,7 @@
 
 ## AI产品经理专业体系
 
-将网络上杂乱的内容进行有效整理，用逻辑（从框架到细节、前后顺序）搭建自己的AI产品经理专业体系 [1]
+将网络上杂乱的内容进行有效整理（互联网上充斥着各种资源，过滤出最优质的内容以飨自己。[7]），用逻辑（从框架到细节、前后顺序）搭建自己的AI产品经理专业体系 [1]
 
 好处：
 
@@ -83,3 +83,4 @@ chapter_dive/index
 [4]: https://www.zhihu.com/question/279550559
 [5]: https://ai.baidu.com/forum/topic/show/492818
 [6]: http://www.ramywu.com/work/2018/04/09/How-to-Learn-AI-PM-Tacit-Knowledge/
+[7]: https://www.zhihu.com/question/29342383/answer/44323650

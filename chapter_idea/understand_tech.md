@@ -199,6 +199,8 @@ SaaS是一个服务需求方的完整解决方案产品产品，如它为顾客�
 
 ## 与测试相关的专业名词
 
+有自动化测试，接口自动化测试，功能测试，性能测试，UI自动化测试，压力测试；自动化测试完成不了的我们测试人员会编写测试用例进行测试[26]
+
 1. 提测研发人员在开发完某个功能之后，把代码打包并提交给测试人员开始测试，就叫提测。
 2. 复现之前测试发现的Bug 再次出现，就叫复现。能否复现对于研发人员排查Bug非常重要。
 3. 测试用例测试用例是指测试人员根据PRD 撰写的测试流程及事项。例如，知乎要上线一个收藏文章的功能，点击“收藏”按钮，该文章就出现在收藏列表中，并且“收藏”按钮变为“已收藏”按钮，这就是一条测试用例；点击“已收藏”按钮，“已收藏”按钮就变为“收藏”按钮，同时该文章从收藏列表中消失，这就是另外一条测试用例。
@@ -374,3 +376,4 @@ https://zhuanlan.zhihu.com/p/144314827
 [23]: https://medium.com/3pm-lab/3-major-differences-of-being-a-product-manager-in-big-companies-vs-startups-36861e35c5e3
 [24]: http://www.uml.org.cn/devprocess/201910163.asps
 [25]: https://www.zhihu.com/question/19554113/answer/308056760
+[26]: https://coffee.pmcaff.com/article/2447262389384320/pmcaff?utm_source=forum

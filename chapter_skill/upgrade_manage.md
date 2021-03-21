@@ -92,6 +92,8 @@
 - 前端研发工作量
 - 发版计划
 
+![需求池管理文档基本结构[10]](../img/requirements_pool_mindmap.png)
+
 ## 如此困难
 
 - 相比去做更普适的项目，做那些你最喜欢的、自己会用的产品更令人满足。
@@ -240,3 +242,4 @@ http://www.woshipm.com/pd/4383131.html
 [7]: https://yam.gift/2021/02/19/ExpSum/2021-02-19-AI-Engineer-Growing-I/
 [8]: https://weread.qq.com/web/reader/46532b707210fc4f465d044k98f3284021498f137082c2e
 [9]: https://www.zhihu.com/pub/reader/119967224/chapter/1284014011047555072
+[10]: https://g.yuque.com/zhongguodianxinyanjiuyuan/bgso10/dtrl4d
