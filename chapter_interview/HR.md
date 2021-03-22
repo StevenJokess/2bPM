@@ -110,6 +110,8 @@ Offer 的选择是综合考虑行业、城市、公司、待遇等多个方面�
 
 2021互联网校招薪资爆料：https://blog.nowcoder.net/n/2668a1d85a174bec94e1fea21dc01551
 
+![薪资结构与公司的成本[11]](../img/salary_content.png)
+
 ### 有什么需要我特别注意的部门吗？
 
 在大公司，他们认为「销售」部门需要特别注意，他们会让你知道销售就像是这里的神祇，不要惹恼他们。在小一点的公司，他们会告诉你这方面没什么需要注意的。通过这个问题你可以了解一些第一天工作要知道的事——实际发号施令的是谁？是否存在有些人觉得不值但也有些人很喜欢的项目？如果他们不介意告诉你一些秘辛，这会在你入职的头几周帮到你。这个问题也表示你很想融入公司，想和周围的人进行适当的沟通。
@@ -124,3 +126,4 @@ Offer 的选择是综合考虑行业、城市、公司、待遇等多个方面�
 [8]: http://www.woshipm.com/zhichang/2301423.html
 [9]: https://blog.csdn.net/pA2elX78qaJTADH/article/details/80768104?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-11.control&dist_request_id=6f05adc5-b97c-4da8-ae1f-b2d8c5388ac8&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-11.control
 [10]: https://shimo.im/docs/vyCrK3rQQ6KC9Ryp/read
+[11]: http://www.woshipm.com/zhichang/807191.html

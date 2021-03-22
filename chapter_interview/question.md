@@ -151,7 +151,7 @@ toB 公司产品要保证的是交付给客户的解决方案的结果和质量�
 
 - 要了解目标岗位因何设立，是团队扩张新设的岗位，还是之前的人离职了，前面的人为什么离职
 - 汇报线是什么样的
-- 整个团队有多少人，产品团队有多少人，大概有哪些分工，未来会达到什么样的规模
+- **整个团队有多少人，产品团队有多少人，大概有哪些分工，未来会达到什么样的规模**(一面的时候问面试官部门和具体业务，二面前进行充分准备和了解呐。[19])
 
 leader方面：
 
@@ -179,3 +179,4 @@ leader方面：
 [16]: https://www.zhihu.com/search?type=content&q=%E4%BA%A7%E5%93%81+%E7%AC%94%E8%AF%95
 [17]: https://www.bilibili.com/video/BV1UK4y1f7kK?from=search&seid=11977543152973696126
 [18]: https://shimo.im/docs/vyCrK3rQQ6KC9Ryp/read
+[19]: https://zhuanlan.zhihu.com/p/87293782
