@@ -56,7 +56,18 @@
 
 什么公司值得去：https://www.kanzhun.com/
 
+### 人生战略
+
+人生战略的雏形目标。[5]
+
+- 使命：让智能化社会保留美好的人性。
+- 愿景：做一款产品(基于任何形式)实现我的使命。
+- 战略：可以做掌舵者或者二把手，或者偏向咨询、整合。
+- 战术：野蛮、快速试错；细分领域top5%；AI。
+- 价值观：honest至上
+
 [1]: https://weread.qq.com/web/reader/46532b707210fc4f465d044k8f132430178f14e45fce0f7
 [2]: https://weread.qq.com/web/reader/46532b707210fc4f465d044kd3d322001ad3d9446802347
 [3]: https://weread.qq.com/web/reader/46532b707210fc4f465d044kc7432af0210c74d97b01b1c
 [4]: https://weread.qq.com/web/reader/46532b707210fc4f465d044k6f4322302126f4922f45dec
+[5]: https://coffee.pmcaff.com/article/2147290812813440/pmcaff?utm_source=forum&newwindow=1
