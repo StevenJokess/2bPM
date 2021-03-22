@@ -74,4 +74,6 @@ MLOps就是机器学习时代的DevOps。它的主要作用就是连接模型构
 
 以模型效果监控为例，当效果出现下降时，我们需要及时介入排查处理，或触发重训练。对于重训练来说，需要综合考虑模型效果变化，数据更新频率，训练开销，部署开销，重新训练的提升度等，选择合适的时间点进行触发。虽然有很多模型也支持在线实时更新，但其稳定性控制，自动化测试等都缺少标准做法的参考，大多数情况下，重新训练往往比在线更新训练的效果和稳定性更好。
 
+TODO:https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning?hl=zh-cn
+
 [1]: https://zhuanlan.zhihu.com/p/357897337

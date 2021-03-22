@@ -101,6 +101,8 @@ https://mitpress.ublish.com/ereader/7093/?preview=#page/v
 
 ## 技术债务
 
+“技术债务”，指为了产品快速迭代，做了很多临时性的代码处理。但是在未来的某一天，这些遗留问题都会以BUG方式体现出来，导致付出更大的维护成本[14]
+
 技术债务或许可以通过重构代码，改善单元测试，删除僵尸代码，减少依赖，精简 API 和改良文档说明进行清算。其目的不在于添加新功能，而是着眼于未来的提升，减少错误和提高可维护性。延期偿还只会加重负担，隐性债务之所以危险正是因为它是悄无声息间积攒下的。[12]
 
 ## ML system
@@ -112,6 +114,8 @@ https://mitpress.ublish.com/ereader/7093/?preview=#page/v
 - 测试：测试机器学习系统比测试其他软件系统更复杂。除了典型的单元测试和集成测试之外，您还需要验证数据、评估经过训练的模型质量以及验证模型。
 - 部署：在机器学习系统中，部署不是将离线训练的机器学习模型部署为预测服务那样简单。机器学习系统可能会要求您部署多步骤流水线以自动重新训练和部署模型。此流水线会增加复杂性，并要求您自动执行部署之前由数据科学家手动执行的步骤，以训练和验证新模型。
 - 生产：机器学习模型的性能可能会下降，不仅是因为编码不理想，而且也因为数据资料在不断演变。换句话说，与传统的软件系统相比，模型可能会通过更多方式衰退，而您需要考虑这种降级现象。因此，您需要跟踪数据的摘要统计信息并监控模型的在线性能，以便系统在值与预期不符时发送通知或回滚。
+
+More[15]
 
 [1]: https://www.pianshen.com/article/66921228716/
 [2]: http://www.uml.org.cn/DevProcess/201712283.asp
@@ -126,3 +130,5 @@ https://mitpress.ublish.com/ereader/7093/?preview=#page/v
 [11]: https://libertydream.github.io/2020/02/16/20%E4%B8%AA%E4%B8%8D%E5%AE%B9%E9%94%99%E8%BF%87%E7%9A%84AI%E8%B5%84%E6%BA%90/
 [12]: https://libertydream.github.io/2020/05/10/ML%E9%9A%90%E6%80%A7%E5%80%BA%E5%8A%A1/
 [13]: https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning?hl=zh-cn
+[14]: http://www.woshipm.com/pmd/3024508.html
+[15]: https://libertydream.github.io/2020/05/10/ML%E9%9A%90%E6%80%A7%E5%80%BA%E5%8A%A1/

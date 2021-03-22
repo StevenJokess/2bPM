@@ -439,6 +439,8 @@ UI设计完成后，就开始转入前端工作。对于前端而言，会更加
 
 ![技术VS产品的分工](../img/tech_product.jpeg)
 
+![技术VS产品的区别[48]](../img/PM_vs_Engineer.png)
+
 产品经理是发现需求后做产品策略做对的产品，例如：当快手2011年开始上市场运营，而今日头条系从2016年才开始做抖音，那么如果你是技术思维的话，你准备研究比快手更好的AI模型？然后超越快手吗？
 
 那我们看抖音的产品负责人士怎么运用产品思维做产品策略的。
@@ -676,3 +678,4 @@ PM最终拼的是人文素养和灵魂境界，而不是职位名称、从业年
 [45]: https://g.yuque.com/zhongguodianxinyanjiuyuan/bgso10/xawnsb
 [46]: https://g.yuque.com/zhongguodianxinyanjiuyuan/bgso10/ab5ucf
 [47]: https://coffee.pmcaff.com/article/2447262389384320/pmcaff?utm_source=forum
+[48]: http://www.woshipm.com/pmd/3024508.html

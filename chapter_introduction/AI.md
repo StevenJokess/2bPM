@@ -43,6 +43,12 @@ AI革命可以看作是生产力的革命，从生产力的角度讲，第一是
 
 但是我认为AI可以帮助人类实现“去工具化”，真正“身随意动”的发挥人之所以为人的价值，具体就是依靠上述两点。
 
+## AI思维
+
+AI思维是一种全部数据化、全部用人工智能的方法实时的反映出来，并且根据这些数据进行调整的方式。[23]
+
+将弱人机+好流程胜过强人机+差流程的规律称为“卡斯帕罗夫定律”[24]
+
 ## 可能优势 [9]
 
 - 向不同的用户推荐不同的内容。比如为电影提供个性化的建议。
@@ -230,3 +236,5 @@ http://aima.cs.berkeley.edu/
 [20]: http://ai.itheima.com/news/20191105/143608.html
 [21]: http://www.uml.org.cn/ai/201912183.asp
 [22]: https://cloud.tencent.com/edu/learning/live-2877
+[23]: https://www.chenpe.com/news/215513.html
+[24]: http://www.woshipm.com/ai/4416771.html

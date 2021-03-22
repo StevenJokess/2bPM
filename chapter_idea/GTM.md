@@ -124,6 +124,8 @@
 
 ## 营销
 
+推荐书籍《定位》《流量池》《运营之光》《增长黑客》《参与感》《消费者行为学》）《爆款文案》[10]
+
 ### 营销很好，没有盈利
 
 1. 提高用户量；
@@ -174,3 +176,4 @@ https://www.niaogebiji.com/
 [7]: https://zhuanlan.zhihu.com/p/350981809
 [8]: https://pic4.zhimg.com/v2-670698cb727b90e20895360b2fe85ea8_r.jpg?source=1940ef5c
 [9]: https://www.jianshu.com/p/b62409f10470
+[10]: http://www.woshipm.com/pmd/3024508.html

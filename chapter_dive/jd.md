@@ -41,9 +41,14 @@ https://www.jddglobal.com/products/machine-learn
 
 2018年财富世界500强，京东位列181位，互联网公司排名第三。2014年5月，京东集团在美国纳斯达克证券交易所正式挂牌上市，是中国第一个成功赴美上市的大型综合型电商平台。“人工智能引领美好生活”，京东人工智能持续探索前沿科技，聚焦商业应用落地，加速释放科技的商业价值。在语音与声学、计算机视觉、机器学习、知识图谱、语义、对话6个技术领域不断深耕，拓展AI技术的边界，并通过京东人工智能开放平台（http://neuhub.jd.com）全面开放给行业合作伙伴，共赢生态。在市政、零售、客服、医疗等领域持续打造规模化应用落地，京东人工智能持续探索AI商业创新模式和价值，与实体经济相融合，释放AI真正的产业和社会价值。
 
+![NeuFoundry平台架构图](../img/NeuFoundry.png)
+
+NeuFoundry基础设施层采用Docker容器进行算力资源的池化，通过Kubernetes进行整体的资源管理、资源分配、任务运行、状态监控等，平台集成了MySQL、Redis、MQ等多种中间件服务，通过数据标注、模型训练、模型发布，生成自定义的AI能力，为各行各业的业务服务提供有力的支撑。[7]
+
 [1]: https://www.cnblogs.com/edisonchou/p/why_jiang_wei_da_ji_from_internet_industry.html
 [2]: https://www.linkedin.com/news/story/%E7%BE%8E%E5%9B%A2%E4%B8%8E%E6%94%AF%E4%BB%98%E5%AE%9D%E5%88%86%E9%81%93%E6%89%AC%E9%95%B3-4900980/?originalSubdomain=cn
 [3]: https://finance.sina.com.cn/money/bank/bank_hydt/2020-06-16/doc-iircuyvi8701006.shtml
 [4]: http://tech.sina.com.cn/i/2011-08-25/23375981397.shtml
 [5]: https://www.zhihu.com/question/410767563/answer/1373298846
 [6]: http://www.woshipm.com/zhichang/807191.html
+[7]: http://www.woshipm.com/ai/3320134.html

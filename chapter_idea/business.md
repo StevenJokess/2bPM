@@ -61,7 +61,7 @@
 
 ## 商业模式 [7]
 
-商业模式就是指企业设计完整的商业逻辑，从而实现企业的生存价值。
+商业模式就是指企业设计完整的商业逻辑，从而实现企业的生存价值。（《商业模式新生代》[18]）
 
 设计合理的商业模式，就要充分考虑和运用企业运行的内外要素（包括商业前景，融资和资本运作[17]），从而形成一个完整的高效率商业化运行系统，它可以保持产品独特的核心竞争力，并通过最优形式满足客户需求、实现自身价值，与此同时达成持续盈利的目标。 [10]
 
@@ -237,3 +237,4 @@ TODO:[14]
 [15]: https://www.infoq.cn/article/2017/12/Ground-practice-visual-AI
 [16]: https://coffee.pmcaff.com/article/1593027702113408/pmcaff?utm_source=forum
 [17]: https://coffee.pmcaff.com/article/2447262389384320/pmcaff?utm_source=forum
+[18]: http://www.woshipm.com/pmd/3024508.html

@@ -265,7 +265,11 @@
 #### 信息架构
 :label:`information_infra`
 
-设计里面非常关键的就是信息架构。信息架构最主要的就是把一些核心任务给突出出来。根据你的用户画像，你要知道用户最核心的任务是哪些，根据这些核心任务再去排列组合你的信息架构。
+产品经理的工作需要设计业务架构、产品架构和信息架构。一个企业的业务架构决定了产品架构，产品架构决定了信息架构，是一个递进的关系。[14]
+
+![信息架构处于位置](../img/information_structure_flowchart.png)
+
+设计里面非常关键的就是信息架构。信息架构最主要的就是把一些核心任务给突出出来。根据你的用户画像，你要知道用户最核心的任务是哪些，根据这些核心任务再去排列组合你的信息架构。参考《信息架构，超越WEB设计》[13]
 
 ![信息架构](../img/information_infra.png)
 
@@ -296,3 +300,5 @@
 [10]: https://www.jianshu.com/p/e89e97858be1
 [11]: https://tangjie.me/blog/115.html
 [12]: https://tangjie.me/blog/113.html
+[13]: http://www.woshipm.com/pmd/3024508.html
+[14]: http://www.woshipm.com/pd/3236364.html

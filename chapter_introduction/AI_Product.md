@@ -29,6 +29,10 @@ AI产品需要打破传统GUI的局限，AI产品对外提供的产品形态不�
 
 作为产品其实很无奈，原则上应该以用户为中心挖掘用户最自然的用户习惯，但是在AI技术不成熟的情况下，需要牺牲些用户体验。
 
+### 对话式UI
+
+GUI的复杂性体现在功能越多，菜单层级越多，交互的控件也越来越复杂，对于用户的学习成本是非常高的。导航与层级是GUI结构所决定的，这一点与对话式UI完全不同，对话式UI通过机器学习之后，可以无限地消灭层级关系，这样可以减少用户操作路径，直达目标。[18]
+
 ## AI 技术实际应用情况
 
 ![2018年AI 技术实际应用情况[9]](../img/AI_use.jpg)
@@ -118,3 +122,4 @@ AI产品价值=（提高的时效*时效成本+GMV提升）-（AI硬件资源成
 [15]: https://radiant-brushlands-42789.herokuapp.com/towardsdatascience.com/how-to-manage-machine-learning-products-part-1-386e7011258a
 [16]: https://zhuanlan.zhihu.com/p/218468169
 [17]: https://coffee.pmcaff.com/article/2258532879227008/pmcaff?utm_source=forum
+[18]: http://www.woshipm.com/it/581011.html

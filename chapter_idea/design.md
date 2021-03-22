@@ -120,7 +120,7 @@ TODO:https://tangjie.me/blog/118.html
 ## AI产品设计原则 [10]
 
 1. 数据驱动：用户行为日志是用户需求挖掘的宝地，用日志分析当前提供服务的满足度，以及挖掘潜在用户需求，迭代验证产品方案，闭环跑通。
-1. 容错设计：由于推理的概率性错误，加上不能一蹴而就。就需要有容错设计来解决。
+1. 容错设计：由于推理的概率性错误，加上不能一蹴而就。就需要有容错设计来解决。（为了应对算法失灵的情况，形色还配备了专业的人士进行人工鉴定及解答。[13]）
 1. 上新的机制：为了节省研发和设计AI模型的时间成本，要在初期就定义好产品的 信息架构:ref:`information_infra`，并尽量复用已有的产品样式
 
 [1]: https://weread.qq.com/web/reader/8d232b60721a488e8d21e54kaab325601eaab3238922e53
@@ -135,3 +135,4 @@ TODO:https://tangjie.me/blog/118.html
 [10]: https://zhuanlan.zhihu.com/p/80134682
 [11]: http://www.woshipm.com/pmd/1774122.html
 [12]: https://tangjie.me/blog/171.html
+[13]: http://www.woshipm.com/ai/2296413.htmls
