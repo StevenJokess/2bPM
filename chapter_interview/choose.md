@@ -56,6 +56,14 @@
 
 什么公司值得去：https://www.kanzhun.com/
 
+### 做大的几种效应 [6]
+
+- 头部效应:一步领先步步领先,资源聚集
+- 规模效应:边际成本递减,供/需端某物多多益善
+- 协同效应:多种事物互相促进“一鱼多吃”
+- 网络效应:供需同体者的同质化网络(价值正比于N^2)
+- 多边效应:供需多方(>=2)彼此强化
+
 ### 人生战略
 
 人生战略的雏形目标。[5]
@@ -71,3 +79,4 @@
 [3]: https://weread.qq.com/web/reader/46532b707210fc4f465d044kc7432af0210c74d97b01b1c
 [4]: https://weread.qq.com/web/reader/46532b707210fc4f465d044k6f4322302126f4922f45dec
 [5]: https://coffee.pmcaff.com/article/2147290812813440/pmcaff?utm_source=forum&newwindow=1
+[6]: https://www.bilibili.com/video/BV19v411k75u?from=search&seid=11494051329064518502

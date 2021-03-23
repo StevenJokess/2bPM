@@ -75,6 +75,11 @@ AI产品价值=（提高的时效*时效成本+GMV提升）-（AI硬件资源成
 
 ![AI 蓝图[13]](../img/AI_blueprint.jpg)
 
+## AI 专利
+
+https://www.darts-ip.com/de/2019%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E8%B6%8B%E5%8A%BF/
+
+
 ## AI能力与场景的匹配
 
 ![AI能力与场景的匹配](../img/AI_scene.png)
