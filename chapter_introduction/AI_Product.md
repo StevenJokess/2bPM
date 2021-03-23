@@ -41,6 +41,10 @@ GUI的复杂性体现在功能越多，菜单层级越多，交互的控件也�
 
 ![常见产品[17]](../img/AI_product_often.png)
 
+### 应用领域
+
+http://www.woshipm.com/ai/4020213.html
+
 ## AI产品的趋势
 
 ![AI产品的趋势[7]](../img/AI_product_trend.jpg)

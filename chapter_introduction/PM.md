@@ -476,7 +476,12 @@ https://www.yuque.com/books/share/2325abf6-ed56-4941-bf99-94edeb122076?#%20%E3%8
 - http://www.crazypm.com/
 - https://pm-ren.com/
 - http://beforweb.com/product
-
+- http://masterchat.cn/
+- http://tech2ipo.com/
+- http://86pm.com/
+- https://www.producthunt.com/
+- http://ued.pm/
+- http://www.masterchat.cn/
 
 导航：
 http://www.pm265.com/
@@ -494,6 +499,9 @@ http://www.pm265.com/
 - https://www.qidianla.com/
 - http://www.dengta360.cn/index.html%22%20%5Ct%20%22_blank
 - https://www.mockplus.cn/
+- http://www.managershare.com/
+- http://www.geekpark.net/
+- http://www.ipmtalk.com/
 
 真题：柠檬two公众号
 

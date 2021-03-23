@@ -36,6 +36,8 @@ https://github.com/StevenJokess/2bPM/blob/master/rsc/meituan_PM_recovered.rp
 -  https://www.axure.com.cn/axure/
 -  AxureShop：https://www.axureshop.com/
 -  https://axhub.im/
+-  AXURE8
+   原型绘制效率工具：https://coffee.pmcaff.com/article/2111722865562752/pmcaff?utm_source=forum&newwindow=1
 
 简介
 ~~~~

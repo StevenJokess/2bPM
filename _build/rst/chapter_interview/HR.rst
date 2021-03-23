@@ -138,6 +138,10 @@ Offer
 
 2021互联网校招薪资爆料：https://blog.nowcoder.net/n/2668a1d85a174bec94e1fea21dc01551
 
+.. figure:: ../img/salary_content.png
+
+   薪资结构与公司的成本\ `11 <http://www.woshipm.com/zhichang/807191.html>`__
+
 有什么需要我特别注意的部门吗？
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
