@@ -2,6 +2,11 @@
 移动端
 ======
 
+PC vs 移动端 `4 <http://www.woshipm.com/pd/289607.html>`__
+----------------------------------------------------------
+
+|PC vs 移动端 成本| |PC vs 移动端 用户| |PC vs 移动端 产品|
+
 小程序 `1 <https://www.zhihu.com/question/346774796/answer/1686950897s>`__
 --------------------------------------------------------------------------
 
@@ -34,3 +39,7 @@ Mobile，CoreML，MLKit，FritzAI等。ONNX可以作为中间层，再部署到�
 for Embeded。
 
 MindSpore Lite :https://juejin.cn/post/6939167928822530078
+
+.. |PC vs 移动端 成本| image:: ../img/PC_vs_moblie_cost.png
+.. |PC vs 移动端 用户| image:: ../img/PC_vs_mobile_users.png
+.. |PC vs 移动端 产品| image:: ../img/PC_vs_mobile_products.png

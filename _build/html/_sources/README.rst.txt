@@ -35,7 +35,9 @@ Docker里d2lbook2生成书
 
 人类幼儿园中班在读，超想读\ **超人类小学**\ ！人类都不过如此罢？
 
-跨级才是人才，在巨变的时代，几年经验都是扯淡！
+跨级才是人才，在巨变的时代，几年经验都是扯淡！见\ `25 岁网安 CEO 被判刑
+12 年，技术隔离后，顶尖黑客被 out
+了？ <https://www.infoq.cn/article/DtZRqGpYA1pfzsxtiD0C>`__
 
 简历：https://stevenjokess.github.io/2bPM/get_started.html
 

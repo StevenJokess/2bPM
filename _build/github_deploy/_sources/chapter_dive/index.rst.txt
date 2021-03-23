@@ -13,12 +13,6 @@ Dive
    zongshen
    expert
    qi_yuan
-   company_research
-   antgroup
-   alipay
-   dm-ai
-   jd
-   meituan
    code
    feature_engineering
    ML

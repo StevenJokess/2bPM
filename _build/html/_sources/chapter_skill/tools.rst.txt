@@ -6,6 +6,10 @@
 
 https://tangjie.me/blog/184.html
 
+.. figure:: ../img/skill_need_tools.png
+
+   工作所需的工具
+
 Project
 -------
 

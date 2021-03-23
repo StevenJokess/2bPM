@@ -14,6 +14,10 @@
 
 TODO:https://tangjie.me/blog/118.html
 
+.. figure:: ../img/design_a_new_feature.png
+
+   设计新功能\ `14 <http://www.woshipm.com/zhichang/4180017.html>`__
+
 设计模式 `9 <https://www.yinxiang.com/everhub/note/f9ab87ee-73e6-4241-9428-9507cbfd007f>`__
 -------------------------------------------------------------------------------------------
 

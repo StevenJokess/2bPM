@@ -20,6 +20,6 @@ Idea
    attention
    goal
    understand_tech
-   GTM
    design
+   GTM
    time

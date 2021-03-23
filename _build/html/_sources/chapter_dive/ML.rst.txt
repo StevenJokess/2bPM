@@ -120,6 +120,14 @@ learning的概念等等。\ `2 <http://www.uml.org.cn/DevProcess/201712283.asp>`
 不容错过的 20
 个机器学习与数据科学网站\ `11 <https://libertydream.github.io/2020/02/16/20%E4%B8%AA%E4%B8%8D%E5%AE%B9%E9%94%99%E8%BF%87%E7%9A%84AI%E8%B5%84%E6%BA%90/>`__
 
+-  Andreas Mueller
+   的这门免费的课程《应用机器学习》\ `16 <https://www.infoq.cn/article/IPDVRNxwJVsx3ZGrgwzW>`__\ （Applied
+   Machine Learning）。
+-  Coursera：《机器学习》\ `17 <https://www.coursera.org/learn/machine-learning?utm_source=gg&utm_medium=sem&utm_content=07-StanfordML-US&campaignid=685340575&adgroupid=32639001781&device=c&keyword=machine%20learning%20programming%20tutorial&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=243289762754&hide_mobile_promo&gclid=EAIaIQobChMIhY7m1Pfa6wIVtR6tBh0UCQAJEAAYASAAEgJcV_D_BwEhttps://www.coursera.org/learn/machine-learning?utm_source=gg&utm_medium=sem&utm_content=07-StanfordML-US&campaignid=685340575&adgroupid=32639001781&device=c&keyword=machine%20learning%20programming%20tutorial&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=243289762754&hide_mobile_promo&gclid=EAIaIQobChMIhY7m1Pfa6wIVtR6tBh0UCQAJEAAYASAAEgJcV_D_BwE>`__\ （Machine
+   Learning），吴恩达（Andrew Ng）。
+-  优达学城（Udacity）：机器学习工程纳米学位\ `18 <https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t>`__\ （Machine
+   Learning Engineering Nanodegree）。
+
 技术债务
 --------
 

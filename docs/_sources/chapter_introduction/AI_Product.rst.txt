@@ -55,6 +55,11 @@ AI 技术实际应用情况
 
    常见产品\ `17 <https://coffee.pmcaff.com/article/2258532879227008/pmcaff?utm_source=forum>`__
 
+应用领域
+~~~~~~~~
+
+http://www.woshipm.com/ai/4020213.html
+
 AI产品的趋势
 ------------
 
