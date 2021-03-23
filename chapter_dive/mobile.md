@@ -1,5 +1,11 @@
 # 移动端
 
+## PC vs 移动端 [4]
+
+![PC vs 移动端 成本](../img/PC_vs_moblie_cost.png)
+![PC vs 移动端 用户](../img/PC_vs_mobile_users.png)
+![PC vs 移动端 产品](../img/PC_vs_mobile_products.png)
+
 ## 小程序 [1]
 
 1、用户角度：1）不占内存：直接依附于微信存在，直接打开就可以使用，也不需要下载。2）即用即走：小程序现在有9个入口，无论从哪个入口进入，使用完毕以后都可以直接退出来，非常方便。
@@ -27,3 +33,4 @@ MindSpore Lite :https://juejin.cn/post/6939167928822530078
 [1]: https://www.zhihu.com/question/346774796/answer/1686950897s
 [2]: https://ai.baidu.com/forum/topic/show/492251
 [3]: https://zhuanlan.zhihu.com/p/218468169
+[4]: http://www.woshipm.com/pd/289607.html

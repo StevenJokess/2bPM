@@ -144,6 +144,7 @@ toB 公司产品要保证的是交付给客户的解决方案的结果和质量�
 业务方面：[18]
 
 - 工作的具体内容是什么，公司对这个岗位的定位是什么？（JD的文字一般都不多，何况还会有些包装的情况，所以了解清楚具体要做的工作内容非常重要，避免入职后才发现与预期不符）
+- 成为你心目中理想的产品经理候选人需要具备什么条件？
 - 产品去年的数据表现如何，如果是新产品，是谁牵着立项的，目前的进展如何了
 - 其他对业务好奇的问题
 
@@ -159,7 +160,7 @@ leader方面：
 - 管理风格以及对下属的期待
 - 历史成绩和择业原因
 - 其他对leader好奇的内容
-
+- 你觉得在这里做产品经理最有挑战性的是什么？[20]
 
 [1]: http://www.woshipm.com/zhichang/459131.html
 [2]: http://www.woshipm.com/zhichang/315041.html
@@ -180,3 +181,4 @@ leader方面：
 [17]: https://www.bilibili.com/video/BV1UK4y1f7kK?from=search&seid=11977543152973696126
 [18]: https://shimo.im/docs/vyCrK3rQQ6KC9Ryp/read
 [19]: https://zhuanlan.zhihu.com/p/87293782
+[20]: https://www.jianshu.com/p/09e7ae756bc6

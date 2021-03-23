@@ -99,6 +99,10 @@ https://mitpress.ublish.com/ereader/7093/?preview=#page/v
 
 不容错过的 20 个机器学习与数据科学网站[11]
 
+- Andreas Mueller 的这门免费的课程《应用机器学习》[16]（Applied Machine Learning）。
+- Coursera：《机器学习》[17]（Machine Learning），吴恩达（Andrew Ng）。
+- 优达学城（Udacity）：机器学习工程纳米学位[18]（Machine Learning Engineering Nanodegree）。
+
 ## 技术债务
 
 “技术债务”，指为了产品快速迭代，做了很多临时性的代码处理。但是在未来的某一天，这些遗留问题都会以BUG方式体现出来，导致付出更大的维护成本[14]
@@ -132,3 +136,6 @@ More[15]
 [13]: https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning?hl=zh-cn
 [14]: http://www.woshipm.com/pmd/3024508.html
 [15]: https://libertydream.github.io/2020/05/10/ML%E9%9A%90%E6%80%A7%E5%80%BA%E5%8A%A1/
+[16]: https://www.infoq.cn/article/IPDVRNxwJVsx3ZGrgwzW
+[17]: https://www.coursera.org/learn/machine-learning?utm_source=gg&utm_medium=sem&utm_content=07-StanfordML-US&campaignid=685340575&adgroupid=32639001781&device=c&keyword=machine%20learning%20programming%20tutorial&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=243289762754&hide_mobile_promo&gclid=EAIaIQobChMIhY7m1Pfa6wIVtR6tBh0UCQAJEAAYASAAEgJcV_D_BwEhttps://www.coursera.org/learn/machine-learning?utm_source=gg&utm_medium=sem&utm_content=07-StanfordML-US&campaignid=685340575&adgroupid=32639001781&device=c&keyword=machine%20learning%20programming%20tutorial&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=243289762754&hide_mobile_promo&gclid=EAIaIQobChMIhY7m1Pfa6wIVtR6tBh0UCQAJEAAYASAAEgJcV_D_BwE
+[18]: https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t

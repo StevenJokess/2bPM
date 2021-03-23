@@ -4,6 +4,8 @@
 
 https://tangjie.me/blog/184.html
 
+![工作所需的工具](../img/skill_need_tools.png)
+
 ## Project
 
 甘特图：https://support.microsoft.com/zh-cn/office/%E4%BD%BF%E7%94%A8%E7%94%98%E7%89%B9%E5%9B%BE%E8%A7%86%E5%9B%BE-0e84efa4-78ce-4cd1-baed-5159a55f78b4
@@ -64,3 +66,4 @@ Axure基础操作总结：https://blog.csdn.net/zcl050505/article/details/110439
 
 [1]: https://www.yinxiang.com/everhub/note/435c8b2c-9127-43f3-a6e3-fc5f8898d893
 [2]: https://www.bilibili.com/video/BV1WE411w7LW?from=search&seid=9895003283584993406
+[3]: http://www.woshipm.com/pmd/1642415.html

@@ -11,6 +11,8 @@
 
 TODO:https://tangjie.me/blog/118.html
 
+![设计新功能[14]](../img/design_a_new_feature.png)
+
 ## 设计模式 [9]
 
 模式思维源于《建筑模式语言》。模式，是指可以重复使用的方式和方法。
@@ -136,3 +138,4 @@ TODO:https://tangjie.me/blog/118.html
 [11]: http://www.woshipm.com/pmd/1774122.html
 [12]: https://tangjie.me/blog/171.html
 [13]: http://www.woshipm.com/ai/2296413.htmls
+[14]: http://www.woshipm.com/zhichang/4180017.html

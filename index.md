@@ -24,6 +24,8 @@
 
 ## AI产品经理专业体系
 
+没有实际经验，是断无可能获得产品/实验方面的知识的。这种观点，我坚决不认同。虽然我之前并没有任何产品或 A/B 测试的经验，但我相信，这些技能是可以通过阅读、倾听、思考和总结来获得。毕竟，这与我们在学校里接受教育的方式也一样不是？[9]
+
 将网络上杂乱的内容进行有效整理（互联网上充斥着各种资源，过滤出最优质的内容以飨自己。[7]），用逻辑（从框架到细节、前后顺序）搭建自己的AI产品经理专业体系 [1]
 
 好处：
@@ -76,6 +78,7 @@ chapter_experience/index
 chapter_project/index
 chapter_interview/index
 chapter_dive/index
+chapter_more/index
 
 ```
 
@@ -87,3 +90,4 @@ chapter_dive/index
 [6]: http://www.ramywu.com/work/2018/04/09/How-to-Learn-AI-PM-Tacit-Knowledge/
 [7]: https://www.zhihu.com/question/29342383/answer/44323650
 [8]: https://zhuanlan.zhihu.com/p/34673277
+[9]: https://www.infoq.cn/article/IPDVRNxwJVsx3ZGrgwzW
