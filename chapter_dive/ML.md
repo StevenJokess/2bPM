@@ -83,6 +83,11 @@
 
 ![Machine Learning Lifecycle[7]](../img/ML_lifecycle.png)
 
+## 指标
+
+- 准确率（P值）是针对我们预测结果而言的，它表示的是预测为正的样本中有多少是真正的正样本。
+- 召回率（R值）是针对我们原来的样本而言的，它表示的是样本中的正例有多少被预测正确了。
+
 ## 更多
 
 https://mitpress.ublish.com/ereader/7093/?preview=#page/v

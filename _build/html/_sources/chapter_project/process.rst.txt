@@ -120,9 +120,7 @@ AI PM 特殊点 `6 <http://www.changgpm.com/thread-253-1-1.html>`__
 业内较为常见的设计流程是CRISP-DM（Cross-Industry Standard Process for
 Data Mining，跨行业数据挖掘标准流程）
 
-.. figure:: ../img/CRISP-DM.png
-
-   CRISP-DM
+|CRISP-DM| |CRISP-DM 对应能力|
 
 在1996年的时候，SPSS，戴姆勒-克莱斯勒和NCR公司发起共同成立了一个兴趣小组，目的是为了建立数据挖掘方法和过程的标准。并在1999年正式提炼出了CRISP-DM流程。
 
@@ -345,3 +343,6 @@ pm需要与技术领导者(例如，技术领导者或首席科学家)建立合�
 ^^^^^^^^^^^^
 
 最后，不要忘了向项目的相关干系人发送一份最终的项目总结报告。
+
+.. |CRISP-DM| image:: ../img/CRISP-DM.png
+.. |CRISP-DM 对应能力| image:: ../img/CRISP-DM_ability.png

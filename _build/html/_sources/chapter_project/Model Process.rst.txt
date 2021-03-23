@@ -2,6 +2,13 @@
 模型过程
 ========
 
+整体框架
+--------
+
+.. figure:: ../img/ML_structure.png
+
+   整体框架
+
 生命周期 `1 <https://ucbrise.github.io/cs294-ai-sys-fa19/assets/lectures/lec03/03_ml-lifecycle.pdf>`__
 ------------------------------------------------------------------------------------------------------
 
@@ -58,12 +65,9 @@ Dynamic Features: features can often be modified faster than models：
 -  手动设置或使用交叉验证进行调整
 -  为什么不直接学习?
 
-.. _section-1:
-
 .. figure:: ../img/find_hyperparameter.png
 
    寻找超参
-
 
 Training Pipelines -> Code Trained Models -> Binaries
 
@@ -92,7 +96,7 @@ Training Pipelines -> Code Trained Models -> Binaries
 -  例如:更新用户的点击历史-》新预测
 -  比在线学习更健壮
 
-新的训练数据到达并改变损失面。 而不是从以前的解的随机权重开始重新开始
+新的训练数据到达并改变损失面。而不是从以前的解的随机权重开始重新开始
 
 反馈圈
 ~~~~~~
