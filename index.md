@@ -78,6 +78,7 @@ chapter_experience/index
 chapter_project/index
 chapter_interview/index
 chapter_dive/index
+chapter_company/index
 chapter_more/index
 
 ```
