@@ -101,6 +101,7 @@
 业内较为常见的设计流程是CRISP-DM（Cross-Industry Standard Process for Data Mining，跨行业数据挖掘标准流程）
 
 ![CRISP-DM](../img/CRISP-DM.png)
+![CRISP-DM 对应能力](../img/CRISP-DM_ability.png)
 
 在1996年的时候，SPSS，戴姆勒-克莱斯勒和NCR公司发起共同成立了一个兴趣小组，目的是为了建立数据挖掘方法和过程的标准。并在1999年正式提炼出了CRISP-DM流程。
 

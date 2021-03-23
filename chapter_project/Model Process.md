@@ -1,5 +1,9 @@
 # 模型过程
 
+## 整体框架
+
+![整体框架](../img/ML_structure.png)
+
 ## 生命周期 [1]
 
 ![模型的生命周期](../img/ML_Lifecycle.png)
@@ -53,8 +57,6 @@ Dynamic Features: features can often be modified faster than models：
 
 ![寻找超参](../img/find_hyperparameter.png)
 
-##
-
 
 
 ###
@@ -82,11 +84,7 @@ Trained Models -> Binaries
 - 例如:更新用户的点击历史-》新预测
 - 比在线学习更健壮
 
-
-新的训练数据到达并改变损失面。
-而不是从以前的解的随机权重开始重新开始
-
-
+新的训练数据到达并改变损失面。而不是从以前的解的随机权重开始重新开始
 
 
 ### 反馈圈
@@ -108,3 +106,4 @@ Solutions：
 
 
 [1]: https://ucbrise.github.io/cs294-ai-sys-fa19/assets/lectures/lec03/03_ml-lifecycle.pdf
+[2]: http://shujuren.club/a/AI0102.html

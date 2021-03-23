@@ -481,6 +481,8 @@ Serving Infrastructure: This includes tools for model development (such as the C
 
 ### 如何跟算法工程师沟通的
 
+![与算法工程师沟通[51]](../img/communicate2Engineer.png)
+
 - 比如在真实场景中用户投诉来对齐需求，并和算法工程师沟通产品的行业背景
 - 定义边界：为了达到客户预期，必须提高xx准确率的问题。
 
@@ -673,3 +675,4 @@ http://www.changgpm.com/
 [48]: https://www.deepshare.net/index.php?c=article&id=212
 [49]: https://radiant-brushlands-42789.herokuapp.com/towardsdatascience.com/three-questions-every-ml-product-manager-must-answer-35d73127cd5d
 [50]: http://www.woshipm.com/ai/3379253.html
+[51]: http://shujuren.club/a/AI0102.html

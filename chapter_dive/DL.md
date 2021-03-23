@@ -55,6 +55,18 @@ CNN优缺点：
 
 ![目标检测的历史脉络[5]](../img/obj_detect_history.png)
 
+## 关键问题 [8]
+
+- 网络结构问题
+- 特征表示问题
+- 海量数据标注问题
+- 数据升维降维问题
+- 反向传播优化问题
+- 损失函数设计问题
+- 过拟合问题
+- 泛化问题
+- 大规模训练性能问题
+
 ## 更多
 
 - 见我的repo：https://github.com/StevenJokess/d2l-en-read/tree/moreme
@@ -81,3 +93,4 @@ Tensorflow：
 [5]: https://coffee.pmcaff.com/article/1909387571608704/pmcaff?utm_source=forum&newwindow=1
 [6]: http://www.tensorfly.cn/
 [7]: https://www.infoq.cn/article/W2koiEheFZEEOv1rOu1d
+[8]: http://shujuren.club/a/AI0102.html

@@ -37,11 +37,15 @@ AI和数据可同为一个中台、AI平台可视为业务中台一部分、AI�
 
 需要对整个机器学习建模流程十分熟悉，比如数据处理、模型构建、特征工程、效果评估等。同时还要对工程化、大数据处理、算力资源管理等有一定了解。如果没有一定的机器学习背景是很难成为一名合格的AI平台产品经理。
 
+![AI平台的进化](../img/AI_platform_upgrade.png)
+
 ## AI中台
 
 对AI能力重视的公司会独立建设AI中台部门，做好对公司级的AI能力打磨建设好平台型的产品，梳理好对应的算法运营/数据运营，能快速承接业务。但是最担心的是中台部门不中台，急于出成绩，会独立外探业务，与业务部门形成竞争关系，最终其实还是烟囱式的发展模式，“形实不一致”，基础建设与业务发展会逐渐脱节。[4]
 
 https://medium.com/@unbug/how-to-build-an-ai-platform-2493d57c9e8
+
+要做一个AI中台，当我们的产品经理过AI中台的需求，上面的4行我们产品AI产品经理需要定义哪一行？需要说明哪一行？需要撰写的PRD文档又是哪一行？需要跨团队沟通的又是哪一行？[8]
 
 ## 用例
 
@@ -105,3 +109,4 @@ https://medium.com/@unbug/how-to-build-an-ai-platform-2493d57c9e8
 [5]: https://zhuanlan.zhihu.com/p/269732570
 [6]: https://cread.jd.com/read/startRead.action?bookId=30457741&readType=1
 [7]: http://reader.epubee.com/books/mobile/41/41f170eb06525e985bbddd6eae13589d/text00006.html
+[8]: https://www.shangyexinzhi.com/article/2251387.html
