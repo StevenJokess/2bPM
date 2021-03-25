@@ -52,6 +52,12 @@ https://www.flaticon.com/search?word=close
 
 ![制作完成](../img/page_done.png)
 
+## 交互设计图 —— 只做交互相关解释
+
+大部分公司都是没有交互设计师的岗位的，所以在这里介绍一下自己写交互设计文档的方法吧。交互设计文档主要是给前端和UI看的文档，所以文档的说明应不包含业务解释、规则说明相关的内容。可以借用需求文档的思路，还是先排版，页面分为“准高保证原型图”、“注释说明”、“交互”、“其他补充内容”。[3]
+
+“注释说明”应该包括：输入检测标准、缺省值、界面元素变化、显示上限等情景的说明。
+“交互”包括：提示弹框样式、功能实现方式、提示内容等响应用户物理操作的反馈画面。
 
 ## 更多
 
@@ -64,3 +70,4 @@ https://www.flaticon.com/search?word=close
 
 [1]: https://www.yinxiang.com/everhub/note/f9ab87ee-73e6-4241-9428-9507cbfd007f
 [2]: https://www.bilibili.com/video/BV1WE411w7LW?p=3
+[3]: http://www.woshipm.com/pmd/418829.html
