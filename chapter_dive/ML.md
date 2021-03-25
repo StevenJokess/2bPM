@@ -107,6 +107,8 @@ https://mitpress.ublish.com/ereader/7093/?preview=#page/v
 - Andreas Mueller 的这门免费的课程《应用机器学习》[16]（Applied Machine Learning）。
 - Coursera：《机器学习》[17]（Machine Learning），吴恩达（Andrew Ng）。
 - 优达学城（Udacity）：机器学习工程纳米学位[18]（Machine Learning Engineering Nanodegree）。
+- Google速成ML课程[19]
+
 
 ## 技术债务
 
@@ -144,3 +146,4 @@ More[15]
 [16]: https://www.infoq.cn/article/IPDVRNxwJVsx3ZGrgwzW
 [17]: https://www.coursera.org/learn/machine-learning?utm_source=gg&utm_medium=sem&utm_content=07-StanfordML-US&campaignid=685340575&adgroupid=32639001781&device=c&keyword=machine%20learning%20programming%20tutorial&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=243289762754&hide_mobile_promo&gclid=EAIaIQobChMIhY7m1Pfa6wIVtR6tBh0UCQAJEAAYASAAEgJcV_D_BwEhttps://www.coursera.org/learn/machine-learning?utm_source=gg&utm_medium=sem&utm_content=07-StanfordML-US&campaignid=685340575&adgroupid=32639001781&device=c&keyword=machine%20learning%20programming%20tutorial&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=243289762754&hide_mobile_promo&gclid=EAIaIQobChMIhY7m1Pfa6wIVtR6tBh0UCQAJEAAYASAAEgJcV_D_BwE
 [18]: https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t
+[19]: https://developers.google.com/machine-learning/crash-course/static-vs-dynamic-training/video-lecture?hl=zh-cn#:~:text=%E4%BB%8E%E5%B9%BF%E4%B9%89%E4%B8%8A%E8%AE%B2%EF%BC%8C%E8%AE%AD%E7%BB%83,%E6%A8%A1%E5%9E%8B%E9%87%87%E7%94%A8%E5%9C%A8%E7%BA%BF%E8%AE%AD%E7%BB%83%E6%96%B9%E5%BC%8F%E3%80%82

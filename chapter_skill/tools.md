@@ -19,6 +19,8 @@ https://www.iamxiarui.com/?p=1231
 
 ## Axure [1]
 
+Axure 9.0不用？[4] 口碑差，实际上都用8.0、8.1
+
 **Axure实战**见 https://github.com/StevenJokess/2bPM/blob/master/rsc/meituan_PM_recovered.rp
 
 - 流程图实战:ref:`flow_chart_Axure`
@@ -32,6 +34,8 @@ https://www.iamxiarui.com/?p=1231
 - AxureShop：https://www.axureshop.com/
 - https://axhub.im/
 - AXURE8 原型绘制效率工具：https://coffee.pmcaff.com/article/2111722865562752/pmcaff?utm_source=forum&newwindow=1
+- AXURE8 教学（从8到9，布局快捷键大变，更不方便，一步交互变四步，多目标藏+好里，很多bug）：https://www.bilibili.com/video/BV1bt41137MY
+- AXURE8：http://www.woshipm.com/xiazai/188927.html
 
 ### 简介
 
@@ -67,3 +71,4 @@ Axure基础操作总结：https://blog.csdn.net/zcl050505/article/details/110439
 [1]: https://www.yinxiang.com/everhub/note/435c8b2c-9127-43f3-a6e3-fc5f8898d893
 [2]: https://www.bilibili.com/video/BV1WE411w7LW?from=search&seid=9895003283584993406
 [3]: http://www.woshipm.com/pmd/1642415.html
+[4]: https://www.bilibili.com/video/BV1it41137Xg?p=2
