@@ -67,6 +67,9 @@ Tower、禅道、tapd等团队协同工具，会导致一部分人习惯把产�
 
 Axure基础操作总结：https://blog.csdn.net/zcl050505/article/details/110439551
 
+## 眼界
+
+- 快懂百科：https://www.baike.com/
 
 [1]: https://www.yinxiang.com/everhub/note/435c8b2c-9127-43f3-a6e3-fc5f8898d893
 [2]: https://www.bilibili.com/video/BV1WE411w7LW?from=search&seid=9895003283584993406

@@ -11,5 +11,5 @@ alipay
 dm-ai
 jd
 meituan
-msxiaoice
+xiaoice
 ```

@@ -53,3 +53,8 @@ https://www.jddglobal.com/products/machine-learn
    NeuFoundry平台架构图
 
 NeuFoundry基础设施层采用Docker容器进行算力资源的池化，通过Kubernetes进行整体的资源管理、资源分配、任务运行、状态监控等，平台集成了MySQL、Redis、MQ等多种中间件服务，通过数据标注、模型训练、模型发布，生成自定义的AI能力，为各行各业的业务服务提供有力的支撑。\ `7 <http://www.woshipm.com/ai/3320134.html>`__
+
+近况
+----
+
+2021年1月，京东金融平台宣布已经下架了所有银行存款产品，2020年12月，支付宝、京东金融、滴滴金融等互联网金融平台先后下架对新用户的互联网存款产品。2021年1月，应监管要求，老客户也无法购买互联网平台的存款产品了，产品做了下架处理。\ `8 <https://www.baike.com/wikiid/5026927798799303826?prd=mobile&view_id=whwnnpeel3400>`__

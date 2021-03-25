@@ -261,6 +261,7 @@ https://daxueconsulting.com/category/artificial-intelligence-industry-in-china/
 https://www.ulapia.com/reports/search?query=AI
 https://www.iyiou.com/search?p=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD
 https://emerj.com/ai-executive-guides/
+IT桔子的工智能创投数据厍：https://www.itjuzi.com/ai
 
 .. |2020 AI| image:: ../img/2020_AI.png
 .. |iresearch_AI| image:: ../img/iresearch_AI.png

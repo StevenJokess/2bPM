@@ -232,8 +232,10 @@ Show Source
 <li class="toctree-l2"><a class="reference internal" href="../chapter_company/company_research.html">8.1. 公司研究</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../chapter_company/antgroup.html">8.2. 蚂蚁集团</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../chapter_company/alipay.html">8.3. 支付宝</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../chapter_company/jd.html">8.4. 京东</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../chapter_company/meituan.html">8.5. 美团</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_company/dm-ai.html">8.4. 暗物智能</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_company/jd.html">8.5. 京东</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_company/meituan.html">8.6. 美团</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_company/xiaoice.html">8.7. 红棉小冰</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="../chapter_more/index.html">9. more</a><ul>
@@ -407,8 +409,10 @@ Show Source
 <li class="toctree-l2"><a class="reference internal" href="../chapter_company/company_research.html">8.1. 公司研究</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../chapter_company/antgroup.html">8.2. 蚂蚁集团</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../chapter_company/alipay.html">8.3. 支付宝</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../chapter_company/jd.html">8.4. 京东</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../chapter_company/meituan.html">8.5. 美团</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_company/dm-ai.html">8.4. 暗物智能</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_company/jd.html">8.5. 京东</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_company/meituan.html">8.6. 美团</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_company/xiaoice.html">8.7. 红棉小冰</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="../chapter_more/index.html">9. more</a><ul>
@@ -438,10 +442,22 @@ Show Source
 </ol>
 </div>
 <div class="section" id="id2">
-<h2><span class="section-number">1.9.2. </span>形态<a class="headerlink" href="#id2" title="Permalink to this headline">¶</a></h2>
+<h2><span class="section-number">1.9.2. </span>AI产品与传统产品的区别：<a class="headerlink" href="#id2" title="Permalink to this headline">¶</a></h2>
+<ol class="arabic simple">
+<li><p>AI产品诞生的市场背景是甚至一个垂直的细分领域均有一个APP产品的市场环境，这个时候需要AI产品做到比原来的产品好上10倍的体验或者比原来的产品快10倍以上才能赢得市场的环境。</p></li>
+<li><p>在做纯APP的时候是不需要考虑供应链的，但是由于广义范畴上的AI产品是<strong>从数据获取到数据分析再到数据应用上，少不了硬件等外设</strong>的采用，例如：用深度摄像头采集更多的数据，采用NB-IoT采集人和物体的行为数据，均需要硬件的融合。AI产品是更加考验产品经理综合素质的，除了设计管理好传统的软件上下游之外，还融入了供应链产业的深挖，例如：当你的摄像头与AI主体硬件产品出现BUG的时候，你需要联系的事摄像头生产厂商，而不像APP时代仅仅需要再成熟的手机上研发即可，这个时候需要产品调动的是摄像头整个研发甚至一个工厂来配合你。</p></li>
+<li><p>需求的变化有：</p></li>
+</ol>
+<ul class="simple">
+<li><p>例如：新零售，用户需要货来匹配人，这里需要LBS和更多智能传感器的数据来服务人。</p></li>
+<li><p>例如：线下商铺原来是不知道哪个用户来逛街，哪个潜在消费者在哪个商品前停留的更久，节假日购买热销商铺结账需要排队等等需求正好使得AI产品得以展身手的时刻。</p></li>
+</ul>
+</div>
+<div class="section" id="id3">
+<h2><span class="section-number">1.9.3. </span>形态<a class="headerlink" href="#id3" title="Permalink to this headline">¶</a></h2>
 <p>AI产品需要打破传统GUI的局限，AI产品对外提供的产品形态不仅可以包括前后端GUI的完整系统，还可以是<strong>API接口和SDK的形式</strong>；</p>
 <div class="section" id="apisdk">
-<h3><span class="section-number">1.9.2.1. </span>API、SDK类<a class="headerlink" href="#apisdk" title="Permalink to this headline">¶</a></h3>
+<h3><span class="section-number">1.9.3.1. </span>API、SDK类<a class="headerlink" href="#apisdk" title="Permalink to this headline">¶</a></h3>
 <p>在之前的文章《如何做一款SDK产品》中对SDK产品做了些简单描述，本文从API的形式去描述，产品需求文档中需要包括接口的输入、输出、算法准确率、误检率、漏检率、接口耗时性能和算法约束规则。</p>
 <p>以图片识别为例，产品需要定义好的核心字段包括：</p>
 <ul class="simple">
@@ -452,39 +468,39 @@ Show Source
 </ul>
 </div>
 <div class="section" id="gui">
-<h3><span class="section-number">1.9.2.2. </span>GUI类<a class="headerlink" href="#gui" title="Permalink to this headline">¶</a></h3>
+<h3><span class="section-number">1.9.3.2. </span>GUI类<a class="headerlink" href="#gui" title="Permalink to this headline">¶</a></h3>
 <p>如果是GUI类的形态，产品重点关注的应该是<strong>产品原型</strong>如何设计，用户体验，用户使用流程等，这个与传统的产品设计并没有什么区别，只需要将算法需求单独拆分给算法小伙伴。同时约定好算法的规则即可，所谓的算法规则即接受在当前的算法能力下对用户使用上的约束规则，比如要求用户上传的文件格式、命名有什么要求，算法返回给用户的识别结果有什么限制。</p>
 <p>作为产品其实很无奈，原则上应该以用户为中心挖掘用户最自然的用户习惯，但是在AI技术不成熟的情况下，需要牺牲些用户体验。</p>
 </div>
 <div class="section" id="ui">
-<h3><span class="section-number">1.9.2.3. </span>对话式UI<a class="headerlink" href="#ui" title="Permalink to this headline">¶</a></h3>
+<h3><span class="section-number">1.9.3.3. </span>对话式UI<a class="headerlink" href="#ui" title="Permalink to this headline">¶</a></h3>
 <p>GUI的复杂性体现在功能越多，菜单层级越多，交互的控件也越来越复杂，对于用户的学习成本是非常高的。导航与层级是GUI结构所决定的，这一点与对话式UI完全不同，对话式UI通过机器学习之后，可以无限地消灭层级关系，这样可以减少用户操作路径，直达目标。<a class="reference external" href="http://www.woshipm.com/it/581011.html">18</a></p>
 </div>
 </div>
-<div class="section" id="id3">
-<h2><span class="section-number">1.9.3. </span>AI 技术实际应用情况<a class="headerlink" href="#id3" title="Permalink to this headline">¶</a></h2>
-<div class="figure align-default" id="id16">
+<div class="section" id="id4">
+<h2><span class="section-number">1.9.4. </span>AI 技术实际应用情况<a class="headerlink" href="#id4" title="Permalink to this headline">¶</a></h2>
+<div class="figure align-default" id="id17">
 <img alt="../_images/AI_use.jpg" src="../_images/AI_use.jpg" />
 <p class="caption"><span class="caption-number">Fig. 1.9.1 </span><span class="caption-text">2018年AI
-技术实际应用情况<a class="reference external" href="https://zhuanlan.zhihu.com/p/37333774">9</a></span><a class="headerlink" href="#id16" title="Permalink to this image">¶</a></p>
+技术实际应用情况<a class="reference external" href="https://zhuanlan.zhihu.com/p/37333774">9</a></span><a class="headerlink" href="#id17" title="Permalink to this image">¶</a></p>
 </div>
-</div>
-<div class="section" id="id4">
-<h2><span class="section-number">1.9.4. </span>常见产品<a class="headerlink" href="#id4" title="Permalink to this headline">¶</a></h2>
-<div class="figure align-default" id="id17">
-<img alt="../_images/AI_product_often.png" src="../_images/AI_product_often.png" />
-<p class="caption"><span class="caption-number">Fig. 1.9.2 </span><span class="caption-text">常见产品<a class="reference external" href="https://coffee.pmcaff.com/article/2258532879227008/pmcaff?utm_source=forum">17</a></span><a class="headerlink" href="#id17" title="Permalink to this image">¶</a></p>
 </div>
 <div class="section" id="id5">
-<h3><span class="section-number">1.9.4.1. </span>应用领域<a class="headerlink" href="#id5" title="Permalink to this headline">¶</a></h3>
+<h2><span class="section-number">1.9.5. </span>常见产品<a class="headerlink" href="#id5" title="Permalink to this headline">¶</a></h2>
+<div class="figure align-default" id="id18">
+<img alt="../_images/AI_product_often.png" src="../_images/AI_product_often.png" />
+<p class="caption"><span class="caption-number">Fig. 1.9.2 </span><span class="caption-text">常见产品<a class="reference external" href="https://coffee.pmcaff.com/article/2258532879227008/pmcaff?utm_source=forum">17</a></span><a class="headerlink" href="#id18" title="Permalink to this image">¶</a></p>
+</div>
+<div class="section" id="id6">
+<h3><span class="section-number">1.9.5.1. </span>应用领域<a class="headerlink" href="#id6" title="Permalink to this headline">¶</a></h3>
 <p><a class="reference external" href="http://www.woshipm.com/ai/4020213.html">http://www.woshipm.com/ai/4020213.html</a></p>
 </div>
 </div>
-<div class="section" id="id6">
-<h2><span class="section-number">1.9.5. </span>AI产品的趋势<a class="headerlink" href="#id6" title="Permalink to this headline">¶</a></h2>
-<div class="figure align-default" id="id18">
+<div class="section" id="id7">
+<h2><span class="section-number">1.9.6. </span>AI产品的趋势<a class="headerlink" href="#id7" title="Permalink to this headline">¶</a></h2>
+<div class="figure align-default" id="id19">
 <img alt="../_images/AI_product_trend.jpg" src="../_images/AI_product_trend.jpg" />
-<p class="caption"><span class="caption-number">Fig. 1.9.3 </span><span class="caption-text">AI产品的趋势<a class="reference external" href="http://www.xmamiga.com/3573/">7</a></span><a class="headerlink" href="#id18" title="Permalink to this image">¶</a></p>
+<p class="caption"><span class="caption-number">Fig. 1.9.3 </span><span class="caption-text">AI产品的趋势<a class="reference external" href="http://www.xmamiga.com/3573/">7</a></span><a class="headerlink" href="#id19" title="Permalink to this image">¶</a></p>
 </div>
 <ul class="simple">
 <li><p>产品逻辑化简为繁，用户学习成本降低（PM :
@@ -498,48 +514,48 @@ Show Source
 </ul>
 </div>
 <div class="section" id="ai-2">
-<h2><span class="section-number">1.9.6. </span>AI产品价值 <a class="reference external" href="http://www.woshipm.com/pmd/3657472.html">2</a><a class="headerlink" href="#ai-2" title="Permalink to this headline">¶</a></h2>
+<h2><span class="section-number">1.9.7. </span>AI产品价值 <a class="reference external" href="http://www.woshipm.com/pmd/3657472.html">2</a><a class="headerlink" href="#ai-2" title="Permalink to this headline">¶</a></h2>
 <p>首先为了验证产品是否对业务产生了价值，用一个粗略的公式表示AI产品的业务价值，其次是为了分析产品的哪些品功能存在优化空间，最后还可以驱动业务决策</p>
 <p>AI产品价值=（提高的时效*时效成本+GMV提升）-（AI硬件资源成本+研发成本）</p>
 </div>
-<div class="section" id="id7">
-<h2><span class="section-number">1.9.7. </span>关注产品<a class="headerlink" href="#id7" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="id8">
+<h2><span class="section-number">1.9.8. </span>关注产品<a class="headerlink" href="#id8" title="Permalink to this headline">¶</a></h2>
 <p>简单地说你使用了机器学习并不足以让你从其他科技产品中脱颖而出;他们也在使用它。让你从竞争对手中脱颖而出的是你如何使用这些数据。
 <a class="reference external" href="https://www.appcues.com/blog/product-managers-and-artificial-intelligence">10</a></p>
-<div class="section" id="id8">
-<h3><span class="section-number">1.9.7.1. </span>辅助视障人士的天使眼智能眼镜<a class="headerlink" href="#id8" title="Permalink to this headline">¶</a></h3>
+<div class="section" id="id9">
+<h3><span class="section-number">1.9.8.1. </span>辅助视障人士的天使眼智能眼镜<a class="headerlink" href="#id9" title="Permalink to this headline">¶</a></h3>
 <p>世界上首款辅助视障人士感知世界和出行的智能眼镜。最为重要的功能就是，通过人工智能的图像识别技术识别出使用者环境中的信息，并转化为听觉信号。
 <a class="reference external" href="http://www.woshipm.com/ai/967258.html">4</a></p>
 </div>
 </div>
-<div class="section" id="id9">
-<h2><span class="section-number">1.9.8. </span>管理AI产品<a class="headerlink" href="#id9" title="Permalink to this headline">¶</a></h2>
-<div class="figure align-default" id="id19">
-<img alt="../_images/REL.png" src="../_images/REL.png" />
-<p class="caption"><span class="caption-number">Fig. 1.9.4 </span><span class="caption-text">REL</span><a class="headerlink" href="#id19" title="Permalink to this image">¶</a></p>
-</div>
-</div>
 <div class="section" id="id10">
-<h2><span class="section-number">1.9.9. </span>AI 蓝图<a class="headerlink" href="#id10" title="Permalink to this headline">¶</a></h2>
+<h2><span class="section-number">1.9.9. </span>管理AI产品<a class="headerlink" href="#id10" title="Permalink to this headline">¶</a></h2>
 <div class="figure align-default" id="id20">
-<img alt="../_images/AI_blueprint.jpg" src="../_images/AI_blueprint.jpg" />
-<p class="caption"><span class="caption-number">Fig. 1.9.5 </span><span class="caption-text">AI
-蓝图<a class="reference external" href="https://www.slideshare.net/Happy.Prototyper/mix2018ai-ai-vp">13</a></span><a class="headerlink" href="#id20" title="Permalink to this image">¶</a></p>
+<img alt="../_images/REL.png" src="../_images/REL.png" />
+<p class="caption"><span class="caption-number">Fig. 1.9.4 </span><span class="caption-text">REL</span><a class="headerlink" href="#id20" title="Permalink to this image">¶</a></p>
 </div>
 </div>
 <div class="section" id="id11">
-<h2><span class="section-number">1.9.10. </span>AI 专利<a class="headerlink" href="#id11" title="Permalink to this headline">¶</a></h2>
-<p><a class="reference external" href="https://www.darts-ip.com/de/2019%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E8%B6%8B%E5%8A%BF/">https://www.darts-ip.com/de/2019%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E8%B6%8B%E5%8A%BF/</a></p>
+<h2><span class="section-number">1.9.10. </span>AI 蓝图<a class="headerlink" href="#id11" title="Permalink to this headline">¶</a></h2>
+<div class="figure align-default" id="id21">
+<img alt="../_images/AI_blueprint.jpg" src="../_images/AI_blueprint.jpg" />
+<p class="caption"><span class="caption-number">Fig. 1.9.5 </span><span class="caption-text">AI
+蓝图<a class="reference external" href="https://www.slideshare.net/Happy.Prototyper/mix2018ai-ai-vp">13</a></span><a class="headerlink" href="#id21" title="Permalink to this image">¶</a></p>
+</div>
 </div>
 <div class="section" id="id12">
-<h2><span class="section-number">1.9.11. </span>AI能力与场景的匹配<a class="headerlink" href="#id12" title="Permalink to this headline">¶</a></h2>
-<div class="figure align-default" id="id21">
-<img alt="../_images/AI_scene.png" src="../_images/AI_scene.png" />
-<p class="caption"><span class="caption-number">Fig. 1.9.6 </span><span class="caption-text">AI能力与场景的匹配</span><a class="headerlink" href="#id21" title="Permalink to this image">¶</a></p>
+<h2><span class="section-number">1.9.11. </span>AI 专利<a class="headerlink" href="#id12" title="Permalink to this headline">¶</a></h2>
+<p><a class="reference external" href="https://www.darts-ip.com/de/2019%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E8%B6%8B%E5%8A%BF/">https://www.darts-ip.com/de/2019%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E8%B6%8B%E5%8A%BF/</a></p>
 </div>
+<div class="section" id="id13">
+<h2><span class="section-number">1.9.12. </span>AI能力与场景的匹配<a class="headerlink" href="#id13" title="Permalink to this headline">¶</a></h2>
 <div class="figure align-default" id="id22">
+<img alt="../_images/AI_scene.png" src="../_images/AI_scene.png" />
+<p class="caption"><span class="caption-number">Fig. 1.9.6 </span><span class="caption-text">AI能力与场景的匹配</span><a class="headerlink" href="#id22" title="Permalink to this image">¶</a></p>
+</div>
+<div class="figure align-default" id="id23">
 <img alt="../_images/AI_solve.png" src="../_images/AI_solve.png" />
-<p class="caption"><span class="caption-number">Fig. 1.9.7 </span><span class="caption-text">解决到什么程度</span><a class="headerlink" href="#id22" title="Permalink to this image">¶</a></p>
+<p class="caption"><span class="caption-number">Fig. 1.9.7 </span><span class="caption-text">解决到什么程度</span><a class="headerlink" href="#id23" title="Permalink to this image">¶</a></p>
 </div>
 <p>场景需求被解决到什么程度才正好？可以从三个方面进行展开：适度匹配，SOTA极限，团队资源。</p>
 <ul class="simple">
@@ -549,15 +565,15 @@ Show Source
 <li><p>如果最合适的算法恰好没有放出实现资源，而团队人力和时间又不足，则只能在放出过实现资源的算法里面找相对合适的，相应的解决程度也会受限。如果<strong>团队资源充足</strong>，就有机会通过paper进行算法复现，将需求解决得更好。</p></li>
 </ul>
 </div>
-<div class="section" id="id13">
-<h2><span class="section-number">1.9.12. </span>AI产品研发生命周期<a class="headerlink" href="#id13" title="Permalink to this headline">¶</a></h2>
-<div class="figure align-default" id="id23">
-<img alt="../_images/AI_product_life.jpg" src="../_images/AI_product_life.jpg" />
-<p class="caption"><span class="caption-number">Fig. 1.9.8 </span><span class="caption-text">AI产品研发生命周期<a class="reference external" href="http://www.uml.org.cn/ai/201912183.asp">14</a></span><a class="headerlink" href="#id23" title="Permalink to this image">¶</a></p>
-</div>
-</div>
 <div class="section" id="id14">
-<h2><span class="section-number">1.9.13. </span>造成人工智能产品设计失败的常见原因<a class="headerlink" href="#id14" title="Permalink to this headline">¶</a></h2>
+<h2><span class="section-number">1.9.13. </span>AI产品研发生命周期<a class="headerlink" href="#id14" title="Permalink to this headline">¶</a></h2>
+<div class="figure align-default" id="id24">
+<img alt="../_images/AI_product_life.jpg" src="../_images/AI_product_life.jpg" />
+<p class="caption"><span class="caption-number">Fig. 1.9.8 </span><span class="caption-text">AI产品研发生命周期<a class="reference external" href="http://www.uml.org.cn/ai/201912183.asp">14</a></span><a class="headerlink" href="#id24" title="Permalink to this image">¶</a></p>
+</div>
+</div>
+<div class="section" id="id15">
+<h2><span class="section-number">1.9.14. </span>造成人工智能产品设计失败的常见原因<a class="headerlink" href="#id15" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
 <li><p>技术可行性：基于数据统计学习构建的模型，在实际使用中有很多限制。</p></li>
 <li><p>组织变革：在技术和产品层面外，对于流程，组织都有一定要求，执行推进难度较大。<a class="reference external" href="https://zhuanlan.zhihu.com/p/218468169">16</a></p></li>
@@ -567,8 +583,8 @@ Show Source
 <li><p>一味追求技术，忽略用户体验。 <a class="reference external" href="http://www.xmamiga.com/3573/">12</a></p></li>
 </ul>
 </div>
-<div class="section" id="id15">
-<h2><span class="section-number">1.9.14. </span>核心价值<a class="headerlink" href="#id15" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="id16">
+<h2><span class="section-number">1.9.15. </span>核心价值<a class="headerlink" href="#id16" title="Permalink to this headline">¶</a></h2>
 <p>企业的核心价值，特别是工业ML产品，如预测性维护软件，往往来自其预测的功能性能(如准确性)。<a class="reference external" href="https://radiant-brushlands-42789.herokuapp.com/towardsdatascience.com/how-to-manage-machine-learning-products-part-1-386e7011258a">15</a></p>
 </div>
 </div>
@@ -584,30 +600,31 @@ Show Source
     <ul>
 <li><a class="reference internal" href="#">1.9. AI 产品</a><ul>
 <li><a class="reference internal" href="#id1">1.9.1. 定义 6</a></li>
-<li><a class="reference internal" href="#id2">1.9.2. 形态</a><ul>
-<li><a class="reference internal" href="#apisdk">1.9.2.1. API、SDK类</a></li>
-<li><a class="reference internal" href="#gui">1.9.2.2. GUI类</a></li>
-<li><a class="reference internal" href="#ui">1.9.2.3. 对话式UI</a></li>
+<li><a class="reference internal" href="#id2">1.9.2. AI产品与传统产品的区别：</a></li>
+<li><a class="reference internal" href="#id3">1.9.3. 形态</a><ul>
+<li><a class="reference internal" href="#apisdk">1.9.3.1. API、SDK类</a></li>
+<li><a class="reference internal" href="#gui">1.9.3.2. GUI类</a></li>
+<li><a class="reference internal" href="#ui">1.9.3.3. 对话式UI</a></li>
 </ul>
 </li>
-<li><a class="reference internal" href="#id3">1.9.3. AI 技术实际应用情况</a></li>
-<li><a class="reference internal" href="#id4">1.9.4. 常见产品</a><ul>
-<li><a class="reference internal" href="#id5">1.9.4.1. 应用领域</a></li>
+<li><a class="reference internal" href="#id4">1.9.4. AI 技术实际应用情况</a></li>
+<li><a class="reference internal" href="#id5">1.9.5. 常见产品</a><ul>
+<li><a class="reference internal" href="#id6">1.9.5.1. 应用领域</a></li>
 </ul>
 </li>
-<li><a class="reference internal" href="#id6">1.9.5. AI产品的趋势</a></li>
-<li><a class="reference internal" href="#ai-2">1.9.6. AI产品价值 2</a></li>
-<li><a class="reference internal" href="#id7">1.9.7. 关注产品</a><ul>
-<li><a class="reference internal" href="#id8">1.9.7.1. 辅助视障人士的天使眼智能眼镜</a></li>
+<li><a class="reference internal" href="#id7">1.9.6. AI产品的趋势</a></li>
+<li><a class="reference internal" href="#ai-2">1.9.7. AI产品价值 2</a></li>
+<li><a class="reference internal" href="#id8">1.9.8. 关注产品</a><ul>
+<li><a class="reference internal" href="#id9">1.9.8.1. 辅助视障人士的天使眼智能眼镜</a></li>
 </ul>
 </li>
-<li><a class="reference internal" href="#id9">1.9.8. 管理AI产品</a></li>
-<li><a class="reference internal" href="#id10">1.9.9. AI 蓝图</a></li>
-<li><a class="reference internal" href="#id11">1.9.10. AI 专利</a></li>
-<li><a class="reference internal" href="#id12">1.9.11. AI能力与场景的匹配</a></li>
-<li><a class="reference internal" href="#id13">1.9.12. AI产品研发生命周期</a></li>
-<li><a class="reference internal" href="#id14">1.9.13. 造成人工智能产品设计失败的常见原因</a></li>
-<li><a class="reference internal" href="#id15">1.9.14. 核心价值</a></li>
+<li><a class="reference internal" href="#id10">1.9.9. 管理AI产品</a></li>
+<li><a class="reference internal" href="#id11">1.9.10. AI 蓝图</a></li>
+<li><a class="reference internal" href="#id12">1.9.11. AI 专利</a></li>
+<li><a class="reference internal" href="#id13">1.9.12. AI能力与场景的匹配</a></li>
+<li><a class="reference internal" href="#id14">1.9.13. AI产品研发生命周期</a></li>
+<li><a class="reference internal" href="#id15">1.9.14. 造成人工智能产品设计失败的常见原因</a></li>
+<li><a class="reference internal" href="#id16">1.9.15. 核心价值</a></li>
 </ul>
 </li>
 </ul>

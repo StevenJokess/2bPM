@@ -16,3 +16,4 @@ Company
    dm-ai
    jd
    meituan
+   xiaoice

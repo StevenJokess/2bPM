@@ -65,6 +65,11 @@ https://www.zhihu.com/market/paid_column/1251475507390050304/section/12514755136
 -  融资： 融资有多少轮，目前融了多少资
 -  知名度
 
+排行榜
+------
+
+2018年中国企业人工智能技术发明专利排行榜（TOP100）：https://www.douban.com/note/709381421/?from=author
+
 BAT的机会
 ---------
 

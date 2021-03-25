@@ -109,7 +109,6 @@ https://mitpress.ublish.com/ereader/7093/?preview=#page/v
 - 优达学城（Udacity）：机器学习工程纳米学位[18]（Machine Learning Engineering Nanodegree）。
 - Google速成ML课程[19]
 
-
 ## 技术债务
 
 “技术债务”，指为了产品快速迭代，做了很多临时性的代码处理。但是在未来的某一天，这些遗留问题都会以BUG方式体现出来，导致付出更大的维护成本[14]
