@@ -133,6 +133,7 @@ learning的概念等等。\ `2 <http://www.uml.org.cn/DevProcess/201712283.asp>`
    Learning），吴恩达（Andrew Ng）。
 -  优达学城（Udacity）：机器学习工程纳米学位\ `18 <https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t>`__\ （Machine
    Learning Engineering Nanodegree）。
+-  Google速成ML课程\ `19 <https://developers.google.com/machine-learning/crash-course/static-vs-dynamic-training/video-lecture?hl=zh-cn#:~:text=%E4%BB%8E%E5%B9%BF%E4%B9%89%E4%B8%8A%E8%AE%B2%EF%BC%8C%E8%AE%AD%E7%BB%83,%E6%A8%A1%E5%9E%8B%E9%87%87%E7%94%A8%E5%9C%A8%E7%BA%BF%E8%AE%AD%E7%BB%83%E6%96%B9%E5%BC%8F%E3%80%82>`__
 
 技术债务
 --------

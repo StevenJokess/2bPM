@@ -80,6 +80,12 @@
 - 中期:关注范围广、有一定的灵活性的功能
 - 远期:顶层设计、宽泛的范围、更加灵活的功能
 
+## 原型发布和导出 [9]
+
+- 原型发布时选择生成HTML文件，在相应的文件夹中，点击start.html就可以通过浏览器打开发布的文件（在线太慢，一般建议导出使用）
+- 原型导出时，也可以将所有相关页面导出为PNG图片
+- 给前端提供原型时，最好分别提供HTML文件和PNG图片
+
 ## 验证（Validate） [4]
 
 验证产品原型
@@ -103,3 +109,4 @@ Axure文件的后缀名RP（Rapid Prototyping）指快速原型
 [6]: https://www.jianshu.com/nb/9076183
 [7]: https://www.bilibili.com/video/BV1Yx411f7d6?from=search&seid=9942601070785163162
 [8]: https://tangjie.me/blog/114.html
+[9]: https://zhuanlan.zhihu.com/p/56954145

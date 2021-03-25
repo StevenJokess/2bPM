@@ -6,6 +6,8 @@
 
 官网：http://www.msxiaoice.com/
 
+人员：https://www.linkedin.com/company/%E5%8C%97%E4%BA%AC%E7%BA%A2%E6%A3%89%E5%B0%8F%E5%86%B0%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/people/
+
 ## 职位 [3]
 
 职位诱惑：
@@ -48,6 +50,7 @@
 - 注册必须要密码，而登录却可以只靠验证码
 - 没有更改手机
 - 注册界面 [6]：© 2020 Microsoft
+- 是否可以从金融专业的翻译入手[7]
 
 [1]: https://www.linkedin.com/company/%E5%8C%97%E4%BA%AC%E7%BA%A2%E6%A3%89%E5%B0%8F%E5%86%B0%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/about/
 [2]: https://www.msxiaoice.com/User/FAQ
@@ -55,3 +58,4 @@
 [4]: http://www.msxiaoice.com/
 [5]: https://my.xiaoice.com/
 [6]: https://my.xiaoice.com/Login
+[7]: https://www.yuque.com/linyecx/abusg2/oq8546
