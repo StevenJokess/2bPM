@@ -99,6 +99,8 @@ PRD是产品汪思考后的产品方案呈现载体，主要用于需求开发�
 
 Example: http://www.woshipm.com/pd/4167090.html
 
+TODO：芒果金融APP PRD：https://t.qidianla.com/1156795.html
+
 #### 文档介绍 [6]
 
 版本控制是管理需求的一个重要方面，而作为每一个公布的需求文档的版本有着两个重要的部分：一是关于版本状态；二是修订历史。

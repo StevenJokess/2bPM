@@ -247,6 +247,7 @@ https://www.zhihu.com/org/mei-tuan-dian-ping-ji-shu-tuan-dui/posts
 - 美团外卖App产品体验报告[11]
 - 美团外卖产品分析报告[10]
 
+美团系投资版图：https://www.itjuzi.com/meituan
 
 [1]: https://www.yicai.com/news/100695161.html
 [2]: https://www.zhihu.com/question/30170250

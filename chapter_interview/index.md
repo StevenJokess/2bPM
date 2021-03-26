@@ -16,6 +16,7 @@ AI_Finance_CV
 exam
 interviewer
 HR
+simulate_interview
 reward
 new_like
 question
