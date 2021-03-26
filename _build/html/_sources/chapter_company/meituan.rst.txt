@@ -289,3 +289,5 @@ More
 
 -  美团外卖App产品体验报告\ `11 <http://www.shuahuangpu.com/articles/127214.html>`__
 -  美团外卖产品分析报告\ `10 <https://coffee.pmcaff.com/article/2609193953129600/pmcaff?utm_source=forum>`__
+
+美团系投资版图：https://www.itjuzi.com/meituan

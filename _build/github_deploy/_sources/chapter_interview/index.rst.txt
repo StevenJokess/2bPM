@@ -20,6 +20,7 @@ Interview
    exam
    interviewer
    HR
+   simulate_interview
    reward
    new_like
    question

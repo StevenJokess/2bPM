@@ -649,7 +649,9 @@ https://www.yuque.com/books/share/2325abf6-ed56-4941-bf99-94edeb122076?#%20%E3%8
 -  http://ued.pm/
 -  http://www.masterchat.cn/
 
-导航： http://www.pm265.com/
+导航：
+
+http://www.pm265.com/
 
 信息：
 
@@ -666,6 +668,7 @@ https://www.yuque.com/books/share/2325abf6-ed56-4941-bf99-94edeb122076?#%20%E3%8
 -  http://www.managershare.com/
 -  http://www.geekpark.net/
 -  http://www.ipmtalk.com/
+-  https://t.qidianla.com/
 
 真题：柠檬two公众号
 
