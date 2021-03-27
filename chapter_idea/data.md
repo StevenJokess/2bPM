@@ -162,7 +162,7 @@ https://wao.ai/
 
 ## 工具：
 
-神策分析、GrowingIO、友盟、TalkingData、http://www.51.la/、http://www.google.cn/analytics/这种工具平台
+Excel、SQL、神策分析、GrowingIO、友盟、TalkingData、诸葛IO、http://www.51.la/、http://www.google.cn/analytics/ 这种工具平台
 
 ## 数据问题 [5]
 
