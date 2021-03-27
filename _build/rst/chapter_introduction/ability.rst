@@ -36,7 +36,7 @@ AI产品经理的完整能力矩阵 `1 <https://www.jianshu.com/p/fd466ed1bda6>`
 --
 
 -  用户/客户敏感即同理心（感知情绪、理解情绪、接纳欲望、真实去理想化、透过现象看本质、善于观察
-   `14 <https://weread.qq.com/web/reader/77532110721ea34a7751c9ak8e232ec02198e296a067180>`__\ ）
+   `14 <https://weread.qq.com/web/reader/77532110721ea34a7751c9ak8e232ec02198e296a067180>`__\ ；妨碍同理心发展、进步的最大敌人就是——自以为是、固执\ `23 <https://blog.csdn.net/Dylan_zhijing/article/details/108334435?spm=1001.2014.3001.5502>`__\ ）
 -  自我驱动（主动收集需求，并把它转化成产品需求
    `8 <http://www.woshipm.com/zhichang/459131.html>`__\ ）/学习能力（产品经理需要懂营销，懂技术、懂运营、懂设计
    `8 <http://www.woshipm.com/zhichang/459131.html>`__\ ）
@@ -171,7 +171,7 @@ AI产品方法
 -  产品原型设计：Axure、Sketch、墨刀等；
 -  数据分析工具：SQL、python、powerBI、SPSS、百度指数、talkingdata、ASO100、艾瑞指数、微博数据中心、https://www.dydata.io/等；
 -  项目管理工具：Teambition、Trello–任务管理、Demoo-原型展示、石墨文档、禅道–项目管理、leangoo、CORNERSTONE等；
--  AI工具：Python、Tensorflow、PyTorch、MxNet等
+-  AI工具：Python、Tensorflow、PyTorch、MXNet等
 -  主要文档：MRD、BRD、PRD；
 
 核心价值观

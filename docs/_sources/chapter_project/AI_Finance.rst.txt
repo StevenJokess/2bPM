@@ -315,10 +315,21 @@ AI 在金融领域落地面临困难和挑战 `3 <http://www.ramywu.com/work/201
 人工智能技术将在金融行业内创造三类就业岗位：技术型、运营型和业务型。技术型岗位包括数据科学家、系统架构师、开发工程师、算法及系统测试师等；运营型岗位负责大数据与人工智能产品相关系统的运行与维护，确保相关产品的质量稳定、法律和业务合规性；业务型是介于技术和业务之间的复合型岗位，包括能够在技术部门、业务部门以及服务部门之间充当业务需求及技术算法解释角色的算法解释分析师，同时也需要能够快速了解、学习前沿技术并与现有业务进行结合的商务拓展专家。
 `19 <https://www.infoq.cn/article/1obcmwjkaqyux5xjmy7j>`__
 
-排行榜
-------
+专利
+----
 
-2020年中国金融科技发明专利排行榜：https://www.maigoo.com/news/554316.html
+-  2020年金融科技专利报告：https://www.01caijing.com/article/273000.htm
+-  2020年中国金融科技发明专利排行榜：https://www.maigoo.com/news/554316.html
+
+示例
+----
+
+金融行业怎么用AI？蚂蚁金服是这么做的：https://tech.antfin.com/community/articles/625
+
+智能投顾
+--------
+
+http://www.pbcsf.tsinghua.edu.cn/portal/article/index/id/5130.html
 
 更多
 ----

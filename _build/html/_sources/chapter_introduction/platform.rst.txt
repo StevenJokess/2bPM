@@ -61,6 +61,8 @@ https://medium.com/@unbug/how-to-build-an-ai-platform-2493d57c9e8
 
 要做一个AI中台，当我们的产品经理过AI中台的需求，上面的4行我们产品AI产品经理需要定义哪一行？需要说明哪一行？需要撰写的PRD文档又是哪一行？需要跨团队沟通的又是哪一行？\ `8 <https://www.shangyexinzhi.com/article/2251387.html>`__
 
+http://www.woshipm.com/pmd/4146522.html
+
 用例
 ----
 

@@ -292,6 +292,8 @@ Product），指训练算法的一个迭代所用的最小化数据集。
 2020 Scrum
 Guide（含中英文版）\ `Download <http://www.shinescrum.com/downloads/Scrum%E6%8C%87%E5%8D%972020%E4%B8%AD%E8%8B%B1%E6%96%87%E7%89%88.zip>`__
 
+`中国式敏捷 <https://gitbook.cn/gitchat/geekbook/5c73a5c56203c926b7ba8cc1>`__
+
 .. |项目排期表| image:: ../img/project_table.png
 .. |项目研发人员排期表| image:: ../img/project_schedule.jpg
 .. |项目排期划分| image:: ../img/project_devide.jpg
