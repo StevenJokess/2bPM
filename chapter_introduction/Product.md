@@ -87,7 +87,7 @@
 - 好的产品会经久不衰
 - 好的产品不会放过任何一个细节
 - 好的产品是环保的，不浪费太多资源的
-- 好的产品尽可能少地体现设计（少即是多）
+- 好的产品尽可能少地体现设计（少即是多：尽量简化产品的功能模块、交互流程、界面元素、配色字体等[18]）
 
 ## 产品思维
 
@@ -354,3 +354,4 @@ PMF 讲的是产品与市场的匹配，要验证的是增长，也就是产品�
 [15]: https://www.bilibili.com/video/BV1wt411Y7zh
 [16]: https://blog.csdn.net/liwei16611/article/details/82630078
 [17]: https://t.qidianla.com/1173713.html
+[18]: https://blog.csdn.net/kepengs/article/details/92955349?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-9.baidujs&dist_request_id=1328740.12762.16168265945036403&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-9.baidujs

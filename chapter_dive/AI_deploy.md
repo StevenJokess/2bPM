@@ -24,6 +24,8 @@ https://tianchi.aliyun.com/competition/entrance/231759/tab/226
 
 TODO: GPU:https://tianchi.aliyun.com/competition/entrance/531863/introduction?spm=5176.12281949.1003.30.7b9e2448hrZrNs
 
+Jenkins自动化部署docker脚本：https://blog.csdn.net/kepengs/article/details/114029593?spm=1001.2014.3001.5501
+
 #### 好处
 
 - 不仅能节约时间，快速部署和启动（秒级甚至毫秒级），还能节约成本，相于较虚拟机动辄几个G的磁盘空间，docker容器可以减少到MB级；
