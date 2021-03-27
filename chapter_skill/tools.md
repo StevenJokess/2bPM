@@ -6,6 +6,9 @@ https://tangjie.me/blog/184.html
 
 ![工作所需的工具](../img/skill_need_tools.png)
 
+TODO: 产品经理必用的软件大全—产品手记推荐工具系列 - 「已注销」的文章 - 知乎
+https://zhuanlan.zhihu.com/p/109261065
+
 ## Project
 
 甘特图：https://support.microsoft.com/zh-cn/office/%E4%BD%BF%E7%94%A8%E7%94%98%E7%89%B9%E5%9B%BE%E8%A7%86%E5%9B%BE-0e84efa4-78ce-4cd1-baed-5159a55f78b4

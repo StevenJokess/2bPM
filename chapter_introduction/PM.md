@@ -540,7 +540,6 @@ https://www.yuque.com/books/share/2325abf6-ed56-4941-bf99-94edeb122076?#%20%E3%8
 
 http://www.pm265.com/
 
-
 信息：
 
 - http://www.aihot.net/
@@ -559,6 +558,9 @@ http://www.pm265.com/
 - https://t.qidianla.com/
 
 真题：柠檬two公众号
+
+书籍：[产品经理必读商业思维与视野格局类书目（产品手记推荐） - 「已注销」的文章 - 知乎](https://zhuanlan.zhihu.com/p/127373717)
+
 
 ## 我适合当产品经理吗 [10]
 
@@ -638,7 +640,7 @@ A 类人才里面当然也会有强弱之分，但是，只要符合 A 类标准
 
 ## 转行 [39]
 
-培训机构像产品手记、黑马程序员
+培训机构像产品手记、黑马程序员。[产品经理培训的坑在哪里？](https://zhuanlan.zhihu.com/p/213734104)
 
 互联网行业也在转行：
 
