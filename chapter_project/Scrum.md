@@ -235,6 +235,8 @@ A：因为要通过站立的形式让大家明确，这是一个需要快速解�
 
 2020 Scrum Guide（含中英文版）[Download](http://www.shinescrum.com/downloads/Scrum%E6%8C%87%E5%8D%972020%E4%B8%AD%E8%8B%B1%E6%96%87%E7%89%88.zip)
 
+[中国式敏捷](https://gitbook.cn/gitchat/geekbook/5c73a5c56203c926b7ba8cc1)
+
 [1]: https://ones-ai.gitbooks.io/ones-ai
 [2]: https://www.jianshu.com/p/e53974f9cbc9
 [3]: https://weread.qq.com/web/reader/8d232b60721a488e8d21e54k8f132430178f14e45fce0f7

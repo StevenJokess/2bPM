@@ -39,6 +39,7 @@ Axure 9.0不用？[4] 口碑差，实际上都用8.0、8.1
 - AXURE8 原型绘制效率工具：https://coffee.pmcaff.com/article/2111722865562752/pmcaff?utm_source=forum&newwindow=1
 - AXURE8 教学（从8到9，布局快捷键大变，更不方便，一步交互变四步，多目标藏+好里，很多bug）：https://www.bilibili.com/video/BV1bt41137MY
 - AXURE8：http://www.woshipm.com/xiazai/188927.html
+- Axure（8+9）产品经理：https://edu.csdn.net/course/play/28296/389326
 
 ### 简介
 
