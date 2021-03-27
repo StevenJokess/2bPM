@@ -6,6 +6,8 @@ https://stevenjokess.github.io/2bPM/
 
 ## Docker里d2lbook2生成书
 
+利用项目：https://github.com/aieye-top/d2l-book2
+
 ```bash
 docker run --rm --name 2bPM -e HTTP_PROXY=127.0.0.1:1080 -ditv /d/onedrive/Documents/read/2bPM:/d2lbook2/2bPM registry.cn-shanghai.aliyuncs.com/csq-dl/d2l-book2:description  /bin/bash;docker exec -it 2bPM /bin/bash
 
@@ -32,8 +34,6 @@ d2lbook2 deploy html
 
 跨级才是人才，在巨变的时代，几年经验都是扯淡！见[25 岁网安 CEO 被判刑 12 年，技术隔离后，顶尖黑客被 out 了？](https://www.infoq.cn/article/DtZRqGpYA1pfzsxtiD0C)
 
-
 简历：https://stevenjokess.github.io/2bPM/get_started.html
-
 
 TODO：https://my.oschina.net/u/4584889/blog/4394219

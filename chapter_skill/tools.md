@@ -70,6 +70,20 @@ Tower、禅道、tapd等团队协同工具，会导致一部分人习惯把产�
 
 Axure基础操作总结：https://blog.csdn.net/zcl050505/article/details/110439551
 
+## Sketch [5]
+
+Sketch有利于产品与UI的协同工作。对于较小的需求，在白板上画出原型后可以直接进入UI阶段。
+
+优点：
+
+方便画出高保真的原型图；
+在静态界面的展示方面有一定优势；
+无限画布，可以将各页面放到一个画布上帮助串联思考。
+不足：
+
+对于初学者，基础功能的学习成本较高；
+Sketch作为一款设计工具，会让使用者陷入“设计者思维”，在细节上耗费较多时间，拖延项目进度。
+
 ## TAPD
 
 TAPD开放产品，包含两个解决方案-轻量协作和敏捷研发。轻量协作：对标Tower，功能特点为看板+云文档+企业微信集成，为满足小团队的协作需要。敏捷研发功能特点包含需求、迭代、缺陷、测试计划／用例、发布评审、看板等。总体来看敏捷研发特性（能力）更强。整体UI特点：偏传统，多页应用。
@@ -85,3 +99,4 @@ https://www.zhihu.com/question/56575428/answer/352398510
 [2]: https://www.bilibili.com/video/BV1WE411w7LW?from=search&seid=9895003283584993406
 [3]: http://www.woshipm.com/pmd/1642415.html
 [4]: https://www.bilibili.com/video/BV1it41137Xg?p=2
+[5]: https://blog.csdn.net/Dylan_zhijing/article/details/107825514?spm=1001.2014.3001.5502
