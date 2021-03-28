@@ -1,4 +1,4 @@
-# Idea
+# 思维
 :label:`chap_idea`
 
 ```toc

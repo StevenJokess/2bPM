@@ -1,4 +1,4 @@
-# project
+# 项目实践
 :label:`chap_project`
 
 ```toc

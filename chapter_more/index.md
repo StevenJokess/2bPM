@@ -1,4 +1,4 @@
-# more
+# 更多
 :label:`chap_more`
 
 ```toc

@@ -1,4 +1,4 @@
-# experience
+# 前人经验
 :label:`chap_exper`
 
 ```toc

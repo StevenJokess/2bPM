@@ -1,4 +1,4 @@
-# Interview
+# 面试
 :label:`chap_interview`
 
 该怎么准备面试[1]

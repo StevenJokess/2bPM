@@ -83,7 +83,7 @@ get_started
 
 chapter_introduction/index
 chapter_idea/index
-chapter_skill/index
+chapter_knowledge/index
 chapter_experience/index
 chapter_project/index
 chapter_interview/index
