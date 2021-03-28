@@ -1,4 +1,4 @@
-# 思维
+# 思维/软实力
 :label:`chap_idea`
 
 ```toc
