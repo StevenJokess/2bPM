@@ -1,8 +1,8 @@
 
 .. _chap_exper:
 
-experience
-==========
+前人经验
+========
 
 
 .. toctree::

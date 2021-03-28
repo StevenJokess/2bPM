@@ -1,7 +1,7 @@
 
 .. _chap_idea:
 
-Idea
+思维
 ====
 
 

@@ -1,7 +1,7 @@
 
 .. _chap_more:
 
-more
+更多
 ====
 
 

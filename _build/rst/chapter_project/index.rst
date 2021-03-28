@@ -1,8 +1,8 @@
 
 .. _chap_project:
 
-project
-=======
+项目实践
+========
 
 
 .. toctree::

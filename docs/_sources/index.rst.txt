@@ -105,7 +105,7 @@ AI PM 社群，和大家一起做项目，有交流和讨论，也比自己啃�
 
    chapter_introduction/index
    chapter_idea/index
-   chapter_skill/index
+   chapter_knowledge/index
    chapter_experience/index
    chapter_project/index
    chapter_interview/index
