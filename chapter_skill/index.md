@@ -10,8 +10,8 @@ users_analysis
 need_analysis
 industry_analysis
 experience_report
-compete_analysis
 goods_analysis
+compete_analysis
 MRD
 PRD
 prototype_design
