@@ -6,9 +6,9 @@
 
 steps
 BRD
+industry_analysis
 users_analysis
 need_analysis
-industry_analysis
 experience_report
 goods_analysis
 compete_analysis
