@@ -1,8 +1,15 @@
 # 需求分析
 
+## 报告文档 [8]
+
+1. 需求分类：将需求以需要的类型分门别类的罗列好，并介绍清楚需求本意。
+1. 需求分析和判断：在这个部分介绍各个需求决策结果，将可行性需求留下，不可行需求放弃；通常这个部分只介绍放弃的需求和放弃的理由。
+1. 需求分位：将可行性需求进行分位表述，表明需求的轻重缓急，这个分位的决定因素有很多，需要参考三大因素进行评估；四象限定位法在普遍的公司里也会这样称呼，重要(紧急)、重要(不紧急)、不重要(紧急)、不重要(不紧急)。
+1. 需求分级：根据分位再分优化等级，将需求划分计划，根据不同规划阶段分多个版本实现；如果需求很少，那么就一次性迭代实现了。
+
 ## 如何将用户需求转换为产品需求？
 
-首先保持二八原则，只有普遍用户的需求，才能内化为产品的需求。比如某个需求就一个用户需要，其他大多数用户都不需要，你就不需要做。
+首先保持二八原则，**只有普遍用户的需求，才能内化为产品的需求。**比如某个需求就一个用户需要，其他大多数用户都不需要，你就不需要做。
 
 通过现象看本质，收集用户需求以后，多为自己几个为什么，找到用户的动机。
 
@@ -137,3 +144,4 @@ By who、Who、How、Why、When、What。
 [5]: https://blog.csdn.net/eickandy/article/details/80294224
 [6]: https://www.jianshu.com/p/2af332aaa017
 [7]: https://blog.csdn.net/kepengs/article/details/92955349?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-9.baidujs&dist_request_id=1328740.12762.16168265945036403&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-9.baidujs
+[8]: https://tangjie.me/blog/83.html

@@ -1,4 +1,4 @@
-# Dive
+# 深入学习
 :label:`chap_dive`
 ​
 

@@ -1,4 +1,4 @@
-# Company
+# 公司研究
 :label:`chap_company`
 ​
 

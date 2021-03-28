@@ -125,6 +125,8 @@
 
 ## 营销
 
+根据目标用户、产品特点及品牌塑造需要,进行营销及公关策略的制定和执行,以实现有效传播、危机化解、产品目标达成。[12]
+
 推荐书籍《定位》《流量池》《运营之光》《增长黑客》《参与感》《消费者行为学》）《爆款文案》[10]
 
 ### 营销很好，没有盈利
@@ -179,3 +181,4 @@ https://www.niaogebiji.com/
 [9]: https://www.jianshu.com/p/b62409f10470
 [10]: http://www.woshipm.com/pmd/3024508.html
 [11]: http://www.woshipm.com/pmd/4105385.html
+[12]: https://t.qidianla.com/1175149.html
