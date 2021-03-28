@@ -27,5 +27,6 @@ Interview
    not_go
    offer
    hire
+   enter
 
 

@@ -135,6 +135,8 @@ Axure 就可以直接上岗了。
 
 就这样，进度又一次被耽搁。研发人员认为产品经理的需求不靠谱，有很多功能需要花费很长时间才能实现；产品经理认为研发人员根本不用心，而且也不怎么加班；而测试则一方面认为产品经理的需求本身不够严谨，另一方面又认为研发人员写的代码漏洞百出。
 
+或是一次性甩17个小功能需求参加需求评审会，是“自杀式”的打法，不利于产品迭代，同时更改的功能点过多，不够聚焦。动机和功能的缘由必须总结清楚，否则无法说服开发。\ `54 <https://t.qidianla.com/1156501.html>`__
+
 对测试不闻不问 `30 <https://www.zhihu.com/pub/reader/119980992/chapter/1284104611813195776>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -559,8 +561,8 @@ KPI
 -  网站、域名、服务器、IP
 -  缓存、接口、数据库、H5,JAVA, PHP
 
-更多
-^^^^
+更多技能及实践
+^^^^^^^^^^^^^^
 
 -  逻辑思维：可用性、易用性：逻辑正确去保证解决问题。
 -  基础的电脑操作
@@ -624,57 +626,6 @@ KPI
 
 例如：上面的例子再分析，如果头条是技术思维抖音早就被2018年腾讯系的微视干死了，还哪里会等你慢慢开发一个Musical.ly。
 
-Awesome
--------
-
-https://www.yuque.com/books/share/2325abf6-ed56-4941-bf99-94edeb122076?#%20%E3%80%8A%E4%BA%A7%E5%93%81API:%E8%BF%9B%E9%98%B6%E5%85%A8%E6%A0%88PM%E6%89%8B%E5%86%8C%E3%80%8B
-
-社区：
-
--  UCD大社区： www.ucdchina.co
--  腾讯CDC: http://cdc.tencent.com
--  淘宝UED: http://ued.taobao.com
--  百度UED: http://ued.baidu.com/
--  http://www.pmtalk.club/
--  https://www.pmcaff.com/
--  https://www.woshipm.com/
--  https://dh.woshipm.com/#section-16
--  http://www.crazypm.com/
--  https://pm-ren.com/
--  http://beforweb.com/product
--  http://masterchat.cn/
--  http://tech2ipo.com/
--  http://86pm.com/
--  https://www.producthunt.com/
--  http://ued.pm/
--  http://www.masterchat.cn/
-
-导航：
-
-http://www.pm265.com/
-
-信息：
-
--  http://www.aihot.net/
--  https://www.aiaor.com/
--  http://wiki.jikexueyuan.com/list/product
--  https://www.chanpingo.com/
--  http://www.wordpm.com/
--  http://www.pmtoo.com/
--  http://www.chanpin100.com/
--  https://www.qidianla.com/
--  http://www.dengta360.cn/index.html%22%20%5Ct%20%22_blank
--  https://www.mockplus.cn/
--  http://www.managershare.com/
--  http://www.geekpark.net/
--  http://www.ipmtalk.com/
--  https://t.qidianla.com/
-
-真题：柠檬two公众号
-
-书籍：\ `产品经理必读商业思维与视野格局类书目（产品手记推荐） -
-「已注销」的文章 - 知乎 <https://zhuanlan.zhihu.com/p/127373717>`__
-
 我适合当产品经理吗 `10 <https://www.bilibili.com/video/BV1qv411B7J1>`__
 -----------------------------------------------------------------------
 
@@ -689,7 +640,7 @@ http://www.pm265.com/
 天赋 `17 <https://www.zhihu.com/question/22113339/answer/1418832617>`__
 -----------------------------------------------------------------------
 
-A 类：有深度思考能力或超常同理心
+A 类：有深度思考能力或\ **超常同理心**
 
 对产品经理来说，深度思考是指习惯思考事物背后的本质，且在同等条件下，对事物的洞察更深或更快。能深度思考的人很少见，但只有借助于深度思考，在微观场景和宏观背景下发现并理解事物的共性、差异性和各种因果关系，才能在这个现实世界中不断总结出规律和特点，提高未来决策和行为的成功率。
 
@@ -802,47 +753,6 @@ PM最终拼的是人文素养和灵魂境界，而不是职位名称、从业年
 
 看他做一款创新型产品时，更依赖竞品调研还是独立判断。站在巨人的肩膀上是没错，但前瞻性的方案更依赖人性洞察和市场嗅觉。
 
-Stay Hungry ,Stay Foolish `36 <https://zhuanlan.zhihu.com/p/268180702>`__
--------------------------------------------------------------------------
-
-什么叫 Hungry？
-~~~~~~~~~~~~~~~
-
-美国人不会用 hungry
-来形容对于知识的追求。对知识，他们用的是「好奇」(curious)
-这个字。一个求知若渴的人，叫做「intellectually curious」或是「eager to
-learn」，但绝对不会是「intellectually hungry」，也极少是「hungry to
-learn」。
-
-用到 hungry 的时候，针对的「成功」，也就是「hungry for success」。所以
-Steve Jobs 的「Stay
-Hungry」，根本不是叫你去求「知」的意思，他真正想说的，是要你去不停的寻找成功，永远不知道满足。为什么？因为创业者最常犯的错误，除了做出没人要的东西之外，就是太快满足于初期的成功，接着开始以为自己是神，再也不会失败。
-
-杨致远就是最好的例子，90 年代末期 Yahoo
-叱咤网络圈后，他开始陶醉于成功之中，成天打高尔夫球、旅行，结果呢？快转十年之后，Yahoo
-现在的市值等于他们手中持有的阿里巴巴股票，也就是说这家母公司是一毛不值。为什么？因为他失去了
-hungry。
-
-回头看 Steve Jobs，过去 14
-年来，他像一头肌饿的猛兽，永远不会满足，Mac、iPod、iPhone、iPad
-一招接一招，不停直捣对手的心脏，如果不是因为健康状况，他大概永远没有停歇的一天，这，就是hungry，这，就是
-Fox 写的「稀有的猪」。
-
-什么叫 Foolish？
-~~~~~~~~~~~~~~~~
-
-美国人也不会用 foolish 来形容虚心，虚心叫做「humble」、叫做「be a good
-listener」、叫做「be open to new ideas」。而
-fool，根本不是「虚心的人」，fool 是「笨蛋」的意思。
-
-「You gotta be a fool to believe that will
-work.」(你一定是个白痴才会相信那东西会成功) 是所有的创业者最常听到的，而
-Steve Jobs
-想告诉你的，就是别理他们，继续当你的傻瓜。因为要革命，你就注定要在众人的误会中孤独的前进。
-
-所以各位创业者，记住 Steve Jobs 的 Stay Hungry, StayFoolish.
-然后一辈子都不要停止战斗。
-
 生存报告
 --------
 
@@ -855,6 +765,60 @@ https://coffee.pmcaff.com/article/KDLE41yRkx?rts=201105225049_nch
 .. figure:: ../img/PM_knowledge.png
 
    PM知识宇宙\ `46 <https://g.yuque.com/zhongguodianxinyanjiuyuan/bgso10/ab5ucf>`__
+
+更多
+----
+
+社区：
+
+-  UCD大社区： www.ucdchina.co
+-  腾讯CDC: http://cdc.tencent.com
+-  淘宝UED: http://ued.taobao.com
+-  百度UED: http://ued.baidu.com/
+-  http://www.pmtalk.club/
+-  https://www.pmcaff.com/
+-  https://www.woshipm.com/
+-  https://dh.woshipm.com/#section-16
+-  http://www.crazypm.com/
+-  https://pm-ren.com/
+-  http://beforweb.com/product
+-  http://masterchat.cn/
+-  http://tech2ipo.com/
+-  http://86pm.com/
+-  https://www.producthunt.com/
+-  http://ued.pm/
+-  http://www.masterchat.cn/
+
+导航：
+
+http://www.pm265.com/
+
+信息：
+
+-  http://www.aihot.net/
+-  https://www.aiaor.com/
+-  http://wiki.jikexueyuan.com/list/product
+-  https://www.chanpingo.com/
+-  http://www.wordpm.com/
+-  http://www.pmtoo.com/
+-  http://www.chanpin100.com/
+-  https://www.qidianla.com/
+-  http://www.dengta360.cn/index.html%22%20%5Ct%20%22_blank
+-  https://www.mockplus.cn/
+-  http://www.managershare.com/
+-  http://www.geekpark.net/
+-  http://www.ipmtalk.com/
+-  https://t.qidianla.com/
+-  http://www.51pmexp.com/
+-  https://www.yuque.com/books/share/2325abf6-ed56-4941-bf99-94edeb122076?#%20%E3%80%8A%E4%BA%A7%E5%93%81API:%E8%BF%9B%E9%98%B6%E5%85%A8%E6%A0%88PM%E6%89%8B%E5%86%8C%E3%80%8B
+
+真题：柠檬two公众号
+
+书籍：\ `产品经理必读商业思维与视野格局类书目（产品手记推荐） -
+「已注销」的文章 - 知乎 <https://zhuanlan.zhihu.com/p/127373717>`__
+
+心态：Stay Hungry ,Stay Foolish
+`36 <https://zhuanlan.zhihu.com/p/268180702>`__
 
 .. |产品策划VS产品运营| image:: ../img/design_GTM.jpg
 .. |腾讯产品经理能力模型| image:: ../img/tencent_PM.png

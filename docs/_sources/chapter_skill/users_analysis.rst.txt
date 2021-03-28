@@ -1,6 +1,9 @@
 
+.. _users_analysis:
+
 用户需求研究 `1 <http://www.woshipm.com/operate/3627874.html>`__
 ================================================================
+
 
 用户
 ----
@@ -357,6 +360,20 @@ Persona 文档指导
 -  数据分析
 -  满意度调查
 
+问卷调查
+~~~~~~~~
+
+同样，问卷调查除了前面介绍、问卷目标的明确、问卷设计的考究。一定要注意：[26]
+
+-  目标不要过于多，这样的问卷会迷失方向；
+-  要加上测试题方便剔除无效问卷；
+-  目标用户投放渠道的选择不要偷懒，否则不真实：根据目标人群选择投放渠道，我的目标用户是大学生，所以我选择了学生群体做用户访谈。
+-  结论很重要：因为它是你做问卷调查的目的，要为你的验证和猜想提供现实依据。
+
+.. figure:: ../img/questionaire.png
+
+   问卷调查
+
 用户调研
 ~~~~~~~~
 
@@ -432,4 +449,5 @@ https://tangjie.me/blog/230.html [21]: https://36kr.com/p/1721300926465
 https://coffee.pmcaff.com/article/1103103818721408/pmcaff?utm_source=forum
 [23]: https://www.zhihu.com/question/29342383/answer/46616997 [24]:
 http://www.woshipm.com/pmd/3024508.html [25]:
-https://www.zhihu.com/question/20791021/answer/1525593995
+https://www.zhihu.com/question/20791021/answer/1525593995 [26]:
+https://t.qidianla.com/1149667.html

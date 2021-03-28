@@ -19,4 +19,5 @@ understand_tech
 design
 GTM
 time
+risk
 ```

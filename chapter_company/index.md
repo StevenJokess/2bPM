@@ -6,6 +6,7 @@
 :maxdepth: 2
 
 company_research
+baidu
 antgroup
 alipay
 dm-ai

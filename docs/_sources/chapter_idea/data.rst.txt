@@ -193,7 +193,9 @@ https://wao.ai/
 工具：
 ------
 
-Excel、SQL、神策分析、GrowingIO、友盟、TalkingData、诸葛IO、http://www.51.la/、http://www.google.cn/analytics/
+Excel、SQL
+
+神策分析、GrowingIO、友盟、TalkingData、诸葛IO、http://www.51.la/、http://www.google.cn/analytics/
 这种工具平台
 
 数据问题 `5 <http://www.changgpm.com/thread-350-1-1.html>`__

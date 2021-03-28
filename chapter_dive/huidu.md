@@ -45,8 +45,17 @@ A/B测试是**对经验主义的抨击，它是数据驱动。**
 
 [Trustworthy Online Controlled Experiments : A Practical Guide to A/B Testing](https://experimentguide.com/)
 
+## 灰度策略
+
+灰度策略一般有三种方式，可以应用于不同的场景[6]
+
+- 随机灰度：一般在发布适合全局用户的新功能或新特性时使用，也就是在全局用户中随机测试一批用户来观察效果。
+- 定向灰度：它适用于在产品中根据细分群体去发布的一些新功能。就像前面课中讲到的QQ厘米秀的案例，就是巧妙地对目标用户群进行灰度，从而推广创新产品。
+- 邀请灰度：它通常适用于一款新产品的诞生，并且具备一定的社交或社区属性。一方面，能在产品诞生之初，更加聚焦于典型的种子用户群体；同时，还通过邀请码的方式，让用户形成自传播，为产品带来自增流量和口碑效应。
+
 [1]: https://blog.csdn.net/liwei16611/article/details/90176044
 [2]: https://time.geekbang.org/column/intro/100065501
 [3]: https://www.yunyingpai.com/user/94.html
 [4]: https://baike.baidu.com/item/%E7%81%B0%E5%BA%A6%E5%8F%91%E5%B8%83/7100322
 [5]: http://www.woshipm.com/pd/706.html
+[6]: https://g.yuque.com/amir/pm/ozyyed?language=zh-cn

@@ -1,4 +1,5 @@
 # 用户需求研究 [1]
+:label:`users_analysis`
 
 ## 用户
 

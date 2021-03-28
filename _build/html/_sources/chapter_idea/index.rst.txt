@@ -23,3 +23,4 @@ Idea
    design
    GTM
    time
+   risk
