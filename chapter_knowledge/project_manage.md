@@ -12,9 +12,13 @@ PM能在产品的整个生命周期中，进行产品迭代的规划、各类资
 
 ## 最简单的项目管理
 
-立项——需求（开发）——开发——测试——发布 [5]
+立项—>需求—>开发—>测试—>发布 [5]
 
 文档管理——流程管理——敏捷方法
+
+## 整体流程
+
+![整体流程图[16]](../img/project_flow_chart.png)
 
 ### 开发细节
 
@@ -167,3 +171,4 @@ https://easyai.tech/blog/ai-executive-guides-data-science-lifecycle/
 [13]: http://www.woshipm.com/pmd/1642415.html
 [14]: https://www.jianshu.com/p/fb2fbd4f1e06
 [15]: https://zhuanlan.zhihu.com/p/92156981
+[16]: https://t.qidianla.com/1175640.html
