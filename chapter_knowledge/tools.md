@@ -96,6 +96,8 @@ https://www.zhihu.com/question/56575428/answer/352398510
 - 快懂百科：https://www.baike.com/
 - 中文互联网数据资讯网：http://www.199it.com/
 - FT中文网：https://www.ftchinese.com/
+- 品玩：https://www.pingwest.com/
+
 
 [1]: https://www.yinxiang.com/everhub/note/435c8b2c-9127-43f3-a6e3-fc5f8898d893
 [2]: https://www.bilibili.com/video/BV1WE411w7LW?from=search&seid=9895003283584993406

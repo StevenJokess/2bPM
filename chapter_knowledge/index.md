@@ -9,11 +9,11 @@
 steps
 BRD
 industry_analysis
+market_analysis
+goods_analysis
 users_analysis
 need_analysis
 experience_report
-goods_analysis
-market_analysis
 compete_analysis
 MRD
 PRD
