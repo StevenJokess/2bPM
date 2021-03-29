@@ -67,6 +67,10 @@ PM能在产品的整个生命周期中，进行产品迭代的规划、各类资
 
 ![周报模板](../img/week_report.jpg)
 
+这周的工作内容是推进A项目，下周还是推进A项目。如果项目一直被卡住，等到了写周报的时候似乎就没得可写了。总不能一直写“规划某个需求”，“设计某个产品”，“推动某个项目进度”，“整理某个产品的文档和资料”等……[17]
+
+
+
 ## 开发看板
 
 ![开发看板[12]](../img/display_board.png)
@@ -172,3 +176,4 @@ https://easyai.tech/blog/ai-executive-guides-data-science-lifecycle/
 [14]: https://www.jianshu.com/p/fb2fbd4f1e06
 [15]: https://zhuanlan.zhihu.com/p/92156981
 [16]: https://t.qidianla.com/1175640.html
+[17]: http://dadaghp.com/index/index/article_detail/id/665.html

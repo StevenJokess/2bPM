@@ -276,6 +276,11 @@ Envolve Group Co-founder 刘嘉培Alex详细拆解了查阅报告材料和思考
 
 获得以上所有信息的方式，你可以通过与行业专家面对面沟通，可以通过直接购买数据报告，还可以每天与你的用户泡在一起，多与其他行业的人交流。无论哪种办法，把你的精力多分配到对于行业的学习和信息获取方面，你就拥有越多的信息帮助你进行判断和产品设计。
 
+## 更多
+
+在咨询公司工作的人、金融业做投研、行业研究的人，这些人在写报告的时候，通过什么渠道来获取资料和数据？：
+https://www.zhihu.com/question/278003245/answer/397609947
+
 [1]: http://www.woshipm.com/zhichang/2124682.html
 [2]: https://www.linkedin.com/news/story/%E6%8A%95%E8%B5%84%E4%BA%BA%E8%AF%A5%E5%A6%82%E4%BD%95%E5%81%9A%E5%A5%BD%E8%A1%8C%E4%B8%9A%E7%A0%94%E7%A9%B6-5372810/
 [3]: https://baike.baidu.com/item/%E5%B8%82%E5%9C%BA%E8%B0%83%E6%9F%A5/170622#:~:text=%E5%B8%82%E5%9C%BA%E8%B0%83%E6%9F%A5%E6%98%AF%E6%8C%87%E7%94%A8,%E6%8F%90%E4%BE%9B%E5%AE%A2%E8%A7%82%E3%80%81%E6%AD%A3%E7%A1%AE%E7%9A%84%E4%BE%9D%E6%8D%AE%E3%80%82

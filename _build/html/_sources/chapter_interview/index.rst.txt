@@ -26,6 +26,7 @@
    question
    not_go
    offer
+   background_survey
    hire
    enter
 

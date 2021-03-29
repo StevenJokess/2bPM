@@ -23,6 +23,7 @@ static_page
 prototype_design
 MVP
 service_analysis
+strategy_analysis
 collaborate
 data_analysis
 project_manage

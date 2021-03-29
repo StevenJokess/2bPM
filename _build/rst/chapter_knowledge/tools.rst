@@ -52,6 +52,7 @@ https://github.com/StevenJokess/2bPM/blob/master/rsc/meituan_PM_recovered.rp
    教学（从8到9，布局快捷键大变，更不方便，一步交互变四步，多目标藏+好里，很多bug）：https://www.bilibili.com/video/BV1bt41137MY
 -  AXURE8：http://www.woshipm.com/xiazai/188927.html
 -  Axure（8+9）产品经理：https://edu.csdn.net/course/play/28296/389326
+-  Axhub 即Axure原型发布与协作平台：https://axhub.im/
 
 简介
 ~~~~
@@ -110,3 +111,4 @@ https://www.zhihu.com/question/56575428/answer/352398510
 -  快懂百科：https://www.baike.com/
 -  中文互联网数据资讯网：http://www.199it.com/
 -  FT中文网：https://www.ftchinese.com/
+-  品玩：https://www.pingwest.com/

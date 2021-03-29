@@ -266,6 +266,9 @@ https://github.com/Xu-Hanjia-SDUWH/Human-Activity-Recognition-HIIT
 
 https://36kr.com/projectDetails/79445
 
+## 示例
+
+Keep竞品分析报告：https://t.qidianla.com/1163465.html
 
 [1]: https://www.tmtpost.com/4257148.html
 [2]: http://www.woshipm.com/it/3873247.html
