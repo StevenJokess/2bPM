@@ -5,7 +5,9 @@
 ```toc
 :maxdepth: 2
 
+FinTech
 Robo-Advisor
-Smart_Investment_Research
+AI_Investment_Research
+AI_Risk_Management
 Full_stack
 ```

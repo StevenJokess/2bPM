@@ -112,6 +112,9 @@ Offer 的选择是综合考虑行业、城市、公司、待遇等多个方面�
 
 2021互联网校招薪资爆料：https://blog.nowcoder.net/n/2668a1d85a174bec94e1fea21dc01551
 
+头条、美团、滴滴、阿里、腾讯、百度、华为、京东职级体系及对应薪酬：
+https://www.cnblogs.com/dhcn/p/11983157.html
+
 ![薪资结构与公司的成本[11]](../img/salary_content.png)
 
 ### 有什么需要我特别注意的部门吗？

@@ -79,15 +79,19 @@ MDP即Most Desirable Product，最渴望的产品。MDP是为用户提供高价�
 
 ## AI产品的MVP [5]
 
-### API
+### low-hanging fruit
+
+对于AI MVP来说，从最容易实现的目标（low-hanging fruit）开始做起或许是不错的选择。[6]
+
+#### API
 
 在MVP阶段，暂不用考虑数据安全等问题，完全可以直接调大厂的接口。
 
-### Demo视频
+#### Demo视频
 
 B站视频的“朱茵的脸换成了杨幂的脸”证明了ZAO可行性。
 
-### 人工+智能
+#### 人工+智能
 
 智能医生：找医生来冒充机器人，在线回复用户问题，首先要验证的是会不会有人来问机器人问题，会问到什么问题，会问到什么程度，试问机器人告诉你你的病要吃什么药，你敢吃吗？
 
@@ -99,3 +103,4 @@ B站视频的“朱茵的脸换成了杨幂的脸”证明了ZAO可行性。
 [3]: https://www.yuque.com/wuxinghua/01/uqgdgxs
 [4]: http://www.shinescrum.com/news_and_events/mvp
 [5]: http://www.woshipm.com/pmd/2817456.html
+[6]: https://www.itsiwei.com/26937.html

@@ -1,27 +1,6 @@
 # AI 金融
 
-## 背景
-
-1. 金融科技的生态是三个相互牵制的部分：
-
-公司/银行——监管——资本
-
-2. 金融科技发展：
-
-- 20世纪70年代 业务电子化
-- 20世纪80年代 前台电子化（ATM机等）
-- 20世纪90年代 金融业务互联网化（实现了高效连接）
-- 21世纪 金融科技
-
-3. 中国金融科技发展
-
-IT系统——支付——信贷——大金融——生活
-
-![应用场景[5]](../img/AI_finance.png)
-
-![智能金融[17]](../img/finance_AI.jpg)
-
-《金融科技2020技术应用及趋势报告》：http://www.cbdio.com/BigData/2021-03/29/content_6163778.htm
+是金融科技 :ref:`FinTech` 的其中一种AI应用，建议有时间先阅读金融科技 :ref:`FinTech`。
 
 ## 金融业结合AI最积极 [13]
 
@@ -47,6 +26,8 @@ IDC《中国AI落地白皮书》中也提到，金融产业对于AI的应用最�
 - 金融机构选择自己研发或采购技术，对自身云平台的能力进行AI更新。
 
 ### 应用点
+
+![人工智能行业落地主要场景领域[23]](../img/AI_for_Finance.png)
 
 - 智能客服催收
 - 监管：Regtech
@@ -276,7 +257,7 @@ https://istock.ssetech.com.cn/wiki/doku.php?id=start
 [2]: https://www.leiphone.com/news/202012/7ovvkzByXnPQjnlD.html
 [3]: http://www.ramywu.com/work/2018/05/18/AI-in-Finance-Survey/
 [4]: https://tanxianlian.com/2020/05/15/%e9%87%91%e8%9e%8dai%e7%9a%84%e6%9c%aa%e6%9d%a5%e7%95%85%e6%83%b3/
-[5]: https://www.donews.com/news/detail/4/3084506.htmls
+[5]:
 [6]: https://www2.deloitte.com/content/dam/Deloitte/cn/Documents/innovation/deloitte-cn-innovation-ai-whitepaper-zh-181126.pdf
 [7]: https://weread.qq.com/web/reader/46532b707210fc4f465d044ke4d32d5015e4da3b7fbb1fa
 [8]: https://mp.weixin.qq.com/s/1jOCiQMMYIqDFWOLv-6n-A
@@ -288,7 +269,7 @@ https://istock.ssetech.com.cn/wiki/doku.php?id=start
 [14]: http://www.changgpm.com/thread-202-1-1.html
 [15]: http://www.woshipm.com/pmd/2356222.html
 [16]: https://easyai.tech/blog/best-ai-company-2019/
-[17]: https://weread.qq.com/web/reader/e77325105e4e55e77af47dbk45c322601945c48cce2e120
+[17]:
 [18]: https://weread.qq.com/web/reader/e77325105e4e55e77af47dbkd3d322001ad3d9446802347
 [19]: https://www.infoq.cn/article/1obcmwjkaqyux5xjmy7j
 [20]: http://www.woshipm.com/it/508568.html

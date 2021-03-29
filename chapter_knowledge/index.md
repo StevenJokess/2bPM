@@ -21,18 +21,20 @@ tools
 flow_chart
 static_page
 prototype_design
+IXD_analysis
 MVP
 service_analysis
 strategy_analysis
+project_manage
 collaborate
 data_analysis
-project_manage
 upgrade_manage
 resource_manage
 research
 Valuation
 price
 more_users
+
 ```
 
 [1]: https://ke.qidianla.com/courses/pmcamp?channel=bbs

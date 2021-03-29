@@ -11,6 +11,7 @@
    idea
    empathy
    data
+   communicate
    negotiation
    brand
    decompose

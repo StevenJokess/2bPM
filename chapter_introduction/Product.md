@@ -345,6 +345,10 @@ PMF 讲的是产品与市场的匹配，要验证的是增长，也就是产品�
 
 产品计划是解决开发周期过长问题的重要手段，对于开发周期短于9个月的产品，也应按照1-3-6-9的时间分配比例来对项目进行控制，从而达到按照暨定目标快速有效推出产品的目的。
 
+## 更多
+
+产品思维：https://www.itsiwei.com/category/rest
+
 [1]: https://wiki.mbalib.com/wiki/%E4%BA%A7%E5%93%81%E8%A7%84%E5%88%92
 [2]: https://www.jianshu.com/p/ed738dac00e5
 [3]: https://www.jianshu.com/p/266cd3df64d5

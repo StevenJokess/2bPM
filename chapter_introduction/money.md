@@ -262,6 +262,12 @@ Open source models, data and transfer learning are also enabling businesses to m
 
 而大家常听到的Pre-A轮，指的是天使轮的钱花完了，但产品还不够成熟，尚未到A轮阶段，进退两难下，只好又募一个round，我们就称它为Pre-A轮。至于B+轮、B++轮都是相同意思，因为还没到下一round的水准，所以只好一直无限+++++。
 
+### AI 创业
+
+![AI 创业](../img/AI_entrepreneur.png)
+
+所有AI企业，作为前沿、高端的研发与技术密集型行业，收入规模在相当长一段时间内，有可能无法支撑巨额的、持续的、大规模研发投入、场景探索及市场开拓等，持续亏损的风险与压力，会长期存在。[18]
+
 ### AI 融资
 
 人工智能基金创业工作室从零开始创建新的人工智能公司。这些公司将AI技术和应用连接起来，专注于推动世界前进的行业和问题。https://aifund.ai/
@@ -283,3 +289,4 @@ Open source models, data and transfer learning are also enabling businesses to m
 [15]: https://www.zhihu.com/question/38281398
 [16]: https://dahetalk.com/2018/12/02/%E3%80%90%E6%96%B0%E5%89%B5%E8%9E%8D%E8%B3%87%E3%80%91%E7%A8%AE%E5%AD%90%E8%BC%AA%E3%80%81%E5%A4%A9%E4%BD%BF%E8%BC%AA%E3%80%81a%E8%BC%AA%E3%80%81b%E8%BC%AA%E3%80%81c%E8%BC%AA%EF%BC%8C%E4%BD%A0/
 [17]: https://t.qidianla.com/1156537.html
+[18]: https://www.weiyangx.com/382066.html

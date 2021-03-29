@@ -34,7 +34,7 @@ Axure 9.0不用？\ `4 <https://www.bilibili.com/video/BV1it41137Xg?p=2>`__
 口碑差，实际上都用8.0、8.1
 
 **Axure实战**\ 见
-https://github.com/StevenJokess/2bPM/blob/master/rsc/meituan_PM_recovered.rp
+https://github.com/StevenJokess/2bPM/blob/master/src/meituan_PM_recovered.rp
 
 -  流程图实战:ref:\ ``flow_chart_Axure``
 -  流程图页面化实战:ref:\ ``flow_chart2page_Axure``
@@ -112,3 +112,4 @@ https://www.zhihu.com/question/56575428/answer/352398510
 -  中文互联网数据资讯网：http://www.199it.com/
 -  FT中文网：https://www.ftchinese.com/
 -  品玩：https://www.pingwest.com/
+-  最新高质量的专业资讯、数据：https://www.zhihu.com/question/367641344
