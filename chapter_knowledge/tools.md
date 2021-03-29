@@ -72,6 +72,10 @@ Tower、禅道、tapd等团队协同工具，会导致一部分人习惯把产�
 
 Axure基础操作总结：https://blog.csdn.net/zcl050505/article/details/110439551
 
+## Visio
+
+画泳道图[6]
+
 ## Sketch [5]
 
 Sketch有利于产品与UI的协同工作。对于较小的需求，在白板上画出原型后可以直接进入UI阶段。
@@ -105,3 +109,4 @@ https://www.zhihu.com/question/56575428/answer/352398510
 [3]: http://www.woshipm.com/pmd/1642415.html
 [4]: https://www.bilibili.com/video/BV1it41137Xg?p=2
 [5]: https://blog.csdn.net/Dylan_zhijing/article/details/107825514?spm=1001.2014.3001.5502
+[6]: https://www.zhihu.com/column/c_199236458

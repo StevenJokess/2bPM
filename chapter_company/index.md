@@ -13,4 +13,5 @@ dm-ai
 jd
 meituan
 xiaoice
+huatai
 ```

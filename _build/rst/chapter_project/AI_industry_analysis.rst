@@ -12,8 +12,12 @@ PEST
 
 `《新一代人工智能发展规划》 <http://www.gov.cn/zhengce/content/2017-07/20/content_5211996.htm>`__
 
-科技
+技术
 ~~~~
+
+.. figure:: ../img/AI_tech_map.png
+
+   人工智能技术场景体系层级划分（2020）\ `17 <https://www.weiyangx.com/356538.html>`__
 
 `CB
 Insights调研出2019年人工智能行业25大趋势 <http://www.stdaily.com/cxzg80/kejizixun/2019-02/19/content_750862.shtml>`__
@@ -268,16 +272,14 @@ More:
 
    data_AI_industry
 
-https://mattturck.com/data2020/
-
-中国人工智能产业发展联盟:http://aiiaorg.cn/
-中国人工智能产业知识产权白皮书2020：http://www.ai-research.online/#/whitepaper/detail/51
-https://daxueconsulting.com/category/artificial-intelligence-industry-in-china/
-
-https://www.ulapia.com/reports/search?query=AI
-https://www.iyiou.com/search?p=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD
-https://emerj.com/ai-executive-guides/
-IT桔子的工智能创投数据厍：https://www.itjuzi.com/ai
+-  https://mattturck.com/data2020/
+-  中国人工智能产业发展联盟:http://aiiaorg.cn/
+-  中国人工智能产业知识产权白皮书2020：http://www.ai-research.online/#/whitepaper/detail/51
+-  https://daxueconsulting.com/category/artificial-intelligence-industry-in-china/
+-  https://www.ulapia.com/reports/search?query=AI
+-  https://www.iyiou.com/search?p=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD
+-  https://emerj.com/ai-executive-guides/
+-  IT桔子的工智能创投数据厍：https://www.itjuzi.com/ai
 
 .. |2020 AI| image:: ../img/2020_AI.png
 .. |iresearch_AI| image:: ../img/iresearch_AI.png

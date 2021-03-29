@@ -18,3 +18,4 @@
    jd
    meituan
    xiaoice
+   huatai

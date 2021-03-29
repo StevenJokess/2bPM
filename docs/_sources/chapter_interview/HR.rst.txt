@@ -140,6 +140,9 @@ Offer
 
 2021互联网校招薪资爆料：https://blog.nowcoder.net/n/2668a1d85a174bec94e1fea21dc01551
 
+头条、美团、滴滴、阿里、腾讯、百度、华为、京东职级体系及对应薪酬：
+https://www.cnblogs.com/dhcn/p/11983157.html
+
 .. figure:: ../img/salary_content.png
 
    薪资结构与公司的成本\ `11 <http://www.woshipm.com/zhichang/807191.html>`__

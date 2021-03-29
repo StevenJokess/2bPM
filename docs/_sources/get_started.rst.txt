@@ -59,8 +59,8 @@ https://www.overleaf.com/project/603dfbba8126ff225dc18564
 
 -  健身跳绳、计算机AI、金融的基础
 -  《动手学深度学习》GAN、DCGAN从MXNet到PyTorch的开发
--  PyTorch Android demo等移动深度学习框架复现
--  docker部署的d2lbook2写 《To be AI PM》
+-  PyTorch Android demo等四种移动深度学习框架复现
+-  Docker部署的d2lbook2写 《To be AI PM》
 -  证书：省跳绳铜牌、初级教练、裁判证；会计、证券、基金从业；六级、二甲
 -  快速学习：与时俱进、千书阅读
 

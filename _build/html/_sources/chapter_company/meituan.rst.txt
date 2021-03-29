@@ -54,6 +54,11 @@
 
 在电影院、KTV、烘焙店这三个领域做起来之后，美团网在东莞打开了局面，2011年3月，美团网东莞站反超拉手网，之后也没有被拉手网夺回优势。
 
+财报
+----
+
+根据财报来看，2020年第四季度美团新业务的亏损也从去年同期的11亿元扩大至60亿元，直接导致四季度净亏损22.4亿元。而其新业务之一便是当下最火的社区团购，自美团第三季度大力投入社区团购后，其烧钱速度就不断在加快。\ `27 <https://www.weiyangx.com/382825.html>`__
+
 夏华夏报告
 ----------
 
@@ -243,6 +248,8 @@ https://www.zhihu.com/org/mei-tuan-dian-ping-ji-shu-tuan-dui/posts
 风控
 ----
 
+.. _财报-1:
+
 .. figure:: ../img/meituan_risk_management.png
 
    美团风控
@@ -252,6 +259,7 @@ https://www.zhihu.com/org/mei-tuan-dian-ping-ji-shu-tuan-dui/posts
 -  团队价值观是否统一
 -  对风险是否足够了解
 -  是否得到上层支持
+
 
 财报
 ----
