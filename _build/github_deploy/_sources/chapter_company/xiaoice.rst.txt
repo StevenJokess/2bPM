@@ -106,10 +106,7 @@ CEO。新公司将继续保留中国小冰、日本 Rinna 品牌。
    月，第七代微软小冰发布。提出了可以面向行业打造多款人工智能形象的
    Avatar Framework，并且能够主导对话进行，Avatar Framework
    代表了小冰商业化的重要方向。
-
-.. figure:: ../img/CV_xiaoice.png
-
-   小冰简历
+-  https://www.bilibili.com/video/av841854198/ |小冰简历|
 
 领域
 ----
@@ -206,3 +203,5 @@ Avatar Framework
 ----
 
 百度百科\ `17 <https://baike.baidu.com/item/%E5%B0%8F%E5%86%B0/19880611?fromtitle=%E5%BE%AE%E8%BD%AF%E5%B0%8F%E5%86%B0&fromid=14076870>`__
+
+.. |小冰简历| image:: ../img/CV_xiaoice.png

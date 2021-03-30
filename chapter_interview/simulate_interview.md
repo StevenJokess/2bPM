@@ -16,6 +16,26 @@ TODO: https://t.qidianla.com/author/qdxy-pmjy
 
 针对你的简历提问
 
+### 个人介绍
+
+### 我自己的介绍
+
+我叫蔡舒起，年龄23，现求职一份金融AI产品经理岗位。
+
+- 金融方面：2020届的山西大学金融学专业的毕业生，获得三好学生学业奖学金，拥有会计、证券、基金从业证书，毕业论文是用Python的Statsmodel库里的VAR模型完成的《中美股市的联动性分析》，提出百度股价被低估能上300USD的想法，实现后。现注意到百度股票主打AI第一股重新去香港上市。
+- AI方面：我的整个经历，大一参加数学建模了解了神经网络算法，后在网络金融课分享了鱼书的ppt，得知金融方面的非结构信息常用深度学习算法，之后阅读过二十几本人工智能相关书籍，在20年用4个月自学完了《动手学深度学习》预览版并动手翻译MXNet到PyTorch的GAN\DCGAN，复现PyTorch、DJL等一系列深度学习移动端框架的Demo。
+- 产品经理方面：虽然没有工作经历，但还是努力修炼了一系列的能力。战略能力上，在百度一面失败后，考虑到了百度开发者版的想法。沟通能力上，与MXNet的开发者交流无人社区冷淡情况。学习上，学习十余本产品有关的书，并自行总结了AI产品经理的工作内容和技能要求，用Docker部署成《To be AI PM》书。
+
+### 百度aistudio面试
+
+当时是问了我常用的框架，我说PyTorch，一个是学术开源的多，一个是官方论坛讨论的多。后来我反思应该把这种关系说成飞轮效应，相互促进。
+
+后面接连问了几个问题，我当时没反应和记忆过来，后来发现应该是考虑需求收集的能力，应该备纸笔来辅助记忆。
+
+后面面试官提到应该做些项目来锻炼我的产品思维，并给我推荐了《产品方法论》。
+
+https://github.com/StevenJokess/d2l-en-read/blob/moreme/chapter-generative-adversarial-networks/aistudio-job.md
+
 ### 说服szha开放评论区
 
 https://github.com/apache/incubator-mxnet/issues/18931
@@ -30,9 +50,45 @@ https://github.com/apache/incubator-mxnet/issues/18931
 
 ### 心态崩溃的原因
 
-- 校招社招两头为难：由于疫情没能实习，又想转行AI。
+- 校招社招两头为难：由于疫情没能实习和春招，错过应届生省份，又想转行AI。
 - 家里催的急引发的稀缺心态：由于家里经济条件不好会导致大脑的注意力被稀缺资源俘获。过度关注当前利益而无法考虑长远利益，使得过于抒发了负面zs情绪[2]
-- 感觉未来就业无望：由于并非名校，且金融尤其看学历。
+- 感觉未来就业无望：由于并非名校，且金融专业尤其看学历和背景。
+
+所以，心态崩溃根本原因是对人生未来的迷茫无助、家庭的经济能力差导致的，如果有一份较为稳定光明的工作，比如这份工作，我的**情绪控制能力**还是可以的，毕竟，没几个能在家里承受压力憋将近一年去修炼技能的。
+
+## GAN、DCGAN
+
+- https://preview.d2l.ai/d2l-en/master/chapter_generative-adversarial-networks/gan.html
+- https://preview.d2l.ai/d2l-en/master/chapter_generative-adversarial-networks/dcgan.html
+
+部分测试：
+
+GAN:
+
+- https://github.com/StevenJokess/d2l-en-read/blob/moreme/chapter-generative-adversarial-networks/my5gan.ipynb
+- https://github.com/StevenJokess/d2l-en-read/blob/moreme/chapter-generative-adversarial-networks/D_block_ok.ipynb
+- https://github.com/StevenJokess/d2l-en-read/blob/moreme/chapter-generative-adversarial-networks/G_block1.ipynb
+- https://github.com/StevenJokess/d2l-en-read/blob/moreme/chapter-generative-adversarial-networks/gan_torch.ipynb
+
+DCGAN:
+
+- https://github.com/StevenJokess/d2l-en-read/blob/moreme/chapter-generative-adversarial-networks/dcgan_torch5.ipynb
+- https://github.com/StevenJokess/d2l-en-read/blob/moreme/chapter-generative-adversarial-networks/dcgan_train1.ipynb
+- https://github.com/StevenJokess/d2l-en-read/blob/moreme/chapter-generative-adversarial-networks/dcgan_pt3.ipynb
+- https://github.com/StevenJokess/d2l-en-read/blob/moreme/chapter-generative-adversarial-networks/dcgan_n2train.ipynb
+- https://github.com/StevenJokess/d2l-en-read/blob/moreme/chapter-generative-adversarial-networks/colab_pt_DCGAN/DCGAN_ptlr5.ipynb
+
+之前测试的：
+
+- https://github.com/StevenJokess/d2l-en-read/blob/moreme/Ch17_GAN/17-1pt.ipynb
+- https://github.com/StevenJokess/d2l-en-read/blob/moreme/Ch17_GAN/17-2pt.ipynb
+
+虽然我的commit记录没了，但我的记录就是原#@tab pytorch里的内容
+
+- https://github.com/d2l-ai/d2l-en/pull/1400
+- https://github.com/d2l-ai/d2l-en/pull/1422
+
+我解释情绪与mli、astonzhang沟通：https://github.com/d2l-ai/d2l-en/pull/1449
 
 ### 为什么选择这一行
 
@@ -56,6 +112,8 @@ https://github.com/apache/incubator-mxnet/issues/18931
 - 金融风控：基于小冰人工智能技术生成的文本、大数据金融知识图谱来做风控。
 - 金融资讯：实时翻译来提供中英双语AI金融资讯，每日经济新闻、华尔街见闻。ToC
 
+https://github.com/StevenJokess/2bPM/blob/master/chapter_company/xiaoice.md
+
 ## 准备提问
 
 ### 官网的问题
@@ -71,7 +129,7 @@ https://github.com/apache/incubator-mxnet/issues/18931
 - 登录：要先注册不明显
 - 注册必须要密码，而登录却可以只靠验证码
 - 没有更改手机
-- 注册界面 [6]：© 2020 Microsoft
+- 注册界面 [6]：还是© 2020 Microsoft
 - 是否可以从金融专业的翻译入手[7]
 
 ## Boss面

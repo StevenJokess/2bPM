@@ -109,7 +109,7 @@ ML VS software engineering
 更多
 ----
 
-https://mitpress.ublish.com/ereader/7093/?preview=#page/v
+https://mitpress.ublish.com/ereader/7093/?preview=#page/
 
 1. https://www.jianshu.com/p/ed9ae5385b89
 2. https://www.jianshu.com/p/0359e3b7bb1b

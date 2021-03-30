@@ -19,3 +19,4 @@
    meituan
    xiaoice
    huatai
+   JPMorgan

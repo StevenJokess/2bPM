@@ -1,8 +1,8 @@
 
-.. _chap_dive:
+.. _chap_AI_dive:
 
-深入学习
-========
+深入学习AI
+==========
 
 
 ​
@@ -13,15 +13,18 @@
    zongshen
    expert
    qi_yuan
+   AI_Research
    code
    feature_engineering
    ML
    MLOps
    DL
+   knowledge_map
    Federated Learning
    mobile
+   cognition_AI
    real
-   huidu
    AI_test
+   huidu
    AI_deploy
    develop

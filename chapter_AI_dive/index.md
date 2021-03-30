@@ -1,5 +1,5 @@
-# 深入学习
-:label:`chap_dive`
+# 深入学习AI
+:label:`chap_AI_dive`
 ​
 
 ```toc
@@ -8,16 +8,19 @@
 zongshen
 expert
 qi_yuan
+AI_Research
 code
 feature_engineering
 ML
 MLOps
 DL
+knowledge_map
 Federated Learning
 mobile
+cognition_AI
 real
-huidu
 AI_test
+huidu
 AI_deploy
 develop
 ```
