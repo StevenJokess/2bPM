@@ -40,6 +40,13 @@ Map
 
    AI商业\ `22 <https://cloud.tencent.com/edu/learning/live-2877>`__
 
+优先级
+------
+
+.. figure:: ../img/Tech_Priorty.png
+
+   技术优先级\ `25 <https://gw.alipayobjects.com/os/bmw-prod/6f1e0b5c-e068-49a6-bc0a-90d5e9131a72.pdf>`__
+
 类型 `13 <https://easyai.tech/blog/test-ai-with-hbi/>`__
 --------------------------------------------------------
 

@@ -23,6 +23,10 @@
 
 ![AI商业[22]](../img/AI_business.png)
 
+## 优先级
+
+![技术优先级[25]](../img/Tech_Priorty.png)
+
 ## 类型 [13]
 
 - “肌肉T恤”——忽悠
@@ -227,3 +231,4 @@ http://aima.cs.berkeley.edu/
 [22]: https://cloud.tencent.com/edu/learning/live-2877
 [23]: https://www.chenpe.com/news/215513.html
 [24]: http://www.woshipm.com/ai/4416771.html
+[25]: https://gw.alipayobjects.com/os/bmw-prod/6f1e0b5c-e068-49a6-bc0a-90d5e9131a72.pdf

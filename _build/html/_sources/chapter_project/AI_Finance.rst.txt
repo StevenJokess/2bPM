@@ -306,6 +306,9 @@ AI 在金融领域落地面临困难和挑战 `3 <http://www.ramywu.com/work/201
 
 金融行业怎么用AI？蚂蚁金服是这么做的：https://tech.antfin.com/community/articles/625
 
+AI + 金融：10家头部人工智能厂商金融产品盘点:
+http://www.rpa-cn.com/zuixinzixun/AIshijiao/2020-07-20/2638.html
+
 智能投顾
 --------
 

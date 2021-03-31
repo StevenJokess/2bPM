@@ -80,6 +80,14 @@ CNN优缺点：
 
 对于深度学习、统计的专家来说，他们更加关注于模型、算法等等，找到可以普适性解决问题的办法。而对于我们应用来说，具体的算法实现不需要我们考虑太多，而是找到适合的场景、合适的模型、匹配的算法，所以应用人工智能实际上是一个计算机、统计、知识工程、行业知识的一个交叉应用。 [3]
 
+## Robust
+
+无人驾驶领域，在极端情况会不会做出很不好的答案。
+
+## 安装
+
+https://www.bilibili.com/video/BV18p4y1h7Dr?p=1
+
 ## 各框架资源
 
 Tensorflow：
@@ -94,3 +102,4 @@ Tensorflow：
 [6]: http://www.tensorfly.cn/
 [7]: https://www.infoq.cn/article/W2koiEheFZEEOv1rOu1d
 [8]: http://shujuren.club/a/AI0102.html
+[9]: https://www.bilibili.com/video/BV1J54y187f9?p=2

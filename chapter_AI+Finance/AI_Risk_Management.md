@@ -8,4 +8,7 @@
 
 从监管层面，监管机构鼓励金融服务业在风险可控的前提下创新，但随着监管机构加强风险、合规和安全方面的监管，金融服务业需要通过更有效的手段来满足监管要求。[1]
 
+金融风控解决方案：
+https://ecloud.10086.cn/home/solution/finance/risk
+
 [1]: https://www.weiyangx.com/351456.html

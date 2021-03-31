@@ -3,6 +3,14 @@
 
 ![整个产品实现的流程和生命周期[1]](../img/whole_process.png)
 
+![完整项目的角色](../img/whole_project.png)
+
+领域专家：用无人机看书，农业专家对二月份的树该有大致的样子是清楚的。甲方翻译成任务交给数据科学家（乙方）去提高。
+数据科学家：关心实际业务问题。不断开发新领域。
+AI专家：不仅能用，精度性能。领域做深。[4]
+
+自然语言处理不如图片应用做的好。
+
 https://i.am.ai/roadmap
 
 AI产品经理的进阶地图 - 知乎
@@ -75,3 +83,4 @@ more_users
 [1]: https://ke.qidianla.com/courses/pmcamp?channel=bbs
 [2]: http://www.mysecretrainbow.com/ai/18035.html
 [3]: https://coggle.it/diagram/XDvxtYllM9x_N_j9/t/%E6%88%90%E4%B8%BA%E8%85%BE%E8%AE%AF%E4%BA%A7%E5%93%81%E5%9F%B9%E8%AE%AD%E7%94%9F%EF%BC%88ai%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%EF%BC%8C%E7%AD%96%E7%95%A5%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%EF%BC%8C%E4%BA%91%E8%AE%A1%E7%AE%97%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E7%AD%89%EF%BC%8C%E6%9C%80%E5%A5%BD%E6%98%AFtob%E7%9A%84%E4%BA%A7%E5%93%81%EF%BC%89
+[4]: https://www.bilibili.com/video/BV1J54y187f9/?p=2&spm_id_from=pageDriver

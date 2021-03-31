@@ -95,9 +95,19 @@ PEST
 
 包括兴业银行、招商银行、光大银行、民生银行、华夏银行、北京银行、建行、工行、中行等都先后成立了金融科技子公司，围绕金融科技的各相关前瞻技术，开始了各种落地探索研究。\ `4 <https://www.weiyangx.com/378231.html>`__
 
+`中国领先金融科技企业50 <https://assets.kpmg/content/dam/kpmg/cn/pdf/zh/2021/01/china-fintech-50.pdf>`__
+
+2021十大趋势 `6 <https://gw.alipayobjects.com/os/bmw-prod/6f1e0b5c-e068-49a6-bc0a-90d5e9131a72.pdf>`__
+------------------------------------------------------------------------------------------------------
+
+.. figure:: ../img/FinTech_Trend.png
+
+   2021十大趋势
+
 更多
 ----
 
 未央网：https://www.weiyangx.com/
+https://www.leiphone.com/category/fintech
 
 .. |应用场景\ | image:: ../img/AI_finance.png

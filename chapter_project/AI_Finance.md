@@ -242,6 +242,8 @@ https://www.zhihu.com/question/33731819/answer/120081634
 
 金融行业怎么用AI？蚂蚁金服是这么做的：https://tech.antfin.com/community/articles/625
 
+AI + 金融：10家头部人工智能厂商金融产品盘点: http://www.rpa-cn.com/zuixinzixun/AIshijiao/2020-07-20/2638.html
+
 ## 智能投顾
 
 http://www.pbcsf.tsinghua.edu.cn/portal/article/index/id/5130.html

@@ -78,12 +78,20 @@ IT系统——支付——信贷——大金融——生活
 
 包括兴业银行、招商银行、光大银行、民生银行、华夏银行、北京银行、建行、工行、中行等都先后成立了金融科技子公司，围绕金融科技的各相关前瞻技术，开始了各种落地探索研究。[4]
 
+[中国领先金融科技企业50](https://assets.kpmg/content/dam/kpmg/cn/pdf/zh/2021/01/china-fintech-50.pdf)
+
+## 2021十大趋势 [6]
+
+![2021十大趋势](../img/FinTech_Trend.png)
+
 ## 更多
 
 未央网：https://www.weiyangx.com/
+ https://www.leiphone.com/category/fintech
 
 [1]: https://zh.wikipedia.org/wiki/%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80
 [2]: https://www.donews.com/news/detail/4/3084506.html
 [3]: https://weread.qq.com/web/reader/e77325105e4e55e77af47dbk45c322601945c48cce2e120
 [4]: https://www.weiyangx.com/378231.html
 [5]: https://www.jianshu.com/p/6c76d2aad3f3
+[6]: https://gw.alipayobjects.com/os/bmw-prod/6f1e0b5c-e068-49a6-bc0a-90d5e9131a72.pdf
