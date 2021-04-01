@@ -11,6 +11,24 @@ https://zhuanlan.zhihu.com/p/109261065
 
 ## Project
 
+Microsoft Project
+
+适用平台：Windows&Mac
+
+软件特点：
+
+- 全能型项目管理工具；
+- Microsoft家族软件成员；
+- 无需联网即可使用；
+- 有资源管理和人员管理模块；
+- 有甘特图、燃尽图等模板；
+
+缺点：
+
+- 收费，有永久激活版；
+- 无法多人协作；
+- 共享和演示功能弱；
+
 甘特图：https://support.microsoft.com/zh-cn/office/%E4%BD%BF%E7%94%A8%E7%94%98%E7%89%B9%E5%9B%BE%E8%A7%86%E5%9B%BE-0e84efa4-78ce-4cd1-baed-5159a55f78b4
 
 - https://www.iamxiarui.com/?paged=3&cat=111

@@ -6,6 +6,7 @@
 
 idea
 empathy
+create
 data
 communicate
 negotiation

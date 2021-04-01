@@ -11,6 +11,7 @@
 
 xintai
 choose
+require
 CV
 AI_Finance_CV
 exam

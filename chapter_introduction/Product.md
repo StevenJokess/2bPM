@@ -339,6 +339,14 @@ PMF 讲的是产品与市场的匹配，要验证的是增长，也就是产品�
 
 用户需求 + 产品定义 = 产品定位
 
+## 产品层次 [19]
+
+- 核心产品：向顾客提供的产品的基本效用或利益
+- 形式产品：实现形式，品质、式样、特征、商标及包装
+- 期望产品：购买产品时渴望得到与产品密切相关的一整套属性和条件
+- 延伸产品：购买形式产品和期望产品时附带获得的各种利益的总和
+- 潜在产品：可能发展成为未来最终产品的潜在状态的产品
+
 ## 产品计划 [16]
 
 产品遵循1-3-6-9原则：一个月时间完成项目的可行性研究和市场定位、市场细化；3个月内制订出产品开发的二三级计划和产品包计划；6个月系统试运行，做市场发布准备，产品命名和定价；9个月系统商业运行，市场发布、推广和销售。
@@ -367,3 +375,4 @@ PMF 讲的是产品与市场的匹配，要验证的是增长，也就是产品�
 [16]: https://blog.csdn.net/liwei16611/article/details/82630078
 [17]: https://t.qidianla.com/1173713.html
 [18]: https://blog.csdn.net/kepengs/article/details/92955349?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-9.baidujs&dist_request_id=1328740.12762.16168265945036403&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-9.baidujs
+[19]: https://zhuanlan.zhihu.com/p/25772426

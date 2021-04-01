@@ -60,6 +60,8 @@
 
 如果由一个人同时担任产品经理和项目经理，就很容易左右互搏。需求是自己的，当然希望都做。但开发过程中遇到难题怎么办。砍需求？改方案？自己预期中最完美的方案要舍弃还是挺心痛的。坚持把需求按原方案做完？项目延期，影响正常上线，责任谁担？
 
+如果产品经理是大写的PM，那么项目经理就是小写的pm，**项目经理**可以理解成是产品经理工作**在项目管理上的细分岗位**职能。一般产品经理如果在工作中忙得过来就会负责项目管理层面的工作，但是如果产品上线，产品层面工作颗粒度变细，这部分工作产品经理就需要拆分出去给其Ta小伙伴负责。[56]
+
 ### 时代背景
 
 过去需要的是项目经理式的工作能力，而现在更强调产品经理式的工作能力。
@@ -737,3 +739,4 @@ http://www.pm265.com/
 [53]: https://developers.google.com/machine-learning/crash-course/static-vs-dynamic-inference/video-lecture?hl=zh-cn
 [54]: https://t.qidianla.com/1156501.html
 [55]: http://dadaghp.com/index/index/article_detail/mikuai/wenzhang/id/314.html
+[56]: https://zhuanlan.zhihu.com/p/25796796

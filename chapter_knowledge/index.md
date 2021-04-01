@@ -64,7 +64,7 @@ tools
 flow_chart
 static_page
 prototype_design
-IXD_analysis
+IXD_design
 MVP
 service_analysis
 strategy_analysis

@@ -216,9 +216,8 @@ Yeelight语音助手主打双AI系统，里面住着两个小伙伴：一个是�
 
 ## 更多
 
-百度百科[17]
-
-
+- 百度百科[17]
+- bilibili[20]
 
 [1]: https://www.linkedin.com/company/%E5%8C%97%E4%BA%AC%E7%BA%A2%E6%A3%89%E5%B0%8F%E5%86%B0%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/about/
 [2]: https://www.msxiaoice.com/User/FAQ
@@ -239,3 +238,4 @@ Yeelight语音助手主打双AI系统，里面住着两个小伙伴：一个是�
 [17]: https://baike.baidu.com/item/%E5%B0%8F%E5%86%B0/19880611?fromtitle=%E5%BE%AE%E8%BD%AF%E5%B0%8F%E5%86%B0&fromid=14076870
 [18]: https://baike.baidu.com/reference/19880611/798fF-tZITGqNuXJDTM2w8P9bDbCaYeYhumk7S9oYay03QLq5YAgqtS5WaL3WG9nq22YLxdTIzgvpF0oR76IYm4lOHN7KFd3iioTwyaM0FlsOnZDHr8kDk9oIYkxSA
 [19]: https://www.bilibili.com/video/av841854198/
+[20]: https://space.bilibili.com/35205238
