@@ -365,5 +365,8 @@ Liu还提醒大家，在做行研的时候不能求快，要以慢为快，在�
 在咨询公司工作的人、金融业做投研、行业研究的人，这些人在写报告的时候，通过什么渠道来获取资料和数据？：
 https://www.zhihu.com/question/278003245/answer/397609947
 
+在哪里能找到各行业的分析研究报告？ - 曹婷婷的回答 - 知乎
+https://www.zhihu.com/question/19766160/answer/92693568
+
 .. |技术成熟度曲线| image:: ../img/hype_cycle.jpg
 .. |技术成熟度曲线细节| image:: ../img/hype_cycle_detail.jpg
