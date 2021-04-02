@@ -54,6 +54,14 @@ UI设计师一般需要了解心理学、设计学、语言学等方面的知识
 
 很多童鞋经常会把交互动效理解为交互设计，交互动效仅仅是为了美化交互过程而做的设计，只是交互设计中的一部分，好的交互设计只能说是锦上添花，而并不是雪中送炭，而优秀的交互设计，是可以帮助用户优雅而又高效地完成所设想的任务，用户在整个过程中能感到愉悦而不受打扰。
 
+## UI测试
+
+前端UI测试：http://www.jfrcw.com/zhichang/215579.html
+
+## 交互设计
+
+- 阿里、谷歌、亚马逊语音交互设计规范[10]
+- 前后端交互[11]
 
 [1]: https://t.qidianla.com/1174989.html
 [2]: http://www.woshipm.com/ucd/2294526.html
@@ -64,3 +72,5 @@ UI设计师一般需要了解心理学、设计学、语言学等方面的知识
 [7]: https://zhuanlan.zhihu.com/p/26035392
 [8]: https://zhuanlan.zhihu.com/p/26103663
 [9]: https://zhuanlan.zhihu.com/p/26081162
+[10]: https://www.yuque.com/weis/ai/qui8gs
+[11]: https://vickydyy.github.io/2019/06/02/%E5%89%8D%E5%90%8E%E7%AB%AF%E4%BA%A4%E4%BA%92/

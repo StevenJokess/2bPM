@@ -207,6 +207,10 @@ CS 188 | Introduction to Artificial Intelligence：https://inst.eecs.berkeley.ed
 
 http://aima.cs.berkeley.edu/
 
+## 大众对AI的认知
+
+https://www.yuque.com/weis/paper/cbgbkg
+
 [1]: https://www.jianshu.com/p/2659f66a57b3
 [2]: https://easyai.tech/blog/ai-pm-knowledge/
 [3]: https://www.sohu.com/a/364264851_114819
@@ -232,3 +236,4 @@ http://aima.cs.berkeley.edu/
 [23]: https://www.chenpe.com/news/215513.html
 [24]: http://www.woshipm.com/ai/4416771.html
 [25]: https://gw.alipayobjects.com/os/bmw-prod/6f1e0b5c-e068-49a6-bc0a-90d5e9131a72.pdf
+[26]: https://www.yuque.com/weis/paper/cbgbkg

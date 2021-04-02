@@ -16,6 +16,7 @@ MLOps
 DL
 NLP
 knowledge_map
+chatbot
 Federated Learning
 mobile
 cognition_AI

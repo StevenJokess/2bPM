@@ -14,11 +14,15 @@
 https://www.bilibili.com/video/BV1ng4y1z7tW?from=search&seid=6415503955533295161
 
 TODO:
-响巢看看产品体验报告：https://www.jianshu.com/p/905028cf416b
-「玩票」产品分析报告： https://www.jianshu.com/p/17ddec8fe63f
-携程旅行产品分析报告：https://www.jianshu.com/p/31e49097ab4e
-每天读点故事APP产品分析报告：http://www.woshipm.com/evaluating/1103753.html
+
+- 响巢看看产品体验报告：https://www.jianshu.com/p/905028cf416b
+- 「玩票」产品分析报告： https://www.jianshu.com/p/17ddec8fe63f
+- 携程旅行产品分析报告：https://www.jianshu.com/p/31e49097ab4e
+- 每天读点故事APP产品分析报告：http://www.woshipm.com/evaluating/1103753.html
+- "全民K歌"产品分析报告：https://vickydyy.github.io/2019/06/22/KTV-Product-Analysis/
+
 
 [1]: https://www.jianshu.com/p/9fff898ce6bd
 [2]: https://www.zhihu.com/people/woyaonuliya/postss
 [3]: https://g.yuque.com/zhongguodianxinyanjiuyuan/bgso10/fqs7tp
+[4]: https://vickydyy.github.io/2019/06/22/KTV-Product-Analysis/

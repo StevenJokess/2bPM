@@ -34,6 +34,7 @@ TODO:https://tangjie.me/blog/118.html
 
 
 ## 尼尔森十大原则 [2]
+:label:`Nielsen`
 
 **尼尔森十大可用性原则**是人机交互学博士尼尔森（Nielsen）在分析了200多个可用性问题后提炼出的十项通用型原则，是产品设计与用户体验设计的重要参考标准，值得深入研究与运用。
 
@@ -46,7 +47,10 @@ TODO:https://tangjie.me/blog/118.html
 1. **灵活高效原则（Flexibility and Efficiency of Use）**：在产品设计过程中，应充分考虑操作的灵活性和信息传递的高效性，简化操作过程，减少信息传递过程，为用户提供更便捷的操作方式。就像在电子商务系统中寻找商品一样，如果商品种类过多，用户需要逐级查找才可以寻找到目标商品，为了避免出现分类过多的问题，电子商务系统提供了虚拟分类、分类导航等多种方式让用户可以便捷地找到目标商品。
 1. **易扫原则（Aesthetic and Minimalist Design）**：保留主要信息展示，尽量避免无关信息影响主要信息，保证主要信息的简洁和美观。互联网用户浏览界面的动作不是读，也不是看，而是扫。易扫，意味着突出重点，弱化和剔除无关信息。
 1. **容错原则（Help Users Recognize，Diagnose，and Recover From Errors）**：产品设计时应充分考虑用户可能出现的错误，并设计功能帮助用户从错误中恢复，将损失降到最低。如果无法自动挽回，则应提供详尽的说明文字和指导方向。
-1. **人性化帮助原则（Help andDocumentation）**:优秀的产品不需要帮助文档，如果必须要提供帮助文档，则以流程化、图形化的形式提供。
+1. **人性化帮助原则（Help and Documentation）**:优秀的产品不需要帮助文档，如果必须要提供帮助文档，则以流程化、图形化的形式提供。
+
+![口碑分析1[15]](../img/nielsen_eg1.png)
+![口碑分析2[15]](../img/nielsen_eg2.png)
 
 ### 违反原则
 
@@ -136,3 +140,4 @@ TODO:https://tangjie.me/blog/118.html
 [12]: https://tangjie.me/blog/171.html
 [13]: http://www.woshipm.com/ai/2296413.htmls
 [14]: http://www.woshipm.com/zhichang/4180017.html
+[15]: https://vickydyy.github.io/2019/05/26/Product-User-Thought/

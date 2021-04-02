@@ -87,7 +87,41 @@
 - 准确率（P值）是针对我们预测结果而言的，它表示的是预测为正的样本中有多少是真正的正样本。
 - 召回率（R值）是针对我们原来的样本而言的，它表示的是样本中的正例有多少被预测正确了。
 
+## 流程 [20]
+
+1. 目标定义
+确认机器学习要解决的问题本质以及衡量的标准。
+
+机器学习的目标可以被分为：分类、回归、聚类、异常检测等。
+
+2. 数据采集
+原始数据作为机器学习过程中的输入来源是从各种渠道中被采集而来的。
+
+3. 数据预处理
+普通数据挖掘中的预处理包括数据清洗、数据集成、数据转换、数据削减、数据离散化。
+
+深度学习数据预处理包含数据归一化（包含样本尺度归一化、逐样本的均值相减、标准化）和数据白化。需要将数据分为三种数据集，包括用来训练模型的训练集（training set），开发过程中用于调参（parameter tuning）的验证集（validation set）以及测试时所使用的测试集（test set）。
+
+数据标注的质量对于算法的成功率至关重要。
+
+4. 模型训练
+模型训练流程：每当有数据输入，模型都会输出预测结果，而预测结果会用来调整和更新W和B的集合，接着训练新的数据，直到训练出可以预测出接近真实结果的模型。
+
+5. 准确率测试
+用第三步数据预处理中准备好的测试集对模型进行测试。
+
+6. 调参
+参数可以分为两类，一类是需要在训练（学习）之前手动设置的参数，即超参数（hypeparameter），另外一类是通常不需要手动设置、在训练过程中可以被自动调整的参数（parameter）。
+
+调参通常需要依赖经验和灵感来探寻其最优值，本质上更接近艺术而非科学，是考察算法工程师能力高低的重点环节。
+
+7. 模型输出
+模型最终输出应用于实际应用场景的接口或数据集。
+
+
 ## 更多
+
+https://yulinzhao.wordpress.com/category/3_machine-learning/
 
 https://mitpress.ublish.com/ereader/7093/?preview=#page/
 
@@ -145,3 +179,4 @@ More[15]
 [17]: https://www.coursera.org/learn/machine-learning?utm_source=gg&utm_medium=sem&utm_content=07-StanfordML-US&campaignid=685340575&adgroupid=32639001781&device=c&keyword=machine%20learning%20programming%20tutorial&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=243289762754&hide_mobile_promo&gclid=EAIaIQobChMIhY7m1Pfa6wIVtR6tBh0UCQAJEAAYASAAEgJcV_D_BwEhttps://www.coursera.org/learn/machine-learning?utm_source=gg&utm_medium=sem&utm_content=07-StanfordML-US&campaignid=685340575&adgroupid=32639001781&device=c&keyword=machine%20learning%20programming%20tutorial&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=243289762754&hide_mobile_promo&gclid=EAIaIQobChMIhY7m1Pfa6wIVtR6tBh0UCQAJEAAYASAAEgJcV_D_BwE
 [18]: https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t
 [19]: https://developers.google.com/machine-learning/crash-course/static-vs-dynamic-training/video-lecture?hl=zh-cn#:~:text=%E4%BB%8E%E5%B9%BF%E4%B9%89%E4%B8%8A%E8%AE%B2%EF%BC%8C%E8%AE%AD%E7%BB%83,%E6%A8%A1%E5%9E%8B%E9%87%87%E7%94%A8%E5%9C%A8%E7%BA%BF%E8%AE%AD%E7%BB%83%E6%96%B9%E5%BC%8F%E3%80%82
+[20]: http://www.woshipm.com/pmd/2942899.html
