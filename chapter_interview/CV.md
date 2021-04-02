@@ -1,4 +1,4 @@
-# CV
+# 简历 CV
 
 ![CV](../img/CV.jpg)
 ![CV2](../img/CV2.png)
