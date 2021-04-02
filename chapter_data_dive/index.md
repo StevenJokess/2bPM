@@ -6,7 +6,7 @@
 
 data
 data_industry
-compliance_datas
+compliance_data
 pirate
 private
 ```

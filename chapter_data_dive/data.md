@@ -10,6 +10,10 @@
 
 人工智能产品对数据除了有量的要求，还有质的要求，衡量数据质量的标准包括四个R：关联度relevancy（首要因素）、可信性reliability（关键因素）、范围range、时效性recency。
 
+### 可行度
+
+2018年4月，易观数据发布《中国共享单车行业数据报告》，报告中称，2018年2月，ofo小黄车、摩拜单车和哈罗单车的市场覆盖率分别为50.89%、49.14%和5.64%。哈罗单车CEO杨磊在朋友圈中转发相关消息吐槽：这种机构，给出来的数据就是个笑话。[3]
+
 ### 数据获取地址：
 
 - ICPSR：www.icpsr.umich.edu
@@ -19,3 +23,4 @@
 
 [1]: https://scholar.harvard.edu/files/ctang/files/data_industry_draft_in_chinese.pdf
 [2]: http://www.woshipm.com/pmd/2942899.html
+[3]: http://tech.sina.com.cn/i/2018-06-02/doc-ihcikcew4309938.shtml

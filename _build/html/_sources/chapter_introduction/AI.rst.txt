@@ -267,5 +267,10 @@ Intelligence：https://inst.eecs.berkeley.edu/~cs188/sp21/
 
 http://aima.cs.berkeley.edu/
 
+大众对AI的认知
+--------------
+
+https://www.yuque.com/weis/paper/cbgbkg
+
 .. |AI历史\ | image:: ../img/AI_history.png
 .. |AI学派\ | image:: ../img/AI_xuepai.png

@@ -144,9 +144,7 @@ BCG的价值3层面把商业模式分成了价值定位和价值传导2个大的
 
 商业画布不仅能够提供更多灵活多变的计划,还更容易满足用户的需求。更重要的是它可以将商业模式中的元素标准化井强调元素间的相互作用。
 
-.. figure:: ../img/business_draw.png
-
-   商业画布
+|商业画布| |商业闭环设计|
 
 1. 客户细分（Customer
    Segments）：为谁服务？谁来买单？大众/小众市场、利基市场、区隔化市场、多元化市场、多边平台市场。
@@ -167,6 +165,10 @@ BCG的价值3层面把商业模式分成了价值定位和价值传导2个大的
 
 不用纠结商业模式画布是不是最好的商业模式模型，只要将其作为商业模式设计入门的初步理解材料即可
 `2 <https://www.zhihu.com/question/21472586s>`__
+
+.. figure:: ../img/weread_business_draw.png
+
+   微信读书的商业画布\ `22 <https://vickydyy.github.io/2019/05/26/Data-Business-Thought/>`__
 
 工具：\ `BMS（商业模式沙盘：Business Mode
 Sandboxie） <https://bms.your01.com/>`__
@@ -302,3 +304,6 @@ TODO:\ `14 <https://radiant-brushlands-42789.herokuapp.com/medium.com/predict/ch
 离线SDK介绍：阿里云视觉智能开放平台的离线SDK可以为终端设备提供AI能力，目前支持提供OCR、美颜、分割等常用AI能力的离线SDK。阿里云视觉智能开放平台通过license授权方式管理离线SDK。
 
 准备工作：在安装和使用阿里云SDK前，确保您已经注册阿里云账号并生成访问密钥（AccessKey）。详情请参见创建AccessKey。
+
+.. |商业画布| image:: ../img/business_draw.png
+.. |商业闭环设计| image:: ../img/business_closed_loop.png

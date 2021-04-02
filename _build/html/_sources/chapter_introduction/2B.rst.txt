@@ -430,7 +430,8 @@ B端产品的转移成本相比之下要高很多。消费者和直接使用者�
 2B2C化 `23 <http://www.changgpm.com/thread-153-1-1.html>`__
 -----------------------------------------------------------
 
-原有的B端业务开始向C端进行营销，类似于阿里云、高通、蚂蚁金服等都开始打C端广告，想像当年的英特尔一样，挟消费者以令采购方。
+原有的B端业务开始向C端进行营销，类似于阿里云、高通、蚂蚁金服等都开始打C端广告，想像当年的英特尔一样，挟消费者以令采购方。2B
+VS 2C:ref:\ ``2B_VS_2C``
 
 To B PM所需能力 `33 <https://mp.weixin.qq.com/s/AVxGdQ0UPj11bMDdF8dPJw>`__
 --------------------------------------------------------------------------
@@ -543,5 +544,6 @@ ml的安全公司只专注于应用威胁和异常检测。尽管它们服务的
 更多
 ----
 
-`B 类产品文案指南 <https://www.yuque.com/linyecx/abusg2/occ7pr>`__
-`寻找最好的B2B的软件 <https://financesonline.com/>`__
+-  `B 类产品文案指南 <https://www.yuque.com/linyecx/abusg2/occ7pr>`__
+-  `寻找最好的B2B的软件 <https://financesonline.com/>`__
+-  `B端产品目录 <https://www.yuque.com/weis/tob>`__

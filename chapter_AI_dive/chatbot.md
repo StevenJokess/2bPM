@@ -16,4 +16,10 @@ NLP作为人工智能的核心技术，在机器翻译、聊天机器人、语�
 - 自然语言生成natural language generation，NLG，负责将系统动作／系统回复转变成自然语言文本。
 - 语音合成text-to-speech，TTS，负责将自然语言文本转变成语音信号输出给用户。
 
+## 形态
+
+- 硬件形态：amazon echo、公子小白。
+- 软件形态：Apple Siri、微软小冰、微软cortana、IBM watson、Google Now。
+- 平台：谷歌、微软等公司对外提供聊天机器人框架bot framework，以sdk或saas服务的方式像第三方公司或个人开发者提供可以用于构建特定应用和领域的聊天机器人。代表：amazon Alexa（服务amazon lex）、微软luis with bot（认知服务cognitive services）、谷歌api.ai、Facebook wit.ai。
+
 [1]: http://www.woshipm.com/pmd/2937210.html

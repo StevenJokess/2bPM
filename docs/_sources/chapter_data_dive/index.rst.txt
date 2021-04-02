@@ -10,5 +10,6 @@
 
    data
    data_industry
-   pirate
    compliance_data
+   pirate
+   private

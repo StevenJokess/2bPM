@@ -120,6 +120,7 @@ BCG的价值3层面把商业模式分成了价值定位和价值传导2个大的
 商业画布不仅能够提供更多灵活多变的计划,还更容易满足用户的需求。更重要的是它可以将商业模式中的元素标准化井强调元素间的相互作用。
 
 ![商业画布](../img/business_draw.png)
+![商业闭环设计](../img/business_closed_loop.png)
 
 1. 客户细分（Customer Segments）：为谁服务？谁来买单？大众/小众市场、利基市场、区隔化市场、多元化市场、多边平台市场。
 2. 价值主张（Value Propositions）：服务或产品有什么价值？颠覆式创新、更快更好、个性定制、专注把事情做好、优秀的设计、价格优势、削减成本、抑制风险、连接、方便易用等特点。
@@ -132,6 +133,8 @@ BCG的价值3层面把商业模式分成了价值定位和价值传导2个大的
 9. 成本结构（Cost Structure）：成本驱动型是越少越好
 
 不用纠结商业模式画布是不是最好的商业模式模型，只要将其作为商业模式设计入门的初步理解材料即可 [2]
+
+![微信读书的商业画布[22]](../img/weread_business_draw.png)
 
 工具：[BMS（商业模式沙盘：Business Mode Sandboxie）](https://bms.your01.com/)
 
@@ -271,3 +274,4 @@ TODO:[14]
 [19]: http://www.woshipm.com/pmd/3402762.html
 [20]: https://www.weiyangx.com/382066.html
 [21]: https://zhuanlan.zhihu.com/p/25965712
+[22]: https://vickydyy.github.io/2019/05/26/Data-Business-Thought/

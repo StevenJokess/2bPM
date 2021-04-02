@@ -10,17 +10,16 @@
 .. toctree::
    :maxdepth: 2
 
-   zongshen
-   expert
-   qi_yuan
+   understand_AI
    AI_Research
    code
    feature_engineering
    ML
    MLOps
    DL
+   GAN
    NLP
-   knowledge_map
+   KG
    chatbot
    Federated Learning
    mobile
