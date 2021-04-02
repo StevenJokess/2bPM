@@ -86,8 +86,9 @@ IT系统——支付——信贷——大金融——生活
 
 ## 更多
 
-未央网：https://www.weiyangx.com/
- https://www.leiphone.com/category/fintech
+- 未央网：https://www.weiyangx.com/
+- 雷锋网：https://www.leiphone.com/category/fintech
+- 招聘信息[7]
 
 [1]: https://zh.wikipedia.org/wiki/%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80
 [2]: https://www.donews.com/news/detail/4/3084506.html
@@ -95,3 +96,4 @@ IT系统——支付——信贷——大金融——生活
 [4]: https://www.weiyangx.com/378231.html
 [5]: https://www.jianshu.com/p/6c76d2aad3f3
 [6]: https://gw.alipayobjects.com/os/bmw-prod/6f1e0b5c-e068-49a6-bc0a-90d5e9131a72.pdf
+[7]: https://youwuqiong.com/jinrong-caijing/%E5%BF%83%E5%8A%A8%E7%9A%84offer%E9%87%91%E8%9E%8D%E4%B8%8E%E7%A7%91%E6%8A%80%E6%8B%9B%E8%81%98%E4%BF%A1%E6%81%AF%E5%8F%8C%E5%91%A8%E6%8A%A5%EF%BC%88%E7%AC%AC6%E6%9C%9F%EF%BC%89/

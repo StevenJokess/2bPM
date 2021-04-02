@@ -7,7 +7,7 @@ AI产品经理同样要具备数据产品的能力，因为数据也是AI的三�
 
 ## 数据建模过程
 
-数据获取、SQL数据库、Python、统计学、数据分析核心模块、可视化、报告撰写，更多查看[13]
+数据采集、SQL数据库、Python、统计学、数据分析核心模块、可视化、报告撰写，更多查看[13]
 
 ![数据建模过程](../img/data_model.png)
 
@@ -25,6 +25,8 @@ AI产品经理同样要具备数据产品的能力，因为数据也是AI的三�
 ![数据驱动](../img/data_drive.png)
 
 ## 分析方法
+
+![数据分析](../img/data_analysis.png)
 
 ### 决策支持
 
@@ -241,3 +243,4 @@ ML产品是不同的，因为性能总是相对的——即使是第一次迭代
 [11]: https://www.zhihu.com/people/terrypm/posts
 [12]: https://www.zhihu.com/question/412642864/answer/1784905476
 [13]: https://www.huaweicloud.com/articles/5aa4be414ac9d338001dd7112587e496.html
+[14]: http://sjrzld.com/a/AI0273.html
