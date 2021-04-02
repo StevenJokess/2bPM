@@ -16,6 +16,24 @@ TODO: 产品经理必用的软件大全—产品手记推荐工具系列 - 「�
 Project
 -------
 
+Microsoft Project
+
+适用平台：Windows&Mac
+
+软件特点：
+
+-  全能型项目管理工具；
+-  Microsoft家族软件成员；
+-  无需联网即可使用；
+-  有资源管理和人员管理模块；
+-  有甘特图、燃尽图等模板；
+
+缺点：
+
+-  收费，有永久激活版；
+-  无法多人协作；
+-  共享和演示功能弱；
+
 甘特图：https://support.microsoft.com/zh-cn/office/%E4%BD%BF%E7%94%A8%E7%94%98%E7%89%B9%E5%9B%BE%E8%A7%86%E5%9B%BE-0e84efa4-78ce-4cd1-baed-5159a55f78b4
 
 -  https://www.iamxiarui.com/?paged=3&cat=111
@@ -97,11 +115,14 @@ Sketch有利于产品与UI的协同工作。对于较小的需求，在白板上
 
 优点：
 
-方便画出高保真的原型图； 在静态界面的展示方面有一定优势；
-无限画布，可以将各页面放到一个画布上帮助串联思考。 不足：
+-  方便画出高保真的原型图；
+-  在静态界面的展示方面有一定优势；
+-  无限画布，可以将各页面放到一个画布上帮助串联思考。
 
-对于初学者，基础功能的学习成本较高；
-Sketch作为一款设计工具，会让使用者陷入“设计者思维”，在细节上耗费较多时间，拖延项目进度。
+不足：
+
+-  对于初学者，基础功能的学习成本较高；
+-  Sketch作为一款设计工具，会让使用者陷入“设计者思维”，在细节上耗费较多时间，拖延项目进度。
 
 TAPD
 ----
@@ -109,6 +130,15 @@ TAPD
 TAPD开放产品，包含两个解决方案-轻量协作和敏捷研发。轻量协作：对标Tower，功能特点为看板+云文档+企业微信集成，为满足小团队的协作需要。敏捷研发功能特点包含需求、迭代、缺陷、测试计划／用例、发布评审、看板等。总体来看敏捷研发特性（能力）更强。整体UI特点：偏传统，多页应用。
 
 https://www.zhihu.com/question/56575428/answer/352398510
+
+Markdown
+--------
+
+-  Markdown保姆级教程之画图篇（流程图、序列图、饼图、甘特图）:
+   https://www.bilibili.com/video/av88551739/
+-  官方帮助文档：https://mermaid-js.github.io/mermaid/#/flowchart
+-  VScode插件：Markdown Preview Mermaid Support
+-  更多：https://www.iminho.me/wiki/docs/mindoc/mermaid.md
 
 眼界
 ----

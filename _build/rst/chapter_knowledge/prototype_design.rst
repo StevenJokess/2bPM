@@ -136,6 +136,10 @@ Axure实战:ref:\ ``page_done_Axure``
 
 验证产品原型
 
+.. figure:: ../img/after_validate.png
+
+   验证产品原型后续工作\ `10 <https://mp.weixin.qq.com/s?__biz=MjM5MzE3MDQ3Mw==&mid=2650404998&idx=3&sn=e4bf27058ac6a697bfb1ae3cbb319e14&chksm=be964dc089e1c4d613d4dcf763e01fbc65dee8b08136e34ebf62c1d22cbc7d83c58502416f2a&scene=21#wechat_redirect>`__
+
 题目 `5 <https://blog.nowcoder.net/n/9bd8651faead4a73ae344be0b74128de>`__
 -------------------------------------------------------------------------
 

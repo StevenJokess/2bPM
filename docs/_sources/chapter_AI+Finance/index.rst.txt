@@ -15,3 +15,4 @@ AI金融
    AI_Investment_Research
    AI_Risk_Management
    Full_stack
+   RPA

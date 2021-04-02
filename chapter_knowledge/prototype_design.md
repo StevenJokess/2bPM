@@ -104,6 +104,8 @@
 
 验证产品原型
 
+![验证产品原型后续工作[10]](../img/after_validate.png)
+
 ## 题目 [5]
 
 Axure文件的后缀名RP（Rapid Prototyping）指快速原型
@@ -124,3 +126,4 @@ Axure文件的后缀名RP（Rapid Prototyping）指快速原型
 [7]: https://www.bilibili.com/video/BV1Yx411f7d6?from=search&seid=9942601070785163162
 [8]: https://tangjie.me/blog/114.html
 [9]: https://zhuanlan.zhihu.com/p/56954145
+[10]: https://mp.weixin.qq.com/s?__biz=MjM5MzE3MDQ3Mw==&mid=2650404998&idx=3&sn=e4bf27058ac6a697bfb1ae3cbb319e14&chksm=be964dc089e1c4d613d4dcf763e01fbc65dee8b08136e34ebf62c1d22cbc7d83c58502416f2a&scene=21#wechat_redirect

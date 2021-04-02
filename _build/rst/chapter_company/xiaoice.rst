@@ -273,7 +273,8 @@ beings 产品化是siri，最早设备数最多alexa，交互量最大小冰）
 更多
 ----
 
-百度百科\ `17 <https://baike.baidu.com/item/%E5%B0%8F%E5%86%B0/19880611?fromtitle=%E5%BE%AE%E8%BD%AF%E5%B0%8F%E5%86%B0&fromid=14076870>`__
+-  百度百科\ `17 <https://baike.baidu.com/item/%E5%B0%8F%E5%86%B0/19880611?fromtitle=%E5%BE%AE%E8%BD%AF%E5%B0%8F%E5%86%B0&fromid=14076870>`__
+-  bilibili\ `20 <https://space.bilibili.com/35205238>`__
 
 .. |技术到落地产品| image:: ../img/xiaoice_tech-%3Eproduct.png
 .. |小冰存在在各个产品| image:: ../img/xiaoice_exist.png

@@ -4,6 +4,11 @@
 
 ![知识图谱与AI的关系](../img/knowledge_map_in_AI.png)
 
+
+TODO:
+http://www.woshipm.com/pmd/2816130.html
+
+
 ## 应用
 
 ### 智能投研

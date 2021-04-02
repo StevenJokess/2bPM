@@ -8,5 +8,7 @@
 .. toctree::
    :maxdepth: 2
 
+   data
+   data_industry
    pirate
    compliance_data

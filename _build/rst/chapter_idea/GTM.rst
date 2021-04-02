@@ -25,6 +25,13 @@ GTM（go to marketing）
 
 为了让产品经理除了单纯地进行产品功能优化，还要思考如何让更多的用户来使用产品，只有让更多的用户使用了产品，产品才能实现更好的自我优化
 
+在生命周期中的作用
+~~~~~~~~~~~~~~~~~~
+
+.. figure:: ../img/operation_in_life_cycle.png
+
+   运营在生命周期中的作用\ `14 <https://mp.weixin.qq.com/s?__biz=MjM5MzE3MDQ3Mw==&mid=2650404998&idx=3&sn=e4bf27058ac6a697bfb1ae3cbb319e14&chksm=be964dc089e1c4d613d4dcf763e01fbc65dee8b08136e34ebf62c1d22cbc7d83c58502416f2a&scene=21#wechat_redirect>`__
+
 产品与运营的关系
 ~~~~~~~~~~~~~~~~
 

@@ -14,6 +14,7 @@ feature_engineering
 ML
 MLOps
 DL
+NLP
 knowledge_map
 Federated Learning
 mobile
