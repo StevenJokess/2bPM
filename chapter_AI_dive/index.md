@@ -13,6 +13,7 @@ ML
 MLOps
 DL
 GAN
+OCR
 NLP
 KG
 chatbot

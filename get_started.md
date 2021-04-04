@@ -268,6 +268,5 @@ https://www.overleaf.com/project/603dfbba8126ff225dc18564
 
 书单分享： https://weread.qq.com/misc/booklist/358906697_7e9fYZVah
 
-![未太更新的简历](./img/resume.jpg)
 
 [1]: https://www.boxuegu.com/news/4368.html

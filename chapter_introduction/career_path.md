@@ -48,6 +48,8 @@
 
 ![PM的升级蜕变[18]](../img/PM_upgrade.png)
 
+![PM技能树[20]](../img/PM_ability_upgrade.png)
+
 ## 衡量价值
 
 产品经理在市场上值多少钱 = 基石能力 x 专业知识 x 行业知识 x 资历履历 x 圈子[16]
@@ -263,3 +265,4 @@
 [17]: https://www.zhihu.com/question/20791021/answer/86421255
 [18]: https://mp.weixin.qq.com/s?__biz=MjM5MzE3MDQ3Mw==&mid=2650404998&idx=3&sn=e4bf27058ac6a697bfb1ae3cbb319e14&chksm=be964dc089e1c4d613d4dcf763e01fbc65dee8b08136e34ebf62c1d22cbc7d83c58502416f2a&scene=21#wechat_redirect
 [19]: http://m.74cms.com/m_view/id/1106.html
+[20]: https://www.zhihu.com/question/323588594/answer/677650489

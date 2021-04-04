@@ -222,10 +222,13 @@ Yeelight语音助手主打双AI系统，里面住着两个小伙伴：一个是�
 
 以与小米、华为腾讯等企业进行合作为例，除常规语音交互之外，小米和华为等企业会否一直将诸如智能家居等核心资源的控制权交给微软小冰，再比如微软小冰在微信、QQ、今日头条等平台上，也需要遵守第三方平台的“规定”，自主权与独立平台相比会更小一点，因此微软小冰需要取得第三方的“真信任”，才能有更大的展示空间。[21]
 
+
 ## 更多
 
 - 百度百科[17]
 - bilibili[20]
+- 微软认知服务[22]
+- 微软机器学习工作室[23]
 
 [1]: https://www.linkedin.com/company/%E5%8C%97%E4%BA%AC%E7%BA%A2%E6%A3%89%E5%B0%8F%E5%86%B0%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/about/
 [2]: https://www.msxiaoice.com/User/FAQ
@@ -248,3 +251,5 @@ Yeelight语音助手主打双AI系统，里面住着两个小伙伴：一个是�
 [19]: https://www.bilibili.com/video/av841854198/
 [20]: https://space.bilibili.com/35205238
 [21]: https://zhuanlan.zhihu.com/p/101240869
+[22]: https://azure.microsoft.com/en-us/services/cognitive-services/
+[23]: https://studio.azureml.net/

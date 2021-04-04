@@ -12,11 +12,14 @@ AI金融
 .. toctree::
    :maxdepth: 2
 
+   Finance
    FinTech
+   AI_Finance
    Robo-Advisor
    AI_Investment_Research
    AI_Risk_Management
-   Full_stack
+   AI_customer_service
    RPA
+   Full_stack
 
 

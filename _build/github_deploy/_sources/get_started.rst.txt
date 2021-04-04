@@ -290,9 +290,5 @@ https://www.overleaf.com/project/603dfbba8126ff225dc18564
 
 书单分享： https://weread.qq.com/misc/booklist/358906697_7e9fYZVah
 
-.. figure:: ./img/resume.jpg
-
-   未太更新的简历
-
 .. |百度股价| image:: ./img/baidu_gujia.jpg
 .. |百度最新股价| image:: ./img/baidu_gujia_newest.png

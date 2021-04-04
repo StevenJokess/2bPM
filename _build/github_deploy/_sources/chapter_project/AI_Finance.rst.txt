@@ -12,6 +12,10 @@ IDC《中国AI落地白皮书》中也提到，金融产业对于AI的应用最�
 
 机器之心500强：https://www.jiqizhixin.com/articles/2019-10-22-12
 
+.. figure:: ../img/AI_Finance_company.png
+
+   AI 金融公司[23]
+
 为何？
 ~~~~~~
 
@@ -341,4 +345,5 @@ https://weread.qq.com/web/reader/e77325105e4e55e77af47dbkd3d322001ad3d9446802347
 [19]: https://www.infoq.cn/article/1obcmwjkaqyux5xjmy7j [20]:
 http://www.woshipm.com/it/508568.html [21]:
 http://www.woshipm.com/pmd/859851.html [22]:
-https://www.modb.pro/doc/23865
+https://www.modb.pro/doc/23865 [23]:
+http://www.199it.com/wp-content/uploads/2021/03/Image28-126.png

@@ -8,6 +8,8 @@ IDC《中国AI落地白皮书》中也提到，金融产业对于AI的应用最�
 
 机器之心500强：https://www.jiqizhixin.com/articles/2019-10-22-12
 
+![AI 金融公司[23]](../img/AI_Finance_company.png)
+
 ### 为何？
 
 1. 金融产业凭借自己高度数字化、信息化的良好基础，相比其他产业更容易打通技术入口。
@@ -276,3 +278,4 @@ https://istock.ssetech.com.cn/wiki/doku.php?id=start
 [20]: http://www.woshipm.com/it/508568.html
 [21]: http://www.woshipm.com/pmd/859851.html
 [22]: https://www.modb.pro/doc/23865
+[23]: http://www.199it.com/wp-content/uploads/2021/03/Image28-126.png
