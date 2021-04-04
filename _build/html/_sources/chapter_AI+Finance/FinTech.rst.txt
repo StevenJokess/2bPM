@@ -110,5 +110,6 @@ PEST
 -  未央网：https://www.weiyangx.com/
 -  雷锋网：https://www.leiphone.com/category/fintech
 -  招聘信息\ `7 <https://youwuqiong.com/jinrong-caijing/%E5%BF%83%E5%8A%A8%E7%9A%84offer%E9%87%91%E8%9E%8D%E4%B8%8E%E7%A7%91%E6%8A%80%E6%8B%9B%E8%81%98%E4%BF%A1%E6%81%AF%E5%8F%8C%E5%91%A8%E6%8A%A5%EF%BC%88%E7%AC%AC6%E6%9C%9F%EF%BC%89/>`__
+-  2021-2026年中国科技金融服务深度调研与投资战略规划分析报告：https://bg.qianzhan.com/report/detail/ef46bc12e785401b.html
 
 .. |应用场景\ | image:: ../img/AI_finance.png

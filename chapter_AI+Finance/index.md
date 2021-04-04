@@ -1,6 +1,7 @@
 # AI金融
 :label:`chap_dive`
 ​
+![AI金融[1]](../img/AI+Finance.png)
 
 ```toc
 :maxdepth: 2
@@ -12,3 +13,5 @@ AI_Risk_Management
 Full_stack
 RPA
 ```
+
+[1]: https://www.iimedia.cn/c1020/77214.html

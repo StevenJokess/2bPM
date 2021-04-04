@@ -65,6 +65,11 @@
 
 ![“全栈产品经理”的技能树](img/full_stack_PM_skill_tree.png)
 
+## 减人加速
+
+须知人数越少，沟通成本越低，执行效率越高。就像我对自己连续推进6个产品项目(2个主场1个客场3个玩票)的能力很是自负，但前提得是我兼任PM/交互/QA，并且主持搭建内容框架。如果给我再配一两个交互设计师，一两个QA，内容框架也交出去，再和他们反复沟通确认，我的速度反而被拉了下来。这不仅苛求个人能力，也要求你在大包大揽时，还能接受其中的粗活笨活。如果把我手上各种杂活剥离出去，起码能设3个岗位——并且速度拖慢50%。
+技术研发也是如此，减人才能提速。又要减人又要代码能力，大牛就得分担杂活。[15]
+
 ## AI商业化逻辑
 
 2017年AI人才结构失衡。特别是发论文的人和做产品或解决方案研发的人，比例严重倒挂。 [4]
@@ -125,3 +130,4 @@ chapter_AI+Finance/index
 [12]: https://www.zhihu.com/question/22613861/answer/34122925
 [13]: https://www.zhihu.com/question/22613861/answer/118658853
 [14]: https://mp.weixin.qq.com/s?__biz=MjM5MzE3MDQ3Mw==&mid=2650404998&idx=5&sn=3717d423a70a8b1b860ad6f5a81f4f72&chksm=be964dc089e1c4d6414995b77c3d16cbf616d1302ab86387c822c90c2b42aab8716940b4f82b&scene=21#wechat_redirect
+[15]: https://zhuanlan.zhihu.com/p/291532809

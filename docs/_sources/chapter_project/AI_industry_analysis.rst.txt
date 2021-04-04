@@ -95,8 +95,10 @@ drive.ai，还有大量自动驾驶，头戴式 VR
 发展报告
 ~~~~~~~~
 
-`2020年中国AI基础数据服务行业研究报告 <http://report.iresearch.cn/report/202004/3548.shtml>`__
-`《2019人工智能发展报告》 <https://www.aminer.cn/research_report/5de27b53af66005a44822b12>`__
+-  `《2019人工智能发展报告》 <https://www.aminer.cn/research_report/5de27b53af66005a44822b12>`__
+-  `2020年中国AI基础数据服务行业研究报告 <http://report.iresearch.cn/report/202004/3548.shtml>`__
+-  `赛迪展望 \|
+   一文了解“2021年中国人工智能产业发展趋势” <https://www.ccidgroup.com/info/1105/32595.htm>`__
 
 信息途径
 ^^^^^^^^
@@ -280,6 +282,7 @@ More:
 -  https://www.iyiou.com/search?p=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD
 -  https://emerj.com/ai-executive-guides/
 -  IT桔子的工智能创投数据厍：https://www.itjuzi.com/ai
+-  人工智能行业研究报告(147份):https://zhuanlan.zhihu.com/p/346793543
 
 .. |2020 AI| image:: ../img/2020_AI.png
 .. |iresearch_AI| image:: ../img/iresearch_AI.png

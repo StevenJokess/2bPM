@@ -9,4 +9,5 @@ data_industry
 compliance_data
 pirate
 private
+intellectual property
 ```

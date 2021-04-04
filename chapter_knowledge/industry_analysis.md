@@ -176,7 +176,7 @@ Hype Cycle曲线的横轴表示技术的成熟度， 纵轴表示技术受关注
 ### 渠道获取
 
 1. 内部市场、运营部门、管理层等信息收集
-1. 艾瑞咨询、DCCI互联网数据中心、Alexa、Appstore、企鹅智库、猎豹智库、易观、比达咨询、IT 桔子、199IT 互联网数据中心[13]、https://www.yanbaoke.com/index 等平台 [12]
+1. 艾瑞咨询、DCCI互联网数据中心、Alexa、Appstore、企鹅智库、猎豹智库、易观、比达咨询、IT 桔子、199IT 互联网数据中心[13]、https://www.yanbaoke.com/index 、https://www.qianzhan.com/ 等平台 [12]
 1. 竞争对手网站、交流互动平台、产品历史更新版本、促销活动、最新调整、招聘信息等
 1. 竞争对手的季度/年度财报
 1. 行业媒体平台新闻、论坛、QQ群等

@@ -65,8 +65,9 @@ Gartner的研究表明，只有53%的项目能够从人工智能（AI）原型�
 
 ### 发展报告
 
-[2020年中国AI基础数据服务行业研究报告](http://report.iresearch.cn/report/202004/3548.shtml)
-[《2019人工智能发展报告》](https://www.aminer.cn/research_report/5de27b53af66005a44822b12)
+- [《2019人工智能发展报告》](https://www.aminer.cn/research_report/5de27b53af66005a44822b12)
+- [2020年中国AI基础数据服务行业研究报告](http://report.iresearch.cn/report/202004/3548.shtml)
+- [赛迪展望 | 一文了解“2021年中国人工智能产业发展趋势”](https://www.ccidgroup.com/info/1105/32595.htm)
 
 #### 信息途径
 
@@ -210,6 +211,7 @@ Ernst：中国创新体系的分散化突显了中国AI发展的一个基础性�
 - https://www.iyiou.com/search?p=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD
 - https://emerj.com/ai-executive-guides/
 - IT桔子的工智能创投数据厍：https://www.itjuzi.com/ai
+- 人工智能行业研究报告(147份):https://zhuanlan.zhihu.com/p/346793543
 
 [1]: http://www.woshipm.com/pd/873240.html
 [2]: https://www.zhihu.com/question/57373956/answer/155398900

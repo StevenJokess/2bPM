@@ -89,6 +89,8 @@ IT系统——支付——信贷——大金融——生活
 - 未央网：https://www.weiyangx.com/
 - 雷锋网：https://www.leiphone.com/category/fintech
 - 招聘信息[7]
+- 2021-2026年中国科技金融服务深度调研与投资战略规划分析报告：https://bg.qianzhan.com/report/detail/ef46bc12e785401b.html
+
 
 [1]: https://zh.wikipedia.org/wiki/%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80
 [2]: https://www.donews.com/news/detail/4/3084506.html
