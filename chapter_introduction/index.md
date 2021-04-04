@@ -13,7 +13,9 @@ money
 PM
 AI
 AI_Product
+opportunity
 AI_PM
 ability
-opportunity
+1Day
+career_path
 ```
