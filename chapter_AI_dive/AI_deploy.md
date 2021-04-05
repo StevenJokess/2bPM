@@ -1,5 +1,7 @@
 # AI部署
 
+![ML deploy[3]](../img/ML_deploy.png)
+
 ## 容器部署
 
 - 深度学习的部署方式，主要是利用 tf serving的方式或者使用onnx的方式，实现了跨平台的模型服务的共享，可以查看onnx的官网： https://onnx.ai/。这方法可以结合方法3进行部署。
@@ -36,3 +38,4 @@ Jenkins自动化部署docker脚本：https://blog.csdn.net/kepengs/article/detai
 
 [1]: https://zhuanlan.zhihu.com/p/77636947
 [2]: https://www.zhihu.com/org/jddfeng-kong-suan-fa/posts/posts_by_votess
+[3]: http://www.ailab.cn/ml/20201213109713.html

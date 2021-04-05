@@ -139,8 +139,8 @@ AI PM 社群，和大家一起做项目，有交流和讨论，也比自己啃�
    chapter_interview/index
    chapter_data_dive/index
    chapter_AI_dive/index
-   chapter_company/index
-   chapter_expert/index
+   chapter_AI_company/index
+   chapter_AI_expert/index
    chapter_AI+Finance/index
 
 

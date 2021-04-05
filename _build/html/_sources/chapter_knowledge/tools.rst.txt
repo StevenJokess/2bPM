@@ -71,6 +71,8 @@ https://github.com/StevenJokess/2bPM/blob/master/src/meituan_PM_recovered.rp
 -  AXURE8：http://www.woshipm.com/xiazai/188927.html
 -  Axure（8+9）产品经理：https://edu.csdn.net/course/play/28296/389326
 -  Axhub 即Axure原型发布与协作平台：https://axhub.im/
+-  https://chanpinyx.com/
+-  http://www.iaxure.com/
 
 简介
 ~~~~

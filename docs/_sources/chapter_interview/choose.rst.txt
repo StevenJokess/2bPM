@@ -66,7 +66,8 @@
 
    大公司:raw-latex:`\小公司的优缺点`
 
-什么公司值得去：https://www.kanzhun.com/
+-  什么公司值得去：https://www.kanzhun.com/
+-  找人才：http://www.hunt007.com/employee/searchlist.htm
 
 做大的几种效应 `6 <https://www.bilibili.com/video/BV19v411k75u?from=search&seid=11494051329064518502>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

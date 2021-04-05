@@ -110,8 +110,8 @@ chapter_project/index
 chapter_interview/index
 chapter_data_dive/index
 chapter_AI_dive/index
-chapter_company/index
-chapter_expert/index
+chapter_AI_company/index
+chapter_AI_expert/index
 chapter_AI+Finance/index
 
 ```

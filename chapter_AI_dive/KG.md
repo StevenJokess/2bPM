@@ -16,6 +16,7 @@
 TODO:
 http://www.woshipm.com/pmd/2816130.html
 
+知识图谱领域 的 KBGAN 等算法都需要长时间的预训练 https://github.com/cai-lw/KBGAN
 
 ## 应用
 

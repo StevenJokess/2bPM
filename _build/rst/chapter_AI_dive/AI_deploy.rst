@@ -2,6 +2,10 @@
 AI部署
 ======
 
+.. figure:: ../img/ML_deploy.png
+
+   ML deploy\ `3 <http://www.ailab.cn/ml/20201213109713.html>`__
+
 容器部署
 --------
 

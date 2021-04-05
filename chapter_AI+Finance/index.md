@@ -9,6 +9,7 @@
 Finance
 FinTech
 AI_Finance
+Invest
 Robo-Advisor
 AI_Investment_Research
 AI_Risk_Management

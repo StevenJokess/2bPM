@@ -54,7 +54,8 @@
 
 ![大公司\小公司的优缺点](../img/company_vs.png)
 
-什么公司值得去：https://www.kanzhun.com/
+- 什么公司值得去：https://www.kanzhun.com/
+- 找人才：http://www.hunt007.com/employee/searchlist.htm
 
 ### 做大的几种效应 [6]
 
