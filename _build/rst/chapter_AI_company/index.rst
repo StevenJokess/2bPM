@@ -12,6 +12,7 @@ AI公司研究
 
    company_research
    baidu
+   alibaba
    antgroup
    alipay
    dm-ai

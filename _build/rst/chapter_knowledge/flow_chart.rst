@@ -97,6 +97,9 @@ Axure实战
 
    美团外卖App登录
 
+-  `实例分析拆解：如何设计登录注册？ <http://www.woshipm.com/pd/1229962.html>`__
+-  `真实案例分享｜登录注册产品需求文档 <http://www.woshipm.com/pmd/358037.html>`__
+
 绘制思路一般是：
 ^^^^^^^^^^^^^^^^
 

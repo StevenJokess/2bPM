@@ -227,8 +227,10 @@ Yeelight语音助手主打双AI系统，里面住着两个小伙伴：一个是�
 
 - 百度百科[17]
 - bilibili[20]
+- The Design and Implementation of XiaoIce, an Empathetic Social Chatbot[24]
 - 微软认知服务[22]
 - 微软机器学习工作室[23]
+
 
 [1]: https://www.linkedin.com/company/%E5%8C%97%E4%BA%AC%E7%BA%A2%E6%A3%89%E5%B0%8F%E5%86%B0%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/about/
 [2]: https://www.msxiaoice.com/User/FAQ
@@ -253,3 +255,4 @@ Yeelight语音助手主打双AI系统，里面住着两个小伙伴：一个是�
 [21]: https://zhuanlan.zhihu.com/p/101240869
 [22]: https://azure.microsoft.com/en-us/services/cognitive-services/
 [23]: https://studio.azureml.net/
+[24]: https://arxiv.org/pdf/1812.08989.pdf

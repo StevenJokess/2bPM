@@ -41,3 +41,8 @@ Schroepfer 以及公司其他持有股票的领导，都在寻找着未来 10 �
 年让公司保持竞争力的技术，包括计算机视觉、自然语言处理和对话型AI等。
 
 为了更好地理解FAIR与Facebook的关系，举个例子，其实就相当于国内“达摩院”与阿里巴巴的关系。\ `1 <https://www.weiyangx.com/379999.html>`__
+
+论文写作
+--------
+
+https://tobiaslee.top/2018/04/03/How-to-Write-a-Paper/

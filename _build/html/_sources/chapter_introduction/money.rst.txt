@@ -318,9 +318,8 @@ Bank）便会出现，来协助公司顺利「上市柜」（IPO）。直到成�
 首次公开募股（Initial Public
 Offering）是指一家企业第一次将它的股份向公众出售。
 
-.. figure:: ../img/financing.png
-
-   融资过程\ `16 <https://dahetalk.com/2018/12/02/%E3%80%90%E6%96%B0%E5%89%B5%E8%9E%8D%E8%B3%87%E3%80%91%E7%A8%AE%E5%AD%90%E8%BC%AA%E3%80%81%E5%A4%A9%E4%BD%BF%E8%BC%AA%E3%80%81a%E8%BC%AA%E3%80%81b%E8%BC%AA%E3%80%81c%E8%BC%AA%EF%BC%8C%E4%BD%A0/>`__
+|融资过程\ |\ `16 <https://dahetalk.com/2018/12/02/%E3%80%90%E6%96%B0%E5%89%B5%E8%9E%8D%E8%B3%87%E3%80%91%E7%A8%AE%E5%AD%90%E8%BC%AA%E3%80%81%E5%A4%A9%E4%BD%BF%E8%BC%AA%E3%80%81a%E8%BC%AA%E3%80%81b%E8%BC%AA%E3%80%81c%E8%BC%AA%EF%BC%8C%E4%BD%A0/>`__
+|AI创业基金工作\ |\ `19 <https://www.zhihu.com/question/19658921/answer/52438369>`__
 
 Pre-A轮、B+轮、B++轮、D轮、E轮，又是什麽？
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -342,3 +341,6 @@ AI 融资
 ~~~~~~~
 
 人工智能基金创业工作室从零开始创建新的人工智能公司。这些公司将AI技术和应用连接起来，专注于推动世界前进的行业和问题。https://aifund.ai/
+
+.. |融资过程\ | image:: ../img/financing.png
+.. |AI创业基金工作\ | image:: ../img/startup_funding_works.png

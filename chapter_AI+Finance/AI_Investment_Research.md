@@ -34,6 +34,8 @@
 
 目前在金融领域中，**文本内容的知识抽取**主要依靠人工判断，分析人员一般需要阅读大量的相关文档(如：年报、公告、行业分析报告、新闻等)，然后从中获取关键信息，为决策提供依据。这种手工作业的方式效率较低，且依赖于从业人员的经验，学习门槛较高，不利于企业业务进一步拓展。[4]
 
+CCKS 2020：面向金融领域的小样本跨类迁移事件抽取[7]
+
 ## 智能投研产业链
 
 上游数据源与数据采集、中游数据处理、下游为各类用户。
@@ -63,3 +65,4 @@ http://gb.oversea.cnki.net/KCMS/detail/detail.aspx?filename=1020099658.nh&dbcode
 [4]: https://www.zhihu.com/question/41187047/answer/1262911922
 [5]: http://www.199it.com/archives/1223002.html
 [6]: http://www.cstf.org.cn/newsdetail.asp?types=36&num=1165
+[7]: https://github.com/xiaoqian19940510/CCKS-2020-event-extraction

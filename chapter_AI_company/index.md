@@ -7,6 +7,7 @@
 
 company_research
 baidu
+alibaba
 antgroup
 alipay
 dm-ai

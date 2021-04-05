@@ -195,6 +195,8 @@ Club和Prosper。其他平台需要投资者不仅仅是高净值个人，而是
 -  2021-2026年中国科技金融服务深度调研与投资战略规划分析报告：https://bg.qianzhan.com/report/detail/ef46bc12e785401b.html
 -  中国科技金融促进会简报：http://www.cstf.org.cn/news.asp?types=36
 -  颖投信息科技有限公司：https://www.miotech.com/zh-CN
+-  金融科技2020年回顾与2021年展望：https://www.jrwenku.com/41159.html
+-  金融科技硏究报告精选：https://www.jrwenku.com/21331.html
 
 TODO:
 艾瑞咨询：2020年中国金融科技行业发展研究报告（附下载）:http://www.199it.com/archives/1156070.html

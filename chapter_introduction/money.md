@@ -263,6 +263,7 @@ Open source models, data and transfer learning are also enabling businesses to m
 首次公开募股（Initial Public Offering）是指一家企业第一次将它的股份向公众出售。
 
 ![融资过程[16]](../img/financing.png)
+![AI创业基金工作[19]](../img/startup_funding_works.png)
 
 ### Pre-A轮、B+轮、B++轮、D轮、E轮，又是什麽？
 
@@ -298,3 +299,4 @@ Open source models, data and transfer learning are also enabling businesses to m
 [16]: https://dahetalk.com/2018/12/02/%E3%80%90%E6%96%B0%E5%89%B5%E8%9E%8D%E8%B3%87%E3%80%91%E7%A8%AE%E5%AD%90%E8%BC%AA%E3%80%81%E5%A4%A9%E4%BD%BF%E8%BC%AA%E3%80%81a%E8%BC%AA%E3%80%81b%E8%BC%AA%E3%80%81c%E8%BC%AA%EF%BC%8C%E4%BD%A0/
 [17]: https://t.qidianla.com/1156537.html
 [18]: https://www.weiyangx.com/382066.html
+[19]: https://www.zhihu.com/question/19658921/answer/52438369

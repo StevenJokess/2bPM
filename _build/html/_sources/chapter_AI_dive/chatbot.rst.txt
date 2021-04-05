@@ -13,14 +13,32 @@ Alexa；语音识别如各种智能音箱。
 聊天机器人系统框架
 ------------------
 
-一个完整聊天机器人的系统架构主要由语言识别、自然语言理解、对话管理、自然语言生成、语音合成等5个部分组成。
+一个完整聊天机器人的系统架构主要由唤醒、语言识别、自然语言理解、对话管理、自然语言生成、语音合成等6个部分组成。更多详细见\ `8 <http://www.ciotc.org/?from=timeline#/articaltwoinfo?id=20191209112501276114675&ids=18>`__
 
+.. figure:: ../img/chatbot_flowchart.png
+
+   聊天机器人的流程闭环\ `7 <https://www.jianshu.com/p/b8302c22dcba>`__
+
+-  唤醒wakeup，匹配到唤醒词后进入工作状态。
 -  自动语音识别automatic speech
    recognition，ASR，负责将原始的语音信号转换成文本信息。
 -  自然语言理解natural language
    understanding，NLU，负责将识别到的文本信息转换为机器可以理解的语义表示。
 -  对话管理dialogue
    management，DM，负责基于当前对话的状态判断系统应该采取怎样的动作。
+   包括对话状态跟踪（Dialog StateTracking, DST）、对话策略（Dialogue
+   Policy）、作为接口与后端/任务模型进行交互、提供语义表达的期望值（expections
+   for interpretation）。 **对话状态跟踪**\ （Dialog StateTracking,
+   DST）
+   ：根据对话历史，维护当前对话状态，对话状态是对整个对话历史的累积语义表示，一般就是槽值对(slot-value
+   pairs)。 **对话策略**\ （Dialogue
+   Policy）：根据当前对话状态输出下一步系统动作。\ `6 <https://www.toutiao.com/i6854955754193945096/>`__
+
+1. 有适用于简单应用场景的\ **穷举**\ 的方式，类似数据库查表的方式；
+2. 有适用于\ **面向特定任务**\ 的对话系统的基于框架的方法；
+3. 有基于强化学习的方式，不断的更新决策策略以最大化reward；
+4. 有基于浅层神经网络和强化学习结合的方法。
+
 -  自然语言生成natural language
    generation，NLG，负责将系统动作／系统回复转变成自然语言文本。
 -  语音合成text-to-speech，TTS，负责将自然语言文本转变成语音信号输出给用户。
@@ -28,9 +46,36 @@ Alexa；语音识别如各种智能音箱。
 形态
 ----
 
--  硬件形态：amazon echo、公子小白。
+-  硬件形态：智能音箱\ `8 <http://www.ciotc.org/?from=timeline#/articaltwoinfo?id=20191209112501276114675&ids=18>`__\ 如amazon
+   echo（2014年11月全球第一款）、公子小白、。
 -  软件形态：Apple Siri、微软小冰、微软cortana、IBM watson、Google Now。
 -  平台：谷歌、微软等公司对外提供聊天机器人框架bot
    framework，以sdk或saas服务的方式像第三方公司或个人开发者提供可以用于构建特定应用和领域的聊天机器人。代表：amazon
    Alexa（服务amazon lex）、微软luis with bot（认知服务cognitive
    services）、谷歌api.ai、Facebook wit.ai。
+
+类别
+----
+
+两类：
+
+闲聊机器人
+~~~~~~~~~~
+
+1. 基于seq2seq模型的对话系统：根据前一句来生成后一句的回复，对话的回答局限性大，缺少对整个对话的评估，且容易陷入死循环。
+2. 基于DRL的对话系统：利用强化学习对当前生成的各种回复评估，选择reward值最高的句子。评估方式根据应用场景不同，可以设计不同的评估函数。
+3. GAN和RL结合的对话系统：生成器生成对话，判别器评估每种结果的reward，其中各种可能的结果是采用MCTS或者策略梯度的方式。seqGAN\ `3 <https://github.com/LantaoYu/SeqGAN>`__,Neural-Dialogue-Generation\ `5 <https://github.com/jiweil/Neural-Dialogue-Generation>`__
+
+面向任务的聊天机器人
+~~~~~~~~~~~~~~~~~~~~
+
+1. 基于DQN的对话系统：DM模块采用DQN模型可能结果的reward值。
+
+任务型对话系统以智能为核心的评价体系：http://www.zgcsa.org/uploads/file/20201105192719_469.pdf
+
+任务型对话系统概述\ `9 <https://www.taodudu.cc/news/show-1668385.html>`__
+
+项目
+----
+
+基于金融-司法领域(兼有闲聊性质)的聊天机器人：https://github.com/charlesXu86/Chatbot_CN
