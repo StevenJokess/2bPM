@@ -71,6 +71,9 @@
 
 ![美团外卖App登录](../img/meituan_login_flow.png)
 
+- [实例分析拆解：如何设计登录注册？](http://www.woshipm.com/pd/1229962.html)
+- [真实案例分享｜登录注册产品需求文档](http://www.woshipm.com/pmd/358037.html)
+
 #### 绘制思路一般是：
 
 - 首先将业务按阶段划分，比如电商类可以分为下单和支付，单车类可以分为提车、骑行和停车；
