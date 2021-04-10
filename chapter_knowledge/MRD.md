@@ -73,6 +73,10 @@ MRD的汇报对象：未来参与产品的各个层级的同事，包括产品�
 - 重视非功能需求；
 - 解释专业名词。
 
+### 可行性分析
+
+https://github.com/twn422/PRD2017/issues/23
+
 ### 非功能需求示例 [5]
 
 #### 安全需求
@@ -114,3 +118,4 @@ MRD的汇报对象：未来参与产品的各个层级的同事，包括产品�
 [4]: http://www.xmamiga.com/3573/
 [5]: https://t.qidianla.com/1159980.html
 [6]: https://www.zhihu.com/column/c_199236458
+[7]: https://github.com/twn422/PRD2017/issues/23

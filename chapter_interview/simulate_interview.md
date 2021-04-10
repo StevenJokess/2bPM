@@ -115,25 +115,38 @@ DCGAN:
 - 金融风控：基于小冰人工智能技术生成的文本、大数据金融知识图谱来做风控。
 - 金融资讯：实时翻译来提供中英双语AI金融资讯，每日经济新闻、华尔街见闻。ToC
 
+业务扩展：短、长摘要；金融研报；垂直搜索；知识图谱；全景可视化
+
+![微软小冰在金融[7]](../img/Fin_xiaoice.png)
+
 https://github.com/StevenJokess/2bPM/blob/master/chapter_company/xiaoice.md
 
 ## 准备提问
 
 ### 官网的问题
 
+https://e.xiaoice.com/Home?r=%2F
+
 - 为何不是HTTPS且自动转向HTTPS？安全需求
 - 初次领养时，验证码错误不提示，反而在登录才会出现？异常流程的问题。
 - 直接登录也可以手机验证码领养，那为何要多个领养的注册界面标签？多余流程的问题
 - 名字不能超过10个字，为啥不早提示？异常流程没有提前告诉。
 - 可以用“………………………………”做名字？如果传唤怎么传？可用性需求
+- QQ手机APP，搜索并关注公众号“小冰”（ID：ms-xiaoice）
+- 在微信中关注公众号“小冰”（ID: xiaoice-ms），激活小冰。
+- 我是古灵精怪的人工智能少女小冰，我来自微软。[6]
+- 哄情绪低落的人类开心起来，来避免冲动投资与撤资。[5]
+
+![小冰Moka招聘界面[4]](../img/xiaoice_zhaopin_issue.jpg)
 
 ### 小冰框架 [5]
 
 - 登录：要先注册不明显
 - 注册必须要密码，而登录却可以只靠验证码
 - 没有更改手机
-- 注册界面 [6]：还是© 2020 Microsoft
+- 注册界面 [6]：还是© 2020 Microsoft。 4月8日已经变了。
 - 是否可以从金融专业的翻译入手[7]
+- https://singer.xiaoice.com/: 大小约140M ； http://xstudio.pub/ 大小约220M
 
 ## Boss面
 
@@ -142,3 +155,7 @@ https://github.com/StevenJokess/2bPM/blob/master/chapter_company/xiaoice.md
 [1]: https://t.qidianla.com/1165227.html
 [2]: https://www.zhihu.com/question/20791021/answer/652756690
 [3]: https://t.qidianla.com/1165227.html
+[4]: https://app.mokahr.com/m/candidate/applications/deliver-query/xiaobing
+[5]: https://www.bilibili.com/video/av796273602/
+[6]: https://www.yeelight.com/zh_CN/product/donut
+[7]: https://www.youtube.com/watch?v=vu6YmD5TX7E
