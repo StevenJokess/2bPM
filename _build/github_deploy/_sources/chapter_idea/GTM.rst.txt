@@ -107,7 +107,7 @@ GTM（go to marketing）
 
 平台期是为了下个爆发期而做的运营准备
 
-产品:提高用户体验,考虑系统架构是否能够继续支持下一轮爆发性增长
+产品:提高\ `用户体验 <https://blog.csdn.net/lanxingfeifei/article/details/89843332>`__,考虑系统架构是否能够继续支持下一轮爆发性增长
 
 -  举办活动
 -  用户等级

@@ -25,3 +25,4 @@ TODO:
 -  携程旅行产品分析报告：https://www.jianshu.com/p/31e49097ab4e
 -  每天读点故事APP产品分析报告：http://www.woshipm.com/evaluating/1103753.html
 -  “全民K歌”产品分析报告：https://vickydyy.github.io/2019/06/22/KTV-Product-Analysis/
+-  今日头条App产品体验报告：https://www.jianshu.com/p/4f851659892a

@@ -342,5 +342,7 @@ AI 融资
 
 人工智能基金创业工作室从零开始创建新的人工智能公司。这些公司将AI技术和应用连接起来，专注于推动世界前进的行业和问题。https://aifund.ai/
 
+`2020「年度最佳人工智能领域投资机构TOP10」 <https://www.lieyunwang.com/archives/472130>`__
+
 .. |融资过程\ | image:: ../img/financing.png
 .. |AI创业基金工作\ | image:: ../img/startup_funding_works.png

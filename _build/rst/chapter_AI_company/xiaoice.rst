@@ -5,12 +5,13 @@
 简介
 ----
 
-小冰公司的前身是微软亚洲互联网工程院的人工智能小冰团队。该团队于2013年12月在北京组建，2014年9月在日本东京建立了研发分部。目前整个团队分布于北京、苏州和东京三地。作为微软全球首个以中国为总部的人工智能产品线，小冰历经多年发展已经成为了微软最有价值的人工智能技术框架之一。
+小冰公司的前身是微软亚洲互联网工程院的人工智能小冰团队\ `26 <https://news.microsoft.com/zh-cn/%E5%BE%AE%E8%BD%AF%E5%88%86%E6%8B%86%E5%B0%8F%E5%86%B0%E4%B8%9A%E5%8A%A1%E5%B9%B6%E7%8B%AC%E7%AB%8B%E5%8F%91%E5%B1%95/>`__\ 。该团队于2013年12月在北京组建，2014年9月在日本东京建立了研发分部。目前整个团队分布于北京、苏州和东京三地。作为微软全球首个以中国为总部的人工智能产品线，小冰历经多年发展已经成为了微软最有价值的人工智能技术框架之一。
 
 官网：
 
 -  http://www.msxiaoice.com/ ？领英里写的是这个
--  http://xiaoice.com/
+-  http://xiaoice.com/ (©2021 小冰 \| 京ICP备 2020040356号-2 \|
+   京公网安备 11010802034035号)
 
 人员：https://www.linkedin.com/company/%E5%8C%97%E4%BA%AC%E7%BA%A2%E6%A3%89%E5%B0%8F%E5%86%B0%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/people/
 
@@ -186,6 +187,8 @@ Avatar Framework
 
    Avatar Framework
 
+人工智能小冰框架內的四十七个虚拟人类\ `28 <https://www.bilibili.com/video/av796273602/>`__
+
 X套件
 ~~~~~
 
@@ -202,6 +205,11 @@ X套件
 
 -  欣小然
 -  内部代号：故事FM（2020.7.8）
+
+-  F201、何畅F11
+-  AI小冰F102
+
+我觉得不太可能，我不知道。。
 
 商业化
 ~~~~~~
@@ -270,6 +278,8 @@ beings 产品化是siri，最早设备数最多alexa，交互量最大是小冰�
 
 2020年6月，每日经济新闻与小冰达成合作，基于小冰人工智能技术生成的文本、大数据金融知识图谱，以及利用实时翻译等技术实现的中英双语AI金融资讯等已正式部署完。在双方前期试运营的一个月内，基于小冰人工智能技术，已为《每日经济新闻》7000万用户推送1万余篇金融资讯。
 
+https://e.xiaoice.com/Home?r=%2F
+
 风险与挑战
 ----------
 
@@ -279,11 +289,19 @@ beings 产品化是siri，最早设备数最多alexa，交互量最大是小冰�
 
 以与小米、华为腾讯等企业进行合作为例，除常规语音交互之外，小米和华为等企业会否一直将诸如智能家居等核心资源的控制权交给微软小冰，再比如微软小冰在微信、QQ、今日头条等平台上，也需要遵守第三方平台的“规定”，自主权与独立平台相比会更小一点，因此微软小冰需要取得第三方的“真信任”，才能有更大的展示空间。\ `21 <https://zhuanlan.zhihu.com/p/101240869>`__
 
+小冰VS小爱VS小度VS天猫精灵
+--------------------------
+
+-  小冰的声线最自然\ `30 <https://www.bilibili.com/video/BV19V411t7Xq>`__\ （同类）
+-  小爱同学没有朋友只有主人
+-  小度为主人而待命
+
 更多
 ----
 
 -  百度百科\ `17 <https://baike.baidu.com/item/%E5%B0%8F%E5%86%B0/19880611?fromtitle=%E5%BE%AE%E8%BD%AF%E5%B0%8F%E5%86%B0&fromid=14076870>`__
--  bilibili\ `20 <https://space.bilibili.com/35205238>`__
+-  bilibili\ `20 <https://space.bilibili.com/35205238>`__\ 、xstudio\ `29 <https://space.bilibili.com/320713995>`__
+-  Youtube\ `27 <https://www.youtube.com/channel/UCALVWloHXvJ4UYFfUojPz1A>`__
 -  The Design and Implementation of XiaoIce, an Empathetic Social
    Chatbot\ `24 <https://arxiv.org/pdf/1812.08989.pdf>`__
 -  微软认知服务\ `22 <https://azure.microsoft.com/en-us/services/cognitive-services/>`__
