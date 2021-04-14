@@ -4,7 +4,7 @@ AI产品经理是直接应用或间接涉及了AI技术，进而完成相关AI�
 
 ![简历](./img/resume_nophone.jpg)
 
-## [点击下载整页简历PDF（带URL）](https://github.com/StevenJokess/2bPM/blob/master/蔡舒起-AI产品经理-动手学深度学习GAN开发者_nophone.pdf)
+## [点击下载整页简历PDF（带URL）](https://github.com/StevenJokess/2bPM/blob/master/蔡舒起-AI产品经理-GAN(MXNet-PyTorchTF2开发者)_nophone.pdf)
 
 领英（交个朋友呗）：https://www.linkedin.com/in/%E8%88%92%E8%B5%B7-%E8%94%A1-b609001b7/
 
