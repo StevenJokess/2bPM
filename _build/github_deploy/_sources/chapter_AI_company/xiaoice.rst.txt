@@ -306,6 +306,7 @@ https://e.xiaoice.com/Home?r=%2F
    Chatbot\ `24 <https://arxiv.org/pdf/1812.08989.pdf>`__
 -  微软认知服务\ `22 <https://azure.microsoft.com/en-us/services/cognitive-services/>`__
 -  微软机器学习工作室\ `23 <https://studio.azureml.net/>`__
+-  Linkedin\ `31 <https://www.linkedin.com/company/xiaobing-ai/posts/?feedView=all>`__
 
 .. |技术到落地产品| image:: ../img/xiaoice_tech-product.png
 .. |小冰存在在各个产品| image:: ../img/xiaoice_exist.png

@@ -246,6 +246,7 @@ https://e.xiaoice.com/Home?r=%2F
 - The Design and Implementation of XiaoIce, an Empathetic Social Chatbot[24]
 - 微软认知服务[22]
 - 微软机器学习工作室[23]
+- Linkedin[31]
 
 
 [1]: https://www.linkedin.com/company/%E5%8C%97%E4%BA%AC%E7%BA%A2%E6%A3%89%E5%B0%8F%E5%86%B0%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/about/
@@ -278,3 +279,4 @@ https://e.xiaoice.com/Home?r=%2F
 [28]: https://www.bilibili.com/video/av796273602/
 [29]: https://space.bilibili.com/320713995
 [30]: https://www.bilibili.com/video/BV19V411t7Xq
+[31]: https://www.linkedin.com/company/xiaobing-ai/posts/?feedView=all
