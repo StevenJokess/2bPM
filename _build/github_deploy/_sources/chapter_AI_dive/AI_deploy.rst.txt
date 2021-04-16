@@ -32,6 +32,8 @@ docker部署
 
 https://tianchi.aliyun.com/competition/entrance/231759/tab/226
 
+https://dockerpractice.readthedocs.io/
+
 TODO:
 GPU:https://tianchi.aliyun.com/competition/entrance/531863/introduction?spm=5176.12281949.1003.30.7b9e2448hrZrNs
 

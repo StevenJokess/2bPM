@@ -48,3 +48,8 @@ Schroepfer 以及公司其他持有股票的领导，都在寻找着未来 10 �
 https://tobiaslee.top/2018/04/03/How-to-Write-a-Paper/
 
 北京十大推动中国科技发展的人工智能实验室：https://blog.csdn.net/yoggieCDA/article/details/102803735?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EOPENSEARCH%7Edefault-6.baidujs&dist_request_id=&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EOPENSEARCH%7Edefault-6.baidujs
+
+开源软件
+--------
+
+中国人工智能开源软件发展白皮书：http://www.aioss.cn/

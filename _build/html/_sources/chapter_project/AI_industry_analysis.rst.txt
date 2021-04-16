@@ -84,10 +84,13 @@ drive.ai，还有大量自动驾驶，头戴式 VR
 亿元。如果你是人工智能行业的产品经理，就可以通过整体的规模来倒推自己产品的规模了。
 `9 <https://www.zhihu.com/pub/reader/119980992/chapter/1284104620428685312>`__
 
+据德勤报告预计，2025年世界人工智能市场规模将超过6万亿美元，2017-2025年CAGR达30%；IDC预计2020年中国人工智能市场规模达42.5亿美元，年增长率达51.5%，2023年市场规模达119亿美元。\ `18 <http://pdf.dfcfw.com/pdf/H3_AP202007081390272095_1.pdf>`__
+
 产业格局
 ~~~~~~~~
 
-|2020 AI|\ `1 <http://www.woshipm.com/pd/873240.html>`__ |iresearch_AI|
+|AI行业图谱| |2020 AI|\ `1 <http://www.woshipm.com/pd/873240.html>`__
+|iresearch_AI|
 |AI-100-startup-2020\ |\ `12 <https://www.cbinsights.com/research/2020-top-100-ai-startups-where-are-they-now/>`__
 |Most-Valuable-AI-Startups-V3\ |\ `13 <https://www.cbinsights.com/research/most-valuable-private-ai-companies/>`__
 |AI领先企业主要投资领域| |AI独角兽|
@@ -284,6 +287,7 @@ More:
 -  IT桔子的工智能创投数据厍：https://www.itjuzi.com/ai
 -  人工智能行业研究报告(147份):https://zhuanlan.zhihu.com/p/346793543
 
+.. |AI行业图谱| image:: ../img/AI_industry_KG.png
 .. |2020 AI| image:: ../img/2020_AI.png
 .. |iresearch_AI| image:: ../img/iresearch_AI.png
 .. |AI-100-startup-2020\ | image:: ../img/AI-100-startup-2020.png

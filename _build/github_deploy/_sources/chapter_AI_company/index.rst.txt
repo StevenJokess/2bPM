@@ -15,9 +15,12 @@ AI公司研究
    alibaba
    antgroup
    alipay
+   trustbe
+   tencent
    dm-ai
    jd
    meituan
    xiaoice
+   xiaoai
    huatai
    JPMorgan

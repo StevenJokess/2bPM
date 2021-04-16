@@ -13,4 +13,5 @@
    compliance_data
    pirate
    private
+   privacy_computing
    intellectual property

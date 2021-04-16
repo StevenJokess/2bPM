@@ -13,3 +13,4 @@ AI专家
    expert
    qi_yuan
    pei_jian
+   xie_liang

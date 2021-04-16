@@ -363,6 +363,17 @@ ID设计指的是工艺产品设计，主要指的是产品外观设计，该部
 http://www.woshipm.com/pmd/2337370.html
 http://www.woshipm.com/pmd/3301527.html
 
+## AI硬件产品经理[11]
+
+### 智能硬件产品经理
+
+智能硬件比如现在流行的智能音箱和智能手环等，而智能硬件产品经理一种是规划应用AI技术，统筹规划设计生产出智能硬件产品的产品经理角色。产品经理需要对整个产品设计、开发、测试、试产和量产等过程监控，确保产品顺利按时保质保量的完成。硬件产品经理可能还需要对生产流程、质量控制方法等有一定了解，软件产品是没有生产工艺这一环节的。
+
+### 算力产品经理
+
+大部分人了解到的AI硬件产品经理都是前面这一种，但其实在大型的AI厂商中还会存在后面这一类硬件产品经理。因为AI的三大要素是数据、算法和算力。对应的有数据产品经理、算法产品经理，自然也就有算力产品经理。只不过这部分产品经理更多是从服务器厂商出来的，因为AI的算力基本就是服务器资源了，对应的厂商有华为、浪潮、联想等。这一类产品经理相对来说对AI技术不需要很了解，对算力资源的配置和使用足够了解就可以了，简单了解不同场景应用哪类算力资源最合适即可。
+
+
 [1]: https://www.jianshu.com/p/111d9fcc005e?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation
 [2]: http://www.woshipm.com/pmd/1815501.html
 [3]: http://www.woshipm.com/pmd/134575.html
@@ -373,3 +384,4 @@ http://www.woshipm.com/pmd/3301527.html
 [8]: https://www.bilibili.com/video/BV1Zp4y1Q7ub?from=search&seid=1470711389248919578
 [9]: http://www.woshipm.com/pd/990245.html
 [10]: https://zhuanlan.zhihu.com/p/345731185
+[11]: http://www.chanpin100.com/article/113861

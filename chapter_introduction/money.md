@@ -262,6 +262,10 @@ Open source models, data and transfer learning are also enabling businesses to m
 
 首次公开募股（Initial Public Offering）是指一家企业第一次将它的股份向公众出售。
 
+“IPO本质是为了实现更大规模的目标，需要更大规模的资本。”二级市场的资金量远超一级市场，可以真正帮助公司实现商业化。[20]
+
+
+
 ![融资过程[16]](../img/financing.png)
 ![AI创业基金工作[19]](../img/startup_funding_works.png)
 
@@ -270,6 +274,8 @@ Open source models, data and transfer learning are also enabling businesses to m
 一般来说，融资募到C轮就差不多了。D轮指的是你把C轮的钱烧完了，但还没进入上市柜阶段；同理，E轮指的是你把D轮的钱烧完，但依旧还是没上市柜。
 
 而大家常听到的Pre-A轮，指的是天使轮的钱花完了，但产品还不够成熟，尚未到A轮阶段，进退两难下，只好又募一个round，我们就称它为Pre-A轮。至于B+轮、B++轮都是相同意思，因为还没到下一round的水准，所以只好一直无限+++++。
+
+在规划里，B轮融资需要证明技术实力，因而团队专攻技术竞赛成绩；C轮投资人会比较业务优势，团队需要在此之前让原型车落地；D轮公司已经开始试运营，商业化推进自然会成为投资人眼中的亮点。[20]
 
 ### AI 创业
 
@@ -302,3 +308,4 @@ Open source models, data and transfer learning are also enabling businesses to m
 [17]: https://t.qidianla.com/1156537.html
 [18]: https://www.weiyangx.com/382066.html
 [19]: https://www.zhihu.com/question/19658921/answer/52438369
+[20]: https://www.cyzone.cn/article/628604.html

@@ -227,7 +227,7 @@ Hype Cycle曲线的横轴表示技术的成熟度， 纵轴表示技术受关注
 2. 艾瑞咨询、DCCI互联网数据中心、Alexa、Appstore、企鹅智库、猎豹智库、易观、比达咨询、IT
    桔子、199IT
    互联网数据中心\ `13 <https://www.zhihu.com/pub/reader/119919151/chapter/1283860049233436672>`__\ 、https://www.yanbaoke.com/index
-   、https://www.qianzhan.com/ 等平台
+   、https://www.qianzhan.com/、 https://www.cyzone.cn/等平台
    `12 <http://www.woshipm.com/pmd/1792207.html>`__
 3. 竞争对手网站、交流互动平台、产品历史更新版本、促销活动、最新调整、招聘信息等
 4. 竞争对手的季度/年度财报

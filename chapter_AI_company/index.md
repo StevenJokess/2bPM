@@ -10,10 +10,13 @@ baidu
 alibaba
 antgroup
 alipay
+trustbe
+tencent
 dm-ai
 jd
 meituan
 xiaoice
+xiaoai
 huatai
 JPMorgan
 ```

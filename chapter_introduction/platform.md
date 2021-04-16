@@ -37,6 +37,14 @@ AI和数据可同为一个中台、AI平台可视为业务中台一部分、AI�
 
 ![AI商品模型训练平台](../img/AI_train_platform.png)
 
+常见问题：[13]
+
+1. 模型环境构建难，从模型到服务转化慢。
+2. 多个模型共用一套环境，但模型需要独立更新，对环境的维护需格外谨慎，变更风险巨大。
+3. 模型服务交付周期长，工程环节耗时长，人力投入大。
+4. 模型服务回退慢，模型发布后，如发现有问题尝试退回到上一个版本需要数分钟，乃至数小时。
+5. 模型服务扩容慢，面对突发流量时，响应延迟。
+
 ### AI平台型产品经理 [3]
 
 单独将AI平台产品经理列出来，是因为AI平台产品经理不局限于某一个AI研究领域，更专注于打造一个通用的机器学习平台，这里也可以细分为深度学习平台、强化学习平台等。这个平台可以用来各种AI应用场景的建模，提升科学家们建模的效率以及一定程度上降低建模的门槛，使得普通的产品&运营等都可以在平台上进行简单地建模。国内以百度的Paddle-Paddle，第四范式的先知，阿里的PAI平台为主流的机器学习平台。AI平台产品经理可以说是AI产品经理中对技术能力要求最高的职位了
@@ -110,6 +118,30 @@ http://www.woshipm.com/pmd/4146522.html
 1. AWS Machine Learning
 1. Google Cloud Platform
 
+![机器学习平台架构-K8S[10]](../img/AI_platform_k8s.png)
+
+Gartner 最新发布了两份 AI 魔力象限《Magic Quadrant for Data Science and Machine Learning Platforms（数据科学与机器学习平台）》（下称 「DSML 报告」）和《Magic Quadrant for Cloud AI Developer Services（云 AI 开发者服务）》（下称「CAIDS」 报告），对全球厂商进行了年度评估。这两份报告可以看作是 AI 工程化领域的盘点，给予希望选择正确的 DSML 和 CAIDS 解决方案，并提升 AI 生产力的企业以权威的参考。
+
+## 平台云原生化
+
+AI 工程化落地的首个基础能力就是平台云原生化。其实 AI 平台的构建有很多实现方法，但云原生是目前最普适的方法。因为云原生门槛不高，没有具体限制技术选型，尤其是它所倡导的开放、弹性和生态等原则可以迅速拉低 AI 平台的实现门槛。
+
+开放意味着需要把 OpenAPI 放到产品的第一优先级来考虑，支持用户和其他云产品通过 OpenAPI 访问产品所有功能，可以被第二方和第三方厂商工具自由集成；同时能够擅于调用其他云上产品来构建自己的服务，比如云上数据库 RDS、云日志服务 SLS 等。
+
+弹性是在设计之初就要设想产品的规模大小，物理资源尽量不要自建，充分利用云的弹性。
+
+生态有两层含义，一是与业界开源社区保持合作，尽量不要重复造轮子和发明新规范，二是开放的内容生态，能够吸引个人开发者和企业共同建设 AI 平台，繁荣生态。
+
+## 用户分类
+
+建模人群大致可以分为两类：
+
+1.数据科学家。计算机或人工智能专业的科班生，他们的特点是算法和工程能力较强，业务能力较弱；这类同学更喜欢编程式建模，因为编程式建模的自由度可以让他们的专业能力充分发挥出来。
+
+2.行业建模人员。其他领域的同学，如金融领域的同学，他们的特点是对数据和业务的理解深，但对算法和工程的理解浅，这类用户比较排斥编程，更喜欢页面化建模产品，希望产品可以给予他们更多的AI能力的帮助，让其发挥出**自身的业务能力**。[12]
+
+
+
 [1]: https://www.iamxiarui.com/?p=1369
 [2]: https://weread.qq.com/web/reader/46532b707210fc4f465d044k8e232ec02198e296a067180
 [3]: https://www.zhihu.com/question/57815929
@@ -119,3 +151,7 @@ http://www.woshipm.com/pmd/4146522.html
 [7]: http://reader.epubee.com/books/mobile/41/41f170eb06525e985bbddd6eae13589d/text00006.html
 [8]: https://www.shangyexinzhi.com/article/2251387.html
 [9]: http://dadaghp.com/index/index/article_detail/id/658.html
+[10]: https://segmentfault.com/a/1190000019215007
+[11]: https://www.jiqizhixin.com/articles/2021-03-23-3
+[12]: https://tech.antfin.com/community/articles/98
+[13]: http://www.cet.com.cn/wzsy/cyzx/2741907.shtml

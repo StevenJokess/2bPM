@@ -5,9 +5,10 @@ AI金融
 ======
 
 
-​ |AI金融[1]|
+​ |AI金融[1]| |AI金融[2]|
 
 .. |AI金融[1]| image:: ../img/AI+Finance.png
+.. |AI金融[2]| image:: ../img/AI+Finance2.png
 
 .. toctree::
    :maxdepth: 2
@@ -21,6 +22,7 @@ AI金融
    AI_Risk_Management
    AI_customer_service
    RPA
+   MarTech
    Full_stack
 
 
