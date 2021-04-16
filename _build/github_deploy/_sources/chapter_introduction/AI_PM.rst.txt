@@ -805,3 +805,7 @@ Awesome
 -------
 
 http://www.changgpm.com/
+
+.. figure:: ../img/AI_product_test.png
+
+   成为AI产品经理测试题\ `53 <https://time.geekbang.org/quiz/?act_id=373&exam_id=1092&source=1830990>`__

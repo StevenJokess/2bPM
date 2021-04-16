@@ -250,7 +250,8 @@ Show Source
 <li class="toctree-l2"><a class="reference internal" href="AI_test.html">8.17. AI产品的测试</a></li>
 <li class="toctree-l2"><a class="reference internal" href="huidu.html">8.18. 灰度发布</a></li>
 <li class="toctree-l2"><a class="reference internal" href="AI_deploy.html">8.19. AI部署</a></li>
-<li class="toctree-l2"><a class="reference internal" href="develop.html">8.20. 人才培养</a></li>
+<li class="toctree-l2"><a class="reference internal" href="AI_monitor%26control.html">8.20. AI监控</a></li>
+<li class="toctree-l2"><a class="reference internal" href="develop.html">8.21. 人才培养</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="../chapter_AI_company/index.html">9. AI公司研究</a><ul>
@@ -471,7 +472,8 @@ Show Source
 <li class="toctree-l2"><a class="reference internal" href="AI_test.html">8.17. AI产品的测试</a></li>
 <li class="toctree-l2"><a class="reference internal" href="huidu.html">8.18. 灰度发布</a></li>
 <li class="toctree-l2"><a class="reference internal" href="AI_deploy.html">8.19. AI部署</a></li>
-<li class="toctree-l2"><a class="reference internal" href="develop.html">8.20. 人才培养</a></li>
+<li class="toctree-l2"><a class="reference internal" href="AI_monitor%26control.html">8.20. AI监控</a></li>
+<li class="toctree-l2"><a class="reference internal" href="develop.html">8.21. 人才培养</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="../chapter_AI_company/index.html">9. AI公司研究</a><ul>
@@ -539,9 +541,9 @@ Show Source
 <h2><span class="section-number">8.10.3. </span>自然语言处理（NLP）的定义<a class="headerlink" href="#id3" title="Permalink to this headline">¶</a></h2>
 <p>自然语言处理（Natural Language
 Processing，NLP）：是计算机科学，人工智能和语言学的交叉领域。目标是让计算机处理或“理解”自然语言，以执行语言翻译和问题回答等任务。</p>
-<div class="figure align-default" id="id12">
+<div class="figure align-default" id="id21">
 <img alt="../_images/NLP_Dive.png" src="../_images/NLP_Dive.png" />
-<p class="caption"><span class="caption-number">Fig. 8.10.1 </span><span class="caption-text">NLP的各层技术</span><a class="headerlink" href="#id12" title="Permalink to this image">¶</a></p>
+<p class="caption"><span class="caption-number">Fig. 8.10.1 </span><span class="caption-text">NLP的各层技术</span><a class="headerlink" href="#id21" title="Permalink to this image">¶</a></p>
 </div>
 <p>NLP底层技术包含自然语言理解(Natural Language Understanding，NLU)
 和自然语言生成（Natural Language Generation,
@@ -550,9 +552,9 @@ NLG）两个重要方向，如下图所示。</p>
 <li><p>自然语言理解NLU旨在将人的语言形式转化为机器可理解的、结构化的、完整的语义表示，通俗来讲就是让计算机能够理解人类语言。</p></li>
 <li><p>自然语言生成NLG旨在让机器根据确定的结构化数据、文本、音视频等生成人类可以理解的自然语言形式的文本。</p></li>
 </ul>
-<div class="figure align-default" id="id13">
+<div class="figure align-default" id="id22">
 <img alt="../_images/NLP.png" src="../_images/NLP.png" />
-<p class="caption"><span class="caption-number">Fig. 8.10.2 </span><span class="caption-text">NLP</span><a class="headerlink" href="#id13" title="Permalink to this image">¶</a></p>
+<p class="caption"><span class="caption-number">Fig. 8.10.2 </span><span class="caption-text">NLP</span><a class="headerlink" href="#id22" title="Permalink to this image">¶</a></p>
 </div>
 </div>
 <div class="section" id="id4">
@@ -607,16 +609,83 @@ Generation:https://wqw547243068.github.io/2020/04/28/text-generation/#comments</
 </div>
 </div>
 </div>
+</div>
 <div class="section" id="id10">
-<h3><span class="section-number">8.10.6.2. </span>金融应用<a class="headerlink" href="#id10" title="Permalink to this headline">¶</a></h3>
-<p>为了解决由数据推测模型的局限性，通过自然语言处理技术，引入新闻、政策以及社交媒体中的文本，将非结构化数据进行结构化处理，并从中寻找<strong>影响市场变动的因素</strong>。除了可以丰富模型变量外，自然语言处理技术可以实现“智能投融资顾问助手”。集合自然语言搜索、用户界面图形化及云计算，智能助手可以将问题与实践关联市场动态，提供研究辅助、智能回答复杂金融投融资问题。<a class="reference external" href="http://www.cstf.org.cn/newsdetail.asp?types=36&amp;num=1165">2</a></p>
-</div>
-</div>
+<h2><span class="section-number">8.10.7. </span>文本处理流程<a class="headerlink" href="#id10" title="Permalink to this headline">¶</a></h2>
 <div class="section" id="id11">
-<h2><span class="section-number">8.10.7. </span>中文金融领域<a class="headerlink" href="#id11" title="Permalink to this headline">¶</a></h2>
+<h3><span class="section-number">8.10.7.1. </span>语料获取<a class="headerlink" href="#id11" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>业务积累——通过脚本直接从数据库中提取/OCR或人工录入纸质文件</p></li>
+<li><p>网络收集—下载网络开放的数据集（回答闲聊问题）或通过爬虫抓取</p></li>
+<li><p>外部采购—采购（确保合规）专业语料数据集（行业评论、专业文献等）来用于回答客户的问题咨询</p></li>
+</ul>
+</div>
+<div class="section" id="id12">
+<h3><span class="section-number">8.10.7.2. </span>预处理<a class="headerlink" href="#id12" title="Permalink to this headline">¶</a></h3>
+<div class="section" id="id13">
+<h4><span class="section-number">8.10.7.2.1. </span>语料清洗<a class="headerlink" href="#id13" title="Permalink to this headline">¶</a></h4>
+<p>语料清洗,顾名思义就是将无用的噪音内容去掉,只保留对我们有用的主体内容。常见的是通过编写脚本,采用正则表达式匹配的方式去清洗数据,具体包括全半角转换、大小写转换、繁简体转换、无意义乂符号移除等等。如果是通过爬虫抓取的网页内容,我们还要去除广告标签或注释、JavaScript、CSS代码。</p>
+<ul class="simple">
+<li><p>全半角转换：将在输入法全角模式下输入的內容转换为半角模式的,主要对英文、数字、标点符号有影响。</p></li>
+<li><p>大小写转换：统一将大写形式的字母转成小写形式的。</p></li>
+<li><p>繁简体转换：将繁体输入转成简体的式,当然考虑到用户群体的差异以及可能存在繁体形式的资源,有些情况还需要保留转换前的繁体输入用于召回</p></li>
+<li><p>无意义符号移除：移除诸如火星文符号、emoj表情符号、URL地址等特殊符号内容。</p></li>
+</ul>
+<p>清洗完语料之后,接下来要做的就是分词。因为中文语料数据都是短文本或长文本组成的句子,所以我们在进行文本挖掘分析时,需要将这些句子处理成最小单位粒度的字符或者词语。</p>
+</div>
+<div class="section" id="id14">
+<h4><span class="section-number">8.10.7.2.2. </span>文本分词<a class="headerlink" href="#id14" title="Permalink to this headline">¶</a></h4>
+<ul class="simple">
+<li><p>基于规则匹配的分词方法</p></li>
+<li><p>基于统计的分词方法</p></li>
+<li><p>基于语义理解的分词方法</p></li>
+</ul>
+<p>技术难点在于“歧义识别”和“新词识别”。比如说:“武汉市长江大桥”,这个句子可以切分成“武汉市/长江大桥”,也可切分成“武汉/市长/江大桥”,如果不依赖上下文其他的句子,恐怕我们很难知道怎么去理解。</p>
+</div>
+<div class="section" id="id15">
+<h4><span class="section-number">8.10.7.2.3. </span>词性标注<a class="headerlink" href="#id15" title="Permalink to this headline">¶</a></h4>
+<ul class="simple">
+<li><p>普通词性标注：将句子中的词标记为名词、动词或者形容词等等</p></li>
+<li><p>专业词性标注：针对特定行业领域的词性标注,如医疗行业、教育行业等等</p></li>
+</ul>
+<div class="figure align-default" id="id23">
+<img alt="../_images/words_property_label.png" src="../_images/words_property_label.png" />
+<p class="caption"><span class="caption-number">Fig. 8.10.3 </span><span class="caption-text">实际工作中的词性编码表</span><a class="headerlink" href="#id23" title="Permalink to this image">¶</a></p>
+</div>
+</div>
+</div>
+<div class="section" id="id16">
+<h3><span class="section-number">8.10.7.3. </span>文本表示<a class="headerlink" href="#id16" title="Permalink to this headline">¶</a></h3>
+<p>定义——把已分词的字符转化成向量矩阵形式</p>
+<p>常见方式：词袋模型</p>
+</div>
+<div class="section" id="id17">
+<h3><span class="section-number">8.10.7.4. </span>文本计算<a class="headerlink" href="#id17" title="Permalink to this headline">¶</a></h3>
+<p>定义一计算四个文本之间的相似度</p>
+<p>常见方式：余弦距离、欧氏距离、皮尔逊相关度</p>
+</div>
+</div>
+<div class="section" id="id18">
+<h2><span class="section-number">8.10.8. </span>文本处理场景<a class="headerlink" href="#id18" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p>信息提取：从指定文本中提取出重要信息,如时间、地点、人物、事件等。具体场景如从新闻咨询中提取能够完整准确反映中心内容的摘取信息</p></li>
+<li><p>智能问答：对客户问题进行语义理解,然后在知识库中查找可能的候选答案通过排序找出最佳的答案进行回复</p></li>
+<li><p>机器翻译：通过把输入的源语言文本通过自动翻译获得另一种语言的文本,是自然语言处理中最为人所熟知的场景,如百度翻译、
+Google翻译</p></li>
+<li><p>文本挖掘：包括文本聚类、分类、情感分析以及对挖掘的信息和知识通过可视化、交互式界面进行表达</p></li>
+<li><p>舆论分析：通过收集和处理海量信息对网络舆情进行自动化的分析,帮助分析网络话题热点,然后对热点的传播路径及发展趋势进行分析判断,以实现及时应对网络舆情</p></li>
+<li><p>知识图谱：根据参数和限定词的输入,进行词语到文本或文本到文本的生成<a class="reference external" href="https://time.geekbang.org/column/article/348027">5</a></p></li>
+</ul>
+<div class="section" id="id19">
+<h3><span class="section-number">8.10.8.1. </span>金融应用<a class="headerlink" href="#id19" title="Permalink to this headline">¶</a></h3>
+<p>为了解决由数据推测模型的局限性，通过自然语言处理技术，引入新闻、政策以及社交媒体中的文本，将非结构化数据进行结构化处理，并从中寻找<strong>影响市场变动的因素</strong>。除了可以丰富模型变量外，自然语言处理技术可以实现“智能投融资顾问助手”。集合自然语言搜索、用户界面图形化及云计算，智能助手可以将问题与实践关联市场动态，提供研究辅助、智能回答复杂金融投融资问题。<a class="reference external" href="http://www.cstf.org.cn/newsdetail.asp?types=36&amp;num=1165">2</a></p>
+<div class="section" id="id20">
+<h4><span class="section-number">8.10.8.1.1. </span>中文金融领域<a class="headerlink" href="#id20" title="Permalink to this headline">¶</a></h4>
 <p>中文分词是中文NLP的难点之一。如“结婚的和尚未结婚的”，应该分词为“结婚/的/和/尚未/结婚/的”，还是“结婚/的/和尚/未/结婚/的”，不同的分词方法会产生一定的歧义。再比如，“美国会通过对台售武法案”，我们既可以切分为“美国/会/通过对台售武法案”，又可以切分成“美/国会/通过对台售武法案”。</p>
 <p>随着深度学习的普遍使用，中文与英文在语言上的差异也逐渐变成训练数据量上的差异，以往在NLP领域，可供使用的中文数据量比英文数据要少的多，这是目前中文NLP的难点之一。但是随着有越来越多的人投入到中文人工智能以及NLP领域的研究中来，中文数据集不足的问题正在逐年改善。</p>
 <p>在金融领域，针对基础性问题，中英文所处的阶段其实大体相同，但是针对如情感分析、市场预测等复杂问题，由于要结合具体的语境以及相应的应用场景，同时要考虑训练的数量级问题，无论是中文还是英文的NLP要走的路都还有很多。<a class="reference external" href="https://www.miotech.com/zh-CN/article/5cda76428b224f0044833a13">4</a></p>
+</div>
+</div>
 </div>
 </div>
 
@@ -645,10 +714,27 @@ Generation:https://wqw547243068.github.io/2020/04/28/text-generation/#comments</
 </li>
 </ul>
 </li>
-<li><a class="reference internal" href="#id10">8.10.6.2. 金融应用</a></li>
 </ul>
 </li>
-<li><a class="reference internal" href="#id11">8.10.7. 中文金融领域</a></li>
+<li><a class="reference internal" href="#id10">8.10.7. 文本处理流程</a><ul>
+<li><a class="reference internal" href="#id11">8.10.7.1. 语料获取</a></li>
+<li><a class="reference internal" href="#id12">8.10.7.2. 预处理</a><ul>
+<li><a class="reference internal" href="#id13">8.10.7.2.1. 语料清洗</a></li>
+<li><a class="reference internal" href="#id14">8.10.7.2.2. 文本分词</a></li>
+<li><a class="reference internal" href="#id15">8.10.7.2.3. 词性标注</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#id16">8.10.7.3. 文本表示</a></li>
+<li><a class="reference internal" href="#id17">8.10.7.4. 文本计算</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#id18">8.10.8. 文本处理场景</a><ul>
+<li><a class="reference internal" href="#id19">8.10.8.1. 金融应用</a><ul>
+<li><a class="reference internal" href="#id20">8.10.8.1.1. 中文金融领域</a></li>
+</ul>
+</li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>

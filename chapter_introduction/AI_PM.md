@@ -645,6 +645,9 @@ TODO:https://medium.com/@liwdai/ai-pm-%E5%92%8C%E5%B8%B8%E8%A7%84-pm-%E7%9A%84%E
 
 http://www.changgpm.com/
 
+![成为AI产品经理测试题[53]](../img/AI_product_test.png)
+
+
 [1]: https://www.boxuegu.com/news/4368.html
 [2]: https://www.jianshu.com/p/fd466ed1bda6
 [3]: http://www.woshipm.com/pmd/703205.html
@@ -697,3 +700,4 @@ http://www.changgpm.com/
 [50]: http://www.woshipm.com/ai/3379253.html
 [51]: http://shujuren.club/a/AI0102.html
 [52]: https://www.zhihu.com/question/53498066/answer/488592129
+[53]: https://time.geekbang.org/quiz/?act_id=373&exam_id=1092&source=1830990
