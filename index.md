@@ -2,7 +2,7 @@
 
 - 背景：传统的招聘方由于求职方是否了解AI产品经理的职位要求以及公司情况而设立面试环节，而由于时间有限往往只能出几个问题，不能确保全面考察到了面试者的能力，而这时求职方往往只有为数不多的时间去应答，极度考验临场反应来对答案进行表述，相比之前的积攒的能力这种情况有很强的随机性。
 - 动机：为了公司（UCD）能尽快全面了解到我个人的能力，以最快捷最有效地招募到人才（哈哈哈，王婆卖瓜），而写出这本书（此时书即预备产品，我即产品经理[14]）。
-- 目标用户主要是招聘方，等待您需求的验证！同时也为一些想一同成为AI金融产品经理的同学提供参考。
+- 目标用户主要是招聘方，等待您需求的验证！同时可以给一些想一同成为AI金融产品经理的同学（不过你是我的竞品哎）提供参考。
 - 同时欢迎讨论与反馈[6]：https://github.com/StevenJokess/2bPM/issues
 
 ## 成为AI PM的路径
@@ -85,18 +85,34 @@
 
 “我们认为，AI商业化的最佳途径对百度来说，就是平台化、生态化。一个开放的生态最具活力最有竞争力。”陆奇说道。[5]
 
-## TODO：
+## 功能点：
 
-功能点：
+### 常用
+
+标签： :lable:、:ref:
+
+### TODO：
 
 google analysis.
 
-## 常用
 
-### 标签
-
-:lable:
-:ref:
+[1]: http://www.woshipm.com/zhichang/3945751.html
+[2]: http://dyin.tech/
+[3]: https://zhuanlan.zhihu.com/p/30984881
+[4]: https://www.zhihu.com/question/279550559
+[5]: https://ai.baidu.com/forum/topic/show/492818
+[6]: http://www.ramywu.com/work/2018/04/09/How-to-Learn-AI-PM-Tacit-Knowledge/
+[7]: https://www.zhihu.com/question/29342383/answer/44323650
+[8]: https://zhuanlan.zhihu.com/p/34673277
+[9]: https://www.infoq.cn/article/IPDVRNxwJVsx3ZGrgwzW
+[10]: http://www.woshipm.com/zhichang/4156203.html
+[11]: https://www.zhihu.com/question/443911275
+[12]: https://www.zhihu.com/question/22613861/answer/34122925
+[13]: https://www.zhihu.com/question/22613861/answer/118658853
+[14]: https://mp.weixin.qq.com/s?__biz=MjM5MzE3MDQ3Mw==&mid=2650404998&idx=5&sn=3717d423a70a8b1b860ad6f5a81f4f72&chksm=be964dc089e1c4d6414995b77c3d16cbf616d1302ab86387c822c90c2b42aab8716940b4f82b&scene=21#wechat_redirect
+[15]: https://zhuanlan.zhihu.com/p/291532809
+[16]: https://www.zhihu.com/market/paid_magazine/1153593677761941504/section/1153593764286263296
+[17]: https://zhuanlan.zhihu.com/p/340824405
 
 
 ````toc
@@ -124,20 +140,3 @@ chapter_AI+Finance/index
 
 ```
 
-[1]: http://www.woshipm.com/zhichang/3945751.html
-[2]: http://dyin.tech/
-[3]: https://zhuanlan.zhihu.com/p/30984881
-[4]: https://www.zhihu.com/question/279550559
-[5]: https://ai.baidu.com/forum/topic/show/492818
-[6]: http://www.ramywu.com/work/2018/04/09/How-to-Learn-AI-PM-Tacit-Knowledge/
-[7]: https://www.zhihu.com/question/29342383/answer/44323650
-[8]: https://zhuanlan.zhihu.com/p/34673277
-[9]: https://www.infoq.cn/article/IPDVRNxwJVsx3ZGrgwzW
-[10]: http://www.woshipm.com/zhichang/4156203.html
-[11]: https://www.zhihu.com/question/443911275
-[12]: https://www.zhihu.com/question/22613861/answer/34122925
-[13]: https://www.zhihu.com/question/22613861/answer/118658853
-[14]: https://mp.weixin.qq.com/s?__biz=MjM5MzE3MDQ3Mw==&mid=2650404998&idx=5&sn=3717d423a70a8b1b860ad6f5a81f4f72&chksm=be964dc089e1c4d6414995b77c3d16cbf616d1302ab86387c822c90c2b42aab8716940b4f82b&scene=21#wechat_redirect
-[15]: https://zhuanlan.zhihu.com/p/291532809
-[16]: https://www.zhihu.com/market/paid_magazine/1153593677761941504/section/1153593764286263296
-[17]: https://zhuanlan.zhihu.com/p/340824405
