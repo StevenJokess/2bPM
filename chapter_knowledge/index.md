@@ -57,7 +57,7 @@ industry_analysis
 market_analysis
 goods_analysis
 users_analysis
-need_analysis
+demand_analysis
 experience_report
 compete_analysis
 MRD

@@ -264,14 +264,15 @@ Persona 文档指导
 需求量、强度、频次、痛点、Arpu、期望、现有解决方案
 
 -  需求量：大众、小众
--  强度：刚需、弱需 越刚越容易付费
+-  强度：刚需(必须需要)；、弱需
+   越刚越容易付费；后验看“功能渗透率”（指当前使用该功能的人数占整体使用产品的人数比例。），渗透率越高，越说明这是用户的核心功能。[29]
 -  频次：高、低频
 
 .. figure:: ../img/need_analysis.png
 
    need_analysis
 
--  痛点：解决某个需求时很难受的地方
+-  痛点：解决某个需求时，遇到的最大障碍。
 -  Arpu：用户价值。烧饼一两块、化妆品百来块、增高药上万
 -  期望：超预期。才能拉新。
 
@@ -470,4 +471,5 @@ http://www.woshipm.com/pmd/3024508.html [25]:
 https://www.zhihu.com/question/20791021/answer/1525593995 [26]:
 https://t.qidianla.com/1149667.html [27]:
 https://t.qidianla.com/1156537.html [28]:
-https://www.zhihu.com/question/323588594/answer/890413615
+https://www.zhihu.com/question/323588594/answer/890413615 [29]:
+http://www.woshipm.com/pmd/3113347.html#:~:text=%E8%80%8C%E5%AF%B9%E4%BA%8E%E6%9F%90%E4%B8%AAAPP,%E7%9A%84%E5%A4%A7%E9%83%A8%E5%88%86%E7%94%A8%E6%88%B7%E5%88%9A%E9%9C%80%E3%80%82

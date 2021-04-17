@@ -64,7 +64,7 @@ AI产品经理是“产品经理”这个职业的一个分支，在成为AI产�
    market_analysis
    goods_analysis
    users_analysis
-   need_analysis
+   demand_analysis
    experience_report
    compete_analysis
    MRD

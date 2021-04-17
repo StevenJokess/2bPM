@@ -1,5 +1,7 @@
 # 需求分析
 
+产品60%的错误存在于设计中，而设计的错误60%的源于需求和分析活动。--《代码大全》的作者Steve McConnell [11]
+
 ## 报告文档 [8]
 
 1. 需求分类：将需求以需要的类型分门别类的罗列好，并介绍清楚需求本意。
@@ -168,3 +170,4 @@ https://www.google.com/search?q=requirements+engineering&rlz=1C1GCEA_enJP909HK90
 [8]: https://tangjie.me/blog/83.html
 [9]: https://www.zhihu.com/column/c_199236458
 [10]: https://zhuanlan.zhihu.com/p/340058145
+[11]: http://www.woshipm.com/pmd/4440884.html
