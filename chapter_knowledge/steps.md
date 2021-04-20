@@ -24,6 +24,8 @@
 
 ![工作输出[4]](../img/work_output.png)
 
+![设计流程与方法[5]](../img/design_flow.png)
+
 ## 工作
 
 1. 计划:使用计划系列卡来定义产品的关键要素并调整团队成员在一个战线节奏和目标上。
@@ -38,3 +40,4 @@
 [2]: https://www.zhihu.com/question/311376037/answer/1628258822
 [3]: https://www.zhihu.com/search?type=content&q=AI%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86
 [4]: https://shimo.im/docs/vyCrK3rQQ6KC9Ryp/read
+[5]: https://zhuanlan.zhihu.com/p/110917112
