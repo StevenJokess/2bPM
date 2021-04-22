@@ -11,4 +11,6 @@ pirate
 private
 privacy_computing
 intellectual property
+asymmetric_information
+blockchain
 ```

@@ -24,6 +24,17 @@ d2lbook2 deploy html
 
 欢迎转载，帮我宣传下解决俺的就业就行，谢啦。
 
+```
+@misc{2bPM,
+  author = {Shuqi Cai},
+  title = {2bPM},
+  year = {2020},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/StevenJokess/2bPM}},
+}
+```
+
 “能力、资源、机会是相互交叠，螺旋上升的。”
 
 感谢世界相逢的一切，不过也不重要了，我们会死在“光明的未来”。
@@ -37,4 +48,5 @@ d2lbook2 deploy html
 简历：https://stevenjokess.github.io/2bPM/get_started.html
 
 TODO：https://my.oschina.net/u/4584889/blog/4394219
+
 

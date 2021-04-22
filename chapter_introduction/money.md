@@ -289,6 +289,8 @@ Open source models, data and transfer learning are also enabling businesses to m
 
 [2020「年度最佳人工智能领域投资机构TOP10」](https://www.lieyunwang.com/archives/472130)
 
+投研信息简报：http://www.ciifund.cn/zwt/
+
 [1]: https://tech.sina.com.cn/roll/2020-07-12/doc-iivhuipn2598506.shtml
 [2]: https://www.sohu.com/a/409718794_312708
 [3]: https://blogs.nvidia.cn/2017/09/30/ai-how-to-speed-up-the-analysis-of-financial-markets/
