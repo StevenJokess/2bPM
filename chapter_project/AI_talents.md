@@ -16,7 +16,7 @@
 
 虽然我国在专利申请和论文产出方面已经跻身全球领先序列，但人工智能人才短缺问题依旧存在。报告称，我国从事人工智能基础研究的学者仅占全球总量的11%，科研机构仅占5%，仍落后于全球顶尖水平。[1]
 
-
+都跟工业界有非常深度的联系。但是高校老师也要分类,有些老师可能适合基础性的研究,有些老师可能适合做产业结合,印奇觉得在中国,真正能把一个技术从研发做到产业化的学校师并没有那么多,很多老师做的还比较偏理论。所以我们也在跟包括清华、北大、西安交大比较好的学校尝试看各种各样的合作。[16]
 
 ### 底层研究弱
 
@@ -95,6 +95,10 @@
 《AI技术人才成长路线图》
 https://blog.csdn.net/zw0Pi8G5C1x/article/details/79947077
 
+## 教育背景
+
+全球A从业者普遍拥有较高的学历水平,但在中国,这个数字明显更高一筹。在中美AI从业人才的学历对比方面,中国在研究生及以上学历的人才占比为62.1%,高于美国的56.5%。 [16]
+
 ## 学历和工作经验要求
 
 在学历和技能方面，《目录》显示，大部分岗位要求本科及以上学历，也有 9% 的企业岗位招聘专科人才。除了学历背景，数字经济六大重点领域对于人才的通用能力也存在多元需求，有 44% 的企业要求熟练掌握外语语种，22% 的企业要求应聘者精通计算机。
@@ -115,6 +119,14 @@ https://blog.csdn.net/zw0Pi8G5C1x/article/details/79947077
 
 科锐的薪酬报告（鉴于猎头公司的报告一般工资虚高）、robertwalters的薪酬报告、mercer之类的报告 [10]
 
+## 雇主
+
+![中美AI领域TOP10雇主[16]](../img/Chinese_VS_American_AI_employer.jpg)
+
+中国本土科技巨头正在不断提升对A人才的吸引力。目前在中国A人才最集中的前十大企业雇主中,中国本土企业有5家,占据了半壁江山。而排在前三位的雇主分别是华为度和阿里巴巴,均为中国本土高科技巨头企业。
+
+通过对比榜单,我们不难发现,在美国的τOP10榜单中,有两家金融机构上榜,分别是排在第9位和第10位的美国银行和美国富国银行。在美国,Fin-Tech已经成为趋势并形成规模,金融智能化进程全球领先。
+
 [1]: https://tech.sina.com.cn/roll/2020-07-19/doc-iivhvpwx6203309.shtml
 [2]: https://www.zhihu.com/question/268511088/answer/1226892127
 [3]: http://finance.southcn.com/f/2021-03/05/content_192173681.htm
@@ -130,3 +142,4 @@ https://blog.csdn.net/zw0Pi8G5C1x/article/details/79947077
 [13]: https://www.infoq.cn/article/0d349rm8zninvibeksdd
 [14]: http://www.woshipm.com/zhichang/3146016.html
 [15]: https://www.miitec.cn/home/index/detail?id=2252
+[16]: https://business.linkedin.com/content/dam/me/business/zh-cn/talent-solutions/Event/july/lts-ai-report/%E9%A2%86%E8%8B%B1%E3%80%8A%E5%85%A8%E7%90%83AI%E9%A2%86%E5%9F%9F%E4%BA%BA%E6%89%8D%E6%8A%A5%E5%91%8A%E3%80%8B.pdf
