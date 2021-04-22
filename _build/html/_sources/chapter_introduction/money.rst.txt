@@ -348,5 +348,7 @@ AI 融资
 
 `2020「年度最佳人工智能领域投资机构TOP10」 <https://www.lieyunwang.com/archives/472130>`__
 
+投研信息简报：http://www.ciifund.cn/zwt/
+
 .. |融资过程\ | image:: ../img/financing.png
 .. |AI创业基金工作\ | image:: ../img/startup_funding_works.png
