@@ -35,6 +35,10 @@ C产品还是to B产品，或者适合广告产品、会员产品还是其他商
 
    工作输出\ `4 <https://shimo.im/docs/vyCrK3rQQ6KC9Ryp/read>`__
 
+.. figure:: ../img/design_flow.png
+
+   设计流程与方法\ `5 <https://zhuanlan.zhihu.com/p/110917112>`__
+
 工作
 ----
 

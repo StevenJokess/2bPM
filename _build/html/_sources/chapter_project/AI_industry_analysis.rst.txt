@@ -8,9 +8,15 @@ PEST
 政治
 ~~~~
 
+.. figure:: ../img/politic_AI_China.png
+
+   图:中国政府涉及人工智能领域发展的相关文件
+
 2021年作为新十四五规划开局之年，在新规划建议中，多次提及人工智能这个关键词，而且科技前沿领域的公关，排在第一位的就是“新一代人工智能”\ `16 <https://www.weiyangx.com/382066.html>`__
 
 `《新一代人工智能发展规划》 <http://www.gov.cn/zhengce/content/2017-07/20/content_5211996.htm>`__
+
+从数字上,中国在深度学习方面的论文发表数量以及论文的引用(文章至少被引用一次)数量均在2014年对美国实现反超,并大幅度领先其它国家,居于领跑者的地位。\ `19 <https://business.linkedin.com/content/dam/me/business/zh-cn/talent-solutions/Event/july/lts-ai-report/%E9%A2%86%E8%8B%B1%E3%80%8A%E5%85%A8%E7%90%83AI%E9%A2%86%E5%9F%9F%E4%BA%BA%E6%89%8D%E6%8A%A5%E5%91%8A%E3%80%8B.pdf>`__
 
 技术
 ~~~~
