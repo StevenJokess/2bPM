@@ -31,13 +31,9 @@ C产品还是to B产品，或者适合广告产品、会员产品还是其他商
 6. 输出各类商业化产品包装资料、商业化产品官网等。
 7. 输出产品发布管理文档、各类产品培训资料等。
 
-.. figure:: ../img/work_output.png
-
-   工作输出\ `4 <https://shimo.im/docs/vyCrK3rQQ6KC9Ryp/read>`__
-
-.. figure:: ../img/design_flow.png
-
-   设计流程与方法\ `5 <https://zhuanlan.zhihu.com/p/110917112>`__
+|工作输出\ |\ `4 <https://shimo.im/docs/vyCrK3rQQ6KC9Ryp/read>`__
+|设计流程与方法\ |\ `5 <https://zhuanlan.zhihu.com/p/110917112>`__
+|设计策略:双钻石模型\ |\ `6 <https://www.inneed.club/articles/detail/39wg4drgqo>`__
 
 工作
 ----
@@ -51,3 +47,7 @@ C产品还是to B产品，或者适合广告产品、会员产品还是其他商
 .. figure:: ../img/PM_work.png
 
    PM work
+
+.. |工作输出\ | image:: ../img/work_output.png
+.. |设计流程与方法\ | image:: ../img/design_flow.png
+.. |设计策略:双钻石模型\ | image:: ../img/design_strategy.png

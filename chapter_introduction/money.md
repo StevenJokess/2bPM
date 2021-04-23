@@ -110,7 +110,7 @@ Triumph 的数据科学家将专用数据库中的新闻传输到深度学习系
 
 3. CPA（Cost per Action，按用户行动收费）：A 代表Action（行动），具体的用户行动是多种多样的，可以是下载、安装、购买等，具体是指哪种行动，需要在广告洽谈的时候，广告主和平台协商好，只有用户产生了协商好的行动，广告主才付费。
 
-可以看到，CPD（Cost per Download，按下载量收费）、CPI（Cost per Install，按安装量收费）、CPS（Cost per Sales，按销售量收费）适合App 下载、增加新用户等需要明确转化行动的广告主。相对来说，CPM 适合以宣传品牌为主的广告主，而CPC 和CPA 倾向于保护广告主的利益。
+可以看到，CPD（Cost per Download，按下载量收费）、CPI（Cost per Install，按安装量收费）、CPS（Cost per Sales，**按销售量收费**）适合App 下载、增加新用户等需要明确转化行动的广告主。相对来说，CPM 适合以宣传品牌为主的广告主，而CPC 和CPA 倾向于保护广告主的利益。
 
 #### 平台佣金
 
@@ -264,10 +264,10 @@ Open source models, data and transfer learning are also enabling businesses to m
 
 “IPO本质是为了实现更大规模的目标，需要更大规模的资本。”二级市场的资金量远超一级市场，可以真正帮助公司实现商业化。[20]
 
-
-
 ![融资过程[16]](../img/financing.png)
 ![AI创业基金工作[19]](../img/startup_funding_works.png)
+
+![头条融资[21]](../img/toutiao_ask_money.png)
 
 ### Pre-A轮、B+轮、B++轮、D轮、E轮，又是什麽？
 
@@ -282,6 +282,7 @@ Open source models, data and transfer learning are also enabling businesses to m
 ![AI 创业](../img/AI_entrepreneur.png)
 
 所有AI企业，作为前沿、高端的研发与技术密集型行业，收入规模在相当长一段时间内，有可能无法支撑巨额的、持续的、大规模研发投入、场景探索及市场开拓等，持续亏损的风险与压力，会长期存在。[18]
+
 
 ### AI 融资
 
@@ -311,3 +312,4 @@ Open source models, data and transfer learning are also enabling businesses to m
 [18]: https://www.weiyangx.com/382066.html
 [19]: https://www.zhihu.com/question/19658921/answer/52438369
 [20]: https://www.cyzone.cn/article/628604.html
+[21]: https://www.inneed.club/articles/detail/4l50o6w079

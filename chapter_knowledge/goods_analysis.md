@@ -23,6 +23,17 @@
 1. 竞品用户对比分析（用户群体，使用场景）
 1. 结论
 
+## 竞品收集 [18]
+
+1. 在应用市场、专业网站、行业调查报告中寻找竞品
+1. 使用搜索引擎寻找竞品
+1. 通过访谈产品的潜在目标用户寻找竞品
+1. 核心功能还能有其他方式实现吗？
+1. 部分功能扩大
+1. 其他行业是如何做到的？
+1. 通过过程、操作的碎片化寻找竞品
+1. 通过重要干系人的需求分析提炼关键词，收集关联竞品
+
 ### 背景分析 [17]
 
 - 公司资源/背景 ：对手公司的投资人有哪些？有没有什么独特的资源？
@@ -284,6 +295,8 @@ Solution:解决方案如何实现？还有多少空间？陌生用户进来如�
 - 饿了么、美团外卖、百度外卖竞品分析by十三：https://www.jianshu.com/p/a49663820163
 - 生鲜电商APP竞品分析-盒马鲜生VS叮咚买菜：https://t.qidianla.com/1175887.html
 - 人人都是产品经理、PMCAFF竞品分析：https://t.qidianla.com/1156403.html
+- Soul、探探竞品分析：https://www.inneed.club/articles/detail/39wg4zr0qo
+
 
 不建议大家去网上看那些动辄几十页的竞品分析，找来各种不靠谱的数据，要知道绝大多数可以被网络上搜到的行业、某个App的下载量数据，基本都是假的。
 
@@ -309,6 +322,8 @@ Solution:解决方案如何实现？还有多少空间？陌生用户进来如�
 https://www.zhihu.com/question/23601989/answer/810093405
 
 
+
+
 [1]: http://www.woshipm.com/pmd/1842636.html
 [2]: https://www.bilibili.com/video/BV1wz4y1y7sg?p=4
 [3]: https://www.zhihu.com/question/39005837
@@ -326,4 +341,4 @@ https://www.zhihu.com/question/23601989/answer/810093405
 [15]: http://www.51pmexp.com/?p=62
 [16]: https://t.qidianla.com/1175640.html
 [17]: https://t.qidianla.com/1156575.html
-
+[18]: https://www.inneed.club/articles/detail/87egz44akd

@@ -243,6 +243,11 @@ confluence：这个不多说了，非常好用的一款产品PRD在线编辑软�
 
 [17]
 
+
+## 完整示例：
+
+从零到一写产品文档（待办清单）：https://www.inneed.club/articles/detail/pkx0ej6gew
+
 [1]: http://www.woshipm.com/pmd/3319375.html
 [2]: http://www.woshipm.com/pmd/3516749.html
 [3]: http://www.woshipm.com/pmd/21446.html
@@ -260,3 +265,4 @@ confluence：这个不多说了，非常好用的一款产品PRD在线编辑软�
 [15]: https://www.zhihu.com/question/19654911/answer/1760290293
 [16]: http://www.woshipm.com/pmd/2860477.html
 [17]: http://www.woshipm.com/rp/379949.html
+

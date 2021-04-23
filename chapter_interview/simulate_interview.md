@@ -174,6 +174,8 @@ https://e.xiaoice.com/Home?r=%2F
 
 行业的发展情况、产业链的发展、整体行业发展的大趋势类的话题，以及聊一下跟公司的文化价值观、愿景，看你是否认同公司的文化，如果能聊到共性，产生共鸣[3]
 
+
+
 [1]: https://t.qidianla.com/1165227.html
 [2]: https://www.zhihu.com/question/20791021/answer/652756690
 [3]: https://t.qidianla.com/1165227.html

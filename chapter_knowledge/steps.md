@@ -23,8 +23,8 @@
 1. 输出产品发布管理文档、各类产品培训资料等。
 
 ![工作输出[4]](../img/work_output.png)
-
 ![设计流程与方法[5]](../img/design_flow.png)
+![设计策略:双钻石模型[6]](../img/design_strategy.png)
 
 ## 工作
 
@@ -41,3 +41,4 @@
 [3]: https://www.zhihu.com/search?type=content&q=AI%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86
 [4]: https://shimo.im/docs/vyCrK3rQQ6KC9Ryp/read
 [5]: https://zhuanlan.zhihu.com/p/110917112
+[6]: https://www.inneed.club/articles/detail/39wg4drgqo

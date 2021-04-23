@@ -135,7 +135,8 @@ sharing）。比如在播放YouTube优秀创作者视频的时候投放的广告
    代表Action（行动），具体的用户行动是多种多样的，可以是下载、安装、购买等，具体是指哪种行动，需要在广告洽谈的时候，广告主和平台协商好，只有用户产生了协商好的行动，广告主才付费。
 
 可以看到，CPD（Cost per Download，按下载量收费）、CPI（Cost per
-Install，按安装量收费）、CPS（Cost per Sales，按销售量收费）适合App
+Install，按安装量收费）、CPS（Cost per
+Sales，\ **按销售量收费**\ ）适合App
 下载、增加新用户等需要明确转化行动的广告主。相对来说，CPM
 适合以宣传品牌为主的广告主，而CPC 和CPA 倾向于保护广告主的利益。
 
@@ -322,6 +323,10 @@ Offering）是指一家企业第一次将它的股份向公众出售。
 
 |融资过程\ |\ `16 <https://dahetalk.com/2018/12/02/%E3%80%90%E6%96%B0%E5%89%B5%E8%9E%8D%E8%B3%87%E3%80%91%E7%A8%AE%E5%AD%90%E8%BC%AA%E3%80%81%E5%A4%A9%E4%BD%BF%E8%BC%AA%E3%80%81a%E8%BC%AA%E3%80%81b%E8%BC%AA%E3%80%81c%E8%BC%AA%EF%BC%8C%E4%BD%A0/>`__
 |AI创业基金工作\ |\ `19 <https://www.zhihu.com/question/19658921/answer/52438369>`__
+
+.. figure:: ../img/toutiao_ask_money.png
+
+   头条融资\ `21 <https://www.inneed.club/articles/detail/4l50o6w079>`__
 
 Pre-A轮、B+轮、B++轮、D轮、E轮，又是什麽？
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
