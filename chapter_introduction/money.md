@@ -292,6 +292,17 @@ Open source models, data and transfer learning are also enabling businesses to m
 
 投研信息简报：http://www.ciifund.cn/zwt/
 
+### AI资本寒冬 [22]
+
+资本寒冬已经出现。其中，预期过高是主要原因。人工智能企业增速明显放缓， 2019、 2020 年全球每年新增人工智能企业数量已不足 100 家， 且投融资的轮次后移趋势不断扩大。2020 年 B 轮及以上融资笔数占总笔数的 62.3%，较上一年增长 40%以上。同时，曾获大笔融资的知名创新企业由于预期过高、虚假宣传等原因退出产业舞台。曾对标英特尔的芯片企业 Wave Computing，是人工智能计算领域最受关注的独角兽之一， 2020 年 4 月由于数据流处理器性能不达预期而宣告破产；智能会计工具 ScaleFactor 宣称利用人工智能技术自动化生成财务报表， 但实际却部分采用人工外包方式处理， 在融资1 亿美元后于 2020 年 3 月宣告倒闭。
+
+此外， 资本早期对人工智能产业回报周期过于乐观是资本寒冬的另一原因。移动互联网在偏向工程属性的前提下，资本预期取得成效的时间为二到四年；与之相较，人工智能与传统行业核心业务深度融合，需更高的技术准确率和更深刻的行业理解力。因此，人工智能产业孕育时间更长，资本市场的期望和现实出现较大偏差。
+
+![AI公司融资轮次[22]](../img/AI_compangy_financing_round.png)
+
+
+
+
 [1]: https://tech.sina.com.cn/roll/2020-07-12/doc-iivhuipn2598506.shtml
 [2]: https://www.sohu.com/a/409718794_312708
 [3]: https://blogs.nvidia.cn/2017/09/30/ai-how-to-speed-up-the-analysis-of-financial-markets/
@@ -313,3 +324,4 @@ Open source models, data and transfer learning are also enabling businesses to m
 [19]: https://www.zhihu.com/question/19658921/answer/52438369
 [20]: https://www.cyzone.cn/article/628604.html
 [21]: https://www.inneed.club/articles/detail/4l50o6w079
+[22]: https://www.jiemian.com/article/6005288.html

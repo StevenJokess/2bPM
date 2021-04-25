@@ -15,6 +15,10 @@
 
 百度百科：半屏的时候目录没了。。[2]
 
+## PaddlePaddle
+
+文档（没能代码及时反馈）：https://www.paddlepaddle.org.cn/documentation/docs/
+
 [1]: https://baike.baidu.com/item/%E6%99%AF%E9%B2%B2/20432174
 [2]: https://baike.baidu.com/item/%E5%B0%8F%E5%86%B0/19880611?fromtitle=%E5%BE%AE%E8%BD%AF%E5%B0%8F%E5%86%B0&fromid=14076870#reference-[36]-20599544-wrap
 [3]: https://wqw547243068.github.io/2020/04/29/dialogue-system/#%E5%AF%B9%E8%AF%9D%E7%AE%A1%E7%90%86
