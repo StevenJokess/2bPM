@@ -19,3 +19,8 @@
 --------
 
 百度百科：半屏的时候目录没了。。\ `2 <https://baike.baidu.com/item/%E5%B0%8F%E5%86%B0/19880611?fromtitle=%E5%BE%AE%E8%BD%AF%E5%B0%8F%E5%86%B0&fromid=14076870#reference-%5B36%5D-20599544-wrap>`__
+
+PaddlePaddle
+------------
+
+文档（没能代码及时反馈）：https://www.paddlepaddle.org.cn/documentation/docs/

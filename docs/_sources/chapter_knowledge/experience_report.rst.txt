@@ -7,9 +7,21 @@
 就能很快代入用户角色,
 从用户的场景和视角来思考问题。\ `2 <https://www.zhihu.com/people/woyaonuliya/postss>`__
 
+基本结构
+--------
+
 .. figure:: ../img/product_experience_mindmap.png
 
    产品体验报告基本结构\ `3 <https://g.yuque.com/zhongguodianxinyanjiuyuan/bgso10/fqs7tp>`__
+
+体验环境
+~~~~~~~~
+
+-  设备型号：iPhone6
+-  操作系统：iOS 10.3.2
+-  体验版本：5.2.0
+-  体验网络：WiFi & 4G
+-  体验时间：2017.12.04-2017.12.08\ `5 <https://www.inneed.club/articles/detail/l4e0boyaxq>`__
 
 1．需求分析\ `1 <https://www.jianshu.com/p/9fff898ce6bd>`__ 1.1 产品定义
 1.2 用户需求 2．功能分析

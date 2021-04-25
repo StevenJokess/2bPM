@@ -15,3 +15,7 @@
 风控模型—群体稳定性指标(PSI)深入理解应用：https://zhuanlan.zhihu.com/p/79682292
 
 蚂蚁金服科技: https://mp.weixin.qq.com/s/klOGk_3X7QT78w9YPQQzKA
+
+更多：
+
+https://www.zhihu.com/people/sun.zhengyang

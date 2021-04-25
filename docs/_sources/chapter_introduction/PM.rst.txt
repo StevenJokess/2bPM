@@ -40,7 +40,7 @@ fit，PMF）「在一个好的市场里，能用一个产品去满足这个市�
 产品经理是“将不同语言的公司的所有各种功能和角色结合在一起的粘合剂” – Ken
 Norton，GV `7 <https://easyai.tech/author/xiaoqiang/page/5/>`__
 
-产品经理还是一个项目的信息汇集中心，对于公司的战略方向，产品经理比其他人更早地知道。产品经理也会经常跟运营人员、销售人员开会(“贩卖”自己的产品理念)，所以对于公司的运营节奏、销售数据，产品经理都可能提前知悉。这些都是可以帮助产品经理快速成长的点，也是产品经理不断积累人脉的基础。
+产品经理还是一个项目的信息汇集中心，对于公司的战略方向，产品经理比其他人更早地知道。产品经理也会经常跟运营人员、销售人员开会(“贩卖”自己的产品理念，并讨论方案的效果与技术可行性；有效回答各方问题，为什么做、做什么、如何做、什么时候做完\ `57 <https://www.inneed.club/articles/detail/pkx0e46gew>`__)，所以对于公司的运营节奏、销售数据，产品经理都可能提前知悉。这些都是可以帮助产品经理快速成长的点，也是产品经理不断积累人脉的基础。
 `15 <https://weread.qq.com/web/reader/8d232b60721a488e8d21e54k8f132430178f14e45fce0f7>`__
 
 .. figure:: ../img/business_value.png
@@ -792,6 +792,7 @@ https://coffee.pmcaff.com/article/KDLE41yRkx?rts=201105225049_nch
 -  https://www.producthunt.com/
 -  http://ued.pm/
 -  http://www.masterchat.cn/
+-  https://www.inneed.club/
 
 导航：
 

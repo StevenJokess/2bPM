@@ -290,6 +290,11 @@ COD评分表方法
 
 [17]
 
+完整示例：
+----------
+
+从零到一写产品文档（待办清单）：https://www.inneed.club/articles/detail/pkx0ej6gew
+
 [11]: [12]: https://www.pianshen.com/article/89602055805/ [13]:
 http://www.woshipm.com/pmd/2860477.html [14]:
 https://www.zhihu.com/question/19654911/answer/624768169 [15]:
