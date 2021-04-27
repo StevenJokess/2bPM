@@ -8,7 +8,7 @@
 
 - http://www.msxiaoice.com/ ？领英里写的是这个
 - http://xiaoice.com/ (©2021 小冰 | 京ICP备 2020040356号-2 |  京公网安备 11010802034035号)
-- http://www.xiaobing.ai/
+- http://www.xiaobing.ai/ ©2020 Microsoft
 
 人员：https://www.linkedin.com/company/%E5%8C%97%E4%BA%AC%E7%BA%A2%E6%A3%89%E5%B0%8F%E5%86%B0%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/people/
 

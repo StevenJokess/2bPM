@@ -11,7 +11,7 @@ AI产品经理是直接应用或间接涉及了AI技术，进而完成相关AI�
 `点击下载整页简历PDF（带URL） <https://github.com/StevenJokess/2bPM/blob/master/蔡舒起-AI产品经理-GAN(MXNet-PyTorchTF2开发者)_nophone.pdf>`__
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-领英（交个朋友呗）：https://www.linkedin.com/in/%E8%88%92%E8%B5%B7-%E8%94%A1-b609001b7/
+领英（来交个朋友呗）：https://www.linkedin.com/in/%E8%88%92%E8%B5%B7-%E8%94%A1-b609001b7/
 
 .. raw:: html
 
@@ -20,7 +20,111 @@ AI产品经理是直接应用或间接涉及了AI技术，进而完成相关AI�
 
 --------------
 
-细节：
+**简历**
+--------
+
+项目经历详情
+~~~~~~~~~~~~
+
+通过互联网学习AI+产品经理
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Product Manager 自雇 入职日期2020年10月 – 2021年3月 任职时长4 个月
+
+所在地点 中国 浙江省
+
+-  通过互联网学习AI+产品经理，简历见https://stevenjokess.github.io/2bPM/get_started.html
+-  背景：传统的招聘方由于求职方是否了解AI产品经理的职位要求以及公司情况而要求简历、设立面试环节（原有解决方案），而由于简历篇幅有限只能展示部分、时间有限往往只能出几个问题，不能确保全面考察到了面试者的能力，而这时求职方往往只有为数不多的时间去应答，极度考验临场反应来对答案进行表述，相比之前的积攒的能力这种情况有很强的随机性。
+-  动机：为了公司（UCD）能尽快全面了解到我个人的能力(已经熟悉AI产品规划流程与设计工具(如Axure))，以最快捷最有效地招募到人才（哈哈哈，王婆卖瓜），而写出这本书（此时书即预备产品，我即产品经理）。
+-  目标用户主要是招聘方，等待您需求的验证！同时可以给一些想一同成为AI金融产品经理的同学（不过你是我的竞品哎）提供参考。，以最快捷最有效地招募到人才（哈哈哈，王婆卖瓜），而写出这本书（此时书即预备产品，我即产品经理）。
+-  目标用户主要是招聘方，等待您需求的验证！同时可以给一些想一同成为AI金融产品经理的同学（不过你是我的竞品哎）提供参考。
+-  同时欢迎讨论与反馈：https://github.com/StevenJokess/2bPM/issues
+
+--------------
+
+移动深度学习开发、测试
+^^^^^^^^^^^^^^^^^^^^^^
+
+Developer(test) 自雇 入职日期2020年8月 – 2020年9月 任职时长1 个月
+
+所在地点 中国 浙江省
+
+项目描述:
+
+-  背景：手机是最常用的硬件设备，所以了解mobile AI的开发是非常必要的。
+-  动机：了解Andriod开发。
+-  目标用户：我自己了解Andriod开发。
+-  项目：尝试测试了各个开源项目：
+
+-  观看pytorch官方文档和视频,了解了基本的andriod开发体系;
+-  动手完成了针对动物的图片识别项目:https://github.com/StevenJokess/pytorch-andriod-greatdemo;
+-  并通过https://stevenjokess.github.io/post/pytorch-android/来分享经历
+-  项目职责: 同时了解了arm体系和测试了其他框架:
+-  https://github.com/StevenJokess/Pytorch-Kotlin-Demo
+-  https://github.com/StevenJokess/djl-android-demo
+-  https://github.com/StevenJokess/paddlelite-andriod-demo
+
+动手学深度学习GAN开发者
+^^^^^^^^^^^^^^^^^^^^^^^
+
+开始时间: 2020-09-01
+
+结束时间: 2020-11-01
+
+项目描述:
+
+-  背景：PyTorch/TF2/MXNet为最常用的三大开源深度学习框架，而实际工作中，开发者往往会遇到版本问题（非最新），由于生产环境、研究目的等原因需要转化各个框架的训练等常见问题。
+-  动机：解决常见的版本问题、框架训练转化问题，减少各个框架间的迁移时间成本，同时加速认识AI同行。
+-  目标用户：PyTorch/TF2/MXNet开发者
+-  实际项目：
+-  GAN(MXNet->PyTorch&TF2):
+   http://preview.d2l.ai/d2l-en/PR-1716/chapter_generative-adversarial-networks/gan.html
+-  DCGAN(MXNet->PyTorch）:http://d2l.ai/chapter_generative-adversarial-networks/dcgan.html
+-  结果：共300+浏览，领英加了400左右的AI深度学习同行。
+
+--------------
+
+-  背景：MXNet死气沉沉，只有问题没有回答。
+-  动机：解决MXNet社区死气沉沉。
+-  目标用户：MXNet开发者
+-  开设d2l-en-read记录自己所有的学习过程.见https://github.com/StevenJokess/d2l-en-read/tree/moreme
+-  积极参与discuss.d2l.ai,记录自己遇到的坑,被李沐(MXNet开发者)评为最活跃的参与者.
+-  和mxnet的开发者表达对社区的死气沉沉的不满,并提出活跃社区建议,后被采纳开设discussion区.（https://github.com/apache/incubator-mxnet/issues/18931）
+
+--------------
+
+完成学位论文
+^^^^^^^^^^^^
+
+开始时间: 2020-02-01
+
+结束时间: 2020-05-01
+
+项目描述: 独立研究者 repo: https://github.com/StevenJokess/gra_paper
+
+-  运用知网、Google学术、SciHub等学术搜索引擎,完成文献综述和翻译.
+-  由于导师没接触过Python,我独立阅读Python文档、十余本相关书籍.
+-  项目职责: 运用Pandas库的DataReader()、datetime()导入股市数据.
+-  to_excel()导出,后Excel处理缺失数据与整合文件;read_excel()读取,plt、seaborn库生成时间序列图.
+-  Statsmodel库的极大似然估计下fit()出VAR模型,as_csv()来保存结果.
+-  Word完成编写、排版,共13656字的《中美贸易摩擦前后中美股市的联动性分析》
+
+相关课程:
+~~~~~~~~~
+
+-  数学分析(95);高等代数(89);概率论与数理统计(85);大学英语(90)
+-  计算机基础–PS(90);计算机高级语言–C语言(100);网络金融(80);
+-  微观经济学(85);宏观经济学(90);计量经济学(82);投资学(82补考);金融计量学(85);
+-  会计循环实验(91);计量经济学实验(90);证券投资模拟交易(89);EXCEL计算实验(86);商业银行综合业务
+-  实验(87);投资组合管理(81);财务报表分析(80);
+-  金融服务营销(93);金融从业综合素质实训(92);毕业实习(88);
+
+.. figure:: ./img/rope.png
+
+   跳绳证书、六级
+
+百度开发者版想法：
+------------------
 
 **一面百度AIstudio产品经理失败**\ 后的总结：https://github.com/StevenJokess/d2l-en-read/blob/moreme/chapter-generative-adversarial-networks/aistudio-job.md
 
@@ -49,248 +153,7 @@ https://kaifa.baidu.com 的主意!
 
 |百度最新股价| :depth:200px
 
---------------
-
 https://www.overleaf.com/project/603dfbba8126ff225dc18564
-
-**简历**
---------
-
-自我评价：
-~~~~~~~~~~
-
--  健身跳绳、计算机AI、金融的基础
--  《动手学深度学习》GAN、DCGAN从MXNet到PyTorch的开发
--  PyTorch Android demo等四种移动深度学习框架复现
--  Docker部署的d2lbook2写 《To be AI PM》
--  证书：省跳绳铜牌、初级教练、裁判证；会计、证券、基金从业；六级、二甲
--  快速学习：与时俱进、千书阅读
-
-工作经历
-~~~~~~~~
-
-企业名称: 个人求职中
-
-开始时间: 2020-12-01
-
-结束时间: 2021-02-01
-
-职位名称: 学习并撰写AI产品经理相关内容
-
-所在部门: 个人求职中
-
-离职原因: 对AI更热爱。感觉AI能服务更多人。
-
-工作描述:
-
--  运用docker的 https://github.com/aieye-top/d2l-book2 包，来：
--  撰写普惠深度学习（WIP）：https://github.com/aieye-top/d2cl
--  撰写人工智能产品经理相关书（WIP)：https://stevenjokess.github.io/2bPM/
-
---------------
-
-项目经验
-~~~~~~~~
-
-项目名称: 移动深度学习开发、测试 开始时间: 2020-08-01 结束时间:
-2020-09-01 项目描述:
-
--  观看pytorch官方文档和视频,了解了基本的andriod开发体系;
--  动手完成了针对动物的图片识别项目:https://github.com/StevenJokess/pytorch-andriod-greatdemo;
--  并通过https://stevenjokess.github.io/post/pytorch-android/来分享经历
--  项目职责: 同时了解了arm体系和测试了其他框架:
--  https://github.com/StevenJokess/Pytorch-Kotlin-Demo
--  https://github.com/StevenJokess/djl-android-demo
--  https://github.com/StevenJokess/paddlelite-andriod-demo
-
---------------
-
-项目名称: 动手学深度学习GAN开发者
-
-开始时间: 2020-06-01
-
-结束时间: 2020-11-01
-
-项目描述:
-
--  开设d2l-en-read记录自己所有的学习过程.见https://github.com/StevenJokess/d2l-en-read/tree/moreme
--  积极参与discuss.d2l.ai,记录自己遇到的坑,被李沐(MXNet开发者)评为最活跃的参与者.
--  和mxnet的开发者表达对社区的死气沉沉的不满,并提出活跃社区建议,后被采纳开设discussion区.（https://github.com/apache/incubator-mxnet/issues/18931）
--  项目职责: 运用谷歌、stack
-   overflow等编程搜索引擎,并积极参与GitHub讨论,完成GAN、DCGAN从MXNet到PyTorch的翻译
--  PR.项目可参见(点开pytorch标签的最后的“continue discussion”可见)
--  GAN:http://d2l.ai/chapter_generative-adversarial-networks/gan.html
--  DCGAN:http://d2l.ai/chapter_generative-adversarial-networks/dcgan.html
-
---------------
-
-项目名称: 完成学位论文
-
-开始时间: 2020-02-01
-
-结束时间: 2020-05-01
-
-项目描述: 独立研究者 repo: https://github.com/StevenJokess/gra_paper
-
--  运用知网、Google学术、SciHub等学术搜索引擎,完成文献综述和翻译.
--  由于导师没接触过Python,我独立阅读Python文档、十余本相关书籍.
--  项目职责: 运用Pandas库的DataReader()、datetime()导入股市数据.
--  to_excel()导出,后Excel处理缺失数据与整合文件;read_excel()读取,plt、seaborn库生成时间序列图.
--  Statsmodel库的极大似然估计下fit()出VAR模型,as_csv()来保存结果.
--  Word完成编写、排版,共13656字的《中美贸易摩擦前后中美股市的联动性分析》
-
-项目名称: 参加山西省跳绳竞标赛
-
-开始时间: 2018-07-01
-
-结束时间: 2018-08-01
-
-项目描述:
-
--  30s单摇：66;30s双摇：60;三摇：11个
--  毕业前还可单手俯卧撑、单腿深蹲（现在学AI学肥了。。）
-
-项目职责:
-
--  偶然在操场练习双摇被相中参加比赛。
--  作为非体院唯一绳没有的第四棒,在4*30男子团体单摇比赛共250个,取得市和省级铜牌
--  更多见 https://www.bilibili.com/video/BV1Wf4y167Kp?pop_share=1
-   的第四棒。
--  社团成员文案抓住大家减肥痛点、展示速摇,招新成功翻4倍。
-
-培训经历
-~~~~~~~~
-
-开始时间: 2018-05-01 结束时间: 2018-06-01 培训机构: 山西跳绳运动协会
-培训地点: 山西 培训课程: 跳绳初级裁判、初级教练 获得证书:
-跳绳初级裁判证、初级教练证
-
-语言能力
-~~~~~~~~
-
--  语种: 英语
--  听说能力: 良好
--  读写能力: 精通
--  语言等级: 英语-英语六级
-
-计算机技能
-~~~~~~~~~~
-
--  技能类别: Anaconda 掌握程度: 良好
--  技能类别: VScode 掌握程度: 良好
--  技能类别: Python 掌握程度: 良好
--  技能类别: markdown 掌握程度: 良好
--  技能类别: pytorch 掌握程度: 良好
--  技能类别: mxnet 掌握程度: 良好
--  技能类别: Linux 掌握程度: 良好
--  技能类别: Android开发 掌握程度: 普通
-
-专业技能
-~~~~~~~~
-
-技能名称: 跳绳 掌握程度: 精通
-
-证书
-~~~~
-
--  证书名称: 会计从业资格证 说明: 大一上获得
--  证书名称: 跳绳初级教练证 说明: 大二下获得
--  证书名称: 跳绳初级裁判证 说明: 大二上获得
--  证书名称: 证券从业资格证 说明: 大一下获得
--  证书名称: 基金从业资格证 说明: 大三下获得
--  证书名称: 普通话二甲证书 说明: 大四上获得
-
-个人基本信息
-------------
-
-接受调剂: 不接受
-
-姓名: 蔡舒起
-
-性别: 男
-
-出生日期: 1998-08-11
-
-国籍/地区: 中国
-
-民族: 汉族
-
-婚姻状况: 未婚
-
-工作年限: 无经验
-
-政治面貌: 共青团员
-
-证件类型: 身份证
-
-证件号码: ？
-
-现居住地: 浙江省-台州市
-
-籍贯: 浙江省-台州市
-
-学历: 本科
-
-毕业时间: 2020-07-01
-
-学位: 学士
-
-毕业院校: 山西大学
-
-专业: 经济学类-金融学
-
-移动电话: 1840xxxxxxx
-
-电子邮箱: llgg8679@qq.com
-
-求职意向
-~~~~~~~~
-
-期望工作性质: 全职
-
-期望行业: 互联网/电子商务/AI金融/AI健身
-
-目前薪酬: 面议
-
-期望薪酬: 面议
-
-期望年薪: 面议
-
-到岗时间: 随时
-
-教育经历
-~~~~~~~~
-
-学校: 山西大学
-
-开始时间: 2016-09-01
-
-结束时间: 2020-07-01
-
-学历: 本科
-
-学位: 学士
-
-专业: 经济学类-金融学
-
-专业描述: 经济与管理学院 太原
-
-荣誉/奖项:学业奖学金(2017);三好学生(2017)
-
-相关课程:
-
--  数学分析(95);高等代数(89);概率论与数理统计(85);大学英语(90)
--  计算机基础–PS(90);计算机高级语言–C语言(100);网络金融(80);
--  微观经济学(85);宏观经济学(90);计量经济学(82);投资学(82补考);金融计量学(85);
--  会计循环实验(91);计量经济学实验(90);证券投资模拟交易(89);EXCEL计算实验(86);商业银行综合业务
--  实验(87);投资组合管理(81);财务报表分析(80);
--  金融服务营销(93);金融从业综合素质实训(92);毕业实习(88);
-
-.. figure:: ./img/rope.png
-
-   跳绳证书、六级
-
-书单分享： https://weread.qq.com/misc/booklist/358906697_7e9fYZVah
 
 .. |百度股价| image:: ./img/baidu_gujia.jpg
 .. |百度最新股价| image:: ./img/baidu_gujia_newest.png

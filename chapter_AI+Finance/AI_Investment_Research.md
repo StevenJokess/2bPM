@@ -36,6 +36,10 @@
 
 CCKS 2020：面向金融领域的小样本跨类迁移事件抽取[7]
 
+## 情绪分类
+
+搜集大量财经新闻资讯透过NLP自然语言处理技术,分析文章针对原始文章萃取、摘要、并建立财经新闻情绪分类模型,用以分析特定行业与企业的正向、负向信息[8]
+
 ## 智能投研产业链
 
 上游数据源与数据采集、中游数据处理、下游为各类用户。
@@ -66,3 +70,4 @@ http://gb.oversea.cnki.net/KCMS/detail/detail.aspx?filename=1020099658.nh&dbcode
 [5]: http://www.199it.com/archives/1223002.html
 [6]: http://www.cstf.org.cn/newsdetail.asp?types=36&num=1165
 [7]: https://github.com/xiaoqian19940510/CCKS-2020-event-extraction
+[8]: https://innovate.awssummit.cn/play.aspx?eid=7
