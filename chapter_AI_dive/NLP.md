@@ -43,6 +43,9 @@ NLP底层技术包含自然语言理解(Natural Language Understanding，NLU) �
 
 槽填充（Slot Filling）：提取对话中关键信息，本质是将句子中的词打上语义标签（如上图Slots日期、地点），具体方法有CRF（条件随机场）、Deep Brief Network（深度信念网络）以及RNN（循环神经网络）等。[3]
 
+- 词槽是关键信息，也是筛选条件，例如查天气中的日期和城市
+- 实体是词槽词典，比如城市词槽，对应的实体有北京、上海等[6]
+
 ## NLG
 
 自然语言生成作为**人工智能和计算语言学**的分支，其对应的语言生成系统可以被看作基于语言信息处理的计算机模型，该模型从抽象的概念层次开始，通过选择并执行一定的语法和语义规则生成自然语言文本。
@@ -146,3 +149,4 @@ NLP底层技术包含自然语言理解(Natural Language Understanding，NLU) �
 [3]: http://www.woshipm.com/pd/4133505.html
 [4]: https://www.miotech.com/zh-CN/article/5cda76428b224f0044833a13
 [5]: https://time.geekbang.org/column/article/348027
+[6]: https://ai.baidu.com/forum/topic/show/865200

@@ -248,7 +248,9 @@ https://e.xiaoice.com/Home?r=%2F
 - 微软认知服务[22]
 - 微软机器学习工作室[23]
 - Linkedin[31] 错误[32]
-
+- 天眼查[33]
+- 首席科学家宋睿华[34]
+- 对话微软小冰三位首席科学家[35]
 
 [1]: https://www.linkedin.com/company/%E5%8C%97%E4%BA%AC%E7%BA%A2%E6%A3%89%E5%B0%8F%E5%86%B0%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/about/
 [2]: https://www.msxiaoice.com/User/FAQ
@@ -282,3 +284,6 @@ https://e.xiaoice.com/Home?r=%2F
 [30]: https://www.bilibili.com/video/BV19V411t7Xq
 [31]: https://www.linkedin.com/company/xiaobing-ai/posts/?feedView=all
 [32]: https://www.linkedin.com/company/%E5%8C%97%E4%BA%AC%E7%BA%A2%E6%A3%89%E5%B0%8F%E5%86%B0%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/about/
+[33]: https://www.tianyancha.com/company/3436483438
+[34]: https://www.leiphone.com/category/ai/SBMIk3yoCeWI5j69.html
+[35]:  https://aijishu.com/a/1060000000098908

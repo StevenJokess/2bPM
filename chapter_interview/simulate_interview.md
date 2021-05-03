@@ -126,6 +126,11 @@ DCGAN:
 - 中短期（3-5年）：职位从产品经理到高级产品经理（对**金融智能投研业务**有通盘的了解）最好能到产品总监（整合各方面的资源，在商业上帮助公司）的位置。
 - 中长期（7+年）：在中短期的人脉行业积累下，锻炼嗅觉，去做投资，帮助更多企业和青年人成长。
 
+### 你能给公司带来什么价值
+
+TODO:
+
+
 ### 对小冰的认知
 
 - chatbot：与C端用户聊天，这一点考虑到情感是不做商业化。
@@ -142,6 +147,7 @@ DCGAN:
 ![微软小冰在金融[7]](../img/Fin_xiaoice.png)
 
 https://github.com/StevenJokess/2bPM/blob/master/chapter_company/xiaoice.md
+
 
 ## 准备提问
 
@@ -184,3 +190,4 @@ https://e.xiaoice.com/Home?r=%2F
 [6]: https://www.yeelight.com/zh_CN/product/donut
 [7]: https://www.youtube.com/watch?v=vu6YmD5TX7E
 [8]: https://cloud.ofweek.com/news/2020-11/ART-178801-8500-30469911.html
+[9]: https://www.bilibili.com/video/BV1MK4y1o7me

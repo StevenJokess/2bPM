@@ -20,6 +20,8 @@
 
 [全球AI基础设施市场规模，现状和预测2021-2026](http://www.etimeweekly.com/2021/03/11/ai%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E5%B8%82%E5%9C%BA2021%E5%B9%B4%E5%85%A8%E7%90%83%E6%B4%9E%E5%AF%9F%E5%8A%9B%E5%92%8C%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF-oracle%EF%BC%8Cmicrosoft%EF%BC%8Cintel-c/)
 
+从全球来看，开源开发框架的第一次洗牌已到尾声，谷歌、脸书等头部企业的开发框架体系基本确立，市场份额和社区生态已远超其他框架，我国框架以一己之身突围难度很大。同时，受制于我国集成电路较全球起步晚的历史背景，英伟达、英特尔等芯片大厂已在工艺制程、芯片架构、软件生态等方面有数十年积累；智能计算时期，芯片头部企业针对人工智能任务需求加速优化芯片架构、完善软件工具、适配多样的开发框架，构筑庞大的生态体系不断提高行业壁垒，导致其他初创智能芯片企业一时间难以切入市场进行规模应用。[20]
+
 #### 2020 AI Hype Cycle
 
 ![2020人工智能技术成熟度曲线报告](../img/2020_AI_Gartner.png)
@@ -239,3 +241,4 @@ Ernst：中国创新体系的分散化突显了中国AI发展的一个基础性�
 [17]: https://www.weiyangx.com/356538.html
 [18]: http://pdf.dfcfw.com/pdf/H3_AP202007081390272095_1.pdf
 [19]: https://business.linkedin.com/content/dam/me/business/zh-cn/talent-solutions/Event/july/lts-ai-report/%E9%A2%86%E8%8B%B1%E3%80%8A%E5%85%A8%E7%90%83AI%E9%A2%86%E5%9F%9F%E4%BA%BA%E6%89%8D%E6%8A%A5%E5%91%8A%E3%80%8B.pdf
+[20]: https://mp.weixin.qq.com/s/y49r-uKmja6f1oz4ckbMIA?
