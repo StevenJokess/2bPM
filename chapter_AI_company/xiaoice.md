@@ -239,6 +239,7 @@ https://e.xiaoice.com/Home?r=%2F
 - 小度为主人而待命
 
 
+
 ## 更多
 
 - 百度百科[17]
@@ -251,6 +252,10 @@ https://e.xiaoice.com/Home?r=%2F
 - 天眼查[33]
 - 首席科学家宋睿华[34]
 - 对话微软小冰三位首席科学家[35]
+
+## 竞品
+
+Google I/O发布了Duplex（谷歌智能助理）的录音demo，场景就是描述助理代替用户打电话去订餐厅，和店员沟通，帮助用户预定位子。其实一样是填表233。[36]
 
 [1]: https://www.linkedin.com/company/%E5%8C%97%E4%BA%AC%E7%BA%A2%E6%A3%89%E5%B0%8F%E5%86%B0%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/about/
 [2]: https://www.msxiaoice.com/User/FAQ
@@ -286,4 +291,5 @@ https://e.xiaoice.com/Home?r=%2F
 [32]: https://www.linkedin.com/company/%E5%8C%97%E4%BA%AC%E7%BA%A2%E6%A3%89%E5%B0%8F%E5%86%B0%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/about/
 [33]: https://www.tianyancha.com/company/3436483438
 [34]: https://www.leiphone.com/category/ai/SBMIk3yoCeWI5j69.html
-[35]:  https://aijishu.com/a/1060000000098908
+[35]: https://aijishu.com/a/1060000000098908
+[36]: https://iuu.me/ai/

@@ -37,11 +37,23 @@ NLP底层技术包含自然语言理解(Natural Language Understanding，NLU) �
 
 ## NLU
 
+### 背景
+
+无论你说“我要出差”还是“帮我看看去北京的航班”，只要这些字里面没有包含提前设定好的关键词“订机票”，系统都无法处理。而且，只要出现了关键词，比如“我要退订机票”里也有这三个字，也会被处理成用户想要订机票。
+
+自然语言理解这个技能出现后，可以让机器从各种自然语言的表达中，区分出来，哪些话归属于这个意图；而那些表达不是归于这一类的，而**不再依赖那么死板的关键词**。比如经过训练后，机器能够识别“帮我推荐一家附近的餐厅”，就不属于“订机票”这个意图的表达。[8]
+
+NLU的出现为机器处理意图方面带来了飞跃的提升。通过训练可以让机器从多重表达语法中精准识别到用户的意图。[10]
+
+### 定义
+
 自然语言理解（NLU）模块主要是通过意图识别和槽识别（信息抽取）来理解对话中用户语句的语义。
 
-意图识别（Intent Prediction）：目的是理解用户所表达的意图，核心其实是处理一个分类问题，将用户的话分类到事先预定义好的意图类别中去。目前主要基于深度学习的方法，使用CNN（卷积神经网络）对query进行特征提取和意图分类，类似的方法同样适用于领域的分类。
+意图识别（Intent Prediction）：目的是**理解用户所表达的意图**，核心其实是处理一个分类问题，将用户的话分类到**事先预定义好的意图类别**中去。目前主要基于深度学习的方法，使用CNN（卷积神经网络）对query进行特征提取和意图分类，类似的方法同样适用于领域的分类。
 
-槽填充（Slot Filling）：提取对话中关键信息，本质是将句子中的词打上语义标签（如上图Slots日期、地点），具体方法有CRF（条件随机场）、Deep Brief Network（深度信念网络）以及RNN（循环神经网络）等。[3]
+什么是槽？（Slot） 槽是多轮对话过程中将初步用户意图转化为明确用户指令（将模糊或缺失的意图补全[11]）所需要补全的**关键信息**。一个槽与一件事情的处理中所需要获取的一种信息相对应。[7]
+
+槽填充（Slot Filling）：提取对话中关键信息，本质是将句子中的词打上语义标签（如上图Slots日期、地点），具体方法有CRF（条件随机场）、Deep Brief Network（深度信念网络）以及RNN（循环神经网络）等。[3]槽位值就是用户表达的具体关键信息。
 
 - 词槽是关键信息，也是筛选条件，例如查天气中的日期和城市
 - 实体是词槽词典，比如城市词槽，对应的实体有北京、上海等[6]
@@ -76,6 +88,12 @@ NLP底层技术包含自然语言理解(Natural Language Understanding，NLU) �
 - 论文：https://github.com/THUNLP-MT/TG-Reading-List
 
 ## 文本处理流程
+
+### 语料定义
+
+语料。为了表达清楚意图，用户会说一些常用的问法，比如，用户说“今天天气咋样”、“明天深圳温度多少”、“今天雾霾多大”，这些句子的背后都是想表达某个意图。而这些句子，我们称为语料。
+
+语料的作用是用来让机器去学习和理解意图的。好比一个刚出生的小孩，需要不断的教他很多句子的意思，慢慢的就会理解大家的说话（意图）。[9]
 
 ### 语料获取
 
@@ -150,3 +168,8 @@ NLP底层技术包含自然语言理解(Natural Language Understanding，NLU) �
 [4]: https://www.miotech.com/zh-CN/article/5cda76428b224f0044833a13
 [5]: https://time.geekbang.org/column/article/348027
 [6]: https://ai.baidu.com/forum/topic/show/865200
+[7]: https://mp.weixin.qq.com/s?__biz=MjM5NzA5OTAwMA==&mid=2650005853&idx=1&sn=2c6bb9e9c3751fdc3fd95e89b8b6377d&chksm=bed865ca89afecdcdf0ecde9ed2385fb613cb2a40ad0c491582c7faf91841d17efdfe59718e1&mpshare=1&scene=1&srcid=0304keVTiRXgpPHVGxGFL6mI#rd
+[8]: https://mp.weixin.qq.com/s?__biz=Mzg5NDIwODgzMA==&mid=2247484375&idx=1&sn=ef1c302d24f4b30651b5dfcaaf0390cc&source=41#wechat_redirect
+[9]: https://dingdang.qq.com/doc/page/32
+[10]: https://iuu.me/ai/
+[11]: http://www.woshipm.com/ai/1821385.html
