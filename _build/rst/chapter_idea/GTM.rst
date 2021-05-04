@@ -43,7 +43,7 @@ GTM（go to marketing）
 
 很多产品的长期价值往往用户一时半会儿感知不到，需要运营创造一些短期价值去刺激用户使用和体验，并根据用户的持续反馈调整、迭代、优化来完善长期价值。
 
-三驾马车:内容、用户、活动
+四驾马车:内容、用户、活动、社区\ `15 <https://mp.weixin.qq.com/s?__biz=MzAxNjMyMDUzMQ==&mid=2247494223&idx=2&sn=0528f065f77307519fe33caf2f852f22&chksm=9bf43b33ac83b2255e3f1091f8d3bf5e415bf8198fd94b218e5f47343eaa4e158e52d6620c91&scene=21#wechat_redirect>`__
 
 作用
 ~~~~

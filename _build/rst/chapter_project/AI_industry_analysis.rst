@@ -30,6 +30,8 @@ Insights调研出2019年人工智能行业25大趋势 <http://www.stdaily.com/cx
 
 `全球AI基础设施市场规模，现状和预测2021-2026 <http://www.etimeweekly.com/2021/03/11/ai%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E5%B8%82%E5%9C%BA2021%E5%B9%B4%E5%85%A8%E7%90%83%E6%B4%9E%E5%AF%9F%E5%8A%9B%E5%92%8C%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF-oracle%EF%BC%8Cmicrosoft%EF%BC%8Cintel-c/>`__
 
+从全球来看，开源开发框架的第一次洗牌已到尾声，谷歌、脸书等头部企业的开发框架体系基本确立，市场份额和社区生态已远超其他框架，我国框架以一己之身突围难度很大。同时，受制于我国集成电路较全球起步晚的历史背景，英伟达、英特尔等芯片大厂已在工艺制程、芯片架构、软件生态等方面有数十年积累；智能计算时期，芯片头部企业针对人工智能任务需求加速优化芯片架构、完善软件工具、适配多样的开发框架，构筑庞大的生态体系不断提高行业壁垒，导致其他初创智能芯片企业一时间难以切入市场进行规模应用。\ `20 <https://mp.weixin.qq.com/s/y49r-uKmja6f1oz4ckbMIA?>`__
+
 2020 AI Hype Cycle
 ^^^^^^^^^^^^^^^^^^
 
@@ -99,7 +101,8 @@ drive.ai，还有大量自动驾驶，头戴式 VR
 |iresearch_AI|
 |AI-100-startup-2020\ |\ `12 <https://www.cbinsights.com/research/2020-top-100-ai-startups-where-are-they-now/>`__
 |Most-Valuable-AI-Startups-V3\ |\ `13 <https://www.cbinsights.com/research/most-valuable-private-ai-companies/>`__
-|AI领先企业主要投资领域| |AI独角兽|
+|AI领先企业主要投资领域| |AI独角兽| |AI
+公司\ |\ `21 <http://www.woshipm.com/pmd/2445583.html>`__
 
 发展报告
 ~~~~~~~~
@@ -300,3 +303,4 @@ More:
 .. |Most-Valuable-AI-Startups-V3\ | image:: ../img/Most-Valuable-AI-Startups-V3.png
 .. |AI领先企业主要投资领域| image:: ../img/AI_invest.jpg
 .. |AI独角兽| image:: ../img/AI_Unicorn.png
+.. |AI 公司\ | image:: ../img/AI_company.png

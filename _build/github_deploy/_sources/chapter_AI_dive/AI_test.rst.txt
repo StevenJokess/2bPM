@@ -10,3 +10,5 @@ TODO: https://www.cnblogs.com/zgq123456/articles/10562855.html
 -  查准率表示真正例占所有预测结果为正例的样例比值
 -  查全率表示真正例占所有真实情况为正例的样例比值
 -  ROC曲线描述的是真正例率和假正例率之间的关系
+
+https://dingdang.qq.com/doc/page/65

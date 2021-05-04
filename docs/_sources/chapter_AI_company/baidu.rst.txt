@@ -24,3 +24,5 @@ PaddlePaddle
 ------------
 
 文档（没能代码及时反馈）：https://www.paddlepaddle.org.cn/documentation/docs/
+
+https://www.paddlepaddle.org.cn/ppde

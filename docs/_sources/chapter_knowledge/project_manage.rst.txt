@@ -32,6 +32,10 @@ PM能在产品的整个生命周期中，进行产品迭代的规划、各类资
 立项—>需求—>开发—>测试—>发布
 `5 <https://quizlet.com/129588206/%E4%BA%BA%E4%BA%BA%E9%83%BD%E6%98%AF%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86-%E7%AC%94%E8%AE%B0-flash-cards/s>`__
 
+.. figure:: ../img/project_management_Excel.png
+
+   用Excel管理项目\ `19 <https://www.zhihu.com/question/20102432/answer/506962449>`__
+
 文档管理——流程管理——敏捷方法
 
 整体流程
