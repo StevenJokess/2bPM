@@ -283,6 +283,7 @@ Open source models, data and transfer learning are also enabling businesses to m
 
 所有AI企业，作为前沿、高端的研发与技术密集型行业，收入规模在相当长一段时间内，有可能无法支撑巨额的、持续的、大规模研发投入、场景探索及市场开拓等，持续亏损的风险与压力，会长期存在。[18]
 
+https://venturebeat.com/
 
 ### AI 融资
 

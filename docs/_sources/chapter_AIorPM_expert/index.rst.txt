@@ -14,3 +14,4 @@ AI或产品专家
    qi_yuan
    pei_jian
    xie_liang
+   yu_jun

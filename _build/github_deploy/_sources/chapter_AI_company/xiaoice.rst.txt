@@ -16,6 +16,8 @@
 
 人员：https://www.linkedin.com/company/%E5%8C%97%E4%BA%AC%E7%BA%A2%E6%A3%89%E5%B0%8F%E5%86%B0%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/people/
 
+这个很奇怪？
+
 定位
 ----
 
@@ -308,16 +310,20 @@ https://e.xiaoice.com/Home?r=%2F
 -  微软认知服务\ `22 <https://azure.microsoft.com/en-us/services/cognitive-services/>`__
 -  微软机器学习工作室\ `23 <https://studio.azureml.net/>`__
 -  Linkedin\ `31 <https://www.linkedin.com/company/xiaobing-ai/posts/?feedView=all>`__
-   错误\ `32 <https://www.linkedin.com/company/%E5%8C%97%E4%BA%AC%E7%BA%A2%E6%A3%89%E5%B0%8F%E5%86%B0%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/about/>`__
+   错误1\ `32 <https://www.linkedin.com/company/%E5%8C%97%E4%BA%AC%E7%BA%A2%E6%A3%89%E5%B0%8F%E5%86%B0%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/about/>`__
+   错误2\ `37 <https://www.linkedin.com/company/%E5%B0%8F%E5%86%B0-%E6%9D%AD%E5%B7%9E-%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/about/>`__
 -  天眼查\ `33 <https://www.tianyancha.com/company/3436483438>`__
 -  首席科学家宋睿华\ `34 <https://www.leiphone.com/category/ai/SBMIk3yoCeWI5j69.html>`__
 -  对话微软小冰三位首席科学家\ `35 <https://aijishu.com/a/1060000000098908>`__
+-  微软小冰从0到1的故事\ `38 <https://www.36kr.com/p/1721616842753>`__
 
 竞品
 ----
 
 Google
 I/O发布了Duplex（谷歌智能助理）的录音demo，场景就是描述助理代替用户打电话去订餐厅，和店员沟通，帮助用户预定位子。其实一样是填表233。\ `36 <https://iuu.me/ai/>`__
+
+猎户星空联合喜马拉雅等发布首款全内容AI音箱–小雅语音\ `38 <https://www.36kr.com/p/1721616842753>`__
 
 .. |技术到落地产品| image:: ../img/xiaoice_tech-product.png
 .. |小冰存在在各个产品| image:: ../img/xiaoice_exist.png

@@ -12,6 +12,8 @@
 
 人员：https://www.linkedin.com/company/%E5%8C%97%E4%BA%AC%E7%BA%A2%E6%A3%89%E5%B0%8F%E5%86%B0%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/people/
 
+这个很奇怪？
+
 ## 定位
 
 “小冰”是微軟在2014年5月29日發布的人工智慧。小冰是一套完整的、面向交互全程的人工智慧交互主體基礎框架，又叫小冰框架（Avatar Framework），它包括核心對話引擎、多重交互感官、第三方內容的觸發與第一方內容生成，和跨平台的部署解決方案。自發布以來，小冰框架引領著人工智慧的技術創新，相關領先技術覆蓋自然語言處理、計算機語音、計算機視覺和人工智慧內容生成等人工智慧領域。該框架是目前全球範圍內最成熟和最大的該類框架，目前，除中國小冰及日本凜菜（Rinna）第一方人工智慧交互主體外，小冰框架還支撐了中國及日本100餘個第三方品牌的交互主體（如軟銀Pepper），交互總量約占全球人工智慧交互總量的60%。
@@ -238,8 +240,6 @@ https://e.xiaoice.com/Home?r=%2F
 - 小爱同学没有朋友只有主人
 - 小度为主人而待命
 
-
-
 ## 更多
 
 - 百度百科[17]
@@ -248,14 +248,17 @@ https://e.xiaoice.com/Home?r=%2F
 - The Design and Implementation of XiaoIce, an Empathetic Social Chatbot[24]
 - 微软认知服务[22]
 - 微软机器学习工作室[23]
-- Linkedin[31] 错误[32]
+- Linkedin[31] 错误1[32] 错误2[37]
 - 天眼查[33]
 - 首席科学家宋睿华[34]
 - 对话微软小冰三位首席科学家[35]
+- 微软小冰从0到1的故事[38]
 
 ## 竞品
 
 Google I/O发布了Duplex（谷歌智能助理）的录音demo，场景就是描述助理代替用户打电话去订餐厅，和店员沟通，帮助用户预定位子。其实一样是填表233。[36]
+
+猎户星空联合喜马拉雅等发布首款全内容AI音箱--小雅语音[38]
 
 [1]: https://www.linkedin.com/company/%E5%8C%97%E4%BA%AC%E7%BA%A2%E6%A3%89%E5%B0%8F%E5%86%B0%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/about/
 [2]: https://www.msxiaoice.com/User/FAQ
@@ -293,3 +296,6 @@ Google I/O发布了Duplex（谷歌智能助理）的录音demo，场景就是描
 [34]: https://www.leiphone.com/category/ai/SBMIk3yoCeWI5j69.html
 [35]: https://aijishu.com/a/1060000000098908
 [36]: https://iuu.me/ai/
+[37]: https://www.linkedin.com/company/%E5%B0%8F%E5%86%B0-%E6%9D%AD%E5%B7%9E-%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/about/
+[38]: https://www.36kr.com/p/1721616842753
+[39]: https://mp.weixin.qq.com/s?__biz=MjM5NjgzMzkwMQ==&mid=2653646344&idx=1&sn=cceb267c3bf8e4dbb80934ff5e15708e&chksm=bd3cf10a8a4b781c149ee61e9ae24b22375a3ee7a02895bc7830078dcf5a328caf1efa8c78d9&scene=21#wechat_redirect

@@ -44,6 +44,13 @@ https://www.trustbe.cn/tdjs
 
 https://www.tianyancha.com/company/3413932106
 
+
+听说领英可以自己写公司，无必须公司认证
+
+- https://www.linkedin.com/in/%E4%BF%8A%E5%9B%BD-%E9%AB%98-498131106/
+
+
+
 [1]: https://m.pedaily.cn/news/460985
 [2]: https://www.qcc.com/firm/efcbb8220d64ca34f4a85f5e1c0af260.html
 [3]: https://www.tuoniaox.com/newsflash/p-477301.html

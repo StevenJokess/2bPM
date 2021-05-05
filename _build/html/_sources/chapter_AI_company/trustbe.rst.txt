@@ -58,3 +58,7 @@ https://www.trustbe.cn/tdjs
 -  蓝象科技:https://www.zhipin.com/job_detail/b35c1e9ba985fc101nV72tq5EFZZ.html
 
 https://www.tianyancha.com/company/3413932106
+
+听说领英可以自己写公司，无必须公司认证
+
+-  https://www.linkedin.com/in/%E4%BF%8A%E5%9B%BD-%E9%AB%98-498131106/

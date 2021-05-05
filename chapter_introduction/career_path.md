@@ -2,6 +2,8 @@
 
 职业生涯规划是指人和工作两个部分的结合，首先要对这个人和这个公司进行主观、客观条件的评估分析，然后再根据这个人的兴趣爱好、能力特点进行利弊分析，结合当前社会发展，以及未来几年的趋势，确定一个最佳的职业奋斗目标，并为实现这个目标做出行之有效的安排。职业生涯规划最终应该落地到目标和行之有效的安排。
 
+![理想的职业[23]](../img/career_choose.png)
+
 ## 择业
 
 每一次择业都是一种选择。产品经理应该慎重对待自己的每一次选择，每一次赛道的变化都可能吞噬之前的积累，每一次公司的变更都可能让自己退步。
@@ -303,3 +305,4 @@
 [20]: https://www.zhihu.com/question/323588594/answer/677650489
 [21]: https://www.zhihu.com/question/19565317
 [22]: https://www.bobinsun.cn/pm/2020/01/29/Talking-about-product-managers/
+[23]: https://wen.woshipm.com/question/detail/7hghar.html?sf=wipm
