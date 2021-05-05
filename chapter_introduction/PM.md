@@ -646,6 +646,13 @@ PM最终拼的是人文素养和灵魂境界，而不是职位名称、从业年
 
 ![PM知识宇宙[46]](../img/PM_knowledge.png)
 
+## 产品方法论
+
+从⽤户模型到交易模型[59]
+
+- ⽤户模型：以异质性、情境性、可塑性、⾃私性、有限理性的⽤户⾏为为基本单位来研究产品。
+- 交易模型：以可持续交易为基本单位来研究产品。
+
 ## 更多
 
 社区：
@@ -762,3 +769,4 @@ http://www.pm265.com/
 [56]: https://zhuanlan.zhihu.com/p/25796796
 [57]: https://www.inneed.club/articles/detail/pkx0e46gew
 [58]: https://www.bilibili.com/video/BV1vD4y1U7j6
+[59]: https://www.bobinsun.cn/pm/2020/01/29/Talking-about-product-managers/

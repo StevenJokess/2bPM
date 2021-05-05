@@ -148,6 +148,8 @@ NEXT方法 `5 <http://www.changgpm.com/>`__
 
 更进一步，我们可以设置一个北极星指标，例如产品日活，然后结合每个模块进行细致拆分。我们可能需要关注每日新增用户，核心用户在今天的贡献数值，打开率，使用频次，目标达成率，分享率等等。当我们把这些核心目标真正拆解清楚的时候，我们就有了主要指标，就是我们应该怎么样去把这个产品做好。
 
+MySpace公司运营的主要指标是注册“用户数”，而Facebook在Mark的指引下，在成立的早期就把“月活跃用户数”作为对外汇报和内部运营的主要指标。\ `16 <http://www.woshipm.com/data-analysis/454520.html>`__
+
 .. figure:: ../img/goal_fenjie.jpg
 
    核心目标的拆解
@@ -212,6 +214,11 @@ More
 ~~~~
 
 https://www.niaogebiji.com/
+
+增长战略
+--------
+
+http://www.woshipm.com/operate/4101930.html
 
 销售
 ----

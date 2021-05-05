@@ -14,7 +14,7 @@ Product Mananger
 
 能力要求（自己总结的）：用户观察、同理心、市场判断（发现机会）–》逻辑沟通来串联商业与技术（整合、争取资源）–》不断项目管理来推进执行–》推向市场来不断反馈（运营、营销、销售）
 
-眼（发现）-》说并行-》眼（修正）。
+眼（发现）-》说并行-》眼（修正）(结合能力）。
 
 心态
 ~~~~
@@ -790,6 +790,14 @@ https://coffee.pmcaff.com/article/KDLE41yRkx?rts=201105225049_nch
 
    PM知识宇宙\ `46 <https://g.yuque.com/zhongguodianxinyanjiuyuan/bgso10/ab5ucf>`__
 
+产品方法论
+----------
+
+从⽤户模型到交易模型\ `59 <https://www.bobinsun.cn/pm/2020/01/29/Talking-about-product-managers/>`__
+
+-  ⽤户模型：以异质性、情境性、可塑性、⾃私性、有限理性的⽤户⾏为为基本单位来研究产品。
+-  交易模型：以可持续交易为基本单位来研究产品。
+
 更多
 ----
 
@@ -839,6 +847,7 @@ http://www.pm265.com/
 -  https://www.yuque.com/books/share/2325abf6-ed56-4941-bf99-94edeb122076?#%20%E3%80%8A%E4%BA%A7%E5%93%81API:%E8%BF%9B%E9%98%B6%E5%85%A8%E6%A0%88PM%E6%89%8B%E5%86%8C%E3%80%8B
 -  http://dadaghp.com/
 -  https://www.jianshu.com/u/c22ccc510fb9
+-  https://g.yuque.com/clairewang8696
 
 真题：柠檬two公众号
 
@@ -847,6 +856,8 @@ http://www.pm265.com/
 
 心态：Stay Hungry ,Stay Foolish
 `36 <https://zhuanlan.zhihu.com/p/268180702>`__
+
+大会：http://pm-summit.org/
 
 .. |产品策划VS产品运营| image:: ../img/design_GTM.jpg
 .. |腾讯产品经理能力模型| image:: ../img/tencent_PM.png

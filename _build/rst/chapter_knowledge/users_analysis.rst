@@ -146,6 +146,8 @@ taking的心理学理论，人考虑问题习惯性先从自己出发，而不�
 
    用户画像[22]
 
+其他：硬件属性、社群属性、软件属性[30]
+
 TODO:https://zhuanlan.zhihu.com/p/28485415
 
 人的五个层次 [10]
@@ -473,3 +475,4 @@ https://t.qidianla.com/1149667.html [27]:
 https://t.qidianla.com/1156537.html [28]:
 https://www.zhihu.com/question/323588594/answer/890413615 [29]:
 http://www.woshipm.com/pmd/3113347.html#:~:text=%E8%80%8C%E5%AF%B9%E4%BA%8E%E6%9F%90%E4%B8%AAAPP,%E7%9A%84%E5%A4%A7%E9%83%A8%E5%88%86%E7%94%A8%E6%88%B7%E5%88%9A%E9%9C%80%E3%80%82
+[30]: https://mp.weixin.qq.com/s/tFiqERFrHy_1l5pgayR_jA

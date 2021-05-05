@@ -94,6 +94,7 @@ CNN优缺点：
 -  Reddit:https://www.reddit.com/r/deeplearning/
 -  AI算法工程师手册: https://www.bookstack.cn/books/huaxiaozhuan-ai
 -  CV: http://www.uml.org.cn/ai/202012021.asp?artid=23430
+-  训练秘籍: https://deeplearning-ai.github.io/
 
 学科与应用
 ----------

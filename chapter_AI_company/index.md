@@ -19,4 +19,5 @@ xiaoice
 xiaoai
 huatai
 JPMorgan
+tianyancha
 ```

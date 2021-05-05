@@ -2,7 +2,22 @@
 AI产品的测试
 ============
 
+图灵测试
+--------
+
 TODO: https://www.cnblogs.com/zgq123456/articles/10562855.html
+
+元图灵测试
+~~~~~~~~~~
+
+https://aaai.org/ocs/index.php/WS/AAAIW17/paper/download/15233/14656
+
+Winograd Schema Challenge测试
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+https://en.wikipedia.org/wiki/Winograd_Schema_Challenge
+
+用世界知识（包括常识）来做推理：
 
 指标
 ----

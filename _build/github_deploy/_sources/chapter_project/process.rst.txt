@@ -34,6 +34,10 @@ UI评审→ 开发跟踪→上线前的测试 → 产品上线后的bug收集 �
 
    流程
 
+.. figure:: ../img/project_process.png
+
+   研发流程各阶段及角色分析\ `10 <https://g.yuque.com/clairewang8696/lsi6zo/hp046u>`__
+
 AI PM 特殊点 `6 <http://www.changgpm.com/thread-253-1-1.html>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

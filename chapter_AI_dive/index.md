@@ -16,6 +16,8 @@ GAN
 OCR
 NLP
 KG
+Speech
+FAQ
 chatbot
 Federated Learning
 mobile
