@@ -694,12 +694,15 @@ http://www.pm265.com/
 - https://www.yuque.com/books/share/2325abf6-ed56-4941-bf99-94edeb122076?#%20%E3%80%8A%E4%BA%A7%E5%93%81API:%E8%BF%9B%E9%98%B6%E5%85%A8%E6%A0%88PM%E6%89%8B%E5%86%8C%E3%80%8B
 - http://dadaghp.com/
 - https://www.jianshu.com/u/c22ccc510fb9
+- https://g.yuque.com/clairewang8696
 
 真题：柠檬two公众号
 
 书籍：[产品经理必读商业思维与视野格局类书目（产品手记推荐） - 「已注销」的文章 - 知乎](https://zhuanlan.zhihu.com/p/127373717)
 
 心态：Stay Hungry ,Stay Foolish [36]
+
+大会：http://pm-summit.org/
 
 [1]: https://www.jianshu.com/p/fd466ed1bda6
 [2]: https://www.zhihu.com/question/343743405/answer/1237754321s

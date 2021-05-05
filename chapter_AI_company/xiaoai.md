@@ -5,3 +5,10 @@ https://developers.xiaoai.mi.com/
 https://space.bilibili.com/239380557?from=search&seid=5696491191200583650
 
 小爱同学VS微软小冰：https://www.bilibili.com/video/BV1fp411o7VG?from=search&seid=8658988712634105515
+
+鼠标测试：
+
+- 订机票弹出：https://www.ctrip.com/
+- 订台州到杭州的票（默认是火车票了）：https://kyfw.12306.cn/otn/leftTicket/init?linktypeid=dc&fs=%E5%8F%B0%E5%B7%9E,TZH&ts=%E6%9D%AD%E5%B7%9E,HZH&date=&flag=N,N,Y
+- 订台州到杭州的机票（默认是今天了）https://flights.ctrip.com/international/search/oneway-hyn-hgh?_=1&depdate=2021-05-12
+

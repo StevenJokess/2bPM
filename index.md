@@ -91,6 +91,8 @@
 
 标签： :lable:、:ref:
 
+[Markdown用法之-奇技淫巧](https://www.bobinsun.cn/blog/2019/03/29/Markdown-Diabolic-tricks/)
+
 ### TODO：
 
 google analysis.
@@ -135,7 +137,7 @@ chapter_interview/index
 chapter_data_dive/index
 chapter_AI_dive/index
 chapter_AI_company/index
-chapter_AI_expert/index
+chapter_AIorPM_expert/index
 chapter_AI+Finance/index
 
 ```

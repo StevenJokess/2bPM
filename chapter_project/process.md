@@ -26,6 +26,8 @@
 
 ![流程](../img/process.png)
 
+![研发流程各阶段及角色分析[10]](../img/project_process.png)
+
 ### AI PM 特殊点 [6]
 
 1. 需求把握：AI产品还处于探索期（找刚需）, ToC产品的产品形态甚至典型用户群体（用户画像）都还不明确，所以信息（行业信息、竞品信息、用户信息）收集、创意思考、产品验证的工作会更加困难。
@@ -279,9 +281,6 @@ Qualitative data collection tools (such as SurveyMonkey, Qualtrics, and Google F
 最后，不要忘了向项目的相关干系人发送一份最终的项目总结报告。
 
 
-
-
-
 [1]: http://www.woshipm.com/pd/313514.html
 [2]: http://www.woshipm.com/zhichang/459131.html
 [3]: http://www.woshipm.com/pd/841065.html
@@ -291,3 +290,4 @@ Qualitative data collection tools (such as SurveyMonkey, Qualtrics, and Google F
 [7]: https://radiant-brushlands-42789.herokuapp.com/towardsdatascience.com/my-first-year-as-a-project-manager-for-artificial-intelligence-ai-16127a4a37c2
 [8]: http://www.uml.org.cn/devprocess/201910163.asp
 [9]: https://radiant-brushlands-42789.herokuapp.com/towardsdatascience.com/take-your-machine-learning-models-to-production-with-these-5-simple-steps-35aa55e3a43c
+[10]: https://g.yuque.com/clairewang8696/lsi6zo/hp046u
