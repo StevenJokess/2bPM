@@ -8,7 +8,7 @@
 
 能力要求（自己总结的）：用户观察、同理心、市场判断（发现机会）--》逻辑沟通来串联商业与技术（整合、争取资源）--》不断项目管理来推进执行--》推向市场来不断反馈（运营、营销、销售）
 
-眼（发现）-》说并行-》眼（修正）(结合能力）。
+眼（洞察机会，发现目标）-》说并行（决策做什么，并规划与调度执行能力[60]）-》眼（不断针对目标修正）（结合能力）。
 
 ### 心态
 
@@ -770,3 +770,4 @@ http://www.pm265.com/
 [57]: https://www.inneed.club/articles/detail/pkx0e46gew
 [58]: https://www.bilibili.com/video/BV1vD4y1U7j6
 [59]: https://www.bobinsun.cn/pm/2020/01/29/Talking-about-product-managers/
+[60]: http://www.sohu.com/a/368966316_114819#:~:text=%E5%85%88%E4%B8%8A%E7%BB%93%E8%AE%BA%E2%80%94%E2%80%94%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86,%EF%BC%88%E7%9B%AE%E6%A0%87%E4%B8%8E%E5%86%B3%E7%AD%96%E8%83%BD%E5%8A%9B%EF%BC%89%E3%80%82

@@ -8,10 +8,14 @@ https://space.bilibili.com/239380557?from=search&seid=5696491191200583650
 
 测试--单轮对话
 
-- 订机票弹出：https://www.ctrip.com/
+- 订机票弹出携程：https://www.ctrip.com/
 - 订台州到杭州的票（默认是火车票了）：https://kyfw.12306.cn/otn/leftTicket/init?linktypeid=dc&fs=%E5%8F%B0%E5%B7%9E,TZH&ts=%E6%9D%AD%E5%B7%9E,HZH&date=&flag=N,N,Y
 - 订台州到杭州的机票（默认是今天了）https://flights.ctrip.com/international/search/oneway-hyn-hgh?_=1&depdate=2021-05-12
 - 换首歌-好的（Media Next track）
 - 上首歌-好的（Media Prev track）
 - 打开迅雷腾讯视频（说错了，本来想说打开腾讯视频）- 结果。。
 -
+
+why携程？“不得不佩服携程的服务，是确实完备，这些去哪儿网，马蜂窝等等望尘莫及”[1]
+
+[1]: https://www.nowcoder.com/discuss/tiny/587660?channel=666&source_id=feed_index_nctrack&fromIframe=true
