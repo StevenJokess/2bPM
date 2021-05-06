@@ -291,7 +291,8 @@ https://venturebeat.com/
 
 [2020「年度最佳人工智能领域投资机构TOP10」](https://www.lieyunwang.com/archives/472130)
 
-投研信息简报：http://www.ciifund.cn/zwt/
+- 投研信息简报：http://www.ciifund.cn/zwt/
+- 红杉中国AI布局：https://www.sequoiacap.com/china/article/about-ai/
 
 ### AI资本寒冬 [22]
 
@@ -326,3 +327,4 @@ https://venturebeat.com/
 [20]: https://www.cyzone.cn/article/628604.html
 [21]: https://www.inneed.club/articles/detail/4l50o6w079
 [22]: https://www.jiemian.com/article/6005288.html
+[23]: https://www.sequoiacap.com/china/article/about-ai/

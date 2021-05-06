@@ -57,6 +57,15 @@
 - 产品经理(在市场上)的价值大小 = 基石能力 x 专业知识 x 行业知识 x 资历履历 x 圈子[16]
 - 产品经理(对于企业)的价值大小 = 经验等级 x 智慧等级 x 平台匹配度 [22]
 
+## 常见产品团队的配置
+
+基本有以下三种[24]
+
+1. “产品经理” 独苗一只，主要是小团队，创业团队，常见种子/天使公司
+1. “产品经理”+“产品助理” 关注团队打造，或者天使/pre A的公司
+1. “产品负责人”+“产品经理”+“产品助理” 体量上亿，或者已经A轮融资的公司
+
+
 ## 职级
 
 ### 影响因素
@@ -306,3 +315,4 @@
 [21]: https://www.zhihu.com/question/19565317
 [22]: https://www.bobinsun.cn/pm/2020/01/29/Talking-about-product-managers/
 [23]: https://wen.woshipm.com/question/detail/7hghar.html?sf=wipm
+[24]: https://zhuanlan.zhihu.com/p/23756089

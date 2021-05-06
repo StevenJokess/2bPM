@@ -222,7 +222,7 @@ Ernst：中国创新体系的分散化突显了中国AI发展的一个基础性�
 - https://emerj.com/ai-executive-guides/
 - IT桔子的工智能创投数据厍：https://www.itjuzi.com/ai
 - 人工智能行业研究报告(147份):https://zhuanlan.zhihu.com/p/346793543
-
+- 中國大陸人工智慧大廠發展布局分析:https://books.google.com.sg/books?id=IMX3DwAAQBAJ
 [1]: http://www.woshipm.com/pd/873240.html
 [2]: https://www.zhihu.com/question/57373956/answer/155398900
 [3]: https://blog.csdn.net/Dylan_zhijing/article/details/107548246

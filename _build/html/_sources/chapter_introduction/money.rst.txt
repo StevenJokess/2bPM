@@ -355,7 +355,8 @@ AI 融资
 
 `2020「年度最佳人工智能领域投资机构TOP10」 <https://www.lieyunwang.com/archives/472130>`__
 
-投研信息简报：http://www.ciifund.cn/zwt/
+-  投研信息简报：http://www.ciifund.cn/zwt/
+-  红杉中国AI布局：https://www.sequoiacap.com/china/article/about-ai/
 
 AI资本寒冬 `22 <https://www.jiemian.com/article/6005288.html>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

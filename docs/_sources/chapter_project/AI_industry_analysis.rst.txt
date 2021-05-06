@@ -12,25 +12,25 @@ PEST
 
    图:中国政府涉及人工智能领域发展的相关文件
 
-2021年作为新十四五规划开局之年，在新规划建议中，多次提及人工智能这个关键词，而且科技前沿领域的公关，排在第一位的就是“新一代人工智能”\ `16 <https://www.weiyangx.com/382066.html>`__
+2021年作为新十四五规划开局之年，在新规划建议中，多次提及人工智能这个关键词，而且科技前沿领域的公关，排在第一位的就是“新一代人工智能”[16]
 
 `《新一代人工智能发展规划》 <http://www.gov.cn/zhengce/content/2017-07/20/content_5211996.htm>`__
 
-从数字上,中国在深度学习方面的论文发表数量以及论文的引用(文章至少被引用一次)数量均在2014年对美国实现反超,并大幅度领先其它国家,居于领跑者的地位。\ `19 <https://business.linkedin.com/content/dam/me/business/zh-cn/talent-solutions/Event/july/lts-ai-report/%E9%A2%86%E8%8B%B1%E3%80%8A%E5%85%A8%E7%90%83AI%E9%A2%86%E5%9F%9F%E4%BA%BA%E6%89%8D%E6%8A%A5%E5%91%8A%E3%80%8B.pdf>`__
+从数字上,中国在深度学习方面的论文发表数量以及论文的引用(文章至少被引用一次)数量均在2014年对美国实现反超,并大幅度领先其它国家,居于领跑者的地位。[19]
 
 技术
 ~~~~
 
 .. figure:: ../img/AI_tech_map.png
 
-   人工智能技术场景体系层级划分（2020）\ `17 <https://www.weiyangx.com/356538.html>`__
+   人工智能技术场景体系层级划分（2020）[17]
 
 `CB
 Insights调研出2019年人工智能行业25大趋势 <http://www.stdaily.com/cxzg80/kejizixun/2019-02/19/content_750862.shtml>`__
 
 `全球AI基础设施市场规模，现状和预测2021-2026 <http://www.etimeweekly.com/2021/03/11/ai%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E5%B8%82%E5%9C%BA2021%E5%B9%B4%E5%85%A8%E7%90%83%E6%B4%9E%E5%AF%9F%E5%8A%9B%E5%92%8C%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF-oracle%EF%BC%8Cmicrosoft%EF%BC%8Cintel-c/>`__
 
-从全球来看，开源开发框架的第一次洗牌已到尾声，谷歌、脸书等头部企业的开发框架体系基本确立，市场份额和社区生态已远超其他框架，我国框架以一己之身突围难度很大。同时，受制于我国集成电路较全球起步晚的历史背景，英伟达、英特尔等芯片大厂已在工艺制程、芯片架构、软件生态等方面有数十年积累；智能计算时期，芯片头部企业针对人工智能任务需求加速优化芯片架构、完善软件工具、适配多样的开发框架，构筑庞大的生态体系不断提高行业壁垒，导致其他初创智能芯片企业一时间难以切入市场进行规模应用。\ `20 <https://mp.weixin.qq.com/s/y49r-uKmja6f1oz4ckbMIA?>`__
+从全球来看，开源开发框架的第一次洗牌已到尾声，谷歌、脸书等头部企业的开发框架体系基本确立，市场份额和社区生态已远超其他框架，我国框架以一己之身突围难度很大。同时，受制于我国集成电路较全球起步晚的历史背景，英伟达、英特尔等芯片大厂已在工艺制程、芯片架构、软件生态等方面有数十年积累；智能计算时期，芯片头部企业针对人工智能任务需求加速优化芯片架构、完善软件工具、适配多样的开发框架，构筑庞大的生态体系不断提高行业壁垒，导致其他初创智能芯片企业一时间难以切入市场进行规模应用。[20]
 
 2020 AI Hype Cycle
 ^^^^^^^^^^^^^^^^^^
@@ -39,22 +39,21 @@ Insights调研出2019年人工智能行业25大趋势 <http://www.stdaily.com/cx
 
    2020人工智能技术成熟度曲线报告
 
-新内容：
-`4 <http://www.iotworld.com.cn/html/News/202009/31046f2ae4fd6885.shtml>`__
+新内容： [4]
 
 1.  健康护照（健康码）
 2.  形成性人工智能：一种能够用动态变更对情况作出响应的AI。比如可随时间动态适应的AI，以及可生成新颖的模型来解决特定问题的技术等。
 3.  人工智能增强设计
 4.  复合人工智能
 5.  嵌入式人工智能
-6.  生成性人工智能：一种可以创建新颖内容（图像，视频等），或者变更已有内容的AI。新生成的产物跟原始的很像，但不完全相同。这项技术可生成深度伪造的内容，可能会衍生出严重的假信息并带来名誉风险，预计在未来五年内，伪造内容会越来越多。\ `8 <https://www.gartner.com/cn/information-technology/articles/5-trends-drive-the-gartner-hype-cycle-for-emerging-technologies-2020>`__
+6.  生成性人工智能：一种可以创建新颖内容（图像，视频等），或者变更已有内容的AI。新生成的产物跟原始的很像，但不完全相同。这项技术可生成深度伪造的内容，可能会衍生出严重的假信息并带来名誉风险，预计在未来五年内，伪造内容会越来越多。[8]
 7.  负责任的人工智能
 8.  人工智能增强开发
 9.  自我监督学习
 10. 小数据
 11. 复合型AI
 
-删除： `7 <https://moore.live/news/247633/detail/>`__
+删除： [7]
 
 与去年相比，Gartner将13种技术删除、重新分类或者转移到其他技术曲线中，例如今年Gartner将支持VPA的无线扬声器从所有曲线中删除;AI开发人员工具包现在被分类到AI开发人员和教学工具包类别下;AI
 PaaS现在属于AI云服务;与AI相关的C&SI服务、AutoML、可解释AI（2020年划归到负责任的AI类别下）、
@@ -63,8 +62,8 @@ PaaS现在属于AI云服务;与AI相关的C&SI服务、AutoML、可解释AI（20
 语音识别
 、虚拟助理转至2020年自然语言技术成熟度曲线中;量子计算移至2020年计算基础设施技术成熟度曲线中;机器人流程自动化软件从AI技术成熟度曲线中删除。
 
-人工智能工程化（AI Engineering） `5 <https://www.gartner.com/cn/newsroom/press-releases/2021-top-strategic-technologies-cn>`__
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+人工智能工程化（AI Engineering） [5]
+''''''''''''''''''''''''''''''''''''
 
 Gartner的研究表明，只有53%的项目能够从人工智能（AI）原型转化为生产。首席信息官和IT领导者发现，由于缺乏创建和管理生产级人工智能管道的工具，人工智能项目的扩展难度很大。为了将人工智能转化为生产力，就必须转向人工智能工程化这门专注于各种人工智能操作化和决策模型（例如机器学习或知识图）治理与生命周期管理的学科。
 
@@ -78,7 +77,7 @@ Gartner的研究表明，只有53%的项目能够从人工智能（AI）原型�
 Anki Vector Robot, 芯片新星 Wave computing 以及吴恩达夫妇投资的
 drive.ai，还有大量自动驾驶，头戴式 VR
 眼镜和聊天机器人公司，都倒在了上市之前的道路上。从 AI
-投资的角度来看，前几年投资人主要关注这个团队有没有明星的科学家，例如有没有图灵奖获得者，有没有大牛存在，然后就更关注算法效果是不是国际领先的，再到这两年，大家更关注的是有没有落地的案例，有没有客户，以及公司的收入如何。\ `14 <https://www.infoq.cn/article/Vw5WdUPVIZd0tVFdgBae>`__
+投资的角度来看，前几年投资人主要关注这个团队有没有明星的科学家，例如有没有图灵奖获得者，有没有大牛存在，然后就更关注算法效果是不是国际领先的，再到这两年，大家更关注的是有没有落地的案例，有没有客户，以及公司的收入如何。[14]
 
 市场
 ----
@@ -90,19 +89,16 @@ drive.ai，还有大量自动驾驶，头戴式 VR
 人工智能产业发展白皮书》中提出：预计到 2020 年，我国人工智能市场规模约
 990
 亿元。如果你是人工智能行业的产品经理，就可以通过整体的规模来倒推自己产品的规模了。
-`9 <https://www.zhihu.com/pub/reader/119980992/chapter/1284104620428685312>`__
+[9]
 
-据德勤报告预计，2025年世界人工智能市场规模将超过6万亿美元，2017-2025年CAGR达30%；IDC预计2020年中国人工智能市场规模达42.5亿美元，年增长率达51.5%，2023年市场规模达119亿美元。\ `18 <http://pdf.dfcfw.com/pdf/H3_AP202007081390272095_1.pdf>`__
+据德勤报告预计，2025年世界人工智能市场规模将超过6万亿美元，2017-2025年CAGR达30%；IDC预计2020年中国人工智能市场规模达42.5亿美元，年增长率达51.5%，2023年市场规模达119亿美元。[18]
 
 产业格局
 ~~~~~~~~
 
-|AI行业图谱| |2020 AI|\ `1 <http://www.woshipm.com/pd/873240.html>`__
-|iresearch_AI|
-|AI-100-startup-2020\ |\ `12 <https://www.cbinsights.com/research/2020-top-100-ai-startups-where-are-they-now/>`__
-|Most-Valuable-AI-Startups-V3\ |\ `13 <https://www.cbinsights.com/research/most-valuable-private-ai-companies/>`__
-|AI领先企业主要投资领域| |AI独角兽| |AI
-公司\ |\ `21 <http://www.woshipm.com/pmd/2445583.html>`__
+|AI行业图谱| |2020 AI [1]| |iresearch_AI| |AI-100-startup-2020[12]|
+|Most-Valuable-AI-Startups-V3[13]| |AI领先企业主要投资领域| |AI独角兽|
+|AI 公司[21]|
 
 发展报告
 ~~~~~~~~
@@ -115,9 +111,8 @@ drive.ai，还有大量自动驾驶，头戴式 VR
 信息途径
 ^^^^^^^^
 
-机器之心、量子位
-`3 <https://blog.csdn.net/Dylan_zhijing/article/details/107548246>`__\ ；然后还有易观智库和
-QuestMobile 的一些调研报告、https://www.itsiwei.com/category/ai
+机器之心、量子位 [3]；然后还有易观智库和 QuestMobile
+的一些调研报告、https://www.itsiwei.com/category/ai
 
 优势：极快、极简
 ----------------
@@ -132,8 +127,8 @@ QuestMobile 的一些调研报告、https://www.itsiwei.com/category/ai
 
    趋势
 
-分工 `10 <http://www.changgpm.com/thread-387-1-1.htmls>`__
-----------------------------------------------------------
+分工 [10]
+---------
 
 基础设施提供者
 ~~~~~~~~~~~~~~
@@ -214,8 +209,8 @@ data)C(Cloud)战略，阿里腾讯也有各自云服务，大数据中心，人�
    产品象限
 
 
-应用场景\ `2 <https://www.zhihu.com/question/57373956/answer/155398900>`__
---------------------------------------------------------------------------
+应用场景[2]
+-----------
 
 1.场景比较规范，2.需要经验，
 3.且数据量大，4.但是反复度高的工作岗位，5.如果监管准入门槛比较低就更好。
@@ -263,8 +258,7 @@ https://www.jiemian.com/article/5806409.html
 访谈
 ----
 
-EE
-Times：你怎么看这种现象？\ `15 <https://www.eet-china.com/news/202005080936.html>`__
+EE Times：你怎么看这种现象？[15]
 
 Ernst：在很大程度上，这反映了中国加入全球高科技产业创新竞赛时间较晚；此外，我认为很多研发活动仍被局限在官方科研机构，而企业更多扮演“生产者”角色，没有体现出研发与工程能力，在营销与策略规划方面也没有发挥作用。尽管有很多在市场与组织改革方面的努力，中国在强化产业界与学数界之间的知识交流方面，还有一段路要走。
 
@@ -295,12 +289,38 @@ More:
 -  https://emerj.com/ai-executive-guides/
 -  IT桔子的工智能创投数据厍：https://www.itjuzi.com/ai
 -  人工智能行业研究报告(147份):https://zhuanlan.zhihu.com/p/346793543
+-  中國大陸人工智慧大廠發展布局分析:https://books.google.com.sg/books?id=IMX3DwAAQBAJ
+   [1]: http://www.woshipm.com/pd/873240.html [2]:
+   https://www.zhihu.com/question/57373956/answer/155398900 [3]:
+   https://blog.csdn.net/Dylan_zhijing/article/details/107548246 [4]:
+   http://www.iotworld.com.cn/html/News/202009/31046f2ae4fd6885.shtml
+   [5]:
+   https://www.gartner.com/cn/newsroom/press-releases/2021-top-strategic-technologies-cn
+   [6]:
+   https://www.gartner.com/cn/research/methodologies/gartner-hype-cycle
+   [7]: https://moore.live/news/247633/detail/ [8]:
+   https://www.gartner.com/cn/information-technology/articles/5-trends-drive-the-gartner-hype-cycle-for-emerging-technologies-2020
+   [9]:
+   https://www.zhihu.com/pub/reader/119980992/chapter/1284104620428685312
+   [10]: http://www.changgpm.com/thread-387-1-1.htmls [11]:
+   http://www.xmamiga.com/3573/ [12]:
+   https://www.cbinsights.com/research/2020-top-100-ai-startups-where-are-they-now/
+   [13]:
+   https://www.cbinsights.com/research/most-valuable-private-ai-companies/
+   [14]: https://www.infoq.cn/article/Vw5WdUPVIZd0tVFdgBae [15]:
+   https://www.eet-china.com/news/202005080936.html [16]:
+   https://www.weiyangx.com/382066.html [17]:
+   https://www.weiyangx.com/356538.html [18]:
+   http://pdf.dfcfw.com/pdf/H3_AP202007081390272095_1.pdf [19]:
+   https://business.linkedin.com/content/dam/me/business/zh-cn/talent-solutions/Event/july/lts-ai-report/%E9%A2%86%E8%8B%B1%E3%80%8A%E5%85%A8%E7%90%83AI%E9%A2%86%E5%9F%9F%E4%BA%BA%E6%89%8D%E6%8A%A5%E5%91%8A%E3%80%8B.pdf
+   [20]: https://mp.weixin.qq.com/s/y49r-uKmja6f1oz4ckbMIA? [21]:
+   http://www.woshipm.com/pmd/2445583.html
 
 .. |AI行业图谱| image:: ../img/AI_industry_KG.png
-.. |2020 AI| image:: ../img/2020_AI.png
+.. |2020 AI [1]| image:: ../img/2020_AI.png
 .. |iresearch_AI| image:: ../img/iresearch_AI.png
-.. |AI-100-startup-2020\ | image:: ../img/AI-100-startup-2020.png
-.. |Most-Valuable-AI-Startups-V3\ | image:: ../img/Most-Valuable-AI-Startups-V3.png
+.. |AI-100-startup-2020[12]| image:: ../img/AI-100-startup-2020.png
+.. |Most-Valuable-AI-Startups-V3[13]| image:: ../img/Most-Valuable-AI-Startups-V3.png
 .. |AI领先企业主要投资领域| image:: ../img/AI_invest.jpg
 .. |AI独角兽| image:: ../img/AI_Unicorn.png
-.. |AI 公司\ | image:: ../img/AI_company.png
+.. |AI 公司[21]| image:: ../img/AI_company.png
