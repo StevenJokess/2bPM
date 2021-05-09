@@ -88,6 +88,7 @@ $$T = a + b log2(D/W+1)$$
 1. 在不断交互中，外界声音如何处理？生活情节：在听歌时，对人的呼唤忽略了。
 1. 吵到我用TNT了。。
 
+AI语音交互的设计要比手机/PC端的交互设计难很多，因为语音交互系统不是限定好的GUI操作界面，而是不便于规范且自由延展的自然语言。会话的开放性意味着 AI 交互设计者必须考虑用户可能采取的几乎无数的选择。要能够理解用户，了解他们的动机，然后合乎逻辑地思考如何引导他们完成一件事情。[20]
 
 ## UE
 
@@ -123,3 +124,4 @@ $$T = a + b log2(D/W+1)$$
 [17]: https://www.bilibili.com/video/BV1vD4y1U7j6
 [18]: https://zhuanlan.zhihu.com/p/25530956
 [19]: https://zhuanlan.zhihu.com/p/25445645
+[20]: https://mp.weixin.qq.com/s?__biz=MjM5NzA5OTAwMA==&mid=2650005836&idx=1&sn=832b8ed27a68753ee48536d9bf4abb79&chksm=bed865db89afeccd75b81debbc8a05031b708b645a44d44fba65fa4c9ea2b27474ea9bbab520&scene=21#wechat_redirect

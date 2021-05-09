@@ -52,12 +52,23 @@ taking的心理学理论，人考虑问题习惯性先从自己出发，而不�
 了解用户
 --------
 
+产品经理最基础最重要的工作是理解用户，理解用户之后，你做功能和做权衡取舍的有效性就更高。但理解用户特别难，而如果有超过平常人的同理心，就会事半功倍，比别人轻松得多。[32]
+
 为什么了解
 ~~~~~~~~~~
 
 涉及到方向性问题的时候，在混沌的信息中，在开放的无边界的信息中，找到适合的方向，这本身不是A/B测试能搞定的事情。
 
 基于对用户的深刻洞察，才能谈价值发现，产品规划，产品设计，上线运营等。
+
+用户模型
+~~~~~~~~
+
+用户模型是产品经理头脑中对用户的主观理解，就是「你以为」用户是什么样的。这是每个人头脑中的隐性知识，没法清晰地文字化数据化，只有通过迭代验证才能知道你有没有掌握。
+
+我认为，理解用户的的唯一路径就是：滚动大量地分析
+case（用户行为\ **真实案例**\ ，如果能亲自体验的就多体验，推断每个 case
+的用户决策逻辑）、并用数据分析其分布和趋势、并在迭代中验证和校准「你以为」。[31]
 
 **方法：**
 
@@ -475,4 +486,7 @@ https://t.qidianla.com/1149667.html [27]:
 https://t.qidianla.com/1156537.html [28]:
 https://www.zhihu.com/question/323588594/answer/890413615 [29]:
 http://www.woshipm.com/pmd/3113347.html#:~:text=%E8%80%8C%E5%AF%B9%E4%BA%8E%E6%9F%90%E4%B8%AAAPP,%E7%9A%84%E5%A4%A7%E9%83%A8%E5%88%86%E7%94%A8%E6%88%B7%E5%88%9A%E9%9C%80%E3%80%82
-[30]: https://mp.weixin.qq.com/s/tFiqERFrHy_1l5pgayR_jA
+[30]: https://mp.weixin.qq.com/s/tFiqERFrHy_1l5pgayR_jA [31]:
+https://mp.weixin.qq.com/s?__biz=MzU4NDc3NzUyMw==&mid=2247488467&idx=1&sn=903aca398e63184251180e655265cc4a&scene=21#wechat_redirect
+[32]:
+https://mp.weixin.qq.com/s?__biz=MzU4NDc3NzUyMw==&mid=2247488467&idx=1&sn=903aca398e63184251180e655265cc4a&scene=21#wechat_redirect

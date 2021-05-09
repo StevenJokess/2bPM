@@ -45,7 +45,7 @@ AI产品经理的完整能力矩阵 `1 <https://www.jianshu.com/p/fd466ed1bda6>`
 ~~~~
 
 -  用户/客户敏感即同理心（感知情绪、理解情绪、接纳欲望、真实去理想化、透过现象看本质、善于观察
-   `14 <https://weread.qq.com/web/reader/77532110721ea34a7751c9ak8e232ec02198e296a067180>`__\ ；妨碍同理心发展、进步的最大敌人就是——自以为是、固执\ `23 <https://blog.csdn.net/Dylan_zhijing/article/details/108334435?spm=1001.2014.3001.5502>`__\ ）
+   `14 <https://weread.qq.com/web/reader/77532110721ea34a7751c9ak8e232ec02198e296a067180>`__\ ；验证指标：需要经常预判用户想法、预判同事想法、预判生活中某个对方的想法，然后用他的后续行为验证。如果准确率较高，你的同理心就较高\ `28 <https://mp.weixin.qq.com/s?__biz=MzU4NDc3NzUyMw==&mid=2247488467&idx=1&sn=903aca398e63184251180e655265cc4a&scene=21#wechat_redirect>`__\ ；妨碍同理心发展、进步的最大敌人就是——自以为是、固执\ `23 <https://blog.csdn.net/Dylan_zhijing/article/details/108334435?spm=1001.2014.3001.5502>`__\ ）
 -  自我驱动（主动收集需求，并把它转化成产品需求
    `8 <http://www.woshipm.com/zhichang/459131.html>`__\ ）/学习能力（产品经理需要懂营销，懂技术、懂运营、懂设计
    `8 <http://www.woshipm.com/zhichang/459131.html>`__\ ）

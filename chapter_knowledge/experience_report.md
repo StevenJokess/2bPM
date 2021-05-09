@@ -33,7 +33,8 @@ TODO:
 - 每天读点故事APP产品分析报告：http://www.woshipm.com/evaluating/1103753.html
 - "全民K歌"产品分析报告：https://vickydyy.github.io/2019/06/22/KTV-Product-Analysis/
 - 今日头条App产品体验报告：https://www.jianshu.com/p/4f851659892a
-
+- B站最全面良心的输入法对比测评！:https://www.bilibili.com/video/BV1Yp4y1t79r?spm_id_from=333.851.b_7265636f6d6d656e64.2
+-
 [1]: https://www.jianshu.com/p/9fff898ce6bd
 [2]: https://www.zhihu.com/people/woyaonuliya/postss
 [3]: https://g.yuque.com/zhongguodianxinyanjiuyuan/bgso10/fqs7tp

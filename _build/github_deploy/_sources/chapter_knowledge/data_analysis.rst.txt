@@ -14,7 +14,8 @@ AI产品经理同样要具备数据产品的能力，因为数据也是AI的三�
 传统的数据收集工作必须要提前埋点，而埋点最常发生的事情就是漏埋和错埋，产品上线了才发现“没埋点，没有数”\ `15 <http://www.woshipm.com/pmd/349916.html>`__
 
 开始使用数据采集和分析工具来辅助工作，比如Mixpanel、Google
-Analytics、GrowingIO等等 `16 <http://www.woshipm.com/pmd/347328.html>`__
+Analytics、GrowingIO、七麦数据\ `18 <http://www.qimai.cn/>`__\ 等等
+`16 <http://www.woshipm.com/pmd/347328.html>`__
 
 数据建模过程
 ------------

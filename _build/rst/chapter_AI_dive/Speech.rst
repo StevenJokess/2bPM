@@ -16,3 +16,10 @@
 .. figure:: ../img/Speech.png
 
    设计语音对话系统的5个要点\ `3 <http://www.woshipm.com/ai/1695480.html>`__
+
+相关产业
+--------
+
+1）虚拟个人助理产业：Siri、微软小娜、百度度秘、谷歌Assistant、助理来也等等；
+2）智能音箱产业：Amazon Echo、Google
+Home、叮咚、小爱、小雅、天猫精灵等等；\ `4 <https://mp.weixin.qq.com/s?__biz=MjM5NzA5OTAwMA==&mid=2650005836&idx=1&sn=832b8ed27a68753ee48536d9bf4abb79&chksm=bed865db89afeccd75b81debbc8a05031b708b645a44d44fba65fa4c9ea2b27474ea9bbab520&scene=21#wechat_redirect>`__

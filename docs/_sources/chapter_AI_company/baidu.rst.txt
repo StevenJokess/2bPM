@@ -23,6 +23,8 @@
 PaddlePaddle
 ------------
 
+自主研发的深度学习框架将赋予平台运营商更自由的发挥空间，减少对外部生态的依赖。但框架开发的门槛高，周期长，成本大，以百度为例，百度在2013年成立深度学习研究院，期间大量相关科学家与工程师参与研发，耗时三年才发布深度学习框架PaddlePaddle。\ `4 <https://pdf.dfcfw.com/pdf/H3_AP202101141450490555_1.pdf?1610622618000.pdf>`__
+
 文档（没能代码及时反馈）：https://www.paddlepaddle.org.cn/documentation/docs/
 
 https://www.paddlepaddle.org.cn/ppde

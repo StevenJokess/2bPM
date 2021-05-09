@@ -26,3 +26,4 @@ AI公司研究
    JPMorgan
    tianyancha
    momo
+   turingbot
