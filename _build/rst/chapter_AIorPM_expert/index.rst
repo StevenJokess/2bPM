@@ -15,3 +15,4 @@ AI或产品专家
    pei_jian
    xie_liang
    yu_jun
+   zhankai_ma
