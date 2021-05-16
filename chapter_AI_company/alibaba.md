@@ -15,5 +15,6 @@ https://ai.aliyun.com/nls
 
 聂再清之前曾经在微软亚洲研究院工作过13年，主要负责微软自然语言理解、实体挖掘的研发工作，是微软学术搜索、人立方，以及企业智能助理 EDI 的发起人和负责人。
 
+https://azft.alibaba.com/labs
 
 [1]: https://wqw547243068.github.io/2020/04/29/dialogue-system/#%E5%AF%B9%E8%AF%9D%E7%AE%A1%E7%90%86

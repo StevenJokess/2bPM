@@ -12,8 +12,7 @@
 - https://ai.googleblog.com/
 - https://deepmind.com/blog/?category=research
 - https://research.fb.com/
-
-
+- https://www.academia.edu/
 ## 论文
 
 ### 顶级会议

@@ -37,6 +37,8 @@ AI 硬件 `1 <https://www.jianshu.com/p/111d9fcc005e?utm_campaign=maleskine&utm_
 6. 开模，需多次修模
 7. 量产
 
+产品立项书模板内容: https://zhuanlan.zhihu.com/p/313721146
+
 硬件AI PM
 ---------
 

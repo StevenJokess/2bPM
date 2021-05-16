@@ -27,8 +27,11 @@
 ，因为一个用户指令是可以匹配到多个意图的，要动态的根据具体情况对意图进行排序选择
 7. 泛化能力，就是模糊匹配准确度高，可以标准化词典或者词槽，设置覆盖面广的语气词表等 [5]
 
+语音识别[6]
+
 [1]: https://www.msra.cn/zh-cn/news/features/book-recommendation-speech
 [2]: https://dingdang.qq.com/doc/page/32
 [3]: http://www.woshipm.com/ai/1695480.html
 [4]: https://mp.weixin.qq.com/s?__biz=MjM5NzA5OTAwMA==&mid=2650005836&idx=1&sn=832b8ed27a68753ee48536d9bf4abb79&chksm=bed865db89afeccd75b81debbc8a05031b708b645a44d44fba65fa4c9ea2b27474ea9bbab520&scene=21#wechat_redirect
 [5]: https://zhuanlan.zhihu.com/p/80824253
+[6]: https://www.bilibili.com/video/BV1q5411V7tT?from=search&seid=781442368629495599

@@ -36,3 +36,5 @@ Home、叮咚、小爱、小雅、天猫精灵等等；\ `4 <https://mp.weixin.q
    ，因为一个用户指令是可以匹配到多个意图的，要动态的根据具体情况对意图进行排序选择
 7. 泛化能力，就是模糊匹配准确度高，可以标准化词典或者词槽，设置覆盖面广的语气词表等
    `5 <https://zhuanlan.zhihu.com/p/80824253>`__
+
+语音识别\ `6 <https://www.bilibili.com/video/BV1q5411V7tT?from=search&seid=781442368629495599>`__

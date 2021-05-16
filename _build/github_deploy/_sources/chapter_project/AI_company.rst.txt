@@ -153,9 +153,9 @@ AI虚拟主播
 实验室
 ~~~~~~
 
-AI Lab `13 <https://www.jiqizhixin.com/articles/2019-05-24-14>`__
-优图实验室AI手语识别
-`14 <https://www.jiqizhixin.com/articles/2019-05-16-16>`__
+-  AI Lab `13 <https://www.jiqizhixin.com/articles/2019-05-24-14>`__
+-  优图实验室AI手语识别
+   `14 <https://www.jiqizhixin.com/articles/2019-05-16-16>`__
 
 创业公司
 --------

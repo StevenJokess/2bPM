@@ -4,7 +4,7 @@
 
 AI产品经理是直接应用或间接涉及了AI技术，进而完成相关AI产品的设计、研发、推广、产品生命周期管理等工作的产品经理。由于AI的技术领域太多、且有更多和垂直行业结合的机会，导致细分AI领域的产品经理所需要的背景和能力可能大不相同。\ `1 <https://www.boxuegu.com/news/4368.html>`__
 
-.. figure:: ./img/resume_nophone.jpg
+.. figure:: ./img/resume_nophone2.jpg
 
    简历
 
@@ -122,6 +122,10 @@ Developer(test) 自雇 入职日期2020年8月 – 2020年9月 任职时长1 个
 .. figure:: ./img/rope.png
 
    跳绳证书、六级
+
+证券、基金证书纸质版还没领。。
+
+B站跳绳视频：https://www.bilibili.com/video/BV1Wf4y167Kp
 
 百度开发者版想法：
 ------------------

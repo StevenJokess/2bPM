@@ -325,6 +325,8 @@ https://istock.ssetech.com.cn/wiki/doku.php?id=start
 
 人工智能与金融AI研究报告精选（286份）：https://www.jrwenku.com/22053.html
 
+AI金融联合实验室：http://sz.shenkexin.com/news/info-news-3786.html
+
 [5]: [6]:
 https://www2.deloitte.com/content/dam/Deloitte/cn/Documents/innovation/deloitte-cn-innovation-ai-whitepaper-zh-181126.pdf
 [7]:

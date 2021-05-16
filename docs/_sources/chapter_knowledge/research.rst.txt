@@ -15,9 +15,7 @@ Research
 -  https://ai.googleblog.com/
 -  https://deepmind.com/blog/?category=research
 -  https://research.fb.com/
-
-论文
-----
+-  https://www.academia.edu/ ## 论文
 
 顶级会议
 ~~~~~~~~
@@ -90,14 +88,11 @@ AMiner\ `3 <有哪些可以自学机器学习、深度学习、人工智能的�
 
 https://www.aminer.cn/ai2000/country/China
 
-.. _论文-1:
-
 著名学者
 ~~~~~~~~
 
 AI 领域大多数有影响力的人物（比如谷歌的 Peter Norvig，Facebook AI 研究的
 Yann LeCun 以及微软的 Eric Horvitz）
-
 
 论文
 ~~~~

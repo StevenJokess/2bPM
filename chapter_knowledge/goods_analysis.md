@@ -320,6 +320,9 @@ Solution:解决方案如何实现？还有多少空间？陌生用户进来如�
 - [人人都是产品经理、PMCAFF竞品分析](https://t.qidianla.com/1156403.html)
 - [Soul、探探竞品分析](https://www.inneed.club/articles/detail/39wg4zr0qo)
 
+
+TODO: https://www.bilibili.com/video/BV17i4y1A7Vy?from=search&seid=16621622000064393038
+
 [1]: http://www.woshipm.com/pmd/1842636.html
 [2]: https://www.bilibili.com/video/BV1wz4y1y7sg?p=4
 [3]: https://www.zhihu.com/question/39005837

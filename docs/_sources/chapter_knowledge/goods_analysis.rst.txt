@@ -373,3 +373,6 @@ Yes/No法
 -  `生鲜电商APP竞品分析-盒马鲜生VS叮咚买菜 <https://t.qidianla.com/1175887.html>`__
 -  `人人都是产品经理、PMCAFF竞品分析 <https://t.qidianla.com/1156403.html>`__
 -  `Soul、探探竞品分析 <https://www.inneed.club/articles/detail/39wg4zr0qo>`__
+
+TODO:
+https://www.bilibili.com/video/BV17i4y1A7Vy?from=search&seid=16621622000064393038

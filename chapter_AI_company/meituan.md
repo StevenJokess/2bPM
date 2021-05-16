@@ -110,6 +110,9 @@
 
 美团把无人配送定位成补充运力，未来将跟骑手形成协同，而增加了无人车的变量，配送调度难度会更大，技术进步真是一个无限螺旋啊。[3]
 
+如何看待无人机快递？ - 千亚国际物流的回答 - 知乎
+https://www.zhihu.com/question/304753761/answer/1610819210
+
 ## VS 饿了吗
 
 https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%A2vs%E9%A5%BF%E4%BA%86%E5%90%97&from_source=nav_search_new
