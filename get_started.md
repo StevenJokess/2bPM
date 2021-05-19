@@ -13,6 +13,10 @@ src="/蔡舒起-AI产品经理-动手学深度学习GAN开发者_nophone.pdf" />
 
 ----
 
+一个大计划经济问题：AI技术能否能加速实现整体性统计，并调节所有的行业的产能与需求？[2] 计划者拥有更多信息，如何保证消费者获得了好处？[3]
+
+----
+
 ## **简历**
 
 ### 项目经历详情
@@ -139,3 +143,5 @@ B站跳绳视频：https://www.bilibili.com/video/BV1Wf4y167Kp
 https://www.overleaf.com/project/603dfbba8126ff225dc18564
 
 [1]: https://www.boxuegu.com/news/4368.html
+[2]: https://www.zhihu.com/question/329629768/answer/1359332748
+[3]: https://www.zhihu.com/question/52814006/answer/140311440
