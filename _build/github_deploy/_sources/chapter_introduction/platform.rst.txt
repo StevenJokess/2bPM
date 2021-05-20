@@ -28,6 +28,10 @@ PM的职能 `1 <https://www.iamxiarui.com/?p=1369>`__
 
    平台产品示例
 
+平台经济——资本与金融视角：
+
+https://www.bilibili.com/video/BV19t4y1S78T/?spm_id_from=333.788.recommend_more_video.-1
+
 平台型产品经理
 --------------
 

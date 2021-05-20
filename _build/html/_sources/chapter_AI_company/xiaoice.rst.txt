@@ -317,6 +317,8 @@ https://e.xiaoice.com/Home?r=%2F
 -  对话微软小冰三位首席科学家\ `35 <https://aijishu.com/a/1060000000098908>`__
 -  微软小冰从0到1的故事\ `38 <https://www.36kr.com/p/1721616842753>`__
 -  李笛专访\ `40 <https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650722526&idx=2&sn=2e9bf0801db5379b9edf7985bac2d749&chksm=871b14a0b06c9db61657f1a3f74c34a2a6df2189a2507edf34e8d9bb1852be1eb3d175b148cb&mpshare=1&scene=1&srcid=0118czMz9VmnsWSfZwEbGgCB#rd>`__
+-  为壳牌汽车作画\ `41 <https://znzx.cdroho.com/zhaf/6190.html>`__
+-  人工智能图案暨纹样设计\ `42 <https://znzx.cdroho.com/zhaf/6188.html>`__
 
 竞品
 ----
