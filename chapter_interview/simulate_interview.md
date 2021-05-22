@@ -176,6 +176,8 @@ https://e.xiaoice.com/Home?r=%2F
 - 是否可以从金融专业的翻译入手[7]
 - https://singer.xiaoice.com/: 大小约140M ； http://xstudio.pub/ 大小约220M
 
+![建议的登录界面](../img/login_suggest.png)
+
 ## Boss面
 
 行业的发展情况、产业链的发展、整体行业发展的大趋势类的话题，以及聊一下跟公司的文化价值观、愿景，看你是否认同公司的文化，如果能聊到共性，产生共鸣[3]
@@ -191,3 +193,4 @@ https://e.xiaoice.com/Home?r=%2F
 [7]: https://www.youtube.com/watch?v=vu6YmD5TX7E
 [8]: https://cloud.ofweek.com/news/2020-11/ART-178801-8500-30469911.html
 [9]: https://www.bilibili.com/video/BV1MK4y1o7me
+[10]: http://job.datayes.com/login

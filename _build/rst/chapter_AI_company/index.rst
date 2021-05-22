@@ -25,5 +25,7 @@ AI公司研究
    huatai
    JPMorgan
    tianyancha
+   mrsai
    momo
+   datayes
    turingbot

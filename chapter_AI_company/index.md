@@ -20,6 +20,8 @@ xiaoai
 huatai
 JPMorgan
 tianyancha
+mrsai
 momo
+datayes
 turingbot
 ```

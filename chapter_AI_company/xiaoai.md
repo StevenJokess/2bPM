@@ -18,4 +18,10 @@ https://space.bilibili.com/239380557?from=search&seid=5696491191200583650
 
 why携程？“不得不佩服携程的服务，是确实完备，这些去哪儿网，马蜂窝等等望尘莫及”[1]
 
+说天气、日期、对应数字[2]
+
+AI通话（聋哑人福利）：语音转文字、文字转语音
+
+
 [1]: https://www.nowcoder.com/discuss/tiny/587660?channel=666&source_id=feed_index_nctrack&fromIframe=true
+[2]: https://www.bilibili.com/video/BV1AV411t7o2?spm_id_from=333.851.b_62696c695f7265706f72745f6469676974616c.9

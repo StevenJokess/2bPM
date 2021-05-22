@@ -205,6 +205,10 @@ https://e.xiaoice.com/Home?r=%2F
 -  https://singer.xiaoice.com/: 大小约140M ； http://xstudio.pub/
    大小约220M
 
+.. figure:: ../img/login_suggest.png
+
+   建议的登录界面
+
 Boss面
 ------
 
