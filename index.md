@@ -154,3 +154,9 @@ chapter_AI+Finance/index
 
 ```
 
+````toc
+:maxdepth: 1
+
+AI_pipan
+````
+
