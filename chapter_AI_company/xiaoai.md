@@ -13,7 +13,7 @@ https://space.bilibili.com/239380557?from=search&seid=5696491191200583650
 - 订台州到杭州的机票（默认是今天了）https://flights.ctrip.com/international/search/oneway-hyn-hgh?_=1&depdate=2021-05-12
 - 换首歌-好的（Media Next track）
 - 上首歌-好的（Media Prev track）
-- 打开迅雷腾讯视频（说错了，本来想说打开腾讯视频）- 结果。。
+- 打开迅雷腾讯视频（说错了，本来想说打开腾讯视频）， 结果打开了腾讯（问题：以先为准，而实际上往往先的很有可能是口误）
 -
 
 why携程？“不得不佩服携程的服务，是确实完备，这些去哪儿网，马蜂窝等等望尘莫及”[1]
