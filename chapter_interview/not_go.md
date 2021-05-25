@@ -48,6 +48,9 @@ c. 上市公司的成熟分配机制
 
 ![各公司加班情况](../img/company_work.png)
 
+955 不加班的公司名单：955.WLB - Amusi的文章 - 知乎
+https://zhuanlan.zhihu.com/p/176030428
+
 [1]: https://www.zhihu.com/pin/1264172919044583424
 [2]: http://www.woshipm.com/pmd/151507.html
 [3]: https://www.zhihu.com/pub/reader/119583028/chapter/1057335985750228992
