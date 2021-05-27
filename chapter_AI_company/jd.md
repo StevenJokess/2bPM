@@ -49,6 +49,10 @@ https://www.jddglobal.com/products/machine-learn
 
 NeuFoundry基础设施层采用Docker容器进行算力资源的池化，通过Kubernetes进行整体的资源管理、资源分配、任务运行、状态监控等，平台集成了MySQL、Redis、MQ等多种中间件服务，通过数据标注、模型训练、模型发布，生成自定义的AI能力，为各行各业的业务服务提供有力的支撑。[7]
 
+## 京东人工智能开放平台
+
+https://neuhub.jd.com/ai/api/image/render_image
+
 ## 京东数科
 
 1月11日，京东集团就宣布将云与AI业务与京东数科整合后，正式成立京东科技子集团，原京东数科CEO李娅云出任京东科技子集团CEO。
