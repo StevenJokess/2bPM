@@ -47,6 +47,13 @@ https://zhuanlan.zhihu.com/p/373126299
 
 如何申请低保：http://www.pingdu.gov.cn/n2/n585/n586/n589/191129165058244533.html
 
+失业保险金和失业补助金网上申领服务：http://si.12333.gov.cn/2284653.jhtml
+
+
+1. 失业前所在单位和本人按照规定参加失业保险，且累计缴纳失业保险费满一年；
+1. 非因本人意愿中断就业；
+1. 已办理失业登记，并有求职要求。如果属于自辞，不可以领取失业保险金。
+
 [1]: https://weread.qq.com/web/reader/46532b707210fc4f465d044k65132ca01b6512bd43d90e3
 [2]: https://www.sohu.com/a/139988647_421560
 [3]: https://www.zhihu.com/question/409409134/answer/1837909271
