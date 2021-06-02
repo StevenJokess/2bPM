@@ -2,6 +2,22 @@
 
 产品60%的错误存在于设计中，而设计的错误60%的源于需求和分析活动。--《代码大全》的作者Steve McConnell [11]
 
+![需求分析](../img/demand_analysis.png)
+
+## 需求产生
+
+需求产生的重要条件是“用户愿意且能够”。[12]
+
+![需求产生的模型](../img/have_demand.png)
+
+## 需求分解
+
+1. 业务需求描述组织为什么要执行系统（组织希望获得的业务收益）。
+1. 用户需求描述了用户使用产品必须完成的目标或则任务，并且这个产品要能够为人提供价值。用户需求还包括对用户满意度最为关键的产品特性或特征的描述。
+1. 功能需求描述产品在特定的条件下所展示出来的行为，主要描述卡法人员需要实现的功能以便用户能够完成自己的任务（用户需求），进而满足业务需求。
+
+![Decomposition of demand](../img/demand_decomposition.png)
+
 ## 报告文档 [8]
 
 1. 需求分类：将需求以需要的类型分门别类的罗列好，并介绍清楚需求本意。
@@ -171,3 +187,4 @@ https://www.google.com/search?q=requirements+engineering&rlz=1C1GCEA_enJP909HK90
 [9]: https://www.zhihu.com/column/c_199236458
 [10]: https://zhuanlan.zhihu.com/p/340058145
 [11]: http://www.woshipm.com/pmd/4440884.html
+[12]: https://www.zhihu.com/question/34822013

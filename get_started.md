@@ -11,6 +11,9 @@ Linkedin（Writing can't make money, but can make friends）：https://www.linke
 <embed width=100% height=100% fullscreen=yes
 src="/蔡舒起-AI产品经理-动手学深度学习GAN开发者_nophone.pdf" />
 
+常见问题：https://stevenjokess.github.io/2bPM/chapter_interview/question.html
+模拟面试：https://stevenjokess.github.io/2bPM/chapter_interview/simulate_interview.html
+
 ----
 
 一个大计划经济问题：AI技术能否能加速实现整体性统计，并调节所有的行业的产能与需求？[2] 计划者拥有更多信息，如何保证消费者获得了好处？[3]
