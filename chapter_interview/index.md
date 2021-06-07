@@ -17,6 +17,7 @@ CV
 AI_Finance_CV
 not_go
 exam
+yimian_exam
 interviewer
 question
 simulate_interview
