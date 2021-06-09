@@ -17,10 +17,13 @@
 
 ### 顶级会议
 
+[如何收集和整理论文（面向CS专业）](https://ying-zhang.github.io/misc/2016-we-love-paper/)
+
 - NLP：ACL / NAACL / EMNLP ...
 - CV: CVPR / ICCV / ECCV ...
 - ML: ICML / ICLR / NIPS / AAAI ...
 - Data Mining & Information Retrieval: WWW / KDD / IJCAI ...
+
 
 ### Sci-Hub
 
