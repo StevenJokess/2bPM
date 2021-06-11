@@ -322,6 +322,7 @@ Offering）是指一家企业第一次将它的股份向公众出售。
 “IPO本质是为了实现更大规模的目标，需要更大规模的资本。”二级市场的资金量远超一级市场，可以真正帮助公司实现商业化。\ `20 <https://www.cyzone.cn/article/628604.html>`__
 
 |融资过程\ |\ `16 <https://dahetalk.com/2018/12/02/%E3%80%90%E6%96%B0%E5%89%B5%E8%9E%8D%E8%B3%87%E3%80%91%E7%A8%AE%E5%AD%90%E8%BC%AA%E3%80%81%E5%A4%A9%E4%BD%BF%E8%BC%AA%E3%80%81a%E8%BC%AA%E3%80%81b%E8%BC%AA%E3%80%81c%E8%BC%AA%EF%BC%8C%E4%BD%A0/>`__
+|IPO 投行过程\ |\ `26 <https://www.bilibili.com/video/BV1fJ411a7MT>`__
 |AI创业基金工作\ |\ `19 <https://www.zhihu.com/question/19658921/answer/52438369>`__
 
 .. figure:: ../img/toutiao_ask_money.png
@@ -404,4 +405,5 @@ Wave Computing，是人工智能计算领域最受关注的独角兽之一， 20
    间接原因：AI开放平台的股权投资市场受整体股权投资市场大环境影响。2019年中国股权投资机构出现募资难问题，整体股权投资市场下行。根据清科数据，中国2019年前11月股权投资市场募资总额约为1.08万亿元，同比下降约为10%。投资机构资金短缺导致整体大环境趋冷，2019年整体股权投资金额下降46%，投资次数下降42%。投资机构“弹药”减少导致其更偏向于选择风险较小、有稳定营收或已实现盈利的中后期项目。
 
 .. |融资过程\ | image:: ../img/financing.png
+.. |IPO 投行过程\ | image:: ../img/IPO_process.png
 .. |AI创业基金工作\ | image:: ../img/startup_funding_works.png
