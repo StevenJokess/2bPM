@@ -264,7 +264,9 @@ Open source models, data and transfer learning are also enabling businesses to m
 
 “IPO本质是为了实现更大规模的目标，需要更大规模的资本。”二级市场的资金量远超一级市场，可以真正帮助公司实现商业化。[20]
 
+
 ![融资过程[16]](../img/financing.png)
+![IPO 投行过程[26]](../img/IPO_process.png)
 ![AI创业基金工作[19]](../img/startup_funding_works.png)
 
 ![头条融资[21]](../img/toutiao_ask_money.png)
@@ -348,3 +350,4 @@ https://venturebeat.com/
 [23]: https://www.sequoiacap.com/china/article/about-ai/
 [24]: https://www.youtube.com/watch?v=lSpJQOZTN_4
 [25]: https://pdf.dfcfw.com/pdf/H3_AP202101141450490555_1.pdf?1610622618000.pdf
+[26]: https://www.bilibili.com/video/BV1fJ411a7MT
