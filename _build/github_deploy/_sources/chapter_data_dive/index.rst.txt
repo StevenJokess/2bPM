@@ -18,3 +18,5 @@
    intellectual property
    asymmetric_information
    blockchain
+   data_product
+   dataworks

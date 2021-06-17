@@ -95,11 +95,13 @@ TODO: ### 竞品策略对比分析、### 竞品用户对比分析
 1. 后注册登录后可再联系，加上更多付费定制、付费服务费。
 1. 登录后付费定制一开始可设计更详细的表，减少咨询次数。
 
-分析耗时2.5小时（拖延症），从6月10日13：00到15：22，超时了：（，今天1：00-3：00写![AI时代的糟糕大批判！！！](https://stevenjokess.github.io/2bPM/AI_pipan.html)去了，欢迎一起来批判时代的悲哀。  更多分析需要付费offer（资本主义不能老白嫖我，我快穷死了）以及更多的实际产品试用解锁。
+分析耗时2.5小时（拖延症），从6月10日13：00到15：22，超时了：（，今天1：00-3：00写[AI时代的糟糕大批判！！！](https://stevenjokess.github.io/2bPM/AI_pipan.html)去了，欢迎一起来批判时代的悲哀。  更多分析需要付费offer（资本主义不能老白嫖我，我快穷死了）以及更多的实际产品试用解锁。
 
 ## MBTI职业性格测试
 
 ![ENTP](../img/MBTI.jpg)
+
+ENTP解析[23]
 
 ## MyIQ
 
@@ -127,6 +129,11 @@ TODO: ### 竞品策略对比分析、### 竞品用户对比分析
 - 50：敏感的
 - 51：和睦的
 
+## 问题
+
+大屏幕输入手机号的隐私问题[22]
+
+
 [1]: https://www.tianyancha.com/brand/bc35914058
 [2]: https://www.yimian.com.cn/
 [3]: https://www.yimian.com.cn/milestone
@@ -148,3 +155,5 @@ TODO: ### 竞品策略对比分析、### 竞品用户对比分析
 [19]: https://www.qcc.com/product/11bb35e1-8701-466b-bba5-7c35005d4e37.html
 [20]: https://www.yimian.com.cn/contact?subject=YiDrone
 [21]: https://yisonar.yimian.com.cn/login?redirectedFrom=%2F
+[22]: https://www.linkedin.com/feed/update/urn:li:activity:6546287280145911809/
+[23]: https://zhuanlan.zhihu.com/p/25347086

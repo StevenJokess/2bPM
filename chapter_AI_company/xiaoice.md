@@ -256,6 +256,7 @@ https://e.xiaoice.com/Home?r=%2F
 - 李笛专访[40]
 - 为壳牌汽车作画[41]
 - 人工智能图案暨纹样设计[42]
+- TODO：小冰对话机器人架构[43]
 
 ## 竞品
 
@@ -305,3 +306,4 @@ Google I/O发布了Duplex（谷歌智能助理）的录音demo，场景就是描
 [40]: https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650722526&idx=2&sn=2e9bf0801db5379b9edf7985bac2d749&chksm=871b14a0b06c9db61657f1a3f74c34a2a6df2189a2507edf34e8d9bb1852be1eb3d175b148cb&mpshare=1&scene=1&srcid=0118czMz9VmnsWSfZwEbGgCB#rd
 [41]: https://znzx.cdroho.com/zhaf/6190.html
 [42]: https://znzx.cdroho.com/zhaf/6188.html
+[43]: http://breezedeus.github.io/2019/02/23/breezedeus-xiaoice-framework.html

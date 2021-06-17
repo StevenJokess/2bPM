@@ -21,6 +21,7 @@
    CV
    AI_Finance_CV
    not_go
+   culture
    exam
    yimian_exam
    interviewer

@@ -56,9 +56,20 @@
 
 #### 长期视角和容错
 
+伟大的企业都明白，一切商业的起点，都是消费者获益。但是他们也明白，从消费者获益，到自己赚钱之间，也就是从这个起点到终点之间，是个先后关系，常常有一个时间差。
+
+那么，用什么填补这个时间差？只有用企业家的长期主义。
+
 亚马逊创始人贝佐斯曾在演讲中提到：人们经常问未来 10 年什么会被改变，却从来没人问：未来 10 年，什么不会变。[19]
 
 长期视角和容错：如果你想抓住下一个十年中的大机会，那最好持有一个十年的长期视角，没人能保证一次命中，但连续出手三次的命中率就高多了。简单计划可以是这样：看到一个可能的大机会，及时加入它，用一两年好好干好好学，在这个过程中评估它的市场需求、组织问题、政策和竞争问题，一两年够你形成较有效判断了，如果判断行就继续全力投入；如果判断不行，就选择下一个可能的大机会，再用一两年去形成有效判断；如是循环，做好十年三次选择的心理准备，确定机会后就全力投入，注意保持成长和共赢。[18]
+
+正如著名投资专家本杰明·格雷厄姆所说：“短期来看，股票市场就是个投票器；但长期来看，它是个称重机。” 长期主义，就是扔掉投票器，踏上称重机。[23]
+
+![价格成本结构循环](img/low_cost2data_traffic.png)
+
+如果你做一件事，把眼光放到未来三年，和你同台竞技的人很多；但如果你的目光能放到未来七年，那么可以和你竞争的人就很少了。因为很少有公司愿意做那么长远的打算。
+
 
 #### 选择最能为人类福利而劳动的职业
 
@@ -136,6 +147,7 @@ google analysis.
 [20]: https://www.zhihu.com/question/21867702/answer/32260919
 [21]: https://zhuanlan.zhihu.com/p/49507112
 [22]: http://www.doc88.com/p-5738403457973.html
+[23]: https://www.163.com/dy/article/G8GK002B051181GK.html
 
 ````toc
 :maxdepth: 1
@@ -154,11 +166,13 @@ chapter_knowledge/index
 chapter_experience/index
 chapter_project/index
 chapter_interview/index
+chapter_AI_job/index
 chapter_data_dive/index
 chapter_AI_dive/index
 chapter_AI_company/index
 chapter_AIorPM_expert/index
 chapter_AI+Finance/index
+
 
 ```
 
