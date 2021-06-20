@@ -20,6 +20,11 @@ PEST
 
 TODO：更多十四五
 
+经济
+~~~~
+
+2020年中国AI产业地图研究报告[23]
+
 技术
 ~~~~
 
@@ -328,7 +333,8 @@ More:
    https://business.linkedin.com/content/dam/me/business/zh-cn/talent-solutions/Event/july/lts-ai-report/%E9%A2%86%E8%8B%B1%E3%80%8A%E5%85%A8%E7%90%83AI%E9%A2%86%E5%9F%9F%E4%BA%BA%E6%89%8D%E6%8A%A5%E5%91%8A%E3%80%8B.pdf
    [20]: https://mp.weixin.qq.com/s/y49r-uKmja6f1oz4ckbMIA? [21]:
    http://www.woshipm.com/pmd/2445583.html [22]:
-   https://www.bilibili.com/read/cv7540974/
+   https://www.bilibili.com/read/cv7540974/ [23]:
+   https://www.pianshen.com/article/38211437376/
 
 .. |AI行业图谱| image:: ../img/AI_industry_KG.png
 .. |2020 AI [1]| image:: ../img/2020_AI.png

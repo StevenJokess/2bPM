@@ -51,3 +51,5 @@ NLP，其通过引入强化学习中的 Policy Gradient 来解决因为离散 to
 和古诗生成任务上做了测试，回过头来看，效果只能说一般。但其开创性的将文本生成看做序列决策问题，
 并且将 RL 和 GAN
 进行了有机的结合，令人佩服。\ `3 <https://tobiaslee.top/2018/04/22/GAN-in-NLP-Notes/>`__
+
+腾讯研究院：2020年AI生成内容发展报告\ `5 <http://www.199it.com/archives/1049428.html>`__

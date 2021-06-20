@@ -256,6 +256,7 @@ https://e.xiaoice.com/Home?r=%2F
 - 李笛专访[40]
 - 为壳牌汽车作画[41]
 - 人工智能图案暨纹样设计[42]
+- 微软小冰读心术[44]（直观感觉是决策树模型）
 - TODO：小冰对话机器人架构[43]
 
 ## 竞品
@@ -307,3 +308,4 @@ Google I/O发布了Duplex（谷歌智能助理）的录音demo，场景就是描
 [41]: https://znzx.cdroho.com/zhaf/6190.html
 [42]: https://znzx.cdroho.com/zhaf/6188.html
 [43]: http://breezedeus.github.io/2019/02/23/breezedeus-xiaoice-framework.html
+[44]: https://www.bilibili.com/video/BV1EW411C7sV

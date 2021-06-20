@@ -81,6 +81,8 @@
 
 类似问题还有，他们是否会雇佣初级开发人员以及他们如何与这些开发人员共事，但问这个问题的前提是我们已经工作过一段时间了——我们并不是职场菜鸟。我已经工作快三年了，但我并不想给任何人任何建议。高级工程师可以提这个问题，他们不容易被误认为菜鸟。这样他们可以知道这家公司是如何看待员工价值的。
 
+
+
 [1]: https://mp.weixin.qq.com/s?__biz=MzIyOTAyOTEyNw==&mid=2649631891&idx=1&sn=e5069d1c3e77ebd781da522ad787fb48&chksm=f05268fbc725e1edc0987f8c94c5e497fd043177f819d0fe00aae3e6bf60423156ada713f83c&mpshare=1&scene=1&srcid=0411XEbDZhF7chwQG50zMtJA&key=52f65e2fc335f0816695259594ca021e3d2476a2cafaa96f3994e7588555cfa65895fc5e48257cb85115b1e2a25142ef955e698982337df732dbd52505ff6ffd2769e5aa3847377e4fb6a6594941e866&ascene=0&uin=OTYyNDg4NjIx&devicetype=iMac+MacBookPro14%2C1+OSX+OSX+10.12.5+build(16F2073)&version=12020810&nettype=WIFI&lang=zh_CN&fontScale=100&pass_ticket=BRibOyqRAz6gRljQC9sbQ9pSXaaPwwqIN7vjp9uDpWetLencjvDMAKSRN%2FIVeI4k
 [2]: http://www.woshipm.com/zhichang/493811.html
 [3]: https://www.yuque.com/weis/pm/up33vm

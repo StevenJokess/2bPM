@@ -114,6 +114,9 @@ ASR `10 <http://imgtec.eetrend.com/blog/2019/100046571.html#:~:text=%E5%AF%B9%E8
 
 基于金融-司法领域(兼有闲聊性质)的聊天机器人：https://github.com/charlesXu86/Chatbot_CN
 
+Accompany AI
+Chat\ `13 <https://github.com/EasonC13/AI_chatbot_platform>`__
+
 核心竞争力？
 ------------
 

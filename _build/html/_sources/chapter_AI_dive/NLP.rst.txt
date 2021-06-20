@@ -250,6 +250,9 @@ Generation:https://wqw547243068.github.io/2020/04/28/text-generation/#comments
 
 在金融领域，针对基础性问题，中英文所处的阶段其实大体相同，但是针对如情感分析、市场预测等复杂问题，由于要结合具体的语境以及相应的应用场景，同时要考虑训练的数量级问题，无论是中文还是英文的NLP要走的路都还有很多。\ `4 <https://www.miotech.com/zh-CN/article/5cda76428b224f0044833a13>`__
 
+AI 自动写作 · 产品调研：
+http://www.ramywu.com/work/2018/03/02/AI-Machine-Writing-Survey/
+
 Awesome
 -------
 
