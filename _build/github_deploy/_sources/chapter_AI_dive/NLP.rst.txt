@@ -253,6 +253,9 @@ Generation:https://wqw547243068.github.io/2020/04/28/text-generation/#comments
 AI 自动写作 · 产品调研：
 http://www.ramywu.com/work/2018/03/02/AI-Machine-Writing-Survey/
 
+https://www.bilibili.com/video/BV1AW411z7dh
+https://www.bilibili.com/video/BV1cW411q7LK
+
 Awesome
 -------
 

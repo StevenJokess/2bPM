@@ -207,6 +207,9 @@ NLU的出现为机器处理意图方面带来了飞跃的提升。通过训练�
 AI 自动写作 · 产品调研：
 http://www.ramywu.com/work/2018/03/02/AI-Machine-Writing-Survey/
 
+https://www.bilibili.com/video/BV1AW411z7dh
+https://www.bilibili.com/video/BV1cW411q7LK
+
 ## Awesome
 
 https://www.52nlp.cn/

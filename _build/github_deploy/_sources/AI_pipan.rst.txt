@@ -294,9 +294,7 @@ PDD为了拉新，搞500元红包，实际上永远领不了\ `22 <https://www.b
 4. 商务名片 （linkedin）
 5. 办公通讯设施 （slack）
 
-.. figure:: ../img/linkedin.jpg
-
-   短时间加太多好友导致我的Linkedin被封
+|我的Linkedin被限制| |我的Linkedin申诉后被封|
 
 Ins被封号\ `156 <https://zhuanlan.zhihu.com/p/144928357>`__\ 、soul被封号\ `157 <https://zhuanlan.zhihu.com/p/208922736>`__\ 、《王者荣耀》两次打到国服前十被封号：演员？操纵比赛？\ `158 <https://hot.cnbeta.com/articles/game/1140953.htm>`__
 
@@ -361,8 +359,7 @@ FB的张航主张代码开源，说为了行业的发展。但我却提出，这
 旧时代的例子
 ^^^^^^^^^^^^
 
-Google要的是大家的浏览器都能流畅跑自己的应用，而不是大家都用自家的浏览器。但是，IE太强
-势，Firefox不够强势，Opera万年1％市场，市场需要一个更强势的力量来推动浏览器跑步向前。Chrome就是这股力量。但是，Google认
+Google要的是大家的浏览器都能流畅跑自己的应用，而不是大家都用自家的浏览器。但是，IE太强势，Firefox不够强势，Opera万年1％市场，市场需要一个更强势的力量来推动浏览器跑步向前。Chrome就是这股力量。但是，Google认
 为只有Chrome不够，他们希望能有Chrome阵营。因为浏览器是众口难调的，总有不喜欢Chrome的人，而Google不可能一个个去满足，那么
 最好的方法就是，提供一个Chromium，让其他公司制造自己的浏览器，把Chrome抢不到的那部分用户都占据掉。
 
@@ -581,6 +578,8 @@ Systems，中译文:全国计划性的计算机集成制造系统)+人工智能+
 -  修正： +
    商业道德：商业道德，可持续性，企业社会责任之间的关系\ `78 <https://baike.baidu.com/item/%E5%AF%BB%E7%A7%9F#:~:text=%E5%AF%BB%E7%A7%9F%EF%BC%88%E5%A4%96%E6%96%87%E5%90%8D%EF%BC%9Arent,%E5%8F%96%E5%BE%97%E8%B6%85%E9%A2%9D%E6%94%B6%E5%85%A5%E7%9A%84%E6%9C%BA%E4%BC%9A%E3%80%82>`__
    只是考虑更长远的赚钱。而giao哥、老八身为草根，为了钱和命运，只能不体面地抓短视频的红利\ `80 <https://www.bilibili.com/video/BV1o7411V7k5?from=search&seid=13385844298253475363>`__
+-  修正： +
+   慈善机关：吸干了无产者最后的一滴血，然后再对他们施以小恩小惠，使自己自满的伪善的心灵感到快慰，并在世人面前摆出一副人类恩人的姿态（其实你们还给被剥削者的只是他们应得的百分之一），好像这就对无产者有了什么好处似的！[169]
 -  警惕某些人民企业家的恶心的奋斗哲学：发现和运用机会本身值得赞扬，可真的发了大财往往是碰上机遇的，却告诉我们要奋斗。
 
 反思：社会主义有没有危机？
@@ -629,7 +628,7 @@ Systems，中译文:全国计划性的计算机集成制造系统)+人工智能+
 
 在社会主义时期，即资本主义和共产主义之间的过渡阶段，即马克思所谓的低级阶段共产主义，是阶级斗争尖锐化的时期，人民不但得抵抗帝国主义者的侵略，还得防止国家机器杯新资产阶级夺走，变成修正主义的反革命国家。
 
-“自命正统”，对其他一切派别都深恶痛绝、极端藐视、不屑一顾，思想上谈不来，行动上也直接掰开，断绝一切关系。他们把思想不一致的全部打入到反动阵营上去，仇恨其他派别比仇恨敌人还厉害。\ `133 <https://www.zhihu.com/people/dai-ni-qu-guo-jie/posts>`__
+常见“自命正统”论，对其他一切派别都深恶痛绝、极端藐视、不屑一顾，思想上谈不来，行动上也直接掰开，断绝一切关系。他们把思想不一致的全部打入到反动阵营上去，仇恨其他派别比仇恨敌人还厉害。\ `133 <https://www.zhihu.com/people/dai-ni-qu-guo-jie/posts>`__
 
 .. figure:: img/cake.png
 
@@ -683,8 +682,8 @@ Systems，中译文:全国计划性的计算机集成制造系统)+人工智能+
 力求解放
 ~~~~~~~~
 
-枪杆子里出政权
-^^^^^^^^^^^^^^
+枪杆子里出政权？
+^^^^^^^^^^^^^^^^
 
 冷兵器时代，人握武器，那起义还有胜算。但高度技术化核武器的今天，这种1：100000+的压迫成为可能\ `165 <https://review.youngchina.org/archives/14125.html>`__
 
@@ -739,11 +738,19 @@ Systems，中译文:全国计划性的计算机集成制造系统)+人工智能+
 4. 我去你妈的全面小康！B站 墨茶Offical
    一个城市赤贫者\ `121 <https://zhuanlan.zhihu.com/p/346388257>`__
 
+[168]: [169]:
+https://www.bilibili.com/video/BV1Ub411B7hE?from=search&seid=7699071763920101575
+
 TODO：https://www.bilibili.com/video/BV1LK41157JH?from=search&seid=14033413585699629012
 https://www.bilibili.com/video/BV1dq4y1j7n2?p=1&share_medium=android&share_plat=android&share_source=COPY&share_tag=s_i&timestamp=1623304716&unique_k=prsvAa
 https://www.youtube.com/watch?v=XLPd1sYEmv4
 
+https://space.bilibili.com/10719811/video
+https://www.bilibili.com/video/BV1K64y1r7H8?spm_id_from=333.851.b_7265636f6d6d656e64.2
+
 .. |阿里巴巴媒体帝国| image:: img/alibaba_media.png
+.. |我的Linkedin被限制| image:: img/linkedin.jpg
+.. |我的Linkedin申诉后被封| image:: img/linkedin_feng.jpg
 .. |76| image:: https://www.bilibili.com/video/BV1Qp4y1B7P4
 .. |资本主义国家视角的各种主义\ | image:: img/captial-isms.png
 .. |社会主义国家视角的各种主义\ | image:: img/social-isms.png
