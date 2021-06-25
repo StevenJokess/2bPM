@@ -320,6 +320,7 @@ https://e.xiaoice.com/Home?r=%2F
 -  为壳牌汽车作画\ `41 <https://znzx.cdroho.com/zhaf/6190.html>`__
 -  人工智能图案暨纹样设计\ `42 <https://znzx.cdroho.com/zhaf/6188.html>`__
 -  微软小冰读心术\ `44 <https://www.bilibili.com/video/BV1EW411C7sV>`__\ （直观感觉是决策树模型）
+-  Feed\ `45 <https://t.bilibili.com/topic/1287649/feed>`__
 -  TODO：小冰对话机器人架构\ `43 <http://breezedeus.github.io/2019/02/23/breezedeus-xiaoice-framework.html>`__
 
 竞品

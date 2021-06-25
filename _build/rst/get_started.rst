@@ -11,16 +11,13 @@ AI产品经理是直接应用或间接涉及了AI技术，进而完成相关AI�
 `点击下载整页简历PDF（带URL） <https://github.com/StevenJokess/2bPM/blob/master/蔡舒起-AI产品经理-GAN(MXNet-PyTorchTF2开发者)_nophone.pdf>`__
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
+本来这个项目是为了成为AI产品经理，可在学习技术的过程中，我发觉AI时代的病症与AI大规模应用后可能的悲惨后果，既然失业良久了，也就不必执着了，好好批判下。
+
 -  Linkedin（Writing can’t make money, but can make
    friends.）https://www.linkedin.com/in/%E8%88%92%E8%B5%B7-%E8%94%A1-b609001b7/
--  Linkedin(Has been permanently
-   restricted）见平台随意封号：https://stevenjokess.github.io/2bPM/AI_pipan.html#id27
--  Email: llgg8679@qq.com
-
-.. raw:: html
-
-   <embed width=100% height=100% fullscreen=yes
-   src="/蔡舒起-AI产品经理-动手学深度学习GAN开发者_nophone.pdf" />
+-  Linkedin(had 800 friends in AI field , but now has been permanently
+   restricted）见“平台随意封号”章节：https://stevenjokess.github.io/2bPM/AI_pipan.html#id27
+-  Email me: llgg8679@qq.com
 
 -  常见问题：https://stevenjokess.github.io/2bPM/chapter_interview/question.html
 -  模拟面试：https://stevenjokess.github.io/2bPM/chapter_interview/simulate_interview.html
@@ -171,6 +168,11 @@ https://kaifa.baidu.com 的主意!
 |百度最新股价| :depth:200px
 
 https://www.overleaf.com/project/603dfbba8126ff225dc18564
+
+.. raw:: html
+
+   <embed width=100% height=100% fullscreen=yes
+   src="/蔡舒起-AI产品经理-动手学深度学习GAN开发者_nophone.pdf" />
 
 .. |百度股价| image:: ./img/baidu_gujia.jpg
 .. |百度最新股价| image:: ./img/baidu_gujia_newest.png

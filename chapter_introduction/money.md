@@ -279,6 +279,8 @@ Open source models, data and transfer learning are also enabling businesses to m
 
 在规划里，B轮融资需要证明技术实力，因而团队专攻技术竞赛成绩；C轮投资人会比较业务优势，团队需要在此之前让原型车落地；D轮公司已经开始试运营，商业化推进自然会成为投资人眼中的亮点。[20]
 
+在创投界内，素有“天使投资看人、A轮投资看产品、B轮看数据、C轮看模式”的说法。据统计，从A轮到B轮融资，约有60%的公司会死掉;而从B轮到C轮，又将淘汰近70%，也就是说，从A轮到C轮间，大概存活下来的项目不足12%。[27]
+
 ### AI 创业
 
 ![AI 创业](../img/AI_entrepreneur.png)
@@ -351,3 +353,4 @@ https://venturebeat.com/
 [24]: https://www.youtube.com/watch?v=lSpJQOZTN_4
 [25]: https://pdf.dfcfw.com/pdf/H3_AP202101141450490555_1.pdf?1610622618000.pdf
 [26]: https://www.bilibili.com/video/BV1fJ411a7MT
+[27]: https://www.iyiou.com/news/2017082152801

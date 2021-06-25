@@ -69,6 +69,8 @@ President，副总监）才需要写BRD，初级产品经理基本接触不到BR
 
 考虑“velevator pitch”(电梯间演讲、电梯行销)测试。
 
+茶饭–有深度的社交问答社区\ `15 <https://about.cha.fan/>`__
+
 一个中心
 --------
 
