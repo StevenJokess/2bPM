@@ -11,7 +11,7 @@ AI产品经理是直接应用或间接涉及了AI技术，进而完成相关AI�
 - Linkedin（Writing can't make money, but can make friends.）https://www.linkedin.com/in/%E8%88%92%E8%B5%B7-%E8%94%A1-b609001b7/
 - Linkedin(had 800 friends in AI field , but now has been permanently restricted）见“平台随意封号”章节：https://stevenjokess.github.io/2bPM/AI_pipan.html#id27
 - Email me: llgg8679@qq.com
-
+- Telegram me: https://t.me/StevenJokes
 
 - 常见问题：https://stevenjokess.github.io/2bPM/chapter_interview/question.html
 - 模拟面试：https://stevenjokess.github.io/2bPM/chapter_interview/simulate_interview.html

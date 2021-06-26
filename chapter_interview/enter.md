@@ -44,7 +44,17 @@
 
 先了解公司产品出于什么阶段了，现在做开发的成员人数。[3]
 
+## 劳动法
+
+违法劳动法的问题尽快诉诸于法律
+
+1. 认真学习法律知识。
+1. 当利益受到侵害时，直接下决心找劳动局/公安局。
+1. 劳动局/公安局说管不了，但法院能管的，打官司。
+1. 打官司不要吝惜请律师的钱。[5]
 
 [1]: https://t.qidianla.com/1166342.html
 [2]: http://www.jfrcw.com/zhichang/215586.html
 [3]: https://www.zhihu.com/question/38295860/answer/76188176
+[4]: https://www.zhihu.com/question/426787072/answer/1888976229
+[5]: https://www.zhihu.com/question/426787072/answer/1589317013
