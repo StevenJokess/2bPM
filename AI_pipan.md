@@ -8,7 +8,7 @@
 
 *我们确定是AI这趟列车的乘客吗，而不是燃料吗？*
 
-![AI引发的失业[179]](img/jobless_AI.png)
+![AI监工[179]](img/AI_watch_employee.png)
 
 ## 哲学声明
 
