@@ -10,6 +10,17 @@ https://www.zhihu.com/market/paid_column/1251475507390050304/section/12514755136
 “那些口号喊得响、低估场景挑战、高估技术能力的公司大多会在泡沫中死掉。”GMIS全球机器智能峰会后，刘维在接受网易智能专访时这样评价AI创业现状。
 `9 <https://mp.weixin.qq.com/s?__biz=MzI3NTU3ODk1MQ==&mid=2247484933&idx=1&sn=e7b99f0686f5f4c6f9d41bc22a012881&chksm=eb03ef2ddc74663bc8f0ccca0f64c71a72e9e5583986806f81d86a799beca3d56ac970f461f9&scene=21#wechat_redirect>`__
 
+类型
+----
+
+.. figure:: ../img/AI_vs_traditional.png
+
+   AI公司与非AI公司
+
+.. figure:: ../img/AI_company_class.png
+
+   公司分类\ `22 <https://www.zhihu.com/question/57815929/answer/1822975111>`__
+
 阵营
 ----
 

@@ -8,4 +8,5 @@ AI工作
 .. toctree::
    :maxdepth: 2
 
+   intern
    Layoff

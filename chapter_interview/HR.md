@@ -108,7 +108,7 @@ Offer 的选择是综合考虑行业、城市、公司、待遇等多个方面�
 
 ### 待遇
 
-在考虑待遇时，不能只看月薪，而要综合考虑。要了解清楚季度奖、年终奖的数额，有无饭补、房补、交通补助，公积金的缴纳基数及比例，有无加班费等。
+在考虑待遇时，不能只看月薪，而要综合考虑。要了解清楚季度奖、年终奖的数额，有无饭补、房补、交通补助，公积金的缴纳基数及比例（最高缴纳比例12%[12]）；，有无加班费等。
 
 2021互联网校招薪资爆料：https://blog.nowcoder.net/n/2668a1d85a174bec94e1fea21dc01551
 
@@ -132,3 +132,4 @@ https://www.cnblogs.com/dhcn/p/11983157.html
 [9]: https://blog.csdn.net/pA2elX78qaJTADH/article/details/80768104?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-11.control&dist_request_id=6f05adc5-b97c-4da8-ae1f-b2d8c5388ac8&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-11.control
 [10]: https://shimo.im/docs/vyCrK3rQQ6KC9Ryp/read
 [11]: http://www.woshipm.com/zhichang/807191.html
+[12]: https://www.vdproject.cn/join/

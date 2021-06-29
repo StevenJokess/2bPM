@@ -44,6 +44,15 @@
 
 先了解公司产品出于什么阶段了，现在做开发的成员人数。[3]
 
+## 尽量做到
+
+如果你刚成为AI产品经理尽量做到如下：[6]
+
+1. 多问：问AI算法工程师调参的来龙去脉，
+2. 多做：自己标注和修改数据
+3. 多听：测试人员的体验优化建议
+4. 如果可以，每个岗位都轮一段时间。
+
 ## 劳动法
 
 违法劳动法的问题尽快诉诸于法律
@@ -53,8 +62,11 @@
 1. 劳动局/公安局说管不了，但法院能管的，打官司。
 1. 打官司不要吝惜请律师的钱。[5]
 
+劳动法
+
 [1]: https://t.qidianla.com/1166342.html
 [2]: http://www.jfrcw.com/zhichang/215586.html
 [3]: https://www.zhihu.com/question/38295860/answer/76188176
 [4]: https://www.zhihu.com/question/426787072/answer/1888976229
 [5]: https://www.zhihu.com/question/426787072/answer/1589317013
+[6]: https://www.zhihu.com/question/57815929/answer/1822975111
