@@ -307,3 +307,11 @@ More
 -  美团外卖产品分析报告\ `10 <https://coffee.pmcaff.com/article/2609193953129600/pmcaff?utm_source=forum>`__
 
 美团系投资版图：https://www.itjuzi.com/meituan
+
+求职
+----
+
+热求岗位：AI金融产品经理；点击下方简历直达简历，期待你的观看！ ▸
+简历官网：https://stevenjokess.github.io/2bPM/get_started.html ▸
+邮箱直达：llgg8679@qq.com ▸
+美团公司研究：https://stevenjokess.github.io/2bPM/chapter_AI_company/meituan.html

@@ -260,6 +260,13 @@ https://www.zhihu.com/org/mei-tuan-dian-ping-ji-shu-tuan-dui/posts
 
 美团系投资版图：https://www.itjuzi.com/meituan
 
+## 求职
+
+热求岗位：AI金融产品经理；点击下方简历直达简历，期待你的观看！
+▸ 简历官网：https://stevenjokess.github.io/2bPM/get_started.html
+▸ 邮箱直达：llgg8679@qq.com
+▸ 美团公司研究：https://stevenjokess.github.io/2bPM/chapter_AI_company/meituan.html
+
 [1]: https://www.yicai.com/news/100695161.html
 [2]: https://www.zhihu.com/question/30170250
 [3]: https://www.jianshu.com/p/d24b4851a2a4

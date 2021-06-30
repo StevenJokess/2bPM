@@ -188,4 +188,4 @@ google analysis.
 .. toctree::
    :maxdepth: 1
 
-   AI_pipan
+   AI_critical
