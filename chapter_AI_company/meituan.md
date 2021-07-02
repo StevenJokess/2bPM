@@ -267,6 +267,12 @@ https://www.zhihu.com/org/mei-tuan-dian-ping-ji-shu-tuan-dui/posts
 ▸ 邮箱直达：llgg8679@qq.com
 ▸ 美团公司研究：https://stevenjokess.github.io/2bPM/chapter_AI_company/meituan.html
 
+## 相关
+
+- 美团[28]
+- 美团招聘[29]
+- 美团外卖[30]
+
 [1]: https://www.yicai.com/news/100695161.html
 [2]: https://www.zhihu.com/question/30170250
 [3]: https://www.jianshu.com/p/d24b4851a2a4
@@ -294,3 +300,6 @@ https://www.zhihu.com/org/mei-tuan-dian-ping-ji-shu-tuan-dui/posts
 [25]: https://www.zhihu.com/question/350591821/answer/1765343581
 [26]: https://www.163.com/dy/article/G02LNO4E0511CTRI.html
 [27]: https://www.weiyangx.com/382825.html
+[28]: https://space.bilibili.com/495726120?from=search&seid=16644401303737405538
+[29]: https://space.bilibili.com/527094538?from=search&seid=14481927673187710373
+[30]: https://space.bilibili.com/538361195
