@@ -172,6 +172,9 @@ https://mitpress.ublish.com/ereader/7093/?preview=#page/
 - 生产：机器学习模型的性能可能会下降，不仅是因为编码不理想，而且也因为数据资料在不断演变。换句话说，与传统的软件系统相比，模型可能会通过更多方式衰退，而您需要考虑这种降级现象。因此，您需要跟踪数据的摘要统计信息并监控模型的在线性能，以便系统在值与预期不符时发送通知或回滚。
 
 More[15]
+Resources
+
+https://huyenchip.com/ml-interviews-book/contents/4.3-resources.html
 
 [1]: https://www.pianshen.com/article/66921228716/
 [2]: http://www.uml.org.cn/DevProcess/201712283.asp

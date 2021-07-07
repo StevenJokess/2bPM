@@ -1,5 +1,13 @@
 # AI 研究
 
+后天的钱，是你几年之后能赚到的钱。
+
+几年之后的市场环境可能跟今天大不一样，所以提前就要做好准备，始终具备领先于别人的基础能力。
+
+华为提前10年研发5G技术，就是为了赚后天的钱。
+
+在公司里，研究部门负责赚后天的钱。[2]
+
 ## 国际上AI机构哪家强？
 
 DeepMind、OpenAI和FAIR。
@@ -37,3 +45,4 @@ https://tobiaslee.top/2018/04/03/How-to-Write-a-Paper/
 中国人工智能开源软件发展白皮书：http://www.aioss.cn/
 
 [1]: https://www.weiyangx.com/379999.html
+[2]: https://zhuanlan.zhihu.com/p/362671941

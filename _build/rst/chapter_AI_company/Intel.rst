@@ -1,0 +1,22 @@
+
+Intel
+=====
+
+投了 Deep Learning Software Engineer
+的简历\ `1 <https://chinacampus.jobs.intel.cn/intel/position/detail?positionId=60cda0c3744a269193a5f4ea>`__
+
+相关网站
+--------
+
+Github:
+
+-  IntelAI `2 <https://github.com/IntelAI>`__
+-  intel\ `3 <https://github.com/intel>`__
+
+附加问题
+--------
+
+请用3-5个词语形容你眼中的英特尔？
+
+历史：首个微处理器Intel
+4004创造计算机革命、20世纪80年代PC的Wintel联盟、2-7代core时代Intel没竞争动力的牙膏厂、AIoT前景的开放合作解决方案商。
