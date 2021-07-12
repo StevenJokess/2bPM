@@ -75,6 +75,10 @@
    滴滴青桔\ `29 <https://live.bilibili.com/22326281?hotRank=0&spm_id_from=333.851.b_62696c695f7265706f72745f6c697665.4>`__
 -  情感体验：？
 
+.. figure:: ../img/share_bike.png
+
+   其他共享单车死亡\ `30 <https://www.bilibili.com/video/BV1dT4y1g7Pk>`__
+
 **功能体验的更多维度**\ `13 <https://coffee.pmcaff.com/article/1329730610781312/pmcaff?utm_source=forum>`__
 
 -  丰富度如何？

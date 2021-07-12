@@ -56,6 +56,8 @@
 摩拜单车（接入美团App、更名为美团单车、流量互补，实现美团外卖、骑车运动的互补[22]） VS ofo（滴滴要求绝对控制力，不考虑合并和收购，最后。。） VS 滴滴青桔[29]
 - 情感体验：？
 
+![其他共享单车死亡[30]](../img/share_bike.png)
+
 **功能体验的更多维度**[13]
 
 - 丰富度如何？
@@ -427,3 +429,4 @@ PMF 讲的是产品与市场的匹配，要验证的是增长，也就是产品�
 [27]: https://mp.weixin.qq.com/s/tFiqERFrHy_1l5pgayR_jA
 [28]: https://www.bilibili.com/video/BV1CB4y1c7WQ?spm_id_from=333.851.b_7265636f6d6d656e64.3
 [29]: https://live.bilibili.com/22326281?hotRank=0&spm_id_from=333.851.b_62696c695f7265706f72745f6c697665.4
+[30]: https://www.bilibili.com/video/BV1dT4y1g7Pk

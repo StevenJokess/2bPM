@@ -192,3 +192,10 @@ MyIQ
 ----
 
 大屏幕输入手机号的隐私问题\ `22 <https://www.linkedin.com/feed/update/urn:li:activity:6546287280145911809/>`__
+
+datayes面试
+-----------
+
+1. PAI过时
+2. 报表：OCR NLP +海明校验码+减少人工校验 做wind上游。
+3. 托腮翻书不专业

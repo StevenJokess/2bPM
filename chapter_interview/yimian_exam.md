@@ -147,6 +147,11 @@ ENTP解析[23]
 
 大屏幕输入手机号的隐私问题[22]
 
+## datayes面试
+
+1. PAI过时
+2. 报表：OCR NLP +海明校验码+减少人工校验 做wind上游。
+3. 托腮翻书不专业
 
 [1]: https://www.tianyancha.com/brand/bc35914058
 [2]: https://www.yimian.com.cn/

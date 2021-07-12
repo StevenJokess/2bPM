@@ -235,6 +235,21 @@ https://www.niaogebiji.com/
 marketing
 首先是一个永远在花钱的部门，而且还是一个“永远不知道有一半钱花在了哪里”的部门。同时，marketing在花钱之后，到底给销售带来了多少增长？给品牌带来了多少正面的影响？在消费者心中留下多深的印象？都很难评估。\ `20 <https://www.zhihu.com/question/21648437/answer/133050815>`__
 
+市场有一个“儿子”叫广告。他们还有一个特别好的兄弟就是专门给他们擦屁股的叫公关\ `25 <https://zhuanlan.zhihu.com/p/22792840>`__
+
+广告
+^^^^
+
+在Advertising, PR,
+Promotion领域的职位，如果对此方面感兴趣，可以考虑具体学习Marketing下Advertising方向的细分
+
+此类课程设置中会大量出现Marketing Communications；Advertising；Media
+Planning and Strategy；Public Relations and Corporate
+Communications这一类的课程。\ `26 <https://zhuanlan.zhihu.com/p/47896965>`__
+
+公关
+^^^^
+
 增长战略
 ~~~~~~~~
 
@@ -269,13 +284,11 @@ Marketing”
 售后服务
 --------
 
-昨天的钱，是你已经收到的钱。
-
-但是很多时候你收到了钱，还没有向客户交付对等的服务。
+昨天的钱，是你已经收到的钱。但是很多时候你收到了钱，还没有向客户交付对等的服务。
 
 在公司里，支持和服务部门负责赚昨天的钱。
 
-对应到具体的岗位，就是售后、技术支持工程师等。
+对应到具体的岗位，就是售后、技术支持工程师等。客服类主要有客服代表、客服主管、客服经理，主要是销售业务后续的维护与沟通。\ `24 <https://www.zhihu.com/question/428821980/answer/1560134840>`__
 
 比如很多IT公司，卖出去设备、软件之后，还需要提供一两年的免费服务。
 
