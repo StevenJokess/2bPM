@@ -260,6 +260,7 @@ https://e.xiaoice.com/Home?r=%2F
 - Feed[45]
 - TODO：小冰对话机器人架构[43]
 - Ai何暢 B站账号[46]
+- 小冰公司完成A轮融资，将会带来哪些新发展？[47]
 
 ## 竞品
 
@@ -313,3 +314,4 @@ Google I/O发布了Duplex（谷歌智能助理）的录音demo，场景就是描
 [44]: https://www.bilibili.com/video/BV1EW411C7sV
 [45]: https://t.bilibili.com/topic/1287649/feed
 [46]: https://space.bilibili.com/320713995/video?tid=36&keyword=&order=stow
+[47]: https://www.zhihu.com/question/471670519

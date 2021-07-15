@@ -12,6 +12,10 @@ Github:
 
 -  IntelAI `2 <https://github.com/IntelAI>`__
 -  intel\ `3 <https://github.com/intel>`__
+-  intel Iot\ `4 <https://github.com/intel-iot-devkit>`__
+
+比GPU快15倍，CPU算法训练深度神经网络“超车”成功 - biendata的文章 - 知乎
+https://zhuanlan.zhihu.com/p/389325545
 
 附加问题
 --------

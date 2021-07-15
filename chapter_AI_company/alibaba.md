@@ -17,4 +17,7 @@ https://ai.aliyun.com/nls
 
 https://azft.alibaba.com/labs
 
+阿里巴巴宣布成立人工智能治理与可持续发展实验室，有哪些值得关注的信息？ - 知乎
+https://www.zhihu.com/question/472159338
+
 [1]: https://wqw547243068.github.io/2020/04/29/dialogue-system/#%E5%AF%B9%E8%AF%9D%E7%AE%A1%E7%90%86

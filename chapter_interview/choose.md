@@ -1,4 +1,4 @@
-# 选择
+# 职场选择
 
 ## 职业价值观排序
 
@@ -55,7 +55,8 @@
 ![大公司\小公司的优缺点](../img/company_vs.png)
 
 - 什么公司值得去：https://www.kanzhun.com/
-- 找人才：http://www.hunt007.com/employee/searchlist.htm
+- 企业尽调避坑（企业状态风险等级判断风险，舆情信息检验招聘信息是否属实，股权结构、经营状况、融资情况判断公司持续性，知识产权判断创新型）常用工具：工商局企业信用信息公示系统(www.gsxt.gov.cn)[8]、企查查等[7]
+- 公司怎么找人才：http://www.hunt007.com/employee/searchlist.htm
 
 ### 做大的几种效应 [6]
 
@@ -81,3 +82,5 @@
 [4]: https://weread.qq.com/web/reader/46532b707210fc4f465d044k6f4322302126f4922f45dec
 [5]: https://coffee.pmcaff.com/article/2147290812813440/pmcaff?utm_source=forum&newwindow=1
 [6]: https://www.bilibili.com/video/BV19v411k75u?from=search&seid=11494051329064518502
+[7]: https://zhuanlan.zhihu.com/p/389007507
+[8]: https://news.dayoo.com/society/202012/31/140000_53734969.htm

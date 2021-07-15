@@ -262,7 +262,7 @@ Open source models, data and transfer learning are also enabling businesses to m
 
 首次公开募股（Initial Public Offering）是指一家企业第一次将它的股份向公众出售。
 
-“IPO本质是为了实现更大规模的目标，需要更大规模的资本。”二级市场的资金量远超一级市场，可以真正帮助公司实现商业化。[20]
+“IPO本质是为了实现更大规模的目标，需要更大规模的资本。”二级市场的资金量远超一级市场，可以真正帮助公司实现商业化。[20] 例如：云从科技IPO招股书[28]
 
 
 ![融资过程[16]](../img/financing.png)
@@ -354,3 +354,4 @@ https://venturebeat.com/
 [25]: https://pdf.dfcfw.com/pdf/H3_AP202101141450490555_1.pdf?1610622618000.pdf
 [26]: https://www.bilibili.com/video/BV1fJ411a7MT
 [27]: https://www.iyiou.com/news/2017082152801
+[28]: https://zhuanlan.zhihu.com/p/389780937

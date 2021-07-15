@@ -1,6 +1,25 @@
 
-蓝象智联
-========
+怼 蓝象智联
+===========
+
+人才
+----
+
+https://www.trustbe.cn/tdjs
+
+JD照抄阿里的！！！
+
+-  阿里云智能事业群-产品经理-机器学习平台(JD):https://talent.alibaba.com/off-campus-position/637541?bucketType=A
+-  蓝象科技:https://www.zhipin.com/job_detail/b35c1e9ba985fc101nV72tq5EFZZ.html
+
+https://www.tianyancha.com/company/3413932106
+
+听说领英可以自己写公司，无必须公司认证
+
+-  https://www.linkedin.com/in/%E4%BF%8A%E5%9B%BD-%E9%AB%98-498131106/
+
+简介
+----
 
 蓝象智联是一家金融级隐私计算服务商，公司定位于金融级隐私计算服务，公司核心产品已通过工信部和公安部认证，目前已被应用于多家银行、运营商和零售商业客户。同时，公司也在参与工信部等行业多方安全计算标准的制定。\ `2 <https://www.qcc.com/firm/efcbb8220d64ca34f4a85f5e1c0af260.html>`__
 
@@ -48,17 +67,3 @@ CUBE产品目前正在多家运营商和银行机构之间使用。
 ~~~~~~~~~~~~~~
 
 http://www.woshipm.com/ai/3123091.html
-
-人才
-----
-
-https://www.trustbe.cn/tdjs
-
--  阿里云智能事业群-产品经理-机器学习平台(JD):https://talent.alibaba.com/off-campus-position/637541?bucketType=A
--  蓝象科技:https://www.zhipin.com/job_detail/b35c1e9ba985fc101nV72tq5EFZZ.html
-
-https://www.tianyancha.com/company/3413932106
-
-听说领英可以自己写公司，无必须公司认证
-
--  https://www.linkedin.com/in/%E4%BF%8A%E5%9B%BD-%E9%AB%98-498131106/

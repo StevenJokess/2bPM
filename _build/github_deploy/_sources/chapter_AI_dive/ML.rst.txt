@@ -100,6 +100,11 @@ ML VS software engineering
    Machine Learning
    Lifecycle\ `7 <https://databricks.com/solutions/machine-learning>`__
 
+Mlperf AI基准
+
+AI时代需要什么样的基准？从Mlperf AI基准测试中读出了这些 - 胡克的文章 -
+知乎 https://zhuanlan.zhihu.com/p/375319613
+
 指标
 ----
 

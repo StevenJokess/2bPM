@@ -320,6 +320,7 @@ Bank）便会出现，来协助公司顺利「上市柜」（IPO）。直到成�
 Offering）是指一家企业第一次将它的股份向公众出售。
 
 “IPO本质是为了实现更大规模的目标，需要更大规模的资本。”二级市场的资金量远超一级市场，可以真正帮助公司实现商业化。\ `20 <https://www.cyzone.cn/article/628604.html>`__
+例如：云从科技IPO招股书\ `28 <https://zhuanlan.zhihu.com/p/389780937>`__
 
 |融资过程\ |\ `16 <https://dahetalk.com/2018/12/02/%E3%80%90%E6%96%B0%E5%89%B5%E8%9E%8D%E8%B3%87%E3%80%91%E7%A8%AE%E5%AD%90%E8%BC%AA%E3%80%81%E5%A4%A9%E4%BD%BF%E8%BC%AA%E3%80%81a%E8%BC%AA%E3%80%81b%E8%BC%AA%E3%80%81c%E8%BC%AA%EF%BC%8C%E4%BD%A0/>`__
 |IPO 投行过程\ |\ `26 <https://www.bilibili.com/video/BV1fJ411a7MT>`__

@@ -82,6 +82,11 @@
 
 ![Machine Learning Lifecycle[7]](../img/ML_lifecycle.png)
 
+Mlperf  AI基准
+
+AI时代需要什么样的基准？从Mlperf  AI基准测试中读出了这些 - 胡克的文章 - 知乎
+https://zhuanlan.zhihu.com/p/375319613
+
 ## 指标
 
 - 准确率（P值）是针对我们预测结果而言的，它表示的是预测为正的样本中有多少是真正的正样本。

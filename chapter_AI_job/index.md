@@ -6,6 +6,6 @@
 ```toc
 :maxdepth: 2
 
-intern
+school
 Layoff
 ```

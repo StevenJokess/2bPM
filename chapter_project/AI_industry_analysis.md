@@ -82,6 +82,7 @@ Gartner的研究表明，只有53%的项目能够从人工智能（AI）原型�
 ![AI领先企业主要投资领域](../img/AI_invest.jpg)
 ![AI独角兽](../img/AI_Unicorn.png)
 ![AI 公司[21]](../img/AI_company.png)
+![2021中国AI商业落地百强企业系列榜单[24]](../img/AI_potiential_company.png)
 
 ### 发展报告
 
@@ -267,3 +268,4 @@ Ernst：中国创新体系的分散化突显了中国AI发展的一个基础性�
 [21]: http://www.woshipm.com/pmd/2445583.html
 [22]: https://www.bilibili.com/read/cv7540974/
 [23]: https://www.pianshen.com/article/38211437376/
+[24]: https://zhuanlan.zhihu.com/p/389516140

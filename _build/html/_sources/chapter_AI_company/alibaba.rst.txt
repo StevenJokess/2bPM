@@ -23,3 +23,6 @@ Labs北京研发中心负责人、语音助手首席科学家聂再清，已经�
 EDI 的发起人和负责人。
 
 https://azft.alibaba.com/labs
+
+阿里巴巴宣布成立人工智能治理与可持续发展实验室，有哪些值得关注的信息？ -
+知乎 https://www.zhihu.com/question/472159338

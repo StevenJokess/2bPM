@@ -109,7 +109,7 @@ drive.ai，还有大量自动驾驶，头戴式 VR
 
 |AI行业图谱| |2020 AI [1]| |iresearch_AI| |AI-100-startup-2020[12]|
 |Most-Valuable-AI-Startups-V3[13]| |AI领先企业主要投资领域| |AI独角兽|
-|AI 公司[21]|
+|AI 公司[21]| |2021中国AI商业落地百强企业系列榜单[24]|
 
 发展报告
 ~~~~~~~~
@@ -339,7 +339,8 @@ More:
    [20]: https://mp.weixin.qq.com/s/y49r-uKmja6f1oz4ckbMIA? [21]:
    http://www.woshipm.com/pmd/2445583.html [22]:
    https://www.bilibili.com/read/cv7540974/ [23]:
-   https://www.pianshen.com/article/38211437376/
+   https://www.pianshen.com/article/38211437376/ [24]:
+   https://zhuanlan.zhihu.com/p/389516140
 
 .. |AI行业图谱| image:: ../img/AI_industry_KG.png
 .. |2020 AI [1]| image:: ../img/2020_AI.png
@@ -349,3 +350,4 @@ More:
 .. |AI领先企业主要投资领域| image:: ../img/AI_invest.jpg
 .. |AI独角兽| image:: ../img/AI_Unicorn.png
 .. |AI 公司[21]| image:: ../img/AI_company.png
+.. |2021中国AI商业落地百强企业系列榜单[24]| image:: ../img/AI_potiential_company.png

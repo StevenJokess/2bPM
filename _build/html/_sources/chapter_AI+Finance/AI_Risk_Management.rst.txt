@@ -21,3 +21,6 @@
 https://www.zhihu.com/people/sun.zhengyang
 
 https://www.zhihu.com/question/455440996
+
+互联网金融中必做的17个模型 - 风控少侠的文章 - 知乎
+https://zhuanlan.zhihu.com/p/384662757

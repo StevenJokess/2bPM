@@ -324,6 +324,7 @@ https://e.xiaoice.com/Home?r=%2F
 -  TODO：小冰对话机器人架构\ `43 <http://breezedeus.github.io/2019/02/23/breezedeus-xiaoice-framework.html>`__
 -  Ai何暢
    B站账号\ `46 <https://space.bilibili.com/320713995/video?tid=36&keyword=&order=stow>`__
+-  小冰公司完成A轮融资，将会带来哪些新发展？\ `47 <https://www.zhihu.com/question/471670519>`__
 
 竞品
 ----
