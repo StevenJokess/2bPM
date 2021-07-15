@@ -3,6 +3,7 @@
 ​
 ![AI金融[1]](../img/AI+Finance.png)
 ![AI金融[2]](../img/AI+Finance2.png)
+![AI金融各应用](../img/AI+finance_app.png)
 
 ```toc
 :maxdepth: 2

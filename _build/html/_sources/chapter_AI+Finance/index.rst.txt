@@ -5,10 +5,11 @@ AI金融
 ======
 
 
-​ |AI金融[1]| |AI金融[2]|
+​ |AI金融[1]| |AI金融[2]| |AI金融各应用|
 
 .. |AI金融[1]| image:: ../img/AI+Finance.png
 .. |AI金融[2]| image:: ../img/AI+Finance2.png
+.. |AI金融各应用| image:: ../img/AI+finance_app.png
 
 .. toctree::
    :maxdepth: 2

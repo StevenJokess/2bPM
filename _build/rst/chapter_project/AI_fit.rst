@@ -357,3 +357,11 @@ Keep竞品分析报告：https://t.qidianla.com/1163465.html
 腾讯连连&活泼兔联名款智能跳绳\ `30 <https://posts.careerengine.us/p/60cb7247fdf02b2c1f5250a0>`__\ ：采用双向霍尔磁悬浮感应触点，配合上专业的算法。可设定自由跳（默认）、倒计时跳、倒计数跳3种跳绳模式；未连接蓝牙时，运动数据也会被记录在跳绳内；连接蓝牙后，瞬时读取跳绳内的运动数据，让运动数据详情一览无遗。
 
 智能跳绳通过收集学生锻炼的数据进行排序，推岀了日榜、周榜和月榜成绩统计，孩子的竞争意识变强了，训练自然会更加自觉。\ `31 <https://baike.baidu.com/reference/53503018/61d43qR1iH3PEFNk_lruXfl7IvUjBLFPts9US2_Y4okroBplMJaVYn82u6Ggc1VV2tfHVRhTrrzm0yGcJAdFvu8zZe0l_nipMD1G_ahfIgpPnA>`__
+
+AI跳绳
+------
+
+AI运动：阿里体育端智能最佳实践 - 阿里技术的文章 - 知乎
+https://zhuanlan.zhihu.com/p/390013365
+
+华为健康：https://www.bilibili.com/video/BV185411T7Z6?from=search&seid=923361212533957280

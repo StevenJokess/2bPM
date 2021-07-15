@@ -284,6 +284,13 @@ Keep竞品分析报告：https://t.qidianla.com/1163465.html
 
 智能跳绳通过收集学生锻炼的数据进行排序，推岀了日榜、周榜和月榜成绩统计，孩子的竞争意识变强了，训练自然会更加自觉。[31]
 
+## AI跳绳
+
+AI运动：阿里体育端智能最佳实践 - 阿里技术的文章 - 知乎
+https://zhuanlan.zhihu.com/p/390013365
+
+华为健康：https://www.bilibili.com/video/BV185411T7Z6?from=search&seid=923361212533957280
+
 [1]: https://www.tmtpost.com/4257148.html
 [2]: http://www.woshipm.com/it/3873247.html
 [3]: https://post.smzdm.com/p/andllwop/

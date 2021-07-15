@@ -190,7 +190,6 @@ google analysis.
    chapter_AI_company/index
    chapter_AIorPM_expert/index
    chapter_AI+Finance/index
-   chapter_AI+Politics/index
 
 .. toctree::
    :maxdepth: 1
