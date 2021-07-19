@@ -70,10 +70,9 @@ experience_report
 compete_analysis
 MRD
 PRD
-tools
-flow_chart
-static_page
+product_design
 prototype_design
+static_page
 IXD_design
 MVP
 service_analysis
@@ -84,9 +83,9 @@ data_analysis
 upgrade_manage
 resource_manage
 research
+tools
 Valuation
 price
 more_users
-
 ```
 

@@ -24,3 +24,8 @@ why携程？“不得不佩服携程的服务，是确实完备，这些去哪�
 说天气、日期、对应数字\ `2 <https://www.bilibili.com/video/BV1AV411t7o2?spm_id_from=333.851.b_62696c695f7265706f72745f6469676974616c.9>`__
 
 AI通话（聋哑人福利）：语音转文字、文字转语音
+
+More
+----
+
+-  小爱同学B站号\ `3 <https://space.bilibili.com/239380557/dynamic>`__

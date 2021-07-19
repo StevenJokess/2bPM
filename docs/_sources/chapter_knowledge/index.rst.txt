@@ -69,10 +69,9 @@ AI产品经理是“产品经理”这个职业的一个分支，在成为AI产�
    compete_analysis
    MRD
    PRD
-   tools
-   flow_chart
-   static_page
+   product_design
    prototype_design
+   static_page
    IXD_design
    MVP
    service_analysis
@@ -83,6 +82,7 @@ AI产品经理是“产品经理”这个职业的一个分支，在成为AI产�
    upgrade_manage
    resource_manage
    research
+   tools
    Valuation
    price
    more_users

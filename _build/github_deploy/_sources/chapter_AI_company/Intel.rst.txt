@@ -8,6 +8,8 @@ Intel
 相关网站
 --------
 
+https://software.intel.com/content/www/us/en/develop/tools/oneapi.html
+
 Github:
 
 -  IntelAI `2 <https://github.com/IntelAI>`__
