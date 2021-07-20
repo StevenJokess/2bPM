@@ -156,11 +156,11 @@ google analysis.
 [24]: https://zhuanlan.zhihu.com/p/351748364
 [25]: https://www.bilibili.com/video/BV1gz4y1r7W3?from=search&seid=16897168704938729893
 
-````toc
+```toc
 :maxdepth: 1
 
 get_started
-````
+```
 
 
 ```toc
@@ -182,9 +182,9 @@ chapter_AI+Finance/index
 
 ```
 
-````toc
+```toc
 :maxdepth: 1
 
 AI_critical
-````
+```
 
