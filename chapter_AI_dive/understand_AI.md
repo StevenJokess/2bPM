@@ -30,7 +30,11 @@
 
 10 种监督学习方法特点的总结概括 [3]
 
+## 应用
+
+AI目前主要的应用领域有3个方向，包括：计算机视觉、语音交互、自然语言处理。[4]
 
 [1]: https://www.wukong.com/answer/6622525836849316100/
 [2]: https://www.bobinsun.cn/ai/2019/07/02/Unsupervised-Learning/
 [3]: https://www.bobinsun.cn/ai/2019/07/02/10-Supervised-learning-methods/
+[4]: https://zhuanlan.zhihu.com/p/384020411

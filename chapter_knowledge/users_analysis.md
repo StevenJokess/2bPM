@@ -126,6 +126,7 @@ Perspective taking的心理学理论，人考虑问题习惯性先从自己出�
 其他：硬件属性、社群属性、软件属性[30]
 
 TODO:https://zhuanlan.zhihu.com/p/28485415
+https://github.com/zhangjunhd/reading-notes/blob/5c542b066ec731cf97debe41d5932298cc84d670/pm/product/product-mind.md
 
 ### 人的五个层次 [10]
 

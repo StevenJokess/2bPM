@@ -13,6 +13,10 @@ https://www.sohu.com/a/405232718_787424
 
 https://www.zhihu.com/people/luo-yun-614/pins
 
+讯飞：
+
+https://www.xfyun.cn/
+
 国外创业公司：
 
 AI创业必读：133家分类整理的国外人工智能公司（附官网） - 量子位的文章 - 知乎

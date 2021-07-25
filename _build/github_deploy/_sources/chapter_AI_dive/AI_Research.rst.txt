@@ -61,3 +61,31 @@ https://tobiaslee.top/2018/04/03/How-to-Write-a-Paper/
 --------
 
 中国人工智能开源软件发展白皮书：http://www.aioss.cn/
+
+论文
+----
+
+AI领域的论文大多都在arXiv，很容易找到。大量的论文排山倒海，让人在兴奋的同时，也有点喘不过气。于是，有些善良的业内人士，提供了披沙拣金的有效途径——
+
+Andrej Karpathy建起了”arXiv Sanity
+Preserver”，帮助大家对论文进行分类筛选，搜索，以及特征过滤。Miles
+Brundage以前也经常在推特上，发一些经过轻度炮制的arXiv论文清单，单子大概率是AI列的。
+
+还有很多其他推友，非常乐于分享他们看到的有趣论文。这里是我可爱的关注列表：
+
+https://twitter.com/tomssilver/following
+
+如果喜欢Reddit的话，当然要关注r/MachineLearning。不过，上面的内容还是更适合吃瓜群众动手实践，对于学术研究的帮助可能小一些。
+
+另外，大会上发表的论文是有必要看看的。NIPS、ICML以及ICLR是重中之重，其他有名的大会还包括AAAI、IJCAI和UAI等等。
+
+分方向来说，计算机视觉会议有CVPR、ECCV和ICCV；自然语言会议有ACL、EMNLP以及NAACL；说到机器人，就是CoRL、ICAPS、ICRA、IROS和RSS。要看理论研究的话，AISTATS、COLT和KDD都是不错的选择。\ `3 <>`__
+
+Python 库
+---------
+
+终于把所有的Python库，都整理出来啦！ - IT界的小公举的文章 - 知乎
+https://zhuanlan.zhihu.com/p/385817966
+
+真正的科研应该是什么样的？ - 一个科学家的回答 - 知乎
+https://www.zhihu.com/question/264668384/answer/2010466280

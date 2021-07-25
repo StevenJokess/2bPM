@@ -47,3 +47,5 @@ Jenkins自动化部署docker脚本：https://blog.csdn.net/kepengs/article/detai
 -  方便持续集成，通过与代码进行关联使持续集成非常方便；
 -  方便构建基于SOA架构或微服务架构的系统，通过服务编排，更好的松耦合；
 -  标准化应用发布，可以多平台部署。
+
+其他部署：https://github.com/Yanwenhui0/deployDifference

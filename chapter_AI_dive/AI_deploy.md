@@ -39,6 +39,8 @@ Jenkins自动化部署docker脚本：https://blog.csdn.net/kepengs/article/detai
 - 方便构建基于SOA架构或微服务架构的系统，通过服务编排，更好的松耦合；
 - 标准化应用发布，可以多平台部署。
 
+其他部署：https://github.com/Yanwenhui0/deployDifference
+
 [1]: https://zhuanlan.zhihu.com/p/77636947
 [2]: https://www.zhihu.com/org/jddfeng-kong-suan-fa/posts/posts_by_votess
 [3]: http://www.ailab.cn/ml/20201213109713.html

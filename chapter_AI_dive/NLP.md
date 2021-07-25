@@ -27,6 +27,10 @@ NLP底层技术包含自然语言理解(Natural Language Understanding，NLU) �
 
 ![NLP](../img/NLP.png)
 
+- CS224N - Natural Language Processing with Deep Learning
+- CS224S - Spoken Language Processing
+- CS224U - Natural Language Understanding[16]
+
 ## 自然语言处理的难度
 
 - 自然语言千变万化，没有固定格式。同样的意思可以使用多种句式来表达，同样的句子调整一个字、调整语调或者调整语序，表达的意思可能相差很多。
@@ -218,6 +222,27 @@ Speech and Language Processing: https://www.52nlp.cn/%e3%80%8a%e8%87%aa%e7%84%b6
 
 求职：http://www.nlpjob.com/
 
+
+## NLP 常见任务及当下经典算法
+
+- 文本分类/意图识别：CNN / Bert / LSTM+Attention
+- 实体识别：LSTM+CRF
+- 中文分词：N-Gram / CRF / HMM
+- 文本相似度：TF-IDF / BM25+Bert
+- 文本摘要：Bert+Textrank
+- 问答系统/机器翻译：Transformer+Bert / Seq2seq+Attention
+- 情感分析：Word2vec+LSTM / CNN
+
+## 提供相关方案的企业
+
+- 讯飞开放平台（提供自然语言处理）：https://www.xfyun.cn/
+- 图灵机器人（提供多场景的聊天机器人解决方案）：http://www.tuling123.com/
+- 腾讯AI开放平台（提供基础文本解析、语义分析等技术）：https://open.youtu.qq.com/#/open
+- 百度AI开放平台（提供语言处理基础技术、文本审核、机器翻译等）：http://ai.baidu.com/tech/nlp
+- 阿里云（提供情感分析、实体识别、机器翻译等）：https://ai.aliyun.com/?spm=a2c4g.11174283.1146454.294.167d1039G3kvVD
+- 追一科技（提供智能外呼、及智能机器人在多行业的解决方案）：https://zhuiyi.ai/
+- MSRAI
+
 [1]: http://www.woshipm.com/pmd/2937210.html
 [2]: http://www.cstf.org.cn/newsdetail.asp?types=36&num=1165
 [3]: http://www.woshipm.com/pd/4133505.html
@@ -233,3 +258,6 @@ Speech and Language Processing: https://www.52nlp.cn/%e3%80%8a%e8%87%aa%e7%84%b6
 [13]: https://zhuanlan.zhihu.com/p/165963264
 [14]: https://www.jianshu.com/p/b0aa00f7095e
 [15]: https://mp.weixin.qq.com/s?__biz=MjM5NzA5OTAwMA==&mid=2650005853&idx=1&sn=2c6bb9e9c3751fdc3fd95e89b8b6377d&chksm=bed865ca89afecdcdf0ecde9ed2385fb613cb2a40ad0c491582c7faf91841d17efdfe59718e1&mpshare=1&scene=1&srcid=0304keVTiRXgpPHVGxGFL6mI#rd
+[16]: https://github.com/wangwh0204/blog/blob/7a3db02bcebf0c42880516daa49980fec919622b/source/_posts/2015-12-15-my-think-about-career-specialization-rwc.md
+[17]: https://zhuanlan.zhihu.com/p/133459130
+[18]: https://zhuanlan.zhihu.com/p/384020411

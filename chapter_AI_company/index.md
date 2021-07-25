@@ -16,7 +16,7 @@ dm-ai
 jd
 meituan
 xiaoice
-xiaoai
+xiaomi
 huatai
 JPMorgan
 tianyancha

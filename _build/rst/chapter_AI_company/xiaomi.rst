@@ -1,6 +1,15 @@
 
-小爱
+小米
 ====
+
+小米生态链：
+
+https://blog.csdn.net/acelit/article/details/80215820
+
+小米手环\ `4 <https://www.bilibili.com/video/BV1754y1b7CR>`__\ 也可以通过小爱调节闹钟
+
+小爱
+----
 
 https://developers.xiaoai.mi.com/
 

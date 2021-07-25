@@ -28,6 +28,12 @@
 
 码人，就是让一直擅长某一个领域的大神、大牛、Expert 在某一个公司管理部门发挥其价值。
 
+## 需要警惕的公司[7]
+
+- 业务不稳定或者很难做大做强，也就是增长的天花板很低。中小公司还没有稳定可持续的盈利来源，为了生存，必须要不断的寻找赚钱的机会，及时的调整产品方向，也就没有在一个方向持续投入和积累的动力。
+- 没有系统的培训机制，很少招聘应届生，都是希望有一些工作经验来了就能干活，把职工当万金油，也就是什么都会一点，但什么都不精深，因为都只是为了完成任务而已。没有时间，也没有必要深耕细作。
+- 基本没有激励机制，年终双薪算是不错的了。
+
 ## 期权？ [3]
 
 大多数初创公司的期权都是没有用的，具体情况如下。
@@ -61,3 +67,4 @@ https://zhuanlan.zhihu.com/p/176030428
 [4]: https://coffee.pmcaff.com/article/2568729127965824/pmcaff?utm_source=forum
 [5]: https://blog.csdn.net/liwei16611/article/details/100894158
 [6]: https://zhuanlan.zhihu.com/p/308631207
+[7]: https://github.com/wangwh0204/blog/blob/7a3db02bcebf0c42880516daa49980fec919622b/source/_posts/2015-12-15-my-think-about-career-specialization-rwc.md

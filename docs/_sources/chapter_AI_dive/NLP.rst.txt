@@ -39,6 +39,11 @@ NLG）两个重要方向，如下图所示。
 
    NLP
 
+-  CS224N - Natural Language Processing with Deep Learning
+-  CS224S - Spoken Language Processing
+-  CS224U - Natural Language
+   Understanding\ `16 <https://github.com/wangwh0204/blog/blob/7a3db02bcebf0c42880516daa49980fec919622b/source/_posts/2015-12-15-my-think-about-career-specialization-rwc.md>`__
+
 自然语言处理的难度
 ------------------
 
@@ -265,3 +270,25 @@ Speech and Language Processing:
 https://www.52nlp.cn/%e3%80%8a%e8%87%aa%e7%84%b6%e8%af%ad%e8%a8%80%e5%a4%84%e7%90%86%e7%bb%bc%e8%ae%ba%ef%bc%88speech-and-language-processing%ef%bc%89%e3%80%8b%e7%ac%ac%e4%b8%89%e7%89%88%e7%bb%88%e4%ba%8e%e5%9c%a82020
 
 求职：http://www.nlpjob.com/
+
+NLP 常见任务及当下经典算法
+--------------------------
+
+-  文本分类/意图识别：CNN / Bert / LSTM+Attention
+-  实体识别：LSTM+CRF
+-  中文分词：N-Gram / CRF / HMM
+-  文本相似度：TF-IDF / BM25+Bert
+-  文本摘要：Bert+Textrank
+-  问答系统/机器翻译：Transformer+Bert / Seq2seq+Attention
+-  情感分析：Word2vec+LSTM / CNN
+
+提供相关方案的企业
+------------------
+
+-  讯飞开放平台（提供自然语言处理）：https://www.xfyun.cn/
+-  图灵机器人（提供多场景的聊天机器人解决方案）：http://www.tuling123.com/
+-  腾讯AI开放平台（提供基础文本解析、语义分析等技术）：https://open.youtu.qq.com/#/open
+-  百度AI开放平台（提供语言处理基础技术、文本审核、机器翻译等）：http://ai.baidu.com/tech/nlp
+-  阿里云（提供情感分析、实体识别、机器翻译等）：https://ai.aliyun.com/?spm=a2c4g.11174283.1146454.294.167d1039G3kvVD
+-  追一科技（提供智能外呼、及智能机器人在多行业的解决方案）：https://zhuiyi.ai/
+-  MSRAI

@@ -160,6 +160,7 @@ case（用户行为\ **真实案例**\ ，如果能亲自体验的就多体验�
 其他：硬件属性、社群属性、软件属性[30]
 
 TODO:https://zhuanlan.zhihu.com/p/28485415
+https://github.com/zhangjunhd/reading-notes/blob/5c542b066ec731cf97debe41d5932298cc84d670/pm/product/product-mind.md
 
 人的五个层次 [10]
 ~~~~~~~~~~~~~~~~~

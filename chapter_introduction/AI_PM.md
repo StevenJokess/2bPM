@@ -514,6 +514,13 @@ Serving Infrastructure: This includes tools for model development (such as the C
 
 - 再看自己可以做哪些事去推进，如果是新需求可能要**收集更多数据**，并申请标注团队资源等...
 
+## AI产品经理的现状和前景如何？
+
+1. 门槛稍高，但行业缺口巨大；
+2. 优秀的AI PM还未出现，优秀的AI产品也未出现，行业仍处于探索期，尚未形成统一的标准；
+3. AI技术的发展成螺旋上升趋势，这一次的爆发能持续多久仍不可知，但从长远的角度来看AI PM必然是值得期待的。[54]
+
+
 ## Awesome
 
 https://www.yuque.com/gdbwhd/mesmph/uuuuu#LsKnF
@@ -701,3 +708,4 @@ http://www.changgpm.com/
 [51]: http://shujuren.club/a/AI0102.html
 [52]: https://www.zhihu.com/question/53498066/answer/488592129
 [53]: https://time.geekbang.org/quiz/?act_id=373&exam_id=1092&source=1830990
+[54]: https://blog.csdn.net/acelit/article/details/77902490

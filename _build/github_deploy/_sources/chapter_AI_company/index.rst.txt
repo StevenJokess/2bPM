@@ -21,7 +21,7 @@ AI公司研究
    jd
    meituan
    xiaoice
-   xiaoai
+   xiaomi
    huatai
    JPMorgan
    tianyancha
