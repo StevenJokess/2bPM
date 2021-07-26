@@ -29,3 +29,4 @@ AI公司研究
    momo
    datayes
    turingbot
+   yuncong
