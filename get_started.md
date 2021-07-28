@@ -1,4 +1,4 @@
-# 求职AI PM，百度用了我战略idea？
+# To be AI PM，百度用了我战略idea？
 
 AI产品经理是直接应用或间接涉及了AI技术，进而完成相关AI产品的设计、研发、推广、产品生命周期管理等工作的产品经理。由于AI的技术领域太多、且有更多和垂直行业结合的机会，导致细分AI领域的产品经理所需要的背景和能力可能大不相同。[1]
 
@@ -6,7 +6,7 @@ AI产品经理是直接应用或间接涉及了AI技术，进而完成相关AI�
 
 ## [点击下载整页简历PDF（带URL）](https://github.com/StevenJokess/2bPM/blob/master/蔡舒起-AI产品经理-GAN(MXNet-PyTorchTF2开发者)_nophone.pdf)
 
-本来这个项目是为了成为AI产品经理，可在学习技术的过程中，我发觉AI时代的病症与AI大规模应用后可能的悲惨后果，既然失业良久了，也就不必执着了，好好批判下。
+本来这个项目是为了求职AI产品经理，可在学习技术的过程中，我发觉AI时代的病症与AI大规模应用后可能的悲惨后果，既然失业良久了，也就不必执着求职了，好好批判下。
 
 - Linkedin（Writing can't make money, but can make friends.）https://www.linkedin.com/in/%E8%88%92%E8%B5%B7-%E8%94%A1-b609001b7/
 - Linkedin(had 800 friends in AI field , but now has been permanently restricted）见“平台随意封号”章节：https://stevenjokess.github.io/2bPM/AI_pipan.html#id27

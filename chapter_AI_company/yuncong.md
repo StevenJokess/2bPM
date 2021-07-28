@@ -14,4 +14,7 @@
 
 https://www.thepaper.cn/newsDetail_forward_13730118
 
+「科创板 AI 第一股」抢跑成功，「云从上市」三问 - 雷锋网的文章 - 知乎
+https://zhuanlan.zhihu.com/p/391880500
+
 [1]: https://www.zhihu.com/question/473479026/answer/2010845007
