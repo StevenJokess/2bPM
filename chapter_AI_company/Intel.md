@@ -23,6 +23,8 @@ https://zhuanlan.zhihu.com/p/389325545
 
 历史：首个微处理器Intel 4004创造计算机革命、20世纪80年代PC的Wintel联盟、2-7代core时代Intel没竞争动力的牙膏厂、AIoT前景的开放合作解决方案商。
 
+https://zhidx.com/p/286228.html
+
 [1]: https://chinacampus.jobs.intel.cn/intel/position/detail?positionId=60cda0c3744a269193a5f4ea
 [2]: https://github.com/IntelAI
 [3]: https://github.com/intel
