@@ -248,6 +248,19 @@ http://www.woshipm.com/pd/4383131.html
 - 模型在线学习。主要指模型根据线上数据实时或准实时更新模型的情况。这块目前工作几乎还未涉及，日后更新。
 - 更新毛刺。主要指模型更新前后线上请求出现的延迟抖动现象。一般在规模很大时才会出现。爱奇艺团队针对 Tensorflow Serving 有过不错的改进尝试，被 Tensorflow 官方公号发表，具体参见：社区分享 | TensorFlow Serving 模型更新毛刺的完全优化实践。
 
+## 风险
+
+任何我们不希望出现的就是风险，其中很多回导致产品的失败。我们要想办法规避，风险发生后也要尽量降低损失。[13]
+
+1. 政策风险。比如直播行业，很多打擦边球的就会被勒令停止
+2. 团队风险。比如团队中主要人员，可能因为各种原因退出了，工作无法进行
+3. 技术风险。比如携程网瘫痪事件。
+4. 市场风险。比如竞争对手可能会恶意竞争，或者BAT之类的公司进入我们的额领域
+5. 诉讼风险。比如抄袭别人，导致他人诉讼。对于大公司来说，抄袭带来的利益可能大于赔的诉讼费，很可能抄袭。
+6. 决策风险。决策失误导致失败。比如谷歌太早退出Googleglass。
+7. 资本风险。盲目扩张，导致资金链断裂之类，比如蜜淘网。
+8. 不可抗拒风险。比如海啸、地震。
+
 [1]: http://www.woshipm.com/pd/1887717.html
 [2]: https://www.huaweicloud.com/articles/280202e7d83cd36df93e5f027939cbaa.html
 [3]: https://zhuanlan.zhihu.com/p/38387218
@@ -260,3 +273,4 @@ http://www.woshipm.com/pd/4383131.html
 [10]: https://g.yuque.com/zhongguodianxinyanjiuyuan/bgso10/dtrl4d
 [11]: https://g.yuque.com/amir/pm/iu3lkk
 [12]: https://zhuanlan.zhihu.com/p/351896990
+[13]: https://zhuanlan.zhihu.com/p/393916722

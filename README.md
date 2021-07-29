@@ -20,7 +20,7 @@ d2lbook2 deploy html
 
 ## 声明
 
-全部只作为自我成果展示，我均注明出处，版权归原作者所有，感恩所有分享知识的创作者，可点击之后的【】查看原出处，是他们的乐于助人成就了现在的我，如果侵权请联系。
+全部只作为自我成果展示，我均注明出处的版权归原作者所有，感恩所有分享知识的创作者，可点击之后的【】查看原出处，是他们的乐于助人成就了现在的我，如果侵权请联系。而作为书的整体来说，我希望的是其版权**属于人民**[1]。
 
 欢迎转载，宣传国际共产主义精神。
 
@@ -47,6 +47,5 @@ d2lbook2 deploy html
 
 简历：https://stevenjokess.github.io/2bPM/get_started.html
 
+[1]: https://www.bilibili.com/video/BV13b41117AU?p=1&share_medium=android&share_plat=android&share_source=COPY&share_tag=s_i&timestamp=1607577815&unique_k=cGtmx5
 TODO：https://my.oschina.net/u/4584889/blog/4394219
-
-
