@@ -22,6 +22,11 @@ https://www.xfyun.cn/
 
 https://www.bilibili.com/video/BV1B64y1x7SG http://ai.360.com/
 
+AIChannel中国绊爱 https://space.bilibili.com/484322035
+
+【中国绊爱】爱哥的产品经理初体验
+https://www.bilibili.com/video/BV1MQ4y1P71S?from=search&seid=5882016147693094636
+
 国外创业公司：
 
 AI创业必读：133家分类整理的国外人工智能公司（附官网） - 量子位的文章 -
