@@ -322,6 +322,8 @@ Solution:解决方案如何实现？还有多少空间？陌生用户进来如�
 - 变目的为手段：随着盗版资源在市场上的传播，咨询业务也在无形中扩大了影响力。
 - 产品本身创新：拉大盗版与正版的价值差距，给正版用户提供更多的增值服务。
 
+五种软件盗版：https://www.veritas.com/zh/cn/company/legal/anti-piracy/types-of-piracy
+
 ### 实际工作示例
 
 ![竞品分析目录[13]](../img/goods_analysis_catalog.png)

@@ -14,7 +14,9 @@
 
 ## 知识产权
 
-国家版权局[2]
+- 国家版权局[2]
+- 中国保护知识产权网[3]
 
 [1]: https://www.weiyangx.com/346934.html
 [2]: http://www.ncac.gov.cn/chinacopyright/
+[3]: http://ipr.mofcom.gov.cn/

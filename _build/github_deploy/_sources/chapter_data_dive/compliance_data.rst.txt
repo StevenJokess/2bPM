@@ -19,4 +19,5 @@
 知识产权
 --------
 
-国家版权局\ `2 <http://www.ncac.gov.cn/chinacopyright/>`__
+-  国家版权局\ `2 <http://www.ncac.gov.cn/chinacopyright/>`__
+-  中国保护知识产权网\ `3 <http://ipr.mofcom.gov.cn/>`__

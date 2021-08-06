@@ -233,6 +233,14 @@ http://www.woshipm.com/operate/4101930.html
 
 ### 销售
 
+典型的销售漏斗图（Sales Funnel）[31]
+
+• 潜在客户（Prospects）：让客户知道你的企业、产品，成为企业的潜在客户
+• 接触客户（Contacts）：与客户进行初步沟通
+• 后续洽谈（Follow-ups）：跟进，继续与客户洽谈
+• 提案/报价（Proposal/Offer）：发送方案/报价/合同
+• 赢得/关闭（Sales/Close）
+
 需要永远把客户的利益放在第一位，尽全力帮助客户成功。思考如果你是客户，你想要什么样的方案？
 
 销售人员接“地气”，他们离“成交”最近。[21] 我卖出去多少产品，收获了多少个客户，维护了多少条渠道，所得到的利润和回报都是数据化，可视化的。[20]
@@ -301,3 +309,4 @@ IBM这样的公司干得很好，它们进行创新，成为或接近成为某�
 [28]: https://zhuanlan.zhihu.com/p/31463327
 [29]: https://zhuanlan.zhihu.com/p/393916722
 [30]: https://zhuanlan.zhihu.com/p/350981809
+[31]: https://blog.csdn.net/qq_38566254/article/details/93205864
