@@ -20,7 +20,7 @@ d2lbook2 deploy html
 
 ## 声明
 
-全部只作为自我成果展示，我均注明出处的版权归原作者所有，感恩所有分享知识的创作者，可点击之后的【】查看原出处，是他们的乐于助人成就了现在的我，如果侵权请联系。而作为书的整体来说，我希望的是其版权**属于人民**[1]。
+全部为非谋利性质，我均注明出处的版权归原作者所有，感恩所有分享知识的创作者，可点击之后的【】查看原出处（看不了的请自行翻墙），是他们的乐于助人成就了现在的我，如果侵权请联系。而作为书的整体来说，我希望的是其版权**属于人民**[1]。
 
 欢迎转载，宣传国际共产主义精神。
 
@@ -45,7 +45,12 @@ d2lbook2 deploy html
 
 跨级才是人才，在巨变的时代，几年经验都是扯淡！见[25 岁网安 CEO 被判刑 12 年，技术隔离后，顶尖黑客被 out 了？](https://www.infoq.cn/article/DtZRqGpYA1pfzsxtiD0C)
 
+同志不要靠老资格吃饭，要靠解决问题正确吃饭。靠正确，不靠资格。靠资格吃不了饭，索性不靠它，等于还是什么官都没有做，就是不摆老爷架子，不摆官僚架子，把架子收起来，跟人民见面，跟下级见面。
+
 简历：https://stevenjokess.github.io/2bPM/get_started.html
 
+---
+
 [1]: https://www.bilibili.com/video/BV13b41117AU?p=1&share_medium=android&share_plat=android&share_source=COPY&share_tag=s_i&timestamp=1607577815&unique_k=cGtmx5
+[2]: https://www.bilibili.com/read/cv8910438/?from=readlist
 TODO：https://my.oschina.net/u/4584889/blog/4394219
