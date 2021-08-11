@@ -30,3 +30,6 @@ AI公司研究
    datayes
    turingbot
    yuncong
+   jinzheng
+   tucao
+   more

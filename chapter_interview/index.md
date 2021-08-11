@@ -19,6 +19,7 @@ not_go
 culture
 exam
 yimian_exam
+metaapp_exam
 interviewer
 question
 simulate_interview

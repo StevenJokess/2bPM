@@ -55,6 +55,8 @@
 
 ## 劳动法
 
+中华人民共和国劳动法官网[10]
+
 《劳动法》[9]
 
 - 第三十六条 国家实行劳动者每日工作时间不超过八小时、平均每周工作时间不超过四十四小时的工时制度。
@@ -85,3 +87,4 @@
 [7]: https://www.zhihu.com/question/394383878/answer/1322178754
 [8]: https://zhuanlan.zhihu.com/p/143763092
 [9]: https://www.bilibili.com/video/BV1pA411W7C5?from=search&seid=12223012710879218878
+[10]: http://www.gov.cn/banshi/2005-05/25/content_905.htm

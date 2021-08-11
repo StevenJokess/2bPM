@@ -22,6 +22,7 @@
    NLP
    KG
    Speech
+   music
    FAQ
    chatbot
    Federated Learning

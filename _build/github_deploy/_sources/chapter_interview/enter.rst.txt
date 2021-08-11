@@ -59,6 +59,8 @@
 劳动法
 ------
 
+中华人民共和国劳动法官网\ `10 <http://www.gov.cn/banshi/2005-05/25/content_905.htm>`__
+
 《劳动法》\ `9 <https://www.bilibili.com/video/BV1pA411W7C5?from=search&seid=12223012710879218878>`__
 
 -  第三十六条
