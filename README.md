@@ -53,6 +53,12 @@ d2lbook2 deploy html
 
 https://markdown.com.cn/basic-syntax/links.html
 
+## 更新log
+
+修改日期	修改内容
+
+2021-8-18 +log
+
 ---
 
 [1]: https://www.bilibili.com/video/BV13b41117AU?p=1&share_medium=android&share_plat=android&share_source=COPY&share_tag=s_i&timestamp=1607577815&unique_k=cGtmx5

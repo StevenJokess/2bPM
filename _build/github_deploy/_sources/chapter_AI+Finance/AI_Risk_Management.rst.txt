@@ -27,3 +27,6 @@ https://zhuanlan.zhihu.com/p/384662757
 
 个人征信未来在中国的发展和应用 - King James的文章 - 知乎
 https://zhuanlan.zhihu.com/p/22280599
+
+国外AI技术成熟，为什么在AI风控领域中国反超了国外？
+https://www.zhihu.com/question/455440996
