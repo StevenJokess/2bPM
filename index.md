@@ -176,6 +176,7 @@ chapter_interview/index
 chapter_AI_job/index
 chapter_data_dive/index
 chapter_AI_dive/index
+chapter_AI_politics/index
 chapter_AI_company/index
 chapter_AIorPM_expert/index
 chapter_AI+Finance/index

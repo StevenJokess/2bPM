@@ -2,7 +2,7 @@
 学生身份
 ========
 
-学生最容易受骗
+学生刚出学校，社会经验不足，往往最容易受骗。
 
 实习生
 ------
@@ -111,3 +111,5 @@ count员工人头数），是业务初期业务负责人、HR、部门经理定�
 .. figure:: ../img/PM_salary.jpg
 
    产品经理网传薪资\ `3 <https://www.zhihu.com/question/341498422/answer/1250761734>`__
+
+http://www.workercn.cn/
