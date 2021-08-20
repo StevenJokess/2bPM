@@ -25,5 +25,7 @@ AI金融
    RPA
    MarTech
    Full_stack
+   AI_safety
+   quant
 
 

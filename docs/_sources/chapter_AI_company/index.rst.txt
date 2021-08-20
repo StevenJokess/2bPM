@@ -32,4 +32,6 @@ AI公司研究
    yuncong
    jinzheng
    tucao
+   Intel
+   face++
    more

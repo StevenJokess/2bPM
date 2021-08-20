@@ -345,7 +345,8 @@ https://36kr.com/projectDetails/79445
 示例
 ----
 
-Keep竞品分析报告：https://t.qidianla.com/1163465.html
+-  Keep竞品分析报告：https://t.qidianla.com/1163465.html
+-  Keep公众号：https://posts.careerengine.us/author/56a05f8760f2501a7025feca/posts
 
 智能 跳绳
 ---------

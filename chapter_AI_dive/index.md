@@ -20,6 +20,7 @@ Speech
 music
 FAQ
 chatbot
+video
 Federated Learning
 mobile
 cognition_AI

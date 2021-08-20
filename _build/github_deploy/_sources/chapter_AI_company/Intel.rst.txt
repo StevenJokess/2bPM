@@ -28,3 +28,6 @@ https://zhuanlan.zhihu.com/p/389325545
 4004创造计算机革命、20世纪80年代PC的Wintel联盟、2-7代core时代Intel没竞争动力的牙膏厂、AIoT前景的开放合作解决方案商。
 
 https://zhidx.com/p/286228.html
+
+英特尔®Deep Learning Boost加速深度学习推理-英特尔张建宇
+https://www.bilibili.com/video/BV1Zv411y7Wx?from=search&seid=8990199367680696218

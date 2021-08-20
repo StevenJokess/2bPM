@@ -19,6 +19,8 @@ AI_customer_service
 RPA
 MarTech
 Full_stack
+AI_safety
+quant
 ```
 
 [1]: https://www.iimedia.cn/c1020/77214.html

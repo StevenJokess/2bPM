@@ -25,6 +25,9 @@ https://zhuanlan.zhihu.com/p/389325545
 
 https://zhidx.com/p/286228.html
 
+英特尔®Deep Learning Boost加速深度学习推理-英特尔张建宇
+https://www.bilibili.com/video/BV1Zv411y7Wx?from=search&seid=8990199367680696218
+
 [1]: https://chinacampus.jobs.intel.cn/intel/position/detail?positionId=60cda0c3744a269193a5f4ea
 [2]: https://github.com/IntelAI
 [3]: https://github.com/intel

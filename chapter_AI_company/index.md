@@ -27,5 +27,7 @@ turingbot
 yuncong
 jinzheng
 tucao
+Intel
+face++
 more
 ```

@@ -71,9 +71,10 @@ B站长视频的质量更高，https://space.bilibili.com/1950209
 这位up主靠王者技术（战略分析、节奏把控、反常英雄操作、换装反应、调动氛围的解说）具佳，再配合剪辑把游戏过程显得极具观赏性。https://www.bilibili.com/video/BV1pv411E73N
 两位大神与一位插科打诨的土匪老大，除了百万播放，评论区为了视频的拉热度、点赞竟然纷纷自发二创，这视频不比百万点赞更有感染力。
 在这里分享3位up主：
-全靠感情的老鼠人歌手：https://space.bilibili.com/5465995/
-CS入门科普：https://space.bilibili.com/6312652/
-哲学科普：https://space.bilibili.com/362588980/
+
+-  全靠感情的老鼠人歌手：https://space.bilibili.com/5465995/
+-  CS入门科普：https://space.bilibili.com/6312652/
+-  哲学科普：https://space.bilibili.com/362588980/
 
 我个人觉得百万赞是不可复制的，只能利用自我风格抓住群众的爱好与凑巧的热点不停尝试结合。
 
