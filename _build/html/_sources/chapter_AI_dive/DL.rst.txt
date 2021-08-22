@@ -112,9 +112,8 @@ Robust
 
 https://www.bilibili.com/video/BV18p4y1h7Dr?p=1
 
-各框架资源
-----------
+资源
+----
 
-Tensorflow：
-
-中文\ `6 <http://www.tensorfly.cn/>`__
+DL：https://www.classcentral.com/subject/deep-learning
+Tensorflow框架：中文\ `6 <http://www.tensorfly.cn/>`__

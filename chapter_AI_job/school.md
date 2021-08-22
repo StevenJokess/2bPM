@@ -100,7 +100,12 @@
 
 http://www.workercn.cn/
 
-[1]: https://www.bilibili.com/read/cv11355392
-[2]: https://news.dayoo.com/society/202012/31/140000_53734969.htm
-[3]: https://www.zhihu.com/question/341498422/answer/1250761734
-[4]: http://www.xinhuanet.com/legal/2019-04/30/c_1124435354.htm
+## 跑面试
+
+面试的时候就怕给HR当业绩人头，还在那说了半天让她把车费给我付了，反正当时没工作**有的是时间**和她耗。[^5]
+
+[^1]: https://www.bilibili.com/read/cv11355392
+[^2]: https://news.dayoo.com/society/202012/31/140000_53734969.htm
+[^3]: https://www.zhihu.com/question/341498422/answer/1250761734
+[^4]: http://www.xinhuanet.com/legal/2019-04/30/c_1124435354.htm
+[^5]: https://www.zhihu.com/question/454330385/answer/2072440673

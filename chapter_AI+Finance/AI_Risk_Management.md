@@ -27,7 +27,8 @@ https://zhuanlan.zhihu.com/p/384662757
 个人征信未来在中国的发展和应用 - King James的文章 - 知乎
 https://zhuanlan.zhihu.com/p/22280599
 
-国外AI技术成熟，为什么在AI风控领域中国反超了国外？
-https://www.zhihu.com/question/455440996
+
+从目前AI+金融的应用场景市场规模来看，AI风控占据约45%的比重，称得上是目前市场价值最大的应用场景。能够预见，未来AI风控将成为所有金融机构的标配，并将在反欺诈、维护网络安全等领域发挥更做的作用，在金融环境无比复杂的中国，我国的AI风控反超美国，太需要、也太应该了。[^2]
 
 [1]: https://www.weiyangx.com/351456.html
+[^2]: https://www.zhihu.com/question/455440996

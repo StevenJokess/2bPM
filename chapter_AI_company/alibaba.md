@@ -1,7 +1,8 @@
 # 阿里巴巴
 
-## NLP
+阿里巴巴的企业文化是客户第一、拥抱变化、团队合作、诚信、激情、敬业。在这里，要具备极强的客户意识和团队意识。[^2]
 
+## NLP
 
 https://ai.aliyun.com/nls
 
@@ -21,3 +22,4 @@ https://azft.alibaba.com/labs
 https://www.zhihu.com/question/472159338
 
 [1]: https://wqw547243068.github.io/2020/04/29/dialogue-system/#%E5%AF%B9%E8%AF%9D%E7%AE%A1%E7%90%86
+[^2]: https://www.zhihu.com/question/344549330/answer/827486521

@@ -409,3 +409,6 @@ https://www.zhihu.com/question/342327559/answer/816382235
 [11]: http://www.chanpin100.com/article/113861
 [12]: https://www.zhihu.com/club/1266018382773624832/post/1271062493445029888
 [13]: https://www.bilibili.com/video/BV1KE411b7zo?from=search&seid=5263016510491773061
+
+从零开始的硬件之路3：使用AD绘制电路板需要的主要步骤 - 弥城的文章 - 知乎
+https://zhuanlan.zhihu.com/p/375207100

@@ -22,6 +22,7 @@ https://www.xfyun.cn/
 https://www.bilibili.com/video/BV1B64y1x7SG
 http://ai.360.com/
 
+https://ai.arcsoft.com.cn/product/arcface.html
 
 AIChannel中国绊爱
 https://space.bilibili.com/484322035

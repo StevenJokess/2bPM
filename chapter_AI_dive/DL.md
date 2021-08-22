@@ -89,11 +89,12 @@ CNN优缺点：
 
 https://www.bilibili.com/video/BV18p4y1h7Dr?p=1
 
-## 各框架资源
+## 资源
 
-Tensorflow：
+DL：https://www.classcentral.com/subject/deep-learning
+Tensorflow框架：中文[6]
 
-中文[6]
+
 
 [1]: https://www.yinxiang.com/everhub/note/e7f0c50e-dc27-488f-a9f9-35c121e20bb1
 [2]: https://github.com/StevenJokess/d2l-en-read/tree/moreme

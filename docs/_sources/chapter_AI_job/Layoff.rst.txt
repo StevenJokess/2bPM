@@ -29,3 +29,6 @@ plan，即绩效提升计划。公司会要求被PIP的雇员在一段时间内�
 https://www.zhihu.com/question/392035070/answer/1227368673
 
 地平线创始人余凯回应“大裁员” https://plumwine.me/news652606/
+
+国外发达国家码农是真混得好么? - CS GOGOGO的回答 - 知乎
+https://www.zhihu.com/question/38972340/answer/1974258884
