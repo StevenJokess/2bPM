@@ -48,6 +48,8 @@ ASR
 资料合集｜语音识别该如何学习呢？ - 深蓝学院的文章 - 知乎
 https://zhuanlan.zhihu.com/p/396583057
 
+https://github.com/flashlight/flashlight/tree/master/flashlight/app/asr
+
 .. _研究内容-1:
 
 语音合成（TTS）
@@ -81,9 +83,10 @@ DeepMind早前发布了一个机器学习语音生成模型WaveNet，直接生�
 相关产业
 --------
 
-1）虚拟个人助理产业：Siri、微软小娜、百度度秘、谷歌Assistant、助理来也等等；
-2）智能音箱产业：Amazon Echo、Google
-Home、叮咚、小爱、小雅、天猫精灵等等； [4]_
+1. 虚拟个人助理产业：Siri、微软小娜、百度度秘、谷歌Assistant、助理来也等等；
+2. 智能音箱产业：Amazon Echo、Google
+   Home、叮咚、小爱、小雅、天猫精灵等等； [4]_
+3. 声音克隆产业：LOVO Studio“克隆”出的声音带有情感特征，真实感更强 [5]_
 
 一个好的语音产品需要：
 ----------------------
@@ -96,7 +99,7 @@ Home、叮咚、小爱、小雅、天猫精灵等等； [4]_
 6. 多模态，就是视觉触觉语音等全部结合。简单一点来说，如果产品界面和语音打通的话，当用户说查一下哪吒。根据最上层的应用是音乐、视频、阅读来判定用户是想听歌还是想看电影还是想搜小说
    ，因为一个用户指令是可以匹配到多个意图的，要动态的根据具体情况对意图进行排序选择
 7. 泛化能力，就是模糊匹配准确度高，可以标准化词典或者词槽，设置覆盖面广的语气词表等
-    [5]_
+    [6]_
 
 通用智能语音助手产品设计难点？
 ------------------------------
@@ -107,9 +110,9 @@ Home、叮咚、小爱、小雅、天猫精灵等等； [4]_
    从传统Q&A问答到多轮对话，从被动回答到主动对话。
 3. 人性化：形象设定（语料运营）、NLG（自然语言生成）、TTS（语音合成）
    |通用智能语音助手产品|
-4. 投入产出比低：依赖技术突破（NLU）、用户习惯培养、持续优化（保持数据的时效性） [6]_
+4. 投入产出比低：依赖技术突破（NLU）、用户习惯培养、持续优化（保持数据的时效性） [7]_
 
-语音识别 [7]_
+语音识别 [8]_
 
 动态交互
 --------
@@ -120,7 +123,7 @@ Home、叮咚、小爱、小雅、天猫精灵等等； [4]_
 
 而语音场景下和用户不断对话的情况，涉及到了场景剧本编写、多轮对话设计、词槽设计等方面，还有语音交互的规则以及经验。
 
-比如地图应用的小助手使用场景多在开车用户开车时，用户会问些什么，怎样编写剧本，怎样进行词槽填充？ [8]_
+比如地图应用的小助手使用场景多在开车用户开车时，用户会问些什么，怎样编写剧本，怎样进行词槽填充？ [9]_
 
 .. [1]
    https://zhuanlan.zhihu.com/p/384020411
@@ -135,15 +138,18 @@ Home、叮咚、小爱、小雅、天猫精灵等等； [4]_
    https://mp.weixin.qq.com/s?__biz=MjM5NzA5OTAwMA==&mid=2650005836&idx=1&sn=832b8ed27a68753ee48536d9bf4abb79&chksm=bed865db89afeccd75b81debbc8a05031b708b645a44d44fba65fa4c9ea2b27474ea9bbab520&scene=21#wechat_redirect
 
 .. [5]
-   https://zhuanlan.zhihu.com/p/80824253
+   https://www.zhihu.com/question/303541452/answer/1278981481
 
 .. [6]
-   https://blog.csdn.net/acelit/article/details/77902490
+   https://zhuanlan.zhihu.com/p/80824253
 
 .. [7]
-   https://www.bilibili.com/video/BV1q5411V7tT?from=search&seid=781442368629495599
+   https://blog.csdn.net/acelit/article/details/77902490
 
 .. [8]
+   https://www.bilibili.com/video/BV1q5411V7tT?from=search&seid=781442368629495599
+
+.. [9]
    https://zhuanlan.zhihu.com/p/34557616
 
 .. |通用智能语音助手产品| image:: D:/onedrive/Documents/read/2bPM/img/speech_product.png

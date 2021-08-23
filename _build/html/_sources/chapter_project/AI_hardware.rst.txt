@@ -477,5 +477,7 @@ Device）的芯片。由于设备端的运行环境是变化的，这就导致�
 
 https://www.zhihu.com/question/342327559/answer/816382235
 
+https://www.zhihu.com/topic/19805484/hot
+
 从零开始的硬件之路3：使用AD绘制电路板需要的主要步骤 - 弥城的文章 - 知乎
 https://zhuanlan.zhihu.com/p/375207100

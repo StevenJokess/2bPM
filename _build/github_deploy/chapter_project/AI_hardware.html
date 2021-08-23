@@ -74,6 +74,11 @@ Show Source
                   Me
               </a>
           
+              <a  class="mdl-navigation__link" href="https://github.com/StevenJokess/2bPM/discussions">
+                  <i class="fab fa-github"></i>
+                  Discussions
+              </a>
+          
               <a  class="mdl-navigation__link" href="https://github.com/StevenJokess/2bPM">
                   <i class="fab fa-github"></i>
                   Repo
@@ -306,12 +311,13 @@ Show Source
 <li class="toctree-l2"><a class="reference internal" href="../chapter_AI_company/momo.html">11.17. 陌陌</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../chapter_AI_company/datayes.html">11.18. datayes</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../chapter_AI_company/turingbot.html">11.19. 图灵机器人</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../chapter_AI_company/yuncong.html">11.20. 云从</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../chapter_AI_company/jinzheng.html">11.21. 金证</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../chapter_AI_company/tucao.html">11.22. 吐槽</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../chapter_AI_company/Intel.html">11.23. Intel</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../chapter_AI_company/face%2B%2B.html">11.24. 旷视</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../chapter_AI_company/more.html">11.25. 更多</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_AI_company/RealAI.html">11.20. RealAI</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_AI_company/yuncong.html">11.21. 云从</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_AI_company/jinzheng.html">11.22. 金证</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_AI_company/tucao.html">11.23. 吐槽</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_AI_company/Intel.html">11.24. Intel</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_AI_company/face%2B%2B.html">11.25. 旷视</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_AI_company/more.html">11.26. 更多</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="../chapter_AIorPM_expert/index.html">12. AI或产品专家</a><ul>
@@ -579,12 +585,13 @@ Show Source
 <li class="toctree-l2"><a class="reference internal" href="../chapter_AI_company/momo.html">11.17. 陌陌</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../chapter_AI_company/datayes.html">11.18. datayes</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../chapter_AI_company/turingbot.html">11.19. 图灵机器人</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../chapter_AI_company/yuncong.html">11.20. 云从</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../chapter_AI_company/jinzheng.html">11.21. 金证</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../chapter_AI_company/tucao.html">11.22. 吐槽</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../chapter_AI_company/Intel.html">11.23. Intel</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../chapter_AI_company/face%2B%2B.html">11.24. 旷视</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../chapter_AI_company/more.html">11.25. 更多</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_AI_company/RealAI.html">11.20. RealAI</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_AI_company/yuncong.html">11.21. 云从</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_AI_company/jinzheng.html">11.22. 金证</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_AI_company/tucao.html">11.23. 吐槽</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_AI_company/Intel.html">11.24. Intel</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_AI_company/face%2B%2B.html">11.25. 旷视</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_AI_company/more.html">11.26. 更多</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="../chapter_AIorPM_expert/index.html">12. AI或产品专家</a><ul>
@@ -1016,6 +1023,7 @@ CPU、GPU、TPU去处理推断任务，然后再将数据返回终端，即将�
 on
 Device）的芯片。由于设备端的运行环境是变化的，这就导致网络通讯带来的延迟响应会影响云端推断的推断速度，甚至在某些没有网络信号的环境中，云端推断无法执行，这就导致人工智能产品根本无法运行。尤其是那些需要快速进行推断、决策并执行输出的机器人产品，需要在和用户的交互过程中进行快速响应并满足用户需求。为了解决这样的问题，设备端（终端）芯片成为解决问题的重要手段。但是设备端推断芯片目前由于性能普遍较差，因此主要被用来进行一些相对简单的、对实时性要求很高的推断。另外，算法模型升级和运维成本较高也是设备端芯片的缺点，而云端推断通常可以根据需求配置足够强大的硬件资源，适合运行一些复杂的、允许有一定延时的算法模型。因此，考虑到整体解决方案的投入产出比，二者并没有好坏之分。<a class="reference external" href="https://www.zhihu.com/club/1266018382773624832/post/1271062493445029888">12</a></p>
 <p><a class="reference external" href="https://www.zhihu.com/question/342327559/answer/816382235">https://www.zhihu.com/question/342327559/answer/816382235</a></p>
+<p><a class="reference external" href="https://www.zhihu.com/topic/19805484/hot">https://www.zhihu.com/topic/19805484/hot</a></p>
 <p>从零开始的硬件之路3：使用AD绘制电路板需要的主要步骤 - 弥城的文章 - 知乎
 <a class="reference external" href="https://zhuanlan.zhihu.com/p/375207100">https://zhuanlan.zhihu.com/p/375207100</a></p>
 </div>

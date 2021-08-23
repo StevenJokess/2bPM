@@ -1,5 +1,8 @@
 # 音乐
 
+AI 在音乐中有什么应用
+https://www.zhihu.com/question/59111146
+
 ## 歌词
 
 ### TTS
@@ -19,3 +22,11 @@ https://www.google.com/search?q=cevio+ai&rlz=1C1GCEA_enJP909HK909&oq=cevio+ai&aq
 - https://resource.dreamtonics.com/download/Synthesizer%20V%20Studio%20Basic/latest/
 - https://www.bilibili.com/read/cv3069528
 - 官方教程：https://www.bilibili.com/video/BV1gi4y137hV
+
+## 版权
+
+人工智能征战内容创作领域，AI出品，版权归谁？
+https://www.zhihu.com/question/275715000
+
+AI在音乐领域的发展最终将为音乐人提供极大方便，还是替代音乐人？
+https://www.zhihu.com/question/312168554

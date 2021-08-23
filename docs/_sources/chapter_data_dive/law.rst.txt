@@ -7,3 +7,5 @@
 国家安全法
 
 专利：https://www.cnipa.gov.cn/module/download/downfile.jsp?classid=0&showname=1.%E4%B8%93%E5%88%A9%E7%BA%A0%E7%BA%B7%E8%A1%8C%E6%94%BF%E8%B0%83%E8%A7%A3%E5%8A%9E%E6%A1%88%E6%8C%87%E5%8D%97.doc&filename=2e3658bda3c744f98585347c015fcb99.doc
+
+著作权：https://www.zhihu.com/topic/19633255/index

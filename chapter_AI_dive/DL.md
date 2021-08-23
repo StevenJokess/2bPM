@@ -76,6 +76,7 @@ CNN优缺点：
 - AI算法工程师手册: https://www.bookstack.cn/books/huaxiaozhuan-ai
 - CV: http://www.uml.org.cn/ai/202012021.asp?artid=23430
 - 训练秘籍: https://deeplearning-ai.github.io/
+- 深度学习从 0 到 1，从图像，自然语言处理，音频信号三方面分别介绍了深度学习算法的实际应用。案例实战部分使用的深度学习框架为 Tensorflow2/Keras：https://www.zhihu.com/pub/book/120217202
 
 ## 学科与应用
 

@@ -104,6 +104,9 @@ http://www.workercn.cn/
 
 面试的时候就怕给HR当业绩人头，还在那说了半天让她把车费给我付了，反正当时没工作**有的是时间**和她耗。[^5]
 
+为什么应届生的身份这么值钱？ - 深蓝保的回答 - 知乎
+https://www.zhihu.com/question/296366864/answer/2025375246
+
 [^1]: https://www.bilibili.com/read/cv11355392
 [^2]: https://news.dayoo.com/society/202012/31/140000_53734969.htm
 [^3]: https://www.zhihu.com/question/341498422/answer/1250761734

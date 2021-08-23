@@ -28,7 +28,7 @@ html_theme_options = {
     'primary_color': 'red', # blue
     'accent_color': 'yellow', # deep_orange
     'header_links': [
-        ('Me', 'https://github.com/StevenJokess/', True, 'fab fa-github'),('Repo', 'https://github.com/StevenJokess/2bPM', True, 'fab fa-github'),
+        ('Me', 'https://github.com/StevenJokess/', True, 'fab fa-github'),('Discussions', 'https://github.com/StevenJokess/2bPM/discussions', True, 'fab fa-github'),('Repo', 'https://github.com/StevenJokess/2bPM', True, 'fab fa-github'),
     ],
     'show_footer': False
 }
