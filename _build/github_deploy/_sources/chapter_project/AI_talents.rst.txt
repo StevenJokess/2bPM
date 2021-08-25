@@ -161,6 +161,23 @@ https://blog.csdn.net/zw0Pi8G5C1x/article/details/79947077
 人才培养模型
 ------------
 
+如何看待 CMU 新开设的 AI 专业？ - 知乎
+https://www.zhihu.com/question/277026400
+
+卡内基梅隆大学将于2018Fall开设美国第一个人工智能本科专业.本人2018Fall入学，将于大二前决定专业.请帮忙分析AI专业的利弊，如：专业是否学的到东西，课程是否合理，就业前景等等.
+如果可能，请与其他专业进行比较.谢谢.
+
+链接：https://www.cs.cmu.edu/overview-pro
+
+CMU官网介绍的人工智能专业课程群。简单来说，三组核心课程分别是“数学和统计”（math
+and statistics）、“计算机”（computer
+science）、“人工智能”(AI)，此外还有ethics、humanities and arts、science
+and engineering等课程簇。
+
+https://www.cs.cmu.edu/bs-in-artificial-intelligence/curriculum
+
+MIT：https://exploredegrees.stanford.edu/schoolofengineering/#majorstext
+
 人工智能技术服务专业（专业代码：610217），是 2019
 年增补专业，主要面向人工智能产业及其应用相关的企事业单位，在人工智能技术应用开发、系统运维、产品营销、技术支持等岗位群，咶从事人工智能应用产品开发与测试、数据处理、系统运维、产品营销、技术支持等工作。
 

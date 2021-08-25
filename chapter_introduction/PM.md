@@ -714,6 +714,8 @@ http://www.pm265.com/
 
 大会：http://pm-summit.org/
 
+课程：https://ms-product-management.cmu.edu/
+
 [1]: https://www.jianshu.com/p/fd466ed1bda6
 [2]: https://www.zhihu.com/question/343743405/answer/1237754321s
 [3]: http://www.woshipm.com/pmd/3945349.html

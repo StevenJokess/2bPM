@@ -127,7 +127,9 @@ Network（深度信念网络）以及RNN（循环神经网络）等。\ `3 <http
 
 这种情况下，机器人不应当重复询问『出发地』、『出发时间』和『目的地』。
 
-更多\ `15 <https://mp.weixin.qq.com/s?__biz=MjM5NzA5OTAwMA==&mid=2650005853&idx=1&sn=2c6bb9e9c3751fdc3fd95e89b8b6377d&chksm=bed865ca89afecdcdf0ecde9ed2385fb613cb2a40ad0c491582c7faf91841d17efdfe59718e1&mpshare=1&scene=1&srcid=0304keVTiRXgpPHVGxGFL6mI#rd>`__
+更多\ `15 <https://mp.weixin.qq.com/s?__biz=MjM5NzA5OTAwMA==&mid=2650005853&idx=1&sn=2c6bb9e9c3751fdc3fd95e89b8b6377d&chksm=bed865ca89afecdcdf0ecde9ed2385fb613cb2a40ad0c491582c7faf91841d17efdfe59718e1&mpshare=1&scene=1&srcid=0304keVTiRXgpPHVGxGFL6mI#rd>`__:
+
+-  智能音箱语义理解——MDIS三合一模型:https://developer.jdcloud.com/article/1947?mid=11
 
 NLG
 ---

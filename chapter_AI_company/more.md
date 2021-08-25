@@ -30,6 +30,13 @@ https://space.bilibili.com/484322035
 【中国绊爱】爱哥的产品经理初体验
 https://www.bilibili.com/video/BV1MQ4y1P71S?from=search&seid=5882016147693094636
 
+山景智能：
+
+- https://www.senses-ai.com/about-us
+- （套皮hexo）：https://github.com/sensesai/blog
+- 山景智能荣登中国人工智能明星创业公司TOP 10榜单 - 山景智能的文章 - 知乎
+https://zhuanlan.zhihu.com/p/340137041
+
 
 国外创业公司：
 

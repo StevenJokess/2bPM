@@ -862,6 +862,8 @@ http://www.pm265.com/
 
 大会：http://pm-summit.org/
 
+课程：https://ms-product-management.cmu.edu/
+
 .. |产品策划VS产品运营| image:: ../img/design_GTM.jpg
 .. |腾讯产品经理能力模型| image:: ../img/tencent_PM.png
 .. |产品工作框架| image:: ../img/product_process.png

@@ -182,6 +182,8 @@ More Resources[^15]
 
 https://huyenchip.com/ml-interviews-book/contents/4.3-resources.html
 
+AutoML:https://developer.jdcloud.com/article/1698
+
 [^1]: https://www.pianshen.com/article/66921228716/
 [^2]: http://www.uml.org.cn/DevProcess/201712283.asp
 [^3]: http://www.uml.org.cn/devprocess/201910163.asp

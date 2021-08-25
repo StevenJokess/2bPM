@@ -43,6 +43,9 @@ IT系统——支付——信贷——大金融——生活
 
 传统金融vs科技金融：在业务和渠道上传统金融无法同时解决成本和效率问题；科技金融有效匹配普惠金融的需求，脱媒、去中心化和定制化个性化，草根金融。
 
+企业
+----
+
 PEST
 ----
 
@@ -80,6 +83,10 @@ FinTech 2.0 时代
 金融科技的ABCD”技术,即人工智能(AI)、区块链(Blockchain)、云计算(Cloud
 Computing)和大数据(Big
 Data)等新技术可能会令金融服务行业发生重大转变。\ `11 <https://www.cfainstitute.org/-/media/documents/survey/cfa-institute-ai-pioneer-report-zh-cn.ashx>`__
+
+.. figure:: ./img/2020_FinTech.jpg
+
+   Fintech 2020
 
 人工智能(AI)要点
 ^^^^^^^^^^^^^^^^

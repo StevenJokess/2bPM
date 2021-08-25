@@ -49,6 +49,8 @@ http://jr.jd.com/
 
 https://www.jddglobal.com/products/machine-learn
 
+京东科技开发者：https://developer.jdcloud.com/article/1636
+
 人工智能事业部
 --------------
 

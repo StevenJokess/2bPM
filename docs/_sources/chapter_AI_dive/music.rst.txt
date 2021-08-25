@@ -4,6 +4,9 @@
 
 AI 在音乐中有什么应用 https://www.zhihu.com/question/59111146
 
+如何看待中央音乐学院首招音乐人工智能方向博士生？更广泛来说人工智能在音乐领域的应用与前景？
+- 知乎 https://www.zhihu.com/question/314142299
+
 歌词
 ----
 
