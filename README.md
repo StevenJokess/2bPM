@@ -1,6 +1,6 @@
 # 2bPM
 
-学习如何成为AI产品经理并体系化总结生成书
+学习如何成为AI产品经理并体系化总结生成知识库：知识库(Knowledge Base)是指一个易操作、易利用、全面有组织的知识集群，针对某些领域问题求解的需要，采用某种知识表示方式在计算机中存储、组织、管理和使用的互相联系的知识片集合。这些知识可以包括与该领域相关的理论知识、事实数据以及常识性知识，或者是专家经验得到的启发式知识。简而言之，知识库就是储存某一领域的知识，可以理解为知识管理。[3]
 
 https://stevenjokess.github.io/2bPM/
 
@@ -63,4 +63,5 @@ https://markdown.com.cn/basic-syntax/links.html
 
 [1]: https://www.bilibili.com/video/BV13b41117AU?p=1&share_medium=android&share_plat=android&share_source=COPY&share_tag=s_i&timestamp=1607577815&unique_k=cGtmx5
 [2]: https://www.bilibili.com/read/cv8910438/?from=readlist
+[3]: https://www.zhihu.com/question/304499668/answer/2095028899
 TODO：https://my.oschina.net/u/4584889/blog/4394219

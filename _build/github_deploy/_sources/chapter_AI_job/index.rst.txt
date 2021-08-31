@@ -12,3 +12,4 @@ AI工作
    Layoff
    meeting
    finance
+   challenge

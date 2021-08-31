@@ -30,6 +30,18 @@ Facebook靠feed流插入广告推荐的算法，一年赚将近一千万美元
 从企业的需求量来看，推荐 > 搜索 >= nlp >
 cv，我想，题主也是想问，哪个垂直领域的工资平均水平最高，对于校招生，刚入职时没太多差别，但随着时间的发展，业务多、需求量大的方向优势就体现出来了，推荐领域的人才，由于业务场景多、需求大，容易拿到成绩，升职速度会快于同时期入职的其他方向的同学，工资自然就超过了。 [2]_
 
+Youtube 多目标排序+解决position bias（Recsys2019） -
+魔法学院的Chilia的文章 - 知乎 https://zhuanlan.zhihu.com/p/405185215
+
+Youtube 排序系统：Recommending What Video to Watch Next -
+魔鬼吊儿郎的文章 - 知乎 https://zhuanlan.zhihu.com/p/82584437
+
+新方向
+------
+
+CRSLab：可能是最适合你的对话推荐系统开源库 - Francis Lancelot的文章 -
+知乎 https://zhuanlan.zhihu.com/p/341955912
+
 .. [1]
    https://zhuanlan.zhihu.com/p/402289596
 

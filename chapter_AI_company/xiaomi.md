@@ -6,6 +6,8 @@ https://blog.csdn.net/acelit/article/details/80215820
 
 小米手环[4]也可以通过小爱调节闹钟
 
+
+
 ## 小爱
 
 https://developers.xiaoai.mi.com/
@@ -33,8 +35,10 @@ AI通话（聋哑人福利）：语音转文字、文字转语音
 ## More
 
 - 小爱同学B站号[3]
+- 购买小米AI音箱(小爱同学)后，给你的生活带了哪些改变？[5]
 
 [1]: https://www.nowcoder.com/discuss/tiny/587660?channel=666&source_id=feed_index_nctrack&fromIframe=true
 [2]: https://www.bilibili.com/video/BV1AV411t7o2?spm_id_from=333.851.b_62696c695f7265706f72745f6469676974616c.9
 [3]: https://space.bilibili.com/239380557/dynamic
 [4]: https://www.bilibili.com/video/BV1754y1b7CR
+[5]: https://www.zhihu.com/question/66803456/answer/251204530

@@ -79,6 +79,17 @@
 - 测试设备：确定要兼容的系统版本，手机品牌类型，手机分辨率等；
 - 按照产品需求文档进行测试。
 
+产品经理在面临上线的时候，往往都要参与测试环节，那么怎么做好这个环节呢？[12]
+
+1. 熟读需求文档，把需求文档拿出来重新读一读，看一看。然后对照需求文档看一下现阶段产品，当前版本是否符合需求。
+1. 关注功能流程，自己先多走几遍。看看流程是否走得通
+1. 关注文案，是否有错字，是否有不正确的文字，是否有不符合需求文档和UI设计图的文字
+1. 关注交互设计，交互过程中是否有不合理的地方。是否有闪退，频闪，或者是抖动。
+1. 反复测试不同页面的跳转，测试不同页面之间的交互是否有问题。
+1. 邀请UI一起来看一下 当前页面展现是否符合 UI想实现的设计。UI有时候会看到一些细节的问题，是产品经理很难注意到的。
+
+
+
 ### 产品发布上线
 
 - 发布环境的搭建，包括预发布环境、生产环境、灰度发布环境的准备等工作。
@@ -291,3 +302,4 @@ Qualitative data collection tools (such as SurveyMonkey, Qualtrics, and Google F
 [9]: https://radiant-brushlands-42789.herokuapp.com/towardsdatascience.com/take-your-machine-learning-models-to-production-with-these-5-simple-steps-35aa55e3a43c
 [10]: https://g.yuque.com/clairewang8696/lsi6zo/hp046u
 [11]: https://zhuanlan.zhihu.com/p/390949795
+[12]: https://zhuanlan.zhihu.com/p/57878717

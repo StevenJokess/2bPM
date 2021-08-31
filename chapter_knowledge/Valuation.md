@@ -23,6 +23,9 @@
 
 现在绝大部分技术型的、平台型的公司还是一To B的场景，但投资机构却把它们当作To C的公司来投。这样的公司，后续还需要多轮的融资支持成长。如果天使轮一下子把估值做到1亿，那A轮总得3亿，做到F轮怎么办？
 
+商汤科技 8 月 27 日向港交所提交上市申请书，前景如何？招股书上有哪些信息值得关注？ - 知乎
+https://www.zhihu.com/question/482996391
+
 ## Labby Inc[2]
 
 Labby Inc, an early-stage startup specializing in AI-enabled optical sensing solutions for raw milk testing, today announced it has raised $480,000 in seed funding. AgriTech Capital, a strategy and investment firm specializing in innovation and technology in the agribusiness sector.

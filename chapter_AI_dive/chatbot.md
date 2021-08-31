@@ -92,6 +92,9 @@ Accompany AI Chat[13]
 
 与16年业界普遍的基于规则的自然语言解析系统相比，目前AI领域第一二梯队的公司基本都已经拥有了较为成熟且可商业化的基于深度学习的自然语言解析系统。就公司而言，对自然语言解析技术的研究已经到了边际效用递减的程度，可做的虽然还很多，比如更深层次的句法/语义分析、与知识图谱的结合等，但解析技术已经不再构成对话机器人产品的核心竞争力。[12]
 
+## 困境
+
+亚马逊的Alexa还没有找到能让用户玩上20分钟的应用。[14]
 
 
 [1]: http://www.woshipm.com/pmd/2937210.html
@@ -107,3 +110,4 @@ Accompany AI Chat[13]
 [11]: http://blog.itpub.net/29829936/viewspace-2652896/
 [12]: https://www.jianshu.com/p/6b83e669cd63
 [13]: https://github.com/EasonC13/AI_chatbot_platform
+[14]: https://www.zhihu.com/question/264342280/answer/279782691

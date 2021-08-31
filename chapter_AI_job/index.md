@@ -10,4 +10,5 @@ school
 Layoff
 meeting
 finance
+challenge
 ```

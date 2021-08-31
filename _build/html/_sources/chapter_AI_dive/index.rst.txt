@@ -17,6 +17,8 @@
    ML
    MLOps
    DL
+   CV
+   draw
    GAN
    OCR
    NLP

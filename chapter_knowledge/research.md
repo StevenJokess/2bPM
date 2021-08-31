@@ -119,8 +119,12 @@ http://deepdive.nn.157239n.com/
 
 http://www.zft-park.com.cn/index.php?m=Article&a=show&id=384
 
+## 数据
+
+https://www.jiangdabai.com/downloads
+
 [1]: https://www.jiqizhixin.com/articles/2020-10-09-5
 [2]: https://cloud.tencent.com/developer/article/1473703
-[3]: 有哪些可以自学机器学习、深度学习、人工智能的网站？ - 白小鱼的回答 - 知乎 https://www.zhihu.com/question/375537442/answer/1356785270
-[4]: 有哪些可以自学机器学习、深度学习、人工智能的网站？ - 鑫鑫淼淼焱焱的回答 - 知乎 https://www.zhihu.com/question/375537442/answer/1426414603
-[5]: 百度学术能否替代 Google 学术网站？有没有其他选择？ - 答答的回答 - 知乎 https://www.zhihu.com/question/24143504/answer/280410393
+[3]: https://www.zhihu.com/question/375537442/answer/1356785270
+[4]: https://www.zhihu.com/question/375537442/answer/1426414603
+[5]: https://www.zhihu.com/question/24143504/answer/280410393

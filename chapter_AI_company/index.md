@@ -1,6 +1,9 @@
 # AI公司研究
 :label:`chap_company`
 ​
+1天内快速了解/分析一家企业/公司 - 心中有光的文章 - 知乎
+https://zhuanlan.zhihu.com/p/369316896
+
 
 ```toc
 :maxdepth: 2

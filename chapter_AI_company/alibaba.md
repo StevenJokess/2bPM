@@ -21,5 +21,7 @@ https://azft.alibaba.com/labs
 阿里巴巴宣布成立人工智能治理与可持续发展实验室，有哪些值得关注的信息？ - 知乎
 https://www.zhihu.com/question/472159338
 
+阿里巴巴的AI实力被低估了吗？ - 半佛仙人的回答 - 知乎
+https://www.zhihu.com/question/347775590/answer/836180074
 [1]: https://wqw547243068.github.io/2020/04/29/dialogue-system/#%E5%AF%B9%E8%AF%9D%E7%AE%A1%E7%90%86
 [^2]: https://www.zhihu.com/question/344549330/answer/827486521

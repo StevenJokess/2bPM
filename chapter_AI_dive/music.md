@@ -26,6 +26,10 @@ https://www.google.com/search?q=cevio+ai&rlz=1C1GCEA_enJP909HK909&oq=cevio+ai&aq
 - https://www.bilibili.com/read/cv3069528
 - 官方教程：https://www.bilibili.com/video/BV1gi4y137hV
 
+## 乐器
+
+piano：https://github.com/googlecreativelab/aiexperiments-ai-duet
+
 ## 版权
 
 人工智能征战内容创作领域，AI出品，版权归谁？

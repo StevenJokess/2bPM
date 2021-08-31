@@ -2,7 +2,7 @@
 阿里巴巴
 ========
 
-阿里巴巴的企业文化是客户第一、拥抱变化、团队合作、诚信、激情、敬业。在这里，要具备极强的客户意识和团队意识。 [1]_
+阿里巴巴的企业文化是客户第一、拥抱变化、团队合作、诚信、激情、敬业。在这里，要具备极强的客户意识和团队意识。[^2]
 
 NLP
 ---
@@ -29,5 +29,7 @@ https://azft.alibaba.com/labs
 阿里巴巴宣布成立人工智能治理与可持续发展实验室，有哪些值得关注的信息？ -
 知乎 https://www.zhihu.com/question/472159338
 
-.. [1]
-   https://www.zhihu.com/question/344549330/answer/827486521
+阿里巴巴的AI实力被低估了吗？ - 半佛仙人的回答 - 知乎
+https://www.zhihu.com/question/347775590/answer/836180074 [1]:
+https://wqw547243068.github.io/2020/04/29/dialogue-system/#%E5%AF%B9%E8%AF%9D%E7%AE%A1%E7%90%86
+[^2]: https://www.zhihu.com/question/344549330/answer/827486521

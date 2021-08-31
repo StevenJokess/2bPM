@@ -283,6 +283,8 @@ NLP 常见任务及当下经典算法
 -  文本摘要：Bert+Textrank
 -  问答系统/机器翻译：Transformer+Bert / Seq2seq+Attention
 -  情感分析：Word2vec+LSTM / CNN
+-  文本挖掘
+-  语义理解
 
 提供相关方案的企业
 ------------------

@@ -50,6 +50,9 @@ AI耳机：https://dumall.baidu.com/product/219462907494434?skuNo=S2020220091001
 
 帮百度AI干脏活累活的公司，都死了：https://xueqiu.com/3544180334/122723921
 
+百度AI“凉了”以后，国内人工智能谁才是真正的王者？ - 甜草莓的回答 - 知乎
+https://www.zhihu.com/question/334095857/answer/747277456
+
 [1]: https://baike.baidu.com/item/%E6%99%AF%E9%B2%B2/20432174
 [2]: https://baike.baidu.com/item/%E5%B0%8F%E5%86%B0/19880611?fromtitle=%E5%BE%AE%E8%BD%AF%E5%B0%8F%E5%86%B0&fromid=14076870#reference-[36]-20599544-wrap
 [3]: https://wqw547243068.github.io/2020/04/29/dialogue-system/#%E5%AF%B9%E8%AF%9D%E7%AE%A1%E7%90%86

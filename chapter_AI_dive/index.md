@@ -12,6 +12,8 @@ feature_engineering
 ML
 MLOps
 DL
+CV
+draw
 GAN
 OCR
 NLP

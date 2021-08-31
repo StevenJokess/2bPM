@@ -38,6 +38,8 @@
 
 ![ML[^3]](../img/ML.png)
 
+![机器学习算法工程师[^24]](../img/ML_tech_tree.jpg)
+
 ## ML VS software engineering
 
 术语“软件工程”第一次出现是在1965年，也就是编程语言开始出现的15年后。大约20年后，软件工程研究所成立，以管理软件工程过程。今天，我们已经普遍接受了软件工程的最佳实践。另一方面，机器学习直到20世纪90年代才作为一个独立的领域开始蓬勃发展。深度学习是ML的一个子集，它在许多问题上的准确性创造了新纪录，包括图像识别和自然语言处理，直到2012年AlexNet的兴起才被广泛讨论。与软件工程相比，ML仍处于起步阶段，因此缺乏行业标准、度量标准、基础设施和工具。公司仍在探索最佳实践，扼杀应用程序。[5]
@@ -207,3 +209,4 @@ AutoML:https://developer.jdcloud.com/article/1698
 [^21]: http://www.cstf.org.cn/newsdetail.asp?types=36&num=1165
 [^22]: https://xie.infoq.cn/article/ae3c570bea05c03db982c4f1b
 [^23]: https://zhuanlan.zhihu.com/p/26571486
+[^24]: http://www.ppvke.com/archives/32249

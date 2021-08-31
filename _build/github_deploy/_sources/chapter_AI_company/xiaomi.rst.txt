@@ -38,3 +38,4 @@ More
 ----
 
 -  小爱同学B站号\ `3 <https://space.bilibili.com/239380557/dynamic>`__
+-  购买小米AI音箱(小爱同学)后，给你的生活带了哪些改变？\ `5 <https://www.zhihu.com/question/66803456/answer/251204530>`__

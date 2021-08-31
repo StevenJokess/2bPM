@@ -31,3 +31,6 @@
 
 基础数据手机——>
 建立模型——>建立用户画像\ `5 <https://zhuanlan.zhihu.com/p/250482456>`__
+
+现在AI客服越来越多，人工客服未来会失业吗？
+https://www.zhihu.com/question/386541719/answer/1144143846

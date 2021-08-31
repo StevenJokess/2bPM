@@ -6,7 +6,7 @@ AI产品经理是直接应用或间接涉及了AI技术，进而完成相关AI�
 
 ## [点击下载整页简历PDF（带URL）](https://github.com/StevenJokess/2bPM/blob/master/蔡舒起-AI产品经理-GAN(MXNet-PyTorchTF2开发者)_nophone.pdf)
 
-本来这个项目是为了求职AI产品经理，可在学习技术的过程中，我发觉AI时代的病症与AI大规模应用后可能的悲惨后果，既然失业良久了，也就不必执着求职了，好好批判下。
+本来这个项目是为了求职AI产品经理，可在学习技术的过程中，我发觉AI时代的病症与AI大规模应用后可能的悲惨后果，既然失业良久了，也就不必执着求职了，好好批判下。后续的主要研究方向为AI的产品化与产品化的可能社会影响。
 
 - Linkedin（Writing can't make money, but can make friends.）https://www.linkedin.com/in/%E8%88%92%E8%B5%B7-%E8%94%A1-b609001b7/
 - Linkedin(had 800 friends in AI field , but now has been permanently restricted）见“平台随意封号”章节：https://stevenjokess.github.io/2bPM/AI_pipan.html#id27
@@ -73,7 +73,7 @@ Developer(test) 自雇 入职日期2020年8月 – 2020年9月 任职时长1 个
 - 实际项目：
 - GAN(MXNet->PyTorch&TF2): http://preview.d2l.ai/d2l-en/PR-1716/chapter_generative-adversarial-networks/gan.html
 - DCGAN(MXNet->PyTorch）:http://d2l.ai/chapter_generative-adversarial-networks/dcgan.html
-- 结果：共300+浏览，领英加了400左右的AI深度学习同行。
+- 结果：共300+浏览，领英加了400左右的AI深度学习同行。(已经被封，见https://stevenjokess.github.io/2bPM/AI_pipan.html#id27)
 
 ---
 

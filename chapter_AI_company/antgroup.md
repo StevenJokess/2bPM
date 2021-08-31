@@ -23,6 +23,10 @@ https://tech.antfin.com/
 蚂蚁集团的产品能每秒处理了45.9万笔支付，这篇分享你需要知道的一切蚂蚁IPO
 
 https://zhuanlan.zhihu.com/p/269512258
+
+10年后的蚂蚁金服，有多大想象空间？ - 塔哥FRM的回答 - 知乎
+https://www.zhihu.com/question/29432000/answer/2080599155
+
 [1]: https://damo.alibaba.com/labs/finance-intelligence/
 [2]: https://developer.aliyun.com/article/58930
 [3]: https://developer.aliyun.com/article/58769

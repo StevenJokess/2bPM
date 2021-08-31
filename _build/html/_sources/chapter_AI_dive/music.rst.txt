@@ -30,6 +30,11 @@ Synthesizer V
 -  https://www.bilibili.com/read/cv3069528
 -  官方教程：https://www.bilibili.com/video/BV1gi4y137hV
 
+乐器
+----
+
+piano：https://github.com/googlecreativelab/aiexperiments-ai-duet
+
 版权
 ----
 

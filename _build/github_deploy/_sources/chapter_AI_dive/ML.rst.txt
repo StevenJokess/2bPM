@@ -48,6 +48,10 @@ ML  [1]_
 
    ML [4]_
 
+.. figure:: ../img/ML_tech_tree.jpg
+
+   机器学习算法工程师 [5]_
+
 ML VS software engineering
 --------------------------
 
@@ -62,10 +66,10 @@ ML VS software engineering
 
    Machine Learning Algorithm Cheat Sheet[8]
 
-如何选择？ [5]_
+如何选择？ [6]_
 
 在具体算法选择上，基于Python的scikit-learn机器学习算法库提供一套算法选择方法，参考这一部分（不局限于图中的算法和方法，由于这张图大多考虑了scikit中算法的实现情况）具体介绍一下算法的选择如下：
- [6]_
+ [7]_
 
 1. 首先统计数据的容量当数据过小（小于50条）时，建议收集更多的数据，因为过小的数据训练的算法容易受噪声的影响比较大，算法效果一般。
 2. 判断是否为预测一个类别的问题，如果是并且训练数据中包含标签信息则为分类问题。
@@ -79,7 +83,7 @@ ML VS software engineering
 对于算法的选择，有时不能找到确定的方法，也就是说很难根据数据是使用场景就完全锁定了那一个具体的算法，但是根据却可以缩小到指定的几个常用算法。然后通过测试集和训练集在这几个算法上做一些Demo。根据Demo反应的质量决定最终使用的算法那个。看似比较费力，其实是比较稳妥和精准的方法。
 
 
-机器学习框架  [7]_
+机器学习框架  [8]_
 ------------------
 
 机器学习方面的新框架层出不穷，一方面我们需要掌握经典框架的使用方式，理解其模块构成，接口规范的设计，一定程度上来说其它新框架也都需要遵循这些业界标准框架的模块与接口定义。另一方面对于新框架或特定领域框架，我们需要掌握快速评估，上手使用，并且做一定改造适配的能力。一些比较经典的框架有：
@@ -117,7 +121,7 @@ AI时代需要什么样的基准？从Mlperf AI基准测试中读出了这些 - 
 -  召回率（R值）是针对我们原来的样本而言的，它表示的是样本中的正例有多少被预测正确了。
 
 
-流程  [8]_
+流程  [9]_
 ----------
 
 目标定义
@@ -168,7 +172,7 @@ set）以及测试时所使用的测试集（test set）。
 金融应用
 --------
 
-利用传统的回归分析等方法来建模交易策略有两个弊端：首先，所用数据维度有限，仅限于交易数据；其次，模型可处理的变量有限，模型的有效与否取决于所选取变量的特征和变量间的组合，而这很大程度上取决于研究员对数据的敏感程度。利用机器学习技术，结合预测算法，可以依据历史经验和新的市场信息不断演化，预测股票、债券等金融资产价格的波动及波动间的相互关系，以此来创建符合预期风险收益的投资组合。然而，机器学习可能是个相对缓慢的过程，且该过程无法通过其他统计方法来提供担保行为。机器学习虽可能适用于寻找隐藏的趋势、信息和关系，但在金融领域的应用和效果仍存在较大不确定性。市场上对于金融领域的机器学习仍存在一定程度的炒作。 [9]_
+利用传统的回归分析等方法来建模交易策略有两个弊端：首先，所用数据维度有限，仅限于交易数据；其次，模型可处理的变量有限，模型的有效与否取决于所选取变量的特征和变量间的组合，而这很大程度上取决于研究员对数据的敏感程度。利用机器学习技术，结合预测算法，可以依据历史经验和新的市场信息不断演化，预测股票、债券等金融资产价格的波动及波动间的相互关系，以此来创建符合预期风险收益的投资组合。然而，机器学习可能是个相对缓慢的过程，且该过程无法通过其他统计方法来提供担保行为。机器学习虽可能适用于寻找隐藏的趋势、信息和关系，但在金融领域的应用和效果仍存在较大不确定性。市场上对于金融领域的机器学习仍存在一定程度的炒作。 [10]_
 
 更多
 ----
@@ -188,15 +192,15 @@ truth、熵（entropy）的概念，dynamic learning的概念等等。[2]
 -  https://www.reddit.com/r/MachineLearning/
 -  http://www.mlebook.com/wiki/doku.php
 
-不容错过的 20 个机器学习与数据科学网站 [10]_
+不容错过的 20 个机器学习与数据科学网站 [11]_
 
--  Andreas Mueller 的这门免费的课程《应用机器学习》 [11]_（Applied
+-  Andreas Mueller 的这门免费的课程《应用机器学习》 [12]_（Applied
    Machine Learning）。
--  Coursera：《机器学习》 [12]_（Machine Learning），吴恩达（Andrew
+-  Coursera：《机器学习》 [13]_（Machine Learning），吴恩达（Andrew
    Ng）。
--  优达学城（Udacity）：机器学习工程纳米学位 [13]_（Machine Learning
+-  优达学城（Udacity）：机器学习工程纳米学位 [14]_（Machine Learning
    Engineering Nanodegree）。
--  Google速成ML课程 [14]_
+-  Google速成ML课程 [15]_
 
 技术债务
 --------
@@ -205,7 +209,7 @@ truth、熵（entropy）的概念，dynamic learning的概念等等。[2]
 
 技术债务或许可以通过重构代码，改善单元测试，删除僵尸代码，减少依赖，精简
 API
-和改良文档说明进行清算。其目的不在于添加新功能，而是着眼于未来的提升，减少错误和提高可维护性。延期偿还只会加重负担，隐性债务之所以危险正是因为它是悄无声息间积攒下的。 [15]_
+和改良文档说明进行清算。其目的不在于添加新功能，而是着眼于未来的提升，减少错误和提高可维护性。延期偿还只会加重负担，隐性债务之所以危险正是因为它是悄无声息间积攒下的。 [16]_
 
 让技术债务公开透明
 ~~~~~~~~~~~~~~~~~~
@@ -215,7 +219,7 @@ API
 ML system
 ---------
 
-机器学习系统在以下方面与其他软件系统不同： [16]_
+机器学习系统在以下方面与其他软件系统不同： [17]_
 
 -  团队技能：在机器学习项目中，团队通常包括数据科学家或机器学习研究人员，他们主要负责进行探索性数据分析、模型开发和实验。这些成员可能不是经验丰富的、能够构建生产级服务的软件工程师。
 -  开发：机器学习在本质上具有实验性。您应该尝试不同的特征、算法、建模技术和参数配置，以便尽快找到问题的最佳解决方案。您所面临的挑战在于跟踪哪些方案有效、哪些方案无效，并在最大程度提高代码重复使用率的同时维持可重现性。
@@ -223,7 +227,7 @@ ML system
 -  部署：在机器学习系统中，部署不是将离线训练的机器学习模型部署为预测服务那样简单。机器学习系统可能会要求您部署多步骤流水线以自动重新训练和部署模型。此流水线会增加复杂性，并要求您自动执行部署之前由数据科学家手动执行的步骤，以训练和验证新模型。
 -  生产：机器学习模型的性能可能会下降，不仅是因为编码不理想，而且也因为数据资料在不断演变。换句话说，与传统的软件系统相比，模型可能会通过更多方式衰退，而您需要考虑这种降级现象。因此，您需要跟踪数据的摘要统计信息并监控模型的在线性能，以便系统在值与预期不符时发送通知或回滚。
 
-More Resources [17]_
+More Resources [18]_
 
 https://huyenchip.com/ml-interviews-book/contents/4.3-resources.html
 
@@ -242,40 +246,43 @@ AutoML:https://developer.jdcloud.com/article/1698
    http://www.uml.org.cn/devprocess/201910163.asp
 
 .. [5]
-   https://docs.microsoft.com/en-us/azure/machine-learning/how-to-select-algorithms
+   http://www.ppvke.com/archives/32249
 
 .. [6]
-   https://zhuanlan.zhihu.com/p/36870462
+   https://docs.microsoft.com/en-us/azure/machine-learning/how-to-select-algorithms
 
 .. [7]
-   https://zhuanlan.zhihu.com/p/192633890
+   https://zhuanlan.zhihu.com/p/36870462
 
 .. [8]
-   http://www.woshipm.com/pmd/2942899.html
+   https://zhuanlan.zhihu.com/p/192633890
 
 .. [9]
-   http://www.cstf.org.cn/newsdetail.asp?types=36&num=1165
+   http://www.woshipm.com/pmd/2942899.html
 
 .. [10]
-   https://libertydream.github.io/2020/02/16/20%E4%B8%AA%E4%B8%8D%E5%AE%B9%E9%94%99%E8%BF%87%E7%9A%84AI%E8%B5%84%E6%BA%90/
+   http://www.cstf.org.cn/newsdetail.asp?types=36&num=1165
 
 .. [11]
-   https://www.infoq.cn/article/IPDVRNxwJVsx3ZGrgwzW
+   https://libertydream.github.io/2020/02/16/20%E4%B8%AA%E4%B8%8D%E5%AE%B9%E9%94%99%E8%BF%87%E7%9A%84AI%E8%B5%84%E6%BA%90/
 
 .. [12]
-   https://www.coursera.org/learn/machine-learning?utm_source=gg&utm_medium=sem&utm_content=07-StanfordML-US&campaignid=685340575&adgroupid=32639001781&device=c&keyword=machine%20learning%20programming%20tutorial&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=243289762754&hide_mobile_promo&gclid=EAIaIQobChMIhY7m1Pfa6wIVtR6tBh0UCQAJEAAYASAAEgJcV_D_BwEhttps://www.coursera.org/learn/machine-learning?utm_source=gg&utm_medium=sem&utm_content=07-StanfordML-US&campaignid=685340575&adgroupid=32639001781&device=c&keyword=machine%20learning%20programming%20tutorial&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=243289762754&hide_mobile_promo&gclid=EAIaIQobChMIhY7m1Pfa6wIVtR6tBh0UCQAJEAAYASAAEgJcV_D_BwE
+   https://www.infoq.cn/article/IPDVRNxwJVsx3ZGrgwzW
 
 .. [13]
-   https://www.udacity.com/course/machine-learning-engineer-nanodegree–nd009t
+   https://www.coursera.org/learn/machine-learning?utm_source=gg&utm_medium=sem&utm_content=07-StanfordML-US&campaignid=685340575&adgroupid=32639001781&device=c&keyword=machine%20learning%20programming%20tutorial&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=243289762754&hide_mobile_promo&gclid=EAIaIQobChMIhY7m1Pfa6wIVtR6tBh0UCQAJEAAYASAAEgJcV_D_BwEhttps://www.coursera.org/learn/machine-learning?utm_source=gg&utm_medium=sem&utm_content=07-StanfordML-US&campaignid=685340575&adgroupid=32639001781&device=c&keyword=machine%20learning%20programming%20tutorial&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=243289762754&hide_mobile_promo&gclid=EAIaIQobChMIhY7m1Pfa6wIVtR6tBh0UCQAJEAAYASAAEgJcV_D_BwE
 
 .. [14]
-   https://developers.google.com/machine-learning/crash-course/static-vs-dynamic-training/video-lecture?hl=zh-cn#:~:text=%E4%BB%8E%E5%B9%BF%E4%B9%89%E4%B8%8A%E8%AE%B2%EF%BC%8C%E8%AE%AD%E7%BB%83,%E6%A8%A1%E5%9E%8B%E9%87%87%E7%94%A8%E5%9C%A8%E7%BA%BF%E8%AE%AD%E7%BB%83%E6%96%B9%E5%BC%8F%E3%80%82
+   https://www.udacity.com/course/machine-learning-engineer-nanodegree–nd009t
 
 .. [15]
-   https://libertydream.github.io/2020/05/10/ML%E9%9A%90%E6%80%A7%E5%80%BA%E5%8A%A1/
+   https://developers.google.com/machine-learning/crash-course/static-vs-dynamic-training/video-lecture?hl=zh-cn#:~:text=%E4%BB%8E%E5%B9%BF%E4%B9%89%E4%B8%8A%E8%AE%B2%EF%BC%8C%E8%AE%AD%E7%BB%83,%E6%A8%A1%E5%9E%8B%E9%87%87%E7%94%A8%E5%9C%A8%E7%BA%BF%E8%AE%AD%E7%BB%83%E6%96%B9%E5%BC%8F%E3%80%82
 
 .. [16]
-   https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning?hl=zh-cn
+   https://libertydream.github.io/2020/05/10/ML%E9%9A%90%E6%80%A7%E5%80%BA%E5%8A%A1/
 
 .. [17]
+   https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning?hl=zh-cn
+
+.. [18]
    https://libertydream.github.io/2020/05/10/ML%E9%9A%90%E6%80%A7%E5%80%BA%E5%8A%A1/

@@ -147,6 +147,13 @@ https://blog.csdn.net/zw0Pi8G5C1x/article/details/79947077
 全球A从业者普遍拥有较高的学历水平,但在中国,这个数字明显更高一筹。在中美AI从业人才的学历对比方面,中国在研究生及以上学历的人才占比为62.1%,高于美国的56.5%。
 `16 <https://business.linkedin.com/content/dam/me/business/zh-cn/talent-solutions/Event/july/lts-ai-report/%E9%A2%86%E8%8B%B1%E3%80%8A%E5%85%A8%E7%90%83AI%E9%A2%86%E5%9F%9F%E4%BA%BA%E6%89%8D%E6%8A%A5%E5%91%8A%E3%80%8B.pdf>`__
 
+工作地点
+--------
+
+为什么这么多关于中国目前在主导人工智能的说法，但多数领先的AI研究人员和中心都在美国、英国或加拿大？
+- 北纬78度氧气的回答 - 知乎
+https://www.zhihu.com/question/331115371/answer/726146969
+
 学历和工作经验要求
 ------------------
 
@@ -189,6 +196,8 @@ MIT：https://exploredegrees.stanford.edu/schoolofengineering/#majorstext
 
 2020年2月教育部公布《2019年度普通高等学校本科专业备案和审批结果》，新增人工智能专业的高校达180所。从学校数量来看，北京、江苏、山东、四川的新增院校较多；从学校层次来看，近两年新增人工智能本科专业的院校既有北京航天航空大学、北京理工大学、哈尔滨工业大学、浙江大学、南京大学、上海交通大学、复旦大学、同济大学、武汉大学等传统老牌名校，也有如安徽信息工程学院、泉州信息工程学院、东华理工大学等普通院校，共同推进人工智能基础研究型人才和应用型人才的培养。\ `12 <https://shimo.im/docs/ryYGVtYQvPGGdHjG/read>`__
 
+AI 方向PhD MSU和USYD？ - 知乎 https://www.zhihu.com/question/298222388
+
 招聘
 ----
 
@@ -220,3 +229,6 @@ AI大赛：https://naic.pcl.ac.cn/homepage/index.html
 
 “新一代人工智能”重大项目2020年度项目启动申报：
 http://www.cbdio.com/BigData/2020-03/31/content_6155357.htm
+
+2020中国计算机视觉人才调研报告：算法岗年薪三十多万，超六成企业急需AI产品经理
+- 机器之心的文章 - 知乎 https://zhuanlan.zhihu.com/p/352546641

@@ -234,6 +234,8 @@ Speech and Language Processing: https://www.52nlp.cn/%e3%80%8a%e8%87%aa%e7%84%b6
 - 文本摘要：Bert+Textrank
 - 问答系统/机器翻译：Transformer+Bert / Seq2seq+Attention
 - 情感分析：Word2vec+LSTM / CNN
+- 文本挖掘
+- 语义理解
 
 ## 提供相关方案的企业
 

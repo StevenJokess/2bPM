@@ -6,6 +6,9 @@
 
 互联网人所讲的交互，其实是“人机交互”的简称，即为完成某任务，人与计算机系统之间以某种交互方式进行的信息交换过程。这里指的计算机系统不仅包括PC机、笔记本电脑也包括手机、平板电脑、智能手表等智能设备。 [9]
 
+注意交互和UI的炫酷，并不是直接决定用户留存的原因，我们看下各大成功的产品的历史，可以发现早期的它们基本都丑的不可直视，交互和UI的优化基本都是非常成熟之后才做到高分。
+一个产品能否存活，基本上取决于它能否在痛点场景一击中的，性能和效率都要比UI重要的多（少数需求重心基本在UI上产品除外）。[23]
+
 ### 视觉设计(色彩) [14]
 
 ### 功能/操作界面
@@ -143,3 +146,4 @@ https://zhuanlan.zhihu.com/p/27604739
 [20]: https://mp.weixin.qq.com/s?__biz=MjM5NzA5OTAwMA==&mid=2650005836&idx=1&sn=832b8ed27a68753ee48536d9bf4abb79&chksm=bed865db89afeccd75b81debbc8a05031b708b645a44d44fba65fa4c9ea2b27474ea9bbab520&scene=21#wechat_redirect
 [21]: https://zhuanlan.zhihu.com/p/384680832
 [22]: https://zhuanlan.zhihu.com/p/391687873
+[23]: https://www.zhihu.com/question/26736985/answer/34584681
