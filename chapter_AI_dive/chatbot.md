@@ -96,6 +96,13 @@ Accompany AI Chat[13]
 
 亚马逊的Alexa还没有找到能让用户玩上20分钟的应用。[14]
 
+## 更多
+
+认真的聊一聊对话系统（任务型、检索式、生成式对话论文与工具串讲） - 夕小瑶的文章 - 知乎
+https://zhuanlan.zhihu.com/p/83825070
+
+聊天对话类的Ai未来的产品发展方向是什么？ - 知乎
+https://www.zhihu.com/question/484027134
 
 [1]: http://www.woshipm.com/pmd/2937210.html
 [2]: https://zhuanlan.zhihu.com/p/220097652

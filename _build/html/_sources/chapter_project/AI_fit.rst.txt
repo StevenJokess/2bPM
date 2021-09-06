@@ -371,3 +371,5 @@ AI运动：阿里体育端智能最佳实践 - 阿里技术的文章 - 知乎
 https://zhuanlan.zhihu.com/p/390013365
 
 华为健康：https://www.bilibili.com/video/BV185411T7Z6?from=search&seid=923361212533957280
+
+基于人体姿态估计和TPA注意力机制的跳绳个数统计方法专利：https://zhuanli.tianyancha.com/1057978b840949e23d1f3c0f23ba2f21

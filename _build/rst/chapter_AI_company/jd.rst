@@ -80,6 +80,11 @@ https://neuhub.jd.com/ai/api/image/render_image
 
 除此之外，京东数科还有小微信贷产品包括京保贝、京小贷、京采等，但未透露具体业务规模。如果加上帮助金融机构发放信用卡和保险业务，围绕金融相关的业务已经超过总营收的50％。\ `9 <https://posts.careerengine.us/p/6071aa582b8d107d7964c3cc?from=latest-posts-panel&type=title>`__
 
+https://www.zhihu.com/org/jing-dong-jin-rong-27
+
+请问京东数科算大厂吗？ - 京东科技的回答 - 知乎
+https://www.zhihu.com/question/397630446/answer/1519858670
+
 近况
 ----
 

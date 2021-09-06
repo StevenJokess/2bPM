@@ -102,7 +102,7 @@ https://www.bilibili.com/video/BV18p4y1h7Dr?p=1
 
 - DL：https://www.classcentral.com/subject/deep-learning
 - Tensorflow框架：中文[^6]
-
+- 资讯：http://soblog.cc/a/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0
 
 
 [^1]: https://www.yinxiang.com/everhub/note/e7f0c50e-dc27-488f-a9f9-35c121e20bb1

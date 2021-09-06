@@ -143,6 +143,11 @@ Google待遇：https://www.zhihu.com/question/39507727/answer/82521357
 
 原来真的9:00-12:00，15:00-18:00。原来真的双休，法定假期。原来真的下班后工作群安安静静，手机没有上级工作指示。原来真的是在5号前发工资，原来、原来、原来…[6]
 
+对比外企
+--------
+
+https://chinacampus.jobs.intel.cn/intel/home/index?page=package
+
 .. [1]
    https://weread.qq.com/web/reader/46532b707210fc4f465d044k65132ca01b6512bd43d90e3
 
