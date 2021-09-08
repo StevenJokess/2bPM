@@ -125,7 +125,7 @@ SQL\ `17 <https://g.yuque.com/clairewang8696/lsi6zo/wudrap?language=en-us>`__\ �
    Users）：当天启动一次的用户即为活跃用户，含新用户和老用户；
 -  活跃独立用户：当天应用的活跃用户总和（去重）
 -  DAU:DAU（Daily Active
-   User）日活跃用户数量。常用于反映网站、互联网应用或网络游戏的运营情况。
+   User）日活跃用户数量。日活跃用户用于反映网站、互联网应用或网络游戏的运营情况的统计指标。日活跃用户数量通常统计一日(统计日)之内登录或使用了某个产品的用户数(去除重复登录的用户)\ `20 <https://www.bilibili.com/cheese/play/ep7305>`__
 -  MAU：MAU（monthly active users）月活跃用户人数。
 -  用户参与度
 -  沉睡

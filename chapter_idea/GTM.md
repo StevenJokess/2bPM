@@ -35,6 +35,8 @@
 
 四驾马车:内容、用户、活动、社区[^15]
 
+类目运营[^37]：类目经理负责电子商务网站的类目结构[^38]
+
 ### 作用
 
 运营相当于一个保姆，是一项从内容建设，用户维护，活动策划三个层面来管理产品内容和用户的职业。
@@ -337,3 +339,5 @@ IBM这样的公司干得很好，它们进行创新，成为或接近成为某�
 [^34]: https://zhuanlan.zhihu.com/p/79795210
 [^35]: https://www.zhihu.com/question/46954878/answer/2096480336
 [^36]: https://www.zhihu.com/question/20497883/answer/2106365660
+[^37]: https://zhuanlan.zhihu.com/p/38808105
+[^38]: https://baike.baidu.com/item/%E7%B1%BB%E7%9B%AE%E8%BF%90%E8%90%A5/8881199

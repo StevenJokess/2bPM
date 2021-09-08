@@ -11,6 +11,12 @@ https://ai.qq.com/
 
 https://tencentlab.cuhk.edu.cn/zh-hans/content/7178
 
+财报
+----
+
+腾讯Q2财报来了！用技术为实体经济和社会作贡献
+https://zhuanlan.zhihu.com/p/359752982
+
 --------------
 
 艾灵 https://www.bilibili.com/video/BV19U4y157P8

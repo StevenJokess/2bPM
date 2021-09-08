@@ -92,7 +92,7 @@ SQL[17]可以帮助更好地写PRD
 
 - 活跃用户 AU（Active Users）：当天启动一次的用户即为活跃用户，含新用户和老用户；
 - 活跃独立用户：当天应用的活跃用户总和（去重）
-- DAU:DAU（Daily Active User）日活跃用户数量。常用于反映网站、互联网应用或网络游戏的运营情况。
+- DAU:DAU（Daily Active User）日活跃用户数量。日活跃用户用于反映网站、互联网应用或网络游戏的运营情况的统计指标。日活跃用户数量通常统计一日(统计日)之内登录或使用了某个产品的用户数(去除重复登录的用户)[20]
 - MAU：MAU（monthly active users）月活跃用户人数。
 - 用户参与度
 - 沉睡
@@ -260,3 +260,4 @@ ML产品是不同的，因为性能总是相对的——即使是第一次迭代
 [17]: https://g.yuque.com/clairewang8696/lsi6zo/wudrap?language=en-us
 [18]: http://www.qimai.cn/
 [19]: https://zhuanlan.zhihu.com/p/366634267
+[20]: https://www.bilibili.com/cheese/play/ep7305

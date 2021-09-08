@@ -16,5 +16,8 @@
 
 脸型眼型识别：放在美妆app里面的，通过识别人的脸型&眼型，推荐合适的妆容和化妆品。[^2]
 
+腾讯推出全球首款美食AI，陈晓卿担任产品经理 - 腾讯的文章 - 知乎
+https://zhuanlan.zhihu.com/p/60992120
+
 [^1]: https://www.zhihu.com/question/53498066/answer/135228255
 [^2]: https://www.zhihu.com/question/264450162/answer/399369188
