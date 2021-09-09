@@ -8,6 +8,9 @@ https://daleonai.com/tags#video+intelligence
 视频分类之帧融合-上 - 凤舞九天的文章 - 知乎
 https://zhuanlan.zhihu.com/p/384454308
 
+行为识别(action recognition)有哪些论文适合入门？ - 知乎
+https://www.zhihu.com/question/33272629
+
 ## 体育
 
 https://github.com/google/making_with_ml/blob/master/sports_ai/Sports_AI_Analysis.ipynb
