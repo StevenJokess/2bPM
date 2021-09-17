@@ -4,10 +4,22 @@
 
 阿里巴巴的企业文化是客户第一、拥抱变化、团队合作、诚信、激情、敬业。在这里，要具备极强的客户意识和团队意识。[^2]
 
+阿里云
+------
+
+https://www.aliyun.com/product/list?spm=a2c0j.14066474.J_5834642020.1.7b34426aV7oN
+
 NLP
 ---
 
 https://ai.aliyun.com/nls
+
+PAI
+---
+
+https://www.aliyun.com/product/bigdata/learn
+
+https://github.com/alibaba/FastNNS
 
 AI Lab
 ------

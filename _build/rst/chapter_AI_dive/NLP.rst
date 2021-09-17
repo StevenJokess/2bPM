@@ -276,7 +276,8 @@ https://www.52nlp.cn/%e3%80%8a%e8%87%aa%e7%84%b6%e8%af%ad%e8%a8%80%e5%a4%84%e7%9
 NLP 常见任务及当下经典算法
 --------------------------
 
--  文本分类/意图识别：CNN / Bert / LSTM+Attention
+-  文本分类\ `19 <https://zhuanlan.zhihu.com/p/274718006>`__/意图识别：CNN
+   / Bert / LSTM+Attention
 -  实体识别：LSTM+CRF
 -  中文分词：N-Gram / CRF / HMM
 -  文本相似度：TF-IDF / BM25+Bert

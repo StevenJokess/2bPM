@@ -227,7 +227,7 @@ Speech and Language Processing: https://www.52nlp.cn/%e3%80%8a%e8%87%aa%e7%84%b6
 
 ## NLP 常见任务及当下经典算法
 
-- 文本分类/意图识别：CNN / Bert / LSTM+Attention
+- 文本分类[19]/意图识别：CNN / Bert / LSTM+Attention
 - 实体识别：LSTM+CRF
 - 中文分词：N-Gram / CRF / HMM
 - 文本相似度：TF-IDF / BM25+Bert
@@ -265,3 +265,4 @@ Speech and Language Processing: https://www.52nlp.cn/%e3%80%8a%e8%87%aa%e7%84%b6
 [16]: https://github.com/wangwh0204/blog/blob/7a3db02bcebf0c42880516daa49980fec919622b/source/_posts/2015-12-15-my-think-about-career-specialization-rwc.md
 [17]: https://zhuanlan.zhihu.com/p/133459130
 [18]: https://zhuanlan.zhihu.com/p/384020411
+[19]: https://zhuanlan.zhihu.com/p/274718006

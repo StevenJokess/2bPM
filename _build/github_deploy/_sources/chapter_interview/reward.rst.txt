@@ -148,6 +148,12 @@ Google待遇：https://www.zhihu.com/question/39507727/answer/82521357
 
 https://chinacampus.jobs.intel.cn/intel/home/index?page=package
 
+时薪计算器
+----------
+
+时薪计算器的构想 - 怡泽家的文章 - 知乎
+https://zhuanlan.zhihu.com/p/371920971
+
 .. [1]
    https://weread.qq.com/web/reader/46532b707210fc4f465d044k65132ca01b6512bd43d90e3
 

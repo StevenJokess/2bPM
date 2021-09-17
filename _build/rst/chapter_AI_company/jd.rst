@@ -94,3 +94,8 @@ https://www.zhihu.com/question/397630446/answer/1519858670
 ----
 
 京东投资的公司：https://www.itjuzi.com/jingdong
+
+github
+------
+
+https://air.jd.com/ https://github.com/JDAI-CV

@@ -102,6 +102,10 @@ DeepMind早前发布了一个机器学习语音生成模型WaveNet，直接生�
 比如地图应用的小助手使用场景多在开车用户开车时，用户会问些什么，怎样编写剧本，怎样进行词槽填充？[^9]
 
 
+## Music
+
+听歌识曲是怎么实现的? - QQ音乐的回答 - 知乎
+https://www.zhihu.com/question/22050701/answer/763616763
 [^1]: https://www.msra.cn/zh-cn/news/features/book-recommendation-speech
 [^2]: https://dingdang.qq.com/doc/page/32
 [^3]: http://www.woshipm.com/ai/1695480.html

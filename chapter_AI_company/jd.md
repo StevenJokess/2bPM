@@ -80,6 +80,10 @@ https://www.zhihu.com/question/397630446/answer/1519858670
 
 京东投资的公司：https://www.itjuzi.com/jingdong
 
+## github
+https://air.jd.com/
+https://github.com/JDAI-CV
+
 [1]: https://www.cnblogs.com/edisonchou/p/why_jiang_wei_da_ji_from_internet_industry.html
 [2]: https://www.linkedin.com/news/story/%E7%BE%8E%E5%9B%A2%E4%B8%8E%E6%94%AF%E4%BB%98%E5%AE%9D%E5%88%86%E9%81%93%E6%89%AC%E9%95%B3-4900980/?originalSubdomain=cn
 [3]: https://finance.sina.com.cn/money/bank/bank_hydt/2020-06-16/doc-iircuyvi8701006.shtml
