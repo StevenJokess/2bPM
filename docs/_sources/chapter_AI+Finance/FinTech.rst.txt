@@ -218,8 +218,8 @@ Club和Prosper。其他平台需要投资者不仅仅是高净值个人，而是
 -  中国信通院发布《中国金融科技生态白皮书（2020年）》：http://www.caict.ac.cn/kxyj/qwfb/bps/202009/t20200918_347039.htm
 -  《CF40中国智能金融发展报告2020》发布，首次以指数勾勒中国智能金融发展图谱
    - 金融四十人论坛的文章 - 知乎 https://zhuanlan.zhihu.com/p/406133417
-
-TODO:
-艾瑞咨询：2020年中国金融科技行业发展研究报告（附下载）:http://www.199it.com/archives/1156070.html
+-  魏然：“非主流”金融科技探索者 \| 开学季 ·
+   2021级新生故事：http://fmba.pbcsf.tsinghua.edu.cn/index.php?m=content&c=index&a=lists&catid=42
+-  艾瑞咨询：2020年中国金融科技行业发展研究报告（附下载）:http://www.199it.com/archives/1156070.html
 
 .. |应用场景\ | image:: ../img/AI_finance.png
