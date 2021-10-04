@@ -25,4 +25,9 @@ https://github.com/google/making_with_ml/blob/master/sports_ai/Sports_AI_Analysi
 
 面试完成，后台能根据岗位匹配度、口语表达、价值观、颜值等多维度进行评分，输出胜任力报告，方便招聘官快速决策。[1]
 
+## Up主
+
+我是一名AI视频 up 主，日更万部：这是我对人类世界的理解 - AI科技评论的文章 - 知乎
+https://zhuanlan.zhihu.com/p/380903235
+
 [1]: https://zhuanlan.zhihu.com/p/404894498
