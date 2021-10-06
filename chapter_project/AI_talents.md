@@ -155,6 +155,10 @@ https://www.zhihu.com/question/298222388
 
 https://www.bilibili.com/video/BV1Mb4y1D7Q2?from=search&seid=5263016510491773061
 
+## 人数
+
+当今涉猎人工智能的IT 巨头本身几乎就只雇佣很少量的工人。2017年资本总市值高居全球第一的苹果公司, 全球员工数量 仅10万余人; 以阿尔法狗 (AlphaGo) 系列程序惊艳世界的谷歌公司, 员工总数不到8万; 用AI理 念制造无人驾驶汽车的特斯拉公司, 全球员工仅3万多人; 已研发出绘图机器人的微软公司全部员 工为11万多人, 且近些年因公司调整方向一直裁员不断。[18]
+
 ## 薪酬报告
 
 科锐的薪酬报告（鉴于猎头公司的报告一般工资虚高）、robertwalters的薪酬报告、mercer之类的报告 [10]
@@ -197,3 +201,4 @@ https://zhuanlan.zhihu.com/p/352546641
 [15]: https://www.miitec.cn/home/index/detail?id=2252
 [16]: https://business.linkedin.com/content/dam/me/business/zh-cn/talent-solutions/Event/july/lts-ai-report/%E9%A2%86%E8%8B%B1%E3%80%8A%E5%85%A8%E7%90%83AI%E9%A2%86%E5%9F%9F%E4%BA%BA%E6%89%8D%E6%8A%A5%E5%91%8A%E3%80%8B.pdf
 [17]: https://github.com/wangwh0204/blog/blob/7a3db02bcebf0c42880516daa49980fec919622b/source/_posts/2015-12-15-my-think-about-career-specialization-rwc.md
+[18]:

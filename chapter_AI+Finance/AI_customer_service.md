@@ -29,6 +29,9 @@
 现在AI客服越来越多，人工客服未来会失业吗？
 https://www.zhihu.com/question/386541719/answer/1144143846
 
+
+浦发和百度、中国移动启动“数字人”计划，希望为每个用户和客户 提供一对一的、个人的数字虚拟金融助理，不仅管理个人的金融资产、账户，更 重要的是还能够主动对资金活动、资产配置、消费行为提供建议。
+
 [1]: https://github.com/chatopera/chatbot.catalog.customer-service
 [2]: https://mp.weixin.qq.com/s/hdmV5bHbMqyIB7E3A0Igrw
 [3]: https://www.sohu.com/a/393727642_676545

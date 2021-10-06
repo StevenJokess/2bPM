@@ -21,6 +21,10 @@
 
 产品的本质是解决用户的痛点，而运营的本质是通过各种**方法和渠道把产品的价值传递给用户**。
 
+- 产品用户如何获取
+- 产品用户如何维系
+- 产品如何获取收入[^40]
+
 ### 在生命周期中的作用
 
 ![运营在生命周期中的作用[^14]](../img/operation_in_life_cycle.png)
@@ -342,3 +346,4 @@ IBM这样的公司干得很好，它们进行创新，成为或接近成为某�
 [^37]: https://zhuanlan.zhihu.com/p/38808105
 [^38]: https://baike.baidu.com/item/%E7%B1%BB%E7%9B%AE%E8%BF%90%E8%90%A5/8881199
 [^39]: https://www.bilibili.com/video/BV1u34y1X7PC?spm_id_from=444.41.0.0
+[^40]: https://www.zhihu.com/zvideo/1421162477229404160
