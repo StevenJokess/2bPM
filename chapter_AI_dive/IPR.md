@@ -45,3 +45,6 @@ https://picture.iczhiku.com/weixin/message1619158957697.html
 
 [2]: https://sellercentral.amazon.sg/gp/help/external/JLSFCSEA8C9EZYZ?language=zh_CN&ref=efph_JLSFCSEA8C9EZYZ_cont_G201361070
 [3]: http://www.xml-data.cn/KXYSH/html/328afb24-eb80-483c-b267-dfd1a61144bb.htm
+
+TODO:以人工智能为基础的新科技革命对知识产权制度的挑战与机遇
+https://doc.paperpass.com/journal/20180032kxdshdyx.html?origin=2
