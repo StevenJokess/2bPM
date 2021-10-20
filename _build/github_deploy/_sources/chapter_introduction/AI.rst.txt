@@ -294,5 +294,7 @@ http://aima.cs.berkeley.edu/
 
 https://www.yuque.com/weis/paper/cbgbkg
 
+阿尔法零（alphazero）、德州扑克的人机大战、诗歌
+
 .. |AI历史\ | image:: ../img/AI_history.png
 .. |AI学派\ | image:: ../img/AI_xuepai.png

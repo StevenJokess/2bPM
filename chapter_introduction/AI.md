@@ -228,6 +228,8 @@ http://aima.cs.berkeley.edu/
 
 https://www.yuque.com/weis/paper/cbgbkg
 
+阿尔法零（alphazero）、德州扑克的人机大战、诗歌
+
 [1]: https://www.jianshu.com/p/2659f66a57b3
 [2]: https://easyai.tech/blog/ai-pm-knowledge/
 [3]: https://www.sohu.com/a/364264851_114819
@@ -257,3 +259,4 @@ https://www.yuque.com/weis/paper/cbgbkg
 [27]: https://www.bilibili.com/video/BV11o4y1k7Vz?p=6
 [28]: http://data.eastmoney.com/report/zw_industry.jshtml?infocode=AP202107221505372496
 [29]: http://www.ce.cn/cysc/tech/gd2012/202109/01/t20210901_36869152.shtml
+[30]: https://kouzonglai.blog.caixin.com/archives/175737
