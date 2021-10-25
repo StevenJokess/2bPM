@@ -247,6 +247,10 @@ Speech and Language Processing: https://www.52nlp.cn/%e3%80%8a%e8%87%aa%e7%84%b6
 - 追一科技（提供智能外呼、及智能机器人在多行业的解决方案）：https://zhuiyi.ai/
 - MSRAI
 
+## 更多
+
+自然语言处理中的深度学习：方法及应用 ：http://www.juestc.uestc.edu.cn/cn/article/doi/10.3969/j.issn.1001-0548.2017.06.021
+
 [1]: http://www.woshipm.com/pmd/2937210.html
 [2]: http://www.cstf.org.cn/newsdetail.asp?types=36&num=1165
 [3]: http://www.woshipm.com/pd/4133505.html

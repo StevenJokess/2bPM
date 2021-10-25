@@ -297,3 +297,9 @@ NLP 常见任务及当下经典算法
 -  阿里云（提供情感分析、实体识别、机器翻译等）：https://ai.aliyun.com/?spm=a2c4g.11174283.1146454.294.167d1039G3kvVD
 -  追一科技（提供智能外呼、及智能机器人在多行业的解决方案）：https://zhuiyi.ai/
 -  MSRAI
+
+更多
+----
+
+自然语言处理中的深度学习：方法及应用
+：http://www.juestc.uestc.edu.cn/cn/article/doi/10.3969/j.issn.1001-0548.2017.06.021

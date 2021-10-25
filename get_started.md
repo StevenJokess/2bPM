@@ -6,6 +6,16 @@ AI产品经理是直接应用或间接涉及了AI技术，进而完成相关AI�
 
 ## [点击下载整页简历PDF（带URL）](https://github.com/StevenJokess/2bPM/blob/master/蔡舒起-AI产品经理-GAN(MXNet-PyTorchTF2开发者)_nophone.pdf)
 
+## 收款码
+
+首先第一步，反抗同人的真正活动和本质属性相背离相割裂的“资本”[4]，为了我继续符合我本质的活动，将放上收款码，如果对你有帮助或仅仅为了帮助我，请支持一二，在家失业两年，虽然包吃住，但是全职被骂，也不好受，而且再没资本主义下的“收入”，马上就要被赶出来了！（：共产主义快点实现！
+
+- 送点你的闲钱：）
+![收款码](img/收.jpg)
+- 之后，可以邮箱发送你的联系方式，加个好友：llgg8679@qq.com
+
+## 项目目的
+
 本来这个项目是为了求职AI产品经理，可在学习技术的过程中，我发觉AI时代的病症与AI大规模应用后可能的悲惨后果，既然失业良久了，也就不必执着求职了，好好批判下。后续的主要研究方向为AI的产品化与产品化的可能社会影响。
 
 - Linkedin（Writing can't make money, but can make friends.）https://www.linkedin.com/in/%E8%88%92%E8%B5%B7-%E8%94%A1-b609001b7/
@@ -148,6 +158,9 @@ https://www.overleaf.com/project/603dfbba8126ff225dc18564
 <embed width=100% height=100% fullscreen=yes
 src="/蔡舒起-AI产品经理-动手学深度学习GAN开发者_nophone.pdf" />
 
+
+
 [1]: https://www.boxuegu.com/news/4368.html
 [2]: https://www.zhihu.com/question/329629768/answer/1359332748
 [3]: https://www.zhihu.com/question/52814006/answer/140311440
+[4]: https://marxism.pku.edu.cn/xzlt/1296.htm

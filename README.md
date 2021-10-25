@@ -59,9 +59,18 @@ https://markdown.com.cn/basic-syntax/links.html
 
 2021-8-18 +log
 
----
+## 收款码
+
+首先第一步，反抗同人的真正活动和本质属性相背离相割裂的“资本”[4]，为了我继续符合我本质的活动，将放上收款码，如果对你有帮助或仅仅为了帮助我，请支持一二，在家失业两年，虽然包吃住，但是全职被骂，也不好受，而且再没资本主义下的“收入”，马上就要被赶出来了！（：共产主义快点实现！
+
+- 送点你的闲钱：）
+![收款码](img/收.jpg)
+- 之后，可以邮箱发送你的联系方式，加个好友：llgg8679@qq.com
+
+## 参考文档与对应网站
 
 [1]: https://www.bilibili.com/video/BV13b41117AU?p=1&share_medium=android&share_plat=android&share_source=COPY&share_tag=s_i&timestamp=1607577815&unique_k=cGtmx5
 [2]: https://www.bilibili.com/read/cv8910438/?from=readlist
 [3]: https://www.zhihu.com/question/304499668/answer/2095028899
+[4]: https://marxism.pku.edu.cn/xzlt/1296.htm
 TODO：https://my.oschina.net/u/4584889/blog/4394219
