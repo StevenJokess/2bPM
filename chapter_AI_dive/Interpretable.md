@@ -10,4 +10,7 @@
 
 https://github.com/MingchaoZhu/InterpretableMLBook
 
+CHI2021最新「可解释人工智能XAI导论」，86页PPT带你实战XAI系统 - 忆臻的文章 - 知乎
+https://zhuanlan.zhihu.com/p/375252421
+
 [^1]: http://finance.eastmoney.com/a/202107081990173959.html
