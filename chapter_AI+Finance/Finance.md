@@ -59,8 +59,23 @@
 - 效率低
 - 人员规横庞大
 
+## 期刊
+
+国内期刊：《经济研究》，《金融研究》，《数量经济技术经济研究》，最多再带个《国际金融研究》……剩下的那些……你浪费时间看它干嘛？！
+
+国外期刊：
+
+- American Economic Review
+- Econometrica
+- Journal of Political Economy
+- Journal of Finance
+- Journal of Financial Economics
+- Review of Financial Studies[6]
+
+
 [1]: https://zhuanlan.zhihu.com/p/147401963
 [2]: http://www.cstf.org.cn/newsdetail.asp?types=36&num=1165
 [3]: http://www.woshipm.com/pd/657913.html
 [4]: http://www.woshipm.com/pd/657913.html
 [5]: https://www.infoq.cn/video/x6wvqicrqu2jbg1y4ane
+[6]: https://www.zhihu.com/question/41232764

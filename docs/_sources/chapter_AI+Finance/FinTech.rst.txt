@@ -221,5 +221,7 @@ Club和Prosper。其他平台需要投资者不仅仅是高净值个人，而是
 -  魏然：“非主流”金融科技探索者 \| 开学季 ·
    2021级新生故事：http://fmba.pbcsf.tsinghua.edu.cn/index.php?m=content&c=index&a=lists&catid=42
 -  艾瑞咨询：2020年中国金融科技行业发展研究报告（附下载）:http://www.199it.com/archives/1156070.html
+-  扒一扒「清华系」的金融科技大佬们丨110 周年校庆 - 雷锋网的文章 - 知乎
+   https://zhuanlan.zhihu.com/p/368105496
 
 .. |应用场景\ | image:: ../img/AI_finance.png

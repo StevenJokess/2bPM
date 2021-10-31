@@ -1,5 +1,9 @@
 # 知识产权
 
+发展产权、技术、信息等生产要素市场
+
+产权市场是指进行产权交易的市场。要依法保护各类产权，健全产权交易规则和监管制度，推动产权有序流转，保障所有市场主体的平等地位和发展权利。进一步发展技术、信息市场。引入竞争机制，保护知识产权，实行技术成果有偿转让，实现技术产品和信息商品化、产业化。[4]
+
 http://ip.people.com.cn/
 
 中国知识产权法律制度：https://www.zhihu.com/pub/book/120051492
@@ -45,6 +49,7 @@ https://picture.iczhiku.com/weixin/message1619158957697.html
 
 [2]: https://sellercentral.amazon.sg/gp/help/external/JLSFCSEA8C9EZYZ?language=zh_CN&ref=efph_JLSFCSEA8C9EZYZ_cont_G201361070
 [3]: http://www.xml-data.cn/KXYSH/html/328afb24-eb80-483c-b267-dfd1a61144bb.htm
+[4]: https://www.zhihu.com/pub/reader/120204365/chapter/1396810420301160448
 
 TODO:以人工智能为基础的新科技革命对知识产权制度的挑战与机遇
 https://doc.paperpass.com/journal/20180032kxdshdyx.html?origin=2
