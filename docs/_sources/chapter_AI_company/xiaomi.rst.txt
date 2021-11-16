@@ -6,7 +6,7 @@
 
 https://blog.csdn.net/acelit/article/details/80215820
 
-小米手环\ `4 <https://www.bilibili.com/video/BV1754y1b7CR>`__\ 也可以通过小爱调节闹钟
+小米手环 [1]_也可以通过小爱调节闹钟
 
 小爱
 ----
@@ -28,14 +28,43 @@ https://space.bilibili.com/239380557?from=search&seid=5696491191200583650
    结果打开了腾讯（问题：以先为准，而实际上往往先的很有可能是口误）
 -  
 
-why携程？“不得不佩服携程的服务，是确实完备，这些去哪儿网，马蜂窝等等望尘莫及”\ `1 <https://www.nowcoder.com/discuss/tiny/587660?channel=666&source_id=feed_index_nctrack&fromIframe=true>`__
+严重问题：耳机不能直接说播放、暂停！
 
-说天气、日期、对应数字\ `2 <https://www.bilibili.com/video/BV1AV411t7o2?spm_id_from=333.851.b_62696c695f7265706f72745f6469676974616c.9>`__
+why携程？“不得不佩服携程的服务，是确实完备，这些去哪儿网，马蜂窝等等望尘莫及” [2]_
+
+说天气、日期、对应数字 [3]_
 
 AI通话（聋哑人福利）：语音转文字、文字转语音
 
 More
 ----
 
--  小爱同学B站号\ `3 <https://space.bilibili.com/239380557/dynamic>`__
--  购买小米AI音箱(小爱同学)后，给你的生活带了哪些改变？\ `5 <https://www.zhihu.com/question/66803456/answer/251204530>`__
+-  小爱同学B站号 [4]_
+-  购买小米AI音箱(小爱同学)后，给你的生活带了哪些改变？ [5]_
+-  如何评价小米 AI 智能音箱「小爱同学」？ [6]_
+-  小爱 AI 音箱话题 [7]_
+-  小爱同学话题 [8]_
+
+.. [1]
+   https://www.bilibili.com/video/BV1754y1b7CR
+
+.. [2]
+   https://www.nowcoder.com/discuss/tiny/587660?channel=666&source_id=feed_index_nctrack&fromIframe=true
+
+.. [3]
+   https://www.bilibili.com/video/BV1AV411t7o2?spm_id_from=333.851.b_62696c695f7265706f72745f6469676974616c.9
+
+.. [4]
+   https://space.bilibili.com/239380557/dynamic
+
+.. [5]
+   https://www.zhihu.com/question/66803456/answer/251204530
+
+.. [6]
+   https://www.zhihu.com/question/62976197/answer/204008061
+
+.. [7]
+   https://www.zhihu.com/topic/20097760
+
+.. [8]
+   https://www.zhihu.com/topic/20091426
