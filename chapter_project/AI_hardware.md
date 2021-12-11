@@ -412,6 +412,10 @@ https://zhuanlan.zhihu.com/p/29649645
 特斯拉 AI 日推出人工智能训练计算机 DOJO 芯片，有哪些技术亮点？使用场景是怎样的？ - 知乎
 https://www.zhihu.com/question/481118861
 硬件产品开发制度规范流程:https://ihpm.cn/69/.html
+
+电子信息工程专业可以看些什么书？ - 飘香麻辣小土豆的回答 - 知乎
+https://www.zhihu.com/question/21230283/answer/19051219
+
 [1]: https://www.jianshu.com/p/111d9fcc005e?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation
 [2]: http://www.woshipm.com/pmd/1815501.html
 [3]: http://www.woshipm.com/pmd/134575.html

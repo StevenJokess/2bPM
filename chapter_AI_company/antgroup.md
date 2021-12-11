@@ -27,6 +27,9 @@ https://zhuanlan.zhihu.com/p/269512258
 10年后的蚂蚁金服，有多大想象空间？ - 塔哥FRM的回答 - 知乎
 https://www.zhihu.com/question/29432000/answer/2080599155
 
+https://t.bilibili.com/topic/1239569/?pagetype=tagpage&spm_id_from=333.999.0.0
+https://www.bilibili.com/read/cv13926894
+
 [1]: https://damo.alibaba.com/labs/finance-intelligence/
 [2]: https://developer.aliyun.com/article/58930
 [3]: https://developer.aliyun.com/article/58769
