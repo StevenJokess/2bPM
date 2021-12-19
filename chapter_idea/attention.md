@@ -3,7 +3,7 @@
 小便池里假苍蝇，溅出率降低60%。
 
 - 微博的小红点、发布（橙色）
-- 淘宝里的立即购买（红色）、加入购物车（橙色）
+- 淘宝里的立即购买（红色）、加入购物车（橙色）；拼多多里右下角的拼单[^3]
 - 分类导航上下差5-10%
 
 ## AIDA模型
@@ -17,5 +17,6 @@ AIDA模型可以看作是用户做购买决策的整个行为过程，从引起�
 尽管AIDA模型是为线下推销场景提出的，但放在线上电商鼎盛的今天，依旧有很大的参考价值，下面，我们就来分析一下现有的线上产品是如何运用AIDA模型来辅助用户购买决策的。
 
 
-[1]: https://www.bilibili.com/video/BV1254y1D7Ht?from=search&seid=14167562900175777805
-[2]: http://www.woshipm.com/pd/4339819.html
+[^1]: https://www.bilibili.com/video/BV1254y1D7Ht?from=search&seid=14167562900175777805
+[^2]: http://www.woshipm.com/pd/4339819.html
+[^3]: https://www.zhihu.com/question/423119828
