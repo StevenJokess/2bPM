@@ -1033,6 +1033,7 @@ TODO:
 
 快速领取失业金，被开除，啥都不用填，拿着身份证明和银行卡去人社失业课，15分钟办理完毕，次月就领失业金，最多单次失业两年[^911]
 
+一个思考：艺术家为啥没因为AI失业？只是因为目前艺术AI只能粗糙地完成该工种的某个工作步骤的部分内容或灵感部分，而且现代的艺术家算是有一定经济实力能购买得起AI工具，拥有一定的AI生产资料的使用权，并强依赖自身的天赋技艺进行艺术创作，不算彻底的无产阶级，往往是小资。[^1010]
 
 ##### 资本家
 
@@ -2979,4 +2980,6 @@ TODO:## 结语与讨论(Conclusion & Discussiong)
 [^1007]: https://www.zhihu.com/question/268530359/answer/961361460
 [^1008]: https://www.zhihu.com/question/537471513/answer/2531381449
 [^1009]: https://www.bilibili.com/video/BV1F44y137La?spm_id_from=333.909.b_6368616e6e656c5f64657461696c5f3436313833.7&vd_source=bca0a3605754a98491958094024e5fe3
+[^1010]: https://www.bilibili.com/video/BV1hU4y1i7kN?spm_id_from=444.41.list.card_archive.click&vd_source=bca0a3605754a98491958094024e5fe3
+
 TODO: https://www.zhihu.com/pub/reader/120056328/chapter/1293933205943463936
