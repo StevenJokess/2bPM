@@ -1,3 +1,15 @@
+
+
+<!--
+ * @version:
+ * @Author:  StevenJokes https://github.com/StevenJokes
+ * @Date: 2021-03-29 20:55:52
+ * @LastEditors:  StevenJokes https://github.com/StevenJokes
+ * @LastEditTime: 2023-02-19 02:35:47
+ * @Description:
+ * @TODO::
+ * @Reference:
+-->
 # 智能风控
 
 在传统风控环节中，信息不对称、成本高、时效性差、效率低等问题，使得难以满足业务的快速增长引发的信贷增长。而风控引入人工智能技术，使得贷前审核、贷中监控和贷后管理、监管合规等环节，都能提高金融科技产品质量及服务效率。
@@ -42,6 +54,12 @@ https://zhuanlan.zhihu.com/p/22280599
 
 求推荐风控类的书籍？ - 茶尾可妮兔的回答 - 知乎
 https://www.zhihu.com/question/398877221/answer/2222488999
+
+
+TODO:
+
+https://github.com/fgyeason/algorithm-and-risk-management
+https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/117432876
 
 [1]: https://www.weiyangx.com/351456.html
 [^2]: https://www.zhihu.com/question/455440996
