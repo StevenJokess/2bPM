@@ -1,4 +1,17 @@
 
+.. raw:: html
+
+   <!--
+    * @version:
+    * @Author:  StevenJokes https://github.com/StevenJokes
+    * @Date: 2021-03-29 20:55:52
+    * @LastEditors:  StevenJokes https://github.com/StevenJokes
+    * @LastEditTime: 2023-02-19 02:35:47
+    * @Description:
+    * @TODO::
+    * @Reference:
+   -->
+
 智能风控
 ========
 
@@ -36,8 +49,26 @@ https://zhuanlan.zhihu.com/p/22280599
 
 竞争惨烈，一方面加速促进了AI在风控领域的全场景使用，无论是贷前、贷中还是贷后等各个细分场景中，与传统专家规则、统计分析、商业智能等结合，价值得到了越来越高的体现。 [2]_
 
+重要性
+------
+
+2020年10月出台的十四五规划中明确指出,完善现
+代金融监管体系,提高金融监管透明度和法治化水平,健全金融风险预防、预警、处
+置、问责制度体系,对违法违规行为零容忍。 [3]_
+
+求推荐风控类的书籍？ - 茶尾可妮兔的回答 - 知乎
+https://www.zhihu.com/question/398877221/answer/2222488999
+
+TODO:
+
+https://github.com/fgyeason/algorithm-and-risk-management
+https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/117432876
+
 .. [1]
    https://www.zhihu.com/question/455440996
 
 .. [2]
    https://ai.51cto.com/art/202107/669280.htm
+
+.. [3]
+   http://crpe.ruc.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=900

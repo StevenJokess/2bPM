@@ -125,6 +125,8 @@ AI语音交互的设计要比手机/PC端的交互设计难很多，因为语音
 GUI到CUI，如何把握智能时代的用户体验？ - 天行健的文章 - 知乎
 https://zhuanlan.zhihu.com/p/27604739
 
+AI画图[^24]
+
 [^1]: https://t.qidianla.com/1174989.html
 [^2]: http://www.woshipm.com/ucd/2294526.html
 [^3]: https://www.zhihu.com/question/21015379/answer/182435115
@@ -148,3 +150,4 @@ https://zhuanlan.zhihu.com/p/27604739
 [^21]: https://zhuanlan.zhihu.com/p/384680832
 [^22]: https://zhuanlan.zhihu.com/p/391687873
 [^23]: https://www.zhihu.com/question/26736985/answer/34584681
+[^24]: https://www.zhihu.com/question/585215649/answer/2913334154

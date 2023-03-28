@@ -10,19 +10,18 @@
     
     <title>13.7. 智能风控 &#8212; 自学成AI产品经理 0.0.2 documentation</title>
 
-    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
-    <link rel="stylesheet" href="../_static/basic.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/basic.css" />
     <link rel="stylesheet" type="text/css" href="../_static/d2l.css" />
     <link rel="stylesheet" href="../_static/material-design-lite-1.3.0/material.red-yellow.min.css" type="text/css" />
     <link rel="stylesheet" href="../_static/sphinx_materialdesign_theme.css" type="text/css" />
     <link rel="stylesheet" href="../_static/fontawesome/all.css" type="text/css" />
     <link rel="stylesheet" href="../_static/fonts.css" type="text/css" />
-    <script id="documentation_options" data-url_root="../" src="../_static/documentation_options.js"></script>
+    <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
     <script src="../_static/jquery.js"></script>
     <script src="../_static/underscore.js"></script>
     <script src="../_static/doctools.js"></script>
     <script src="../_static/d2l.js"></script>
-    <script async="async" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-AMS-MML_HTMLorMML"></script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
     <link rel="next" title="13.8. 智能客服" href="AI_customer_service.html" />
@@ -198,7 +197,7 @@ Show Source
 <li class="toctree-l2"><a class="reference internal" href="../chapter_project/AI_talents.html">5.3. AI 人才</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../chapter_project/AI_Finance.html">5.4. AI 金融</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../chapter_project/AI_fit.html">5.5. AI 健身</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../chapter_project/AI_hardware.html">5.6. AI 硬件 [1]</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/AI_hardware.html">5.6. AI 硬件 1</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../chapter_project/process.html">5.7. 产品整个流程1</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../chapter_project/Data%20Process.html">5.8. 数据处理流程拆解</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../chapter_project/Model%20Process.html">5.9. 模型过程</a></li>
@@ -347,7 +346,7 @@ Show Source
 <li class="toctree-l2"><a class="reference internal" href="Full_stack.html">13.11. 全栈金融</a></li>
 <li class="toctree-l2"><a class="reference internal" href="AI_safety.html">13.12. AI安全</a></li>
 <li class="toctree-l2"><a class="reference internal" href="quant.html">13.13. quant</a></li>
-<li class="toctree-l2"><a class="reference internal" href="Company.html">13.14. 天星术科</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Company.html">13.14. 公司</a></li>
 </ul>
 </li>
 </ul>
@@ -476,7 +475,7 @@ Show Source
 <li class="toctree-l2"><a class="reference internal" href="../chapter_project/AI_talents.html">5.3. AI 人才</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../chapter_project/AI_Finance.html">5.4. AI 金融</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../chapter_project/AI_fit.html">5.5. AI 健身</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../chapter_project/AI_hardware.html">5.6. AI 硬件 [1]</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chapter_project/AI_hardware.html">5.6. AI 硬件 1</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../chapter_project/process.html">5.7. 产品整个流程1</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../chapter_project/Data%20Process.html">5.8. 数据处理流程拆解</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../chapter_project/Model%20Process.html">5.9. 模型过程</a></li>
@@ -625,7 +624,7 @@ Show Source
 <li class="toctree-l2"><a class="reference internal" href="Full_stack.html">13.11. 全栈金融</a></li>
 <li class="toctree-l2"><a class="reference internal" href="AI_safety.html">13.12. AI安全</a></li>
 <li class="toctree-l2"><a class="reference internal" href="quant.html">13.13. quant</a></li>
-<li class="toctree-l2"><a class="reference internal" href="Company.html">13.14. 天星术科</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Company.html">13.14. 公司</a></li>
 </ul>
 </li>
 </ul>
@@ -642,7 +641,16 @@ Show Source
     <div class="document">
         <div class="page-content" role="main">
         
-  <div class="section" id="id1">
+  <!--
+ * @version:
+ * @Author:  StevenJokes https://github.com/StevenJokes
+ * @Date: 2021-03-29 20:55:52
+ * @LastEditors:  StevenJokes https://github.com/StevenJokes
+ * @LastEditTime: 2023-02-19 02:35:47
+ * @Description:
+ * @TODO::
+ * @Reference:
+--><div class="section" id="id1">
 <h1><span class="section-number">13.7. </span>智能风控<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h1>
 <p>在传统风控环节中，信息不对称、成本高、时效性差、效率低等问题，使得难以满足业务的快速增长引发的信贷增长。而风控引入人工智能技术，使得贷前审核、贷中监控和贷后管理、监管合规等环节，都能提高金融科技产品质量及服务效率。</p>
 <p>智能风控能不仅能有效提高金融服务的效率和安全性，降低风控成本，还能促进风险管理差异化和业务人性化，在金融科技业中有着重要作用。所以近年来无论是传统金融机构、消费金融机构还是互联网金融公司，都在加紧智能化系统建设或者对外合作，实现智能化风控。</p>
@@ -658,24 +666,50 @@ Show Source
 <a class="reference external" href="https://zhuanlan.zhihu.com/p/384662757">https://zhuanlan.zhihu.com/p/384662757</a></p>
 <p>个人征信未来在中国的发展和应用 - King James的文章 - 知乎
 <a class="reference external" href="https://zhuanlan.zhihu.com/p/22280599">https://zhuanlan.zhihu.com/p/22280599</a></p>
-<p>从目前AI+金融的应用场景市场规模来看，AI风控占据约45%的比重，称得上是目前市场价值最大的应用场景。能够预见，未来AI风控将成为所有金融机构的标配，并将在反欺诈、维护网络安全等领域发挥更做的作用，在金融环境无比复杂的中国，我国的AI风控反超美国，太需要、也太应该了。 <a class="footnote-reference brackets" href="#id4" id="id2">1</a></p>
+<p>从目前AI+金融的应用场景市场规模来看，AI风控占据约45%的比重，称得上是目前市场价值最大的应用场景。能够预见，未来AI风控将成为所有金融机构的标配，并将在反欺诈、维护网络安全等领域发挥更做的作用，在金融环境无比复杂的中国，我国的AI风控反超美国，太需要、也太应该了。 <a class="footnote-reference brackets" href="#id6" id="id2">1</a></p>
 <p>我们以互联网周刊2021年上半年发布的智能风控企业50强企业为例。</p>
 <p>风控是AI领域里“那块最肥的肉”中的堪称“日本和牛”级别的兼顾强刚需与爆款价值场景。任何一家AI厂商，如果不在风控领域折腾出一些价值场景，好像与其他厂商同场竞技的情况下，底气都没有那么足。</p>
-<p>竞争惨烈，一方面加速促进了AI在风控领域的全场景使用，无论是贷前、贷中还是贷后等各个细分场景中，与传统专家规则、统计分析、商业智能等结合，价值得到了越来越高的体现。 <a class="footnote-reference brackets" href="#id5" id="id3">2</a></p>
+<p>竞争惨烈，一方面加速促进了AI在风控领域的全场景使用，无论是贷前、贷中还是贷后等各个细分场景中，与传统专家规则、统计分析、商业智能等结合，价值得到了越来越高的体现。 <a class="footnote-reference brackets" href="#id7" id="id3">2</a></p>
+<div class="section" id="id4">
+<h2><span class="section-number">13.7.1. </span>重要性<a class="headerlink" href="#id4" title="Permalink to this headline">¶</a></h2>
+<p>2020年10月出台的十四五规划中明确指出,完善现
+代金融监管体系,提高金融监管透明度和法治化水平,健全金融风险预防、预警、处
+置、问责制度体系,对违法违规行为零容忍。 <a class="footnote-reference brackets" href="#id8" id="id5">3</a></p>
+<p>求推荐风控类的书籍？ - 茶尾可妮兔的回答 - 知乎
+<a class="reference external" href="https://www.zhihu.com/question/398877221/answer/2222488999">https://www.zhihu.com/question/398877221/answer/2222488999</a></p>
+<p>TODO:</p>
+<p><a class="reference external" href="https://github.com/fgyeason/algorithm-and-risk-management">https://github.com/fgyeason/algorithm-and-risk-management</a>
+<a class="reference external" href="https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/117432876">https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/117432876</a></p>
 <dl class="footnote brackets">
-<dt class="label" id="id4"><span class="brackets"><a class="fn-backref" href="#id2">1</a></span></dt>
+<dt class="label" id="id6"><span class="brackets"><a class="fn-backref" href="#id2">1</a></span></dt>
 <dd><p><a class="reference external" href="https://www.zhihu.com/question/455440996">https://www.zhihu.com/question/455440996</a></p>
 </dd>
-<dt class="label" id="id5"><span class="brackets"><a class="fn-backref" href="#id3">2</a></span></dt>
+<dt class="label" id="id7"><span class="brackets"><a class="fn-backref" href="#id3">2</a></span></dt>
 <dd><p><a class="reference external" href="https://ai.51cto.com/art/202107/669280.htm">https://ai.51cto.com/art/202107/669280.htm</a></p>
 </dd>
+<dt class="label" id="id8"><span class="brackets"><a class="fn-backref" href="#id5">3</a></span></dt>
+<dd><p><a class="reference external" href="http://crpe.ruc.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&amp;id=900">http://crpe.ruc.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&amp;id=900</a></p>
+</dd>
 </dl>
+</div>
 </div>
 
 
         </div>
         <div class="side-doc-outline">
             <div class="side-doc-outline--content"> 
+<div class="localtoc">
+    <p class="caption">
+      <span class="caption-text">Table Of Contents</span>
+    </p>
+    <ul>
+<li><a class="reference internal" href="#">13.7. 智能风控</a><ul>
+<li><a class="reference internal" href="#id4">13.7.1. 重要性</a></li>
+</ul>
+</li>
+</ul>
+
+</div>
             </div>
         </div>
 

@@ -1,3 +1,16 @@
+
+
+<!--
+ * @version:
+ * @Author:  StevenJokess（蔡舒起） https://github.com/StevenJokess
+ * @Date: 2021-02-06 20:02:34
+ * @LastEditors:  StevenJokess（蔡舒起） https://github.com/StevenJokess
+ * @LastEditTime: 2023-03-28 17:03:17
+ * @Description:
+ * @Help me: 如有帮助，请赞助，失业3年了。![支付宝收款码](https://github.com/StevenJokess/d2rl/blob/master/img/%E6%94%B6.jpg)
+ * @TODO::
+ * @Reference:
+-->
 # 2bPM
 
 学习如何成为AI产品经理并体系化总结生成知识库：知识库(Knowledge Base)是指一个易操作、易利用、全面有组织的知识集群，针对某些领域问题求解的需要，采用某种知识表示方式在计算机中存储、组织、管理和使用的互相联系的知识片集合。这些知识可以包括与该领域相关的理论知识、事实数据以及常识性知识，或者是专家经验得到的启发式知识。简而言之，知识库就是储存某一领域的知识，可以理解为知识管理。[3]
@@ -9,7 +22,9 @@ https://stevenjokess.github.io/2bPM/
 利用项目：https://github.com/aieye-top/d2l-book2
 
 ```bash
-docker run --rm --name 2bPM -e HTTP_PROXY=127.0.0.1:1080 -ditv /d/onedrive/Documents/read/2bPM:/d2lbook2/2bPM registry.cn-shanghai.aliyuncs.com/csq-dl/d2l-book2:communism_c  /bin/bash;docker exec -it 2bPM /bin/bash
+docker run --rm --name 2bPM -e HTTP_PROXY=127.0.0.1:1080 -ditv /d/onedrive/Documents/read/2bPM:/d2lbook2/2bPM registry.cn-shanghai.aliyuncs.com/csq-dl/d2l-book2:latest   /bin/bash
+
+docker exec -it 2bPM /bin/bash
 
 cd 2bPM
 
@@ -17,6 +32,7 @@ d2lbook2 build html
 
 d2lbook2 deploy html
 ```
+
 
 ## 声明
 
