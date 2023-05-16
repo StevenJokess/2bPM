@@ -148,6 +148,7 @@ Developer(test) 自雇 入职日期2020年8月 – 2020年9月 任职时长1 个
 -  金融服务营销(93);金融从业综合素质实训(92);毕业实习(88);
 
 .. figure:: ./img/rope.png
+<<<<<<< HEAD
 
    跳绳证书、六级
 
@@ -157,6 +158,18 @@ B站跳绳视频：https://www.bilibili.com/video/BV1Wf4y167Kp
 百度开发者版想法：
 ------------------
 
+=======
+
+   跳绳证书、六级
+
+证券、基金证书纸质版还没领。。
+
+B站跳绳视频：https://www.bilibili.com/video/BV1Wf4y167Kp
+
+百度开发者版想法：
+------------------
+
+>>>>>>> 8f45456c778f11a5eb93be67e0b75f0c24322678
 **一面百度AIstudio产品经理失败**\ 后的总结：https://github.com/StevenJokess/d2l-en-read/blob/moreme/chapter-generative-adversarial-networks/aistudio-job.md
 
 .. figure:: ./img/baidu_kaifa.png
@@ -206,9 +219,12 @@ https://www.overleaf.com/project/603dfbba8126ff225dc18564
    https://marxism.pku.edu.cn/xzlt/1296.htm
 
 .. |收款码| image:: /img/收.jpg
+<<<<<<< HEAD
 .. |证从1| image:: ./img/证券从业1.png
 .. |证从2| image:: ./img/证券从业2.png
 .. |基从| image:: ./img/基金从业.png
+=======
+>>>>>>> 8f45456c778f11a5eb93be67e0b75f0c24322678
 .. |百度股价| image:: ./img/baidu_gujia.jpg
 .. |百度最新股价| image:: ./img/baidu_gujia_newest.png
 .. |收款码| image:: img/收.jpg
