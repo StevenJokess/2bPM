@@ -1,10 +1,145 @@
-# 求职AI PM，百度用了我idea？
+# To be AI PM，百度用了我战略idea？
 
 AI产品经理是直接应用或间接涉及了AI技术，进而完成相关AI产品的设计、研发、推广、产品生命周期管理等工作的产品经理。由于AI的技术领域太多、且有更多和垂直行业结合的机会，导致细分AI领域的产品经理所需要的背景和能力可能大不相同。[1]
 
-**电子邮箱: llgg8679@qq.com**
+![简历](./img/resume_nophone2.jpg)
+
+## [点击下载整页简历PDF（带URL）](https://github.com/StevenJokess/2bPM/blob/master/蔡舒起-AI产品经理-GAN(MXNet-PyTorchTF2开发者)_nophone.pdf)
+
+## 项目目的
+
+本来这个项目是为了求职AI产品经理（避免[^5]，可在学习技术的过程中，我发觉AI时代的病症与AI大规模应用后可能的悲惨后果，既然失业良久了，也就不必执着求职了，好好批判下。后续的主要研究方向为AI的产品化与产品化的可能社会影响。
+
+- Linkedin（Writing can't make money, but can make friends.）https://www.linkedin.com/in/%E8%88%92%E8%B5%B7-%E8%94%A1-b609001b7/
+- Linkedin(had 800 friends in AI field , but now has been permanently restricted）见“平台随意封号”章节：https://stevenjokess.github.io/2bPM/AI_pipan.html#id27
+- Email me: llgg8679@qq.com
+- Telegram me: https://t.me/StevenJokes
+
+- 常见问题：https://stevenjokess.github.io/2bPM/chapter_interview/question.html
+- 模拟面试：https://stevenjokess.github.io/2bPM/chapter_interview/simulate_interview.html
+- Be a Watcher：https://github.com/StevenJokess/2bPM/watchers
+
 
 ----
+
+评论区：
+
+求职，失业在家鬼混3年
+- 金融方面：2020届的山西大学金融学专业的毕业生，获得三好学生学业奖学金，拥有会计、证券、基金从业证书，毕业论文是用Python的Statsmodel库里的VAR模型完成的《中美股市的联动性分析》
+- AI方面：大一参加数学建模了解了神经网络算法，后在网络金融课分享了鱼书的ppt，得知金融方面的非结构信息常用深度学习算法，之后阅读过二十几本人工智能相关书籍，在20年用4个月自学完了《动手学深度学习》预览版并动手翻译MXNet到PyTorch、TF2的GAN\DCGAN，复现PyTorch、DJL等一系列深度学习移动端框架的Demo。
+- 产品经理方面：虽然没有工作经历，但还是努力修炼了一系列的能力。战略能力上，在百度一面失败后，考虑到了百度开发者版的想法。沟通能力上，与MXNet的开发者交流无人社区冷淡情况。学习上，学习十余本产品有关的书，并自行总结了AI产品经理的工作内容和技能要求，用Docker部署成《To be AI PM》书。
+- 体能方面：跳绳比赛成绩:30s单摇:66;30s双摇:60;三摇:11个;·在4*30男子团体单摇比赛,作为非体院唯一绳没断的第四棒,团体一同跳250.取得市和省级铜牌。（B站跳绳视频：
+bilibili.com/video/BV1W）随后,作为非社团成员,文案宣传跳绳燃脂效率高、方便,招新翻四倍。还有初级教练、裁判证;曾会单手俯卧撑、深蹲10个+；
+
+更多AI产品经理内容，可见：https://stevenjokess.github.io/2bPM/get_started.html
+AI时代批判与共产主义意识形态输出，见 https://stevenjokess.github.io/2bPM/AI_critical.html
+更多及时内容，进QQ群：171097552
+联系我：llgg867907127@qq.com
+没工作，可以用付款的方式支持我继续创作：![收款码](/img/收.jpg)
+
+
+----
+
+
+## **简历**
+
+### 项目经历详情
+
+#### 通过互联网学习AI+产品经理
+
+Product Manager 自雇 入职日期2020年10月 – 2021年3月 任职时长4 个月
+
+所在地点 中国 浙江省
+
+- 通过互联网学习AI+产品经理，简历见https://stevenjokess.github.io/2bPM/get_started.html
+- 背景：传统的招聘方由于求职方是否了解AI产品经理的职位要求以及公司情况而要求简历、设立面试环节（原有解决方案），而由于简历篇幅有限只能展示部分、时间有限往往只能出几个问题，不能确保全面考察到了面试者的能力，而这时求职方往往只有为数不多的时间去应答，极度考验临场反应来对答案进行表述，相比之前的积攒的能力这种情况有很强的随机性。
+- 动机：为了公司（UCD）能尽快全面了解到我个人的能力(已经熟悉AI产品规划流程与设计工具(如Axure))，以最快捷最有效地招募到人才（哈哈哈，王婆卖瓜），而写出这本书（此时书即预备产品，我即产品经理）。
+- 目标用户主要是招聘方，等待您需求的验证！同时可以给一些想一同成为AI金融产品经理的同学（不过你是我的竞品哎）提供参考，以最快捷最有效地招募到人才（哈哈哈，王婆卖瓜），而写出这本书（此时书即预备产品，我即产品经理）。
+- 同时欢迎讨论与反馈：https://github.com/StevenJokess/2bPM/issues
+
+---
+
+#### 移动深度学习开发、测试
+
+Developer(test) 自雇 入职日期2020年8月 – 2020年9月 任职时长1 个月
+
+所在地点 中国 浙江省
+
+项目描述:
+
+- 背景：手机是最常用的硬件设备，所以了解mobile AI的开发是非常必要的。
+- 动机：了解Andriod开发。
+- 目标用户：我自己了解Andriod开发。
+- 项目：尝试测试了各个开源项目：
+
+- 观看pytorch官方文档和视频,了解了基本的andriod开发体系;
+- 动手完成了针对动物的图片识别项目:https://github.com/StevenJokess/pytorch-andriod-greatdemo;
+- 并通过https://stevenjokess.github.io/post/pytorch-android/来分享经历
+- 项目职责: 同时了解了arm体系和测试了其他框架:
+- https://github.com/StevenJokess/Pytorch-Kotlin-Demo
+- https://github.com/StevenJokess/djl-android-demo
+- https://github.com/StevenJokess/paddlelite-andriod-demo
+
+#### 动手学深度学习GAN开发者
+
+开始时间: 2020-09-01
+
+结束时间: 2020-11-01
+
+项目描述:
+
+- 背景：PyTorch/TF2/MXNet为最常用的三大开源深度学习框架，而实际工作中，开发者往往会遇到版本问题（非最新），由于生产环境、研究目的等原因需要转化各个框架的训练等常见问题。
+- 动机：解决常见的版本问题、框架训练转化问题，减少各个框架间的迁移时间成本，同时加速认识AI同行。
+- 目标用户：PyTorch/TF2/MXNet开发者
+- 实际项目：
+- GAN(MXNet->PyTorch&TF2): http://preview.d2l.ai/d2l-en/PR-1716/chapter_generative-adversarial-networks/gan.html
+- DCGAN(MXNet->PyTorch）:http://d2l.ai/chapter_generative-adversarial-networks/dcgan.html
+- 结果：共300+浏览，领英加了400左右的AI深度学习同行。(已经被封，见https://stevenjokess.github.io/2bPM/AI_pipan.html#id27)
+
+---
+
+- 背景：MXNet死气沉沉，只有问题没有回答。
+- 动机：解决MXNet社区死气沉沉。
+- 目标用户：MXNet开发者
+- 开设d2l-en-read记录自己所有的学习过程.见https://github.com/StevenJokess/d2l-en-read/tree/moreme
+- 积极参与discuss.d2l.ai,记录自己遇到的坑,被李沐(MXNet开发者)评为最活跃的参与者.
+- 和mxnet的开发者表达对社区的死气沉沉的不满,并提出活跃社区建议,后被采纳开设discussion区.（https://github.com/apache/incubator-mxnet/issues/18931）
+
+---
+
+#### 完成学位论文
+
+开始时间: 2020-02-01
+
+结束时间: 2020-05-01
+
+项目描述: 独立研究者 repo: https://github.com/StevenJokess/gra_paper
+
+- 运用知网、Google学术、SciHub等学术搜索引擎,完成文献综述和翻译.
+- 由于导师没接触过Python,我独立阅读Python文档、十余本相关书籍.
+- 项目职责: 运用Pandas库的DataReader()、datetime()导入股市数据.
+- to_excel()导出,后Excel处理缺失数据与整合文件;read_excel()读取,plt、seaborn库生成时间序列图.
+- Statsmodel库的极大似然估计下fit()出VAR模型,as_csv()来保存结果.
+- Word完成编写、排版,共13656字的《中美贸易摩擦前后中美股市的联动性分析》
+
+### 相关课程:
+
+- 数学分析(95);高等代数(89);概率论与数理统计(85);大学英语(90)
+- 计算机基础--PS(90);计算机高级语言--C语言(100);网络金融(80);
+- 微观经济学(85);宏观经济学(90);计量经济学(82);投资学(82补考);金融计量学(85);
+- 会计循环实验(91);计量经济学实验(90);证券投资模拟交易(89);EXCEL计算实验(86);商业银行综合业务
+- 实验(87);投资组合管理(81);财务报表分析(80);
+- 金融服务营销(93);金融从业综合素质实训(92);毕业实习(88);
+
+
+![跳绳证书、六级](./img/rope.png)
+
+
+证券、基金证书纸质版还没领：![证从1](./img/证券从业1.png)![证从2](./img/证券从业2.png)![基从](./img/基金从业.png)。
+
+B站跳绳视频：https://www.bilibili.com/video/BV1Wf4y167Kp
+
+## 百度开发者版想法：
 
 **一面百度AIstudio产品经理失败**后的总结：https://github.com/StevenJokess/d2l-en-read/blob/moreme/chapter-generative-adversarial-networks/aistudio-job.md
 
@@ -21,244 +156,30 @@ AI产品经理是直接应用或间接涉及了AI技术，进而完成相关AI�
 百度股价预测：
 
 ![百度股价](./img/baidu_gujia.jpg)
+:depth:300px
 
 百度最新股价：
 
 ![百度最新股价](./img/baidu_gujia_newest.png)
+:depth:200px
 
-----
 
-## **简历**
+https://www.overleaf.com/project/603dfbba8126ff225dc18564
 
-## 个人基本信息
 
-接受调剂: 不接受
+<embed width=100% height=100% fullscreen=yes
+src="/蔡舒起-AI产品经理-动手学深度学习GAN开发者_nophone.pdf" />
 
-姓名: 蔡舒起
+## 收款码
 
-性别: 男
+首先第一步，反抗同人的真正活动和本质属性相背离相割裂的“资本”[^4]，为了我继续符合我本质的活动，将放上收款码，如果对你有帮助或仅仅为了帮助我，请支持一二，在家失业两年，虽然包吃住，但是全职被骂，也不好受，而且再没资本主义下的“收入”，马上就要被赶出来了！"人们首先必须吃、喝、住、穿，然后才能从事政治、科学、艺术、宗教等等；[^794]"（：共产主义快点实现！
 
-出生日期: 1998-08-11
+- 当当代的恩格斯，送点你的闲钱：）赞助我
+![收款码](img/收.jpg)
+- 也可以邮箱发送你可能的联系方式，交友：llgg8679@qq.com
 
-国籍/地区: 中国
-
-民族: 汉族
-
-婚姻状况: 未婚
-
-工作年限: 无经验
-
-政治面貌: 共青团员
-
-证件类型: 身份证
-
-证件号码: ？
-
-现居住地: 浙江省-台州市
-
-籍贯: 浙江省-台州市
-
-学历: 本科
-
-毕业时间: 2020-07-01
-
-学位: 学士
-
-毕业院校: 山西大学
-
-专业: 经济学类-金融学
-
-移动电话: 1840xxxxxxx
-
-电子邮箱: llgg8679@qq.com
-
-### 求职意向
-
-期望工作性质: 全职
-
-期望行业: 互联网/电子商务/AI金融/AI健身
-
-目前薪酬: 面议
-
-期望薪酬: 面议
-
-期望年薪: 面议
-
-到岗时间: 随时
-
-### 教育经历
-
-学校: 山西大学
-
-开始时间: 2016-09-01
-
-结束时间: 2020-07-01
-
-学历: 本科
-
-学位: 学士
-
-专业: 经济学类-金融学
-
-专业描述: 经济与管理学院 太原
-
-荣誉/奖项:学业奖学金(2017);三好学生(2017)
-
-相关课程:
-
-- 数学分析(95);高等代数(89);概率论与数理统计(85);大学英语(90)
-- 计算机基础--PS(90);计算机高级语言--C语言(100);网络金融(80);
-- 微观经济学(85);宏观经济学(90);计量经济学(82);投资学(82补考);金融计量学(85);
-- 会计循环实验(91);计量经济学实验(90);证券投资模拟交易(89);EXCEL计算实验(86);商业银行综合业务
-- 实验(87);投资组合管理(81);财务报表分析(80);
-- 金融服务营销(93);金融从业综合素质实训(92);毕业实习(88);
-
-### 工作经历
-
-企业名称: 个人求职中
-
-开始时间: 2020-12-01
-
-结束时间: 2021-02-01
-
-职位名称: 学习并撰写AI产品经理相关内容
-
-所在部门: 个人求职中
-
-离职原因: 对AI更热爱。感觉AI能服务更多人。
-
-工作描述:
-- 运用docker的 https://github.com/aieye-top/d2l-book2 包，来：
-- 撰写普惠深度学习（WIP)：https://github.com/aieye-top/d2cl
-- 撰写人工智能产品经理相关书（WIP)：https://stevenjokess.github.io/2bPM/
-
----
-
-### 项目经验
-
-项目名称: 移动深度学习开发、测试
-开始时间: 2020-08-01
-结束时间: 2020-09-01
-项目描述:
-
-- 观看pytorch官方文档和视频,了解了基本的andriod开发体系;
-- 动手完成了针对动物的图片识别项目:https://github.com/StevenJokess/pytorch-andriod-greatdemo;
-- 并通过https://stevenjokess.github.io/post/pytorch-android/来分享经历
-- 项目职责: 同时了解了arm体系和测试了其他框架:
-- https://github.com/StevenJokess/Pytorch-Kotlin-Demo
-- https://github.com/StevenJokess/djl-android-demo
-- https://github.com/StevenJokess/paddlelite-andriod-demo
-
----
-
-项目名称: 动手学深度学习GAN开发者
-
-开始时间: 2020-06-01
-
-结束时间: 2020-11-01
-
-项目描述:
-
-- 开设d2l-en-read记录自己所有的学习过程.见https://github.com/StevenJokess/d2l-en-read
-- 积极参与discuss.d2l.ai,记录自己遇到的坑,被李沐(MXNet开发者)评为最活跃的参与者.
-- 和mxnet的开发者表达对社区的死气沉沉的不满,并提出活跃社区建议,后被采纳开设discussion区.
-- 并学习更多AI内容记录在https://github.com/StevenJokess/d2l-en-read/tree/moreme
-- 项目职责: 运用谷歌、stack overflow等编程搜索引擎,并积极参与GitHub讨论,完成GAN、DCGAN从MXNet到PyTorch的翻译
-- PR.项目可参见(点开pytorch标签的最后的“continue discussion”可见)
-- GAN:http://preview.d2l.ai/d2l-en/master/chapter_generative-adversarial-networks/gan.html
-- DCGAN:http://preview.d2l.ai/d2l-en/master/chapter_generative-adversarial-networks/dcgan.html
-
----
-
-项目名称: 完成学位论文
-
-开始时间: 2020-02-01
-
-结束时间: 2020-05-01
-
-项目描述: 独立研究者 repo: https://github.com/StevenJokess/gra_paper
-
-- 运用知网、Google学术、SciHub等学术搜索引擎,完成文献综述和翻译.
-- 由于导师没接触过Python,我独立阅读Python文档、十余本相关书籍.
-- 项目职责: 运用Pandas库的DataReader()、datetime()导入股市数据.
-- to_excel()导出,后Excel处理缺失数据与整合文件;read_excel()读取,plt、seaborn库生成时间序列图.
-- Statsmodel库的极大似然估计下fit()出VAR模型,as_csv()来保存结果.
-- Word完成编写、排版,共13656字的《中美贸易摩擦前后中美股市的联动性分析》
-
-项目名称: 参加山西省跳绳竞标赛
-
-开始时间: 2018-07-01
-
-结束时间: 2018-08-01
-
-项目描述:
-
-- 30s单摇：66;30s双摇：60;三摇：11个
-- 毕业前还可单手俯卧撑、单腿深蹲（现在学AI学肥了。。）
-
-项目职责:
-
-- 偶然在操场练习双摇被相中参加比赛。
-- 作为非体院唯一绳没有的第四棒,在4*30男子团体单摇比赛共250个,取得市和省级铜牌
-- 更多见https://user.qzone.qq.com/867907127的相册“比赛视频”的倒数第二三个视频的第四棒。
-- 社团成员文案抓住大家减肥痛点、展示速摇,招新成功翻4倍。
-
-### 培训经历
-
-开始时间: 2018-05-01
-结束时间: 2018-06-01
-培训机构: 山西跳绳运动协会
-培训地点: 山西
-培训课程: 跳绳初级裁判、初级教练
-获得证书: 跳绳初级裁判证、初级教练证
-
-### 语言能力
-
-- 语种: 英语
-- 听说能力: 良好
-- 读写能力: 精通
-- 语言等级: 英语-英语六级
-
-### 计算机技能
-
-- 技能类别: Anaconda 掌握程度: 良好
-- 技能类别: VScode 掌握程度: 良好
-- 技能类别: Python 掌握程度: 良好
-- 技能类别: markdown 掌握程度: 良好
-- 技能类别: pytorch 掌握程度: 良好
-- 技能类别: mxnet 掌握程度: 良好
-- 技能类别: Linux 掌握程度: 良好
-- 技能类别: Android开发 掌握程度: 普通
-
-### 专业技能
-
-技能名称: 跳绳 掌握程度: 精通
-
-### 证书
-
-- 证书名称: 会计从业资格证 说明: 大一上获得
-- 证书名称: 跳绳初级教练证 说明: 大二下获得
-- 证书名称: 跳绳初级裁判证 说明: 大二上获得
-- 证书名称: 证券从业资格证 说明: 大一下获得
-- 证书名称: 基金从业资格证 说明: 大三下获得
-- 证书名称: 普通话二甲证书 说明: 大四上获得
-
-### 自我评价：
-
-- 大四应届生,具备AI、计算机、金融的基础知识.
-- 有广博的视野:(读书狂和藏书癖:阅读过上千本书,之前常用Moonreader,并现在微信读书完成2020年111书9.18完 结!,现省下48084.53元 见https://weread.qq.com/misc/booklist/358906697_7e9fYZVah);
-- 关注Springer、 packt、O'Reilly、manning、机工社、电工社、人邮社、清华社、图灵异步社区强烈推荐数学之美(第三版)
-- 与时俱进的敏锐度(有效性市场、指数增长模型导致的): 良好的体力(兴奋起来熬一夜)和爆发力(30s跳绳速摇).
-- 熟练使用知网、Google学术、SciHub、Stackoverflow、Google等搜索引擎.
-- 会使用VScode、Python、Anaconda、pypi,并能通过自定义快速查询相应的库文档.
-- 深度学习践行者:
-
-1. 完成李沐等人写的《动手学深度学习》的GAN和DCGAN从mxnet到pytorch的翻译,且被收录到官方.
-2. 运行、测试了移动深度学习的数个框架.
-3. 撰写普惠深度学习（WIP)、人工智能产品经理相关书（WIP)
-
-![跳绳证书、六级](./img/rope.png)
-
-![未太更新的简历](./img/resume.jpg)
-
-[1]: https://www.boxuegu.com/news/4368.html
+[^1]: https://www.boxuegu.com/news/4368.html
+[^2]: https://www.zhihu.com/question/329629768/answer/1359332748
+[^3]: https://www.zhihu.com/question/52814006/answer/140311440
+[^4]: https://marxism.pku.edu.cn/xzlt/1296.htm
+[^5]: https://www.zhihu.com/pub/reader/120204365/chapter/1396810398809669632

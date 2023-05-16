@@ -1,8 +1,8 @@
 
 .. _chap_project:
 
-project
-=======
+项目实践
+========
 
 
 .. toctree::
@@ -10,14 +10,17 @@ project
 
    AI_industry_analysis
    AI_company
+   AI_talents
    AI_Finance
    AI_fit
+   AI_hardware
    process
    Data Process
+   Model Process
    inspect
    product_document
    Roadmap
    Scrum
    separate_need
    valuable
-   widespread
+   product_experience

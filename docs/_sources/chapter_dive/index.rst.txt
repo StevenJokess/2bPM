@@ -1,8 +1,8 @@
 
 .. _chap_dive:
 
-Dive
-====
+深入学习
+========
 
 
 ​
@@ -13,5 +13,15 @@ Dive
    zongshen
    expert
    qi_yuan
-   alipay
-   dm-ai
+   code
+   feature_engineering
+   ML
+   MLOps
+   DL
+   Federated Learning
+   mobile
+   real
+   huidu
+   AI_test
+   AI_deploy
+   develop

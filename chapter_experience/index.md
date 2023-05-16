@@ -1,11 +1,10 @@
-# experience
+# 前人经验
 :label:`chap_exper`
 
 ```toc
 :maxdepth: 2
 
-career_path
-1Day
+early_phase
 issue
 hema
 Jamin
@@ -18,4 +17,5 @@ dingding
 jubensha
 fail
 recessive_work
+
 ```

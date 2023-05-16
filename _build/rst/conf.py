@@ -3,9 +3,9 @@ import sys
 sys.path.insert(0, '..')
 sys.path.insert(0, '.')
 
-project = "To be AI PM"
+project = "自学成AI产品经理"
 copyright = ""
-author = "The contributors"
+author = "蔡舒起"
 release = "0.0.2"
 
 extensions = ["recommonmark","sphinxcontrib.bibtex","sphinxcontrib.rsvgconverter","sphinx.ext.autodoc","sphinx.ext.viewcode"]
@@ -25,10 +25,10 @@ linkcheck_workers = 20
 
 html_theme = 'mxtheme'
 html_theme_options = {
-    'primary_color': 'blue',
-    'accent_color': 'deep_orange',
+    'primary_color': 'red', # blue
+    'accent_color': 'yellow', # deep_orange
     'header_links': [
-        ('Github', 'https://github.com/StevenJokess/2bPM', True, 'fab fa-github'),
+        ('Me', 'https://github.com/StevenJokess/', True, 'fab fa-github'),('Discussions', 'https://github.com/StevenJokess/2bPM/discussions', True, 'fab fa-github'),('Repo', 'https://github.com/StevenJokess/2bPM', True, 'fab fa-github'),
     ],
     'show_footer': False
 }
@@ -39,7 +39,7 @@ html_favicon = ''
 html_logo = ''
 
 latex_documents = [
-    (master_doc, "2bPM.tex", "To be AI PM",
+    (master_doc, "2bPM.tex", "自学成AI产品经理",
      author, 'manual'),
 ]
 
@@ -100,8 +100,9 @@ latex_elements = {
 
 
 def setup(app):
-    # app.add_javascript('https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.0/clipboard.min.js')
-    app.add_javascript('d2l.js')
-    app.add_stylesheet('d2l.css')
+    # https://github.com/d2l-ai/d2l-book/pull/32/files
+    # app.add_js_file('https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.0/clipboard.min.js')
+    app.add_js_file('d2l.js')
+    app.add_css_file('d2l.css')
     import mxtheme
     app.add_directive('card', mxtheme.CardDirective)

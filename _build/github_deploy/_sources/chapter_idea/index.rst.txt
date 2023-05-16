@@ -1,15 +1,18 @@
 
 .. _chap_idea:
 
-Idea
-====
+思维/软实力
+===========
 
 
 .. toctree::
    :maxdepth: 2
 
    idea
+   empathy
+   create
    data
+   communicate
    negotiation
    brand
    decompose
@@ -19,5 +22,7 @@ Idea
    attention
    goal
    understand_tech
-   yunyingxiao
    design
+   GTM
+   time
+   risk

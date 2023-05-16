@@ -1,8 +1,8 @@
 
 .. _chap_intro:
 
-Introduction
-============
+入门
+====
 
 
 .. toctree::
@@ -12,9 +12,13 @@ Introduction
    Product
    2B
    2C
+   platform
    money
    PM
    AI
+   AI_Product
+   opportunity
    AI_PM
    ability
-   opportunity
+   1Day
+   career_path

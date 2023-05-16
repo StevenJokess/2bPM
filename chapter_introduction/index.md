@@ -1,4 +1,4 @@
-# Introduction
+# 入门
 :label:`chap_intro`
 
 ```toc
@@ -8,10 +8,14 @@ need
 Product
 2B
 2C
+platform
 money
 PM
 AI
+AI_Product
+opportunity
 AI_PM
 ability
-opportunity
+1Day
+career_path
 ```

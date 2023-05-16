@@ -65,7 +65,20 @@
 
 验证产品原型
 
+## 题目 [5]
+
+Axure文件的后缀名RP（Rapid Prototyping）指快速原型
+
+- Action sheet：动作菜单/动作面板/行动列表
+- Picker：选择器/拾取器
+- Toast：吐司提示 产品设计中常把出现在屏幕中、用以引起注意，短暂出现后消失的提醒控件叫做
+- Status bar：全局修改状态栏
+- More: [6]
+
+
 [1]: https://www.zhihu.com/question/55997614/answer/615628989
 [2]: https://www.bilibili.com/video/BV1254y1D7Ht?from=search&seid=14167562900175777805
 [3]: https://zhuanlan.zhihu.com/p/33997501
 [4]: https://www.jianshu.com/p/cb6ae5a3f3fa
+[5]: https://blog.nowcoder.net/n/9bd8651faead4a73ae344be0b74128de
+[6]: https://www.jianshu.com/nb/9076183
